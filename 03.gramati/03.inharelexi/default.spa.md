@@ -310,7 +310,7 @@ Los _verbos ambitransitivos de estado_ son similares a los _verbos de sentimient
 
 * **termo** - _tr:_ calentar; _intr:_ estar caliente, estar cálido  
 
-**Kam yu le termo banyo-kamer?**  
+**Kam yu le termo banyokamer?**  
 ¿Calentaste el baño?
 
 **Misu kafe no haji termo.** = **Misu kafe no haji sen termopul.**  
@@ -339,7 +339,7 @@ Ayer hizo calor.
 
 Comparar con:
 
-**To le termocu** (or **xortermo**) **fe midi-nuru.** = **To le sencu** (or **xorsen**) **termopul fe midi-nuru.**  
+**To le termocu** (or **xortermo**) **fe midinuru.** = **To le sencu** (or **xorsen**) **termopul fe midinuru.**  
 Se puso cálido al mediodía.
 
 **_Verbos no agentivos_**

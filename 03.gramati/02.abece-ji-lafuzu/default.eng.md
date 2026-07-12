@@ -206,7 +206,6 @@ Although not ideal, and unlikely to be utilized by English speakers in most case
 Although not ideal, and unlikely to be utilized by English speakers in most cases, any unrounded central vowel such as [ə] may be optionally inserted between any two consonants or in word-final position. As a central vowel, the cardinal [ä] is also allowed as an unwritten epenthesis, although this is the least recommended option since it's more likely to reduce intelligibility.
 
 **magneto** (magnet), pronounced [[mag'neto]](magneto.mp3) or [[magə'neto]](mag_neto.mp3)  
-
 **asif** (sorry), pronounced [[a'sif]](asif.mp3) or [[a'sifə]](asif_.mp3)
 
 ## Double Vowels and Consonants 
@@ -215,14 +214,12 @@ Double vowels and consonants, whether within words as a result of derivation or 
 
 ### Double Vowels
  
-**beeskri** (be written), pronounced [[be'eskri]](beeskri.mp3) or [[beʔeskri]](be_eskri.mp3)
-
+**beeskri** (be written), pronounced [[be'eskri]](beeskri.mp3) or [[beʔeskri]](be_eskri.mp3)  
 **semiisula** (peninsula), pronounced [[semi:'sula]](semiisula.mp3) or [[semiʔi'sula]](semi_isula.mp3)
 
 ### Double Consonants
 
-**possahay** (hinder), pronounced [[pos:a'xaj]](possahay.mp3) or [[posəsa'xaj]](pos_sahay.mp3)
-
+**possahay** (hinder), pronounced [[pos:a'xaj]](possahay.mp3) or [[posəsa'xaj]](pos_sahay.mp3)  
 **aselli** (original), pronounced [[a'sel:i]](aselli.mp3) or [[a'seləli]](asel_li.mp3)
 
 ### Double r

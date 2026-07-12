@@ -201,8 +201,7 @@ Aunque no es ideal, y es poco probable que los hispanoparlantes lo utilicen en l
 
 Aunque no es ideal, y es poco probable que los hispanoparlantes la utilicen en la mayoría de los casos, cualquier vocal central no redondeada, como por ejemplo [ə], puede insertarse opcionalmente entre cualquier dos consonantes o en la posición final de palabra. Como vocal central, la [ä] cardinal también se permite como epéntesis no escrita, aunque ésta es la opción menos recomendada ya que es más probable que ésta reduzca la inteligibilidad.
 
-**magneto** (imán) se pronuncia [[mag'neto]](magneto.mp3) o [[magə'neto]](mag_neto.mp3)
-
+**magneto** (imán) se pronuncia [[mag'neto]](magneto.mp3) o [[magə'neto]](mag_neto.mp3)  
 **asif** (lo siento) se pronuncia [[a'sif]](asif.mp3) o [[a'sifə]](asif_.mp3)
 
 ## Vocales y consonantes dobles
@@ -211,14 +210,12 @@ Las vocales y consonantes dobles, ya sea dentro de las palabras, como resultado 
 
 ### Vocales dobles
  
-**beeskri** (ser escrito) se pronuncia [[be'eskri]](beeskri.mp3) o [[beʔeskri]](be_eskri.mp3)
-
+**beeskri** (ser escrito) se pronuncia [[be'eskri]](beeskri.mp3) o [[beʔeskri]](be_eskri.mp3)  
 **semiisula** (península) se pronuncia [[semi:'sula]](semiisula.mp3) o [[semiʔi'sula]](semi_isula.mp3)
 
 ### Consonantes dobles
 
-**possahay** (obstaculizar) se pronuncia [[pos:a'xaj]](possahay.mp3) o [[posəsa'xaj]](pos_sahay.mp3)
-
+**possahay** (obstaculizar) se pronuncia [[pos:a'xaj]](possahay.mp3) o [[posəsa'xaj]](pos_sahay.mp3)  
 **aselli** (original), se pronuncia [[a'sel:i]](aselli.mp3) o [[a'seləli]](asel_li.mp3)
 
 ### Doble _r_

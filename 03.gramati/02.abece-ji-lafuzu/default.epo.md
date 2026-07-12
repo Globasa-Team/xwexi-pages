@@ -1,5 +1,5 @@
 ---
-title: 'Alfabeto kaj Prononco'
+title: 'Alfabeto kaj prononco'
 published: true
 visible: true
 media_order: 'c.mp3,d.mp3,g.mp3,h.mp3,j.mp3,l.mp3,m.mp3,n.mp3,p.mp3,r.mp3,rr.mp3,s.mp3,t.mp3,uvular.mp3,w.mp3,x.mp3,b.mp3,y.mp3,z.mp3,f.mp3,k.mp3,ng.mp3,v.mp3,Voiced_palato-alveolar_sibilant.ogg,Voiceless_alveolo-palatal_sibilant.ogg,Voiceless_retroflex_sibilant.ogg,doste.mp3,Espanisa.mp3,harita.mp3,kitabudom.mp3,pantalun.mp3,barix.mp3,Voiced_uvular_fricative.ogg,asif.mp3,asif_.mp3,mag_neto.mp3,magneto.mp3,po_ema.mp3,poema.mp3,asel_li.mp3,aselli.mp3,be_eskri.mp3,beeskri.mp3,bur_roya.mp3,burroya.mp3,pos_sahay.mp3,possahay.mp3,semi_isula.mp3,semiisula.mp3,ci.an.mp3,cyan.mp3,daif.mp3,e.u.ro.pa.mp3,ewropa.mp3,ji.en.mp3,jyen.mp3,ma.ri.o.mp3,maria.mp3,maryo.mp3,maux.mp3,pi.a.no.mp3,pyano.mp3,su.i.ni.mp3,swini.mp3,a.ogg,e.ogg,i.ogg,o.ogg,u.ogg,compressed_u.mp3,ch.wav,q.wav,Voiceless_bilabial_fricative.ogg,Voiceless_glottal_fricative.ogg,Voiced_alveolo-palatal_affricate.ogg,Voiced_palatal_affricate.ogg,Voiceless_pharyngeal_fricative.ogg,Voiceless_uvular_plosive.ogg,Velarized_alveolar_lateral_approximant.ogg,Postalveolar_approximant.ogg,Retroflex_Approximant2.mp3,Labiodental_approximant.ogg,Voiced_palatal_fricative.ogg,c_full_aspiration.mp3,k_full_aspiration.mp3,p_full_aspiration.mp3,t_full_aspiration.mp3,Alveolar_approximant.ogg,basa.mp3,bete.mp3,idi.mp3,mumu.mp3,oko.mp3,baytu.mp3,cokolate.mp3,dexa.mp3,globa.mp3,juni.mp3,kitabu.mp3,lala.mp3,multi.mp3,neo.mp3,pingo.mp3,risi.mp3,sui.mp3,teatro.mp3,visita.mp3,watu.mp3,xugwan.mp3,yuxi.mp3,zebra.mp3,fasul.mp3,hawa.mp3,c_aspirated.mp3,p_aspirated.mp3,t_aspirated.mp3,k_aspirated.mp3,c_unaspirated.mp3,k_unaspirated.mp3,p_unaspirated.mp3,t_unaspirated.mp3,piu.mp3,Alveolar_trill.ogg,burroya_single_r.mp3,kruel.mp3,triunfa.mp3,trawma.mp3,tra.u.ma.mp3'
@@ -20,6 +20,7 @@ media_order: 'c.mp3,d.mp3,g.mp3,h.mp3,j.mp3,l.mp3,m.mp3,n.mp3,p.mp3,r.mp3,rr.mp3
 |**i**|**I**| /i/ | iya |
 |**j**|**J**| /d͡ʒ/ | ije |
 |**k**|**K**| /kʰ/ | ike |
+
 |**l**|**L**| /l/ | ile |
 |**m**|**M**| /m/ | ime |
 |**n**|**N**| /n/ | ine |
@@ -86,11 +87,11 @@ La _velara_ frikativo estas prononcata en la sama punkto de artikulacio kiel [k]
 
 **w** kaj **y** - permeseblaj variantoj: kiel neakcentitaj vokaloj (**u** kaj **i**)
 
-Vidu [Literuma Konvencio](/gramati/abece-ji-lafuzu#regula_fe_harufiya) sube.
+Vidu [Literuman Konvencion](/gramati/abece-ji-lafuzu#regula_fe_harufiya) sube.
 
 ### Aliaj Konsonantaj Variantoj
 
-Depende de sia gepatra lingvo estas permeseblaj ankaŭ aliaj konsonantaj variantoj. Ekzemple, kelkaj hispanlingvanoj eble emas prononci _h_ kiel [[χ]](uvular .mp3) anstataŭ [[x]](h.mp3). Franclingvanoj eble emas prononci _r_ kiel [[ʁ]](Voiced_uvular_fricative .ogg) anstataŭ [[ɾ]](r.mp3). Mandarenparolantoj eble emas prononci _x_ kiel [[ʂ]](Voiceless_alveolo-palatal_sibilant.ogg) aŭ [[ɕ]](Voiceless_retroflex_sibilant.ogg) anstataŭ [[ʃ]](x.mp3). Ĉi tiuj kaj aliaj tiaj variantoj ankaŭ estas permeseblaj.
+Depende de sia gepatra lingvo estas permeseblaj ankaŭ aliaj konsonantaj variantoj. Ekzemple, kelkaj hispanlingvanoj eble emas prononci _h_ kiel [[χ]](uvular.mp3) anstataŭ [[x]](h.mp3). Franclingvanoj eble emas prononci _r_ kiel [[ʁ]](Voiced_uvular_fricative.ogg) anstataŭ [[ɾ]](r.mp3). Mandarenparolantoj eble emas prononci _x_ kiel [[ʂ]](Voiceless_alveolo-palatal_sibilant.ogg) aŭ [[ɕ]](Voiceless_retroflex_sibilant.ogg) anstataŭ [[ʃ]](x.mp3). Ĉi tiuj kaj aliaj tiaj variantoj ankaŭ estas permeseblaj.
 
 La sekva tabelo listigas ĉiujn libervariajn konsonantajn alofonojn. La unua alofono listigita por ĉiu fonemo estas la ideala Globasa prononco. Dekoj da aliaj alofonoj komplement-distribuaj (alofonoj kiuj dependas de la fonetika medio) verŝajne aŭdiĝos inter multaj parolantoj, sed ĉiuj devus klopodi por ne tro devii de la aro de alofonoj listigitaj ĉi tie.
 
@@ -131,11 +132,11 @@ La vokaloj de Globaso (**a**, **e**, **i**, **o**, **u**) estas prononcataj kiel
 
 ### Vokalaj Variantoj
 
-**a** - ideale prononcata [[ä]](https://en.wikipedia.org/wiki/Open_central_unrounded_vowel), malfermita centra neronda vokalo; la antaŭa [[a]](https://upload.wikimedia.org/wikipedia/commons/0/0e/PR- open_front_unrounded_vowel.ogg) kaj malantaŭa [[ɑ]](https://upload.wikimedia.org/ wikipedia/commons/e/e5/Open_back_unrounded_vowel.ogg) estas permeseblaj variantoj
+**a** - ideale prononcata [[ä]](https://en.wikipedia.org/wiki/Open_central_unrounded_vowel), malfermita centra neronda vokalo; la antaŭa [[a]](https://upload.wikimedia.org/wikipedia/commons/0/0e/PR-open_front_unrounded_vowel.ogg) kaj malantaŭa [[ɑ]](https://upload.wikimedia.org/wikipedia/commons/e/e5/Open_back_unrounded_vowel.ogg) estas permeseblaj variantoj
  
-**e** - ideale prononcata [[e̞]](https://en.wikipedia.org/wiki/Mid_front_unrounded_vowel), meza antaŭa neronda vokalo; la proksima-meza [[e]](https://upload.wikimedia.org/wikipedia/commons/6/6c/Close-mid_front_unrounded_vowel.ogg) kaj la malferma-meza [[ɛ]](https://upload .wikimedia.org/wikipedia/commons/7/71/Open-mid_front_unrounded_vowel.ogg) estas permeseblaj variantoj
+**e** - ideale prononcata [[e̞]](https://en.wikipedia.org/wiki/Mid_front_unrounded_vowel), meza antaŭa neronda vokalo; la proksima-meza [[e]](https://upload.wikimedia.org/wikipedia/commons/6/6c/Close-mid_front_unrounded_vowel.ogg) kaj la malferma-meza [[ɛ]](https://upload.wikimedia.org/wikipedia/commons/7/71/Open-mid_front_unrounded_vowel.ogg) estas permeseblaj variantoj
  
-**o** - ideale prononcata [[o̞]](https://en.wikipedia.org/wiki/Mid_back_rounded_vowel), meza malantaŭa ronda vokalo; la proksima-meza [[o]](https://upload.wikimedia.org/wikipedia/commons/8/84/Close-mid_back_rounded_vowel.ogg) kaj la malferma-meza [[ɔ]](https://upload .wikimedia.org/wikipedia/commons/d/d0/PR-open-mid_back_rounded_vowel.ogg) estas permeseblaj variantoj
+**o** - ideale prononcata [[o̞]](https://en.wikipedia.org/wiki/Mid_back_rounded_vowel), meza malantaŭa ronda vokalo; la proksima-meza [[o]](https://upload.wikimedia.org/wikipedia/commons/8/84/Close-mid_back_rounded_vowel.ogg) kaj la malferma-meza [[ɔ]](https://upload.wikimedia.org/wikipedia/commons/d/d0/PR-open-mid_back_rounded_vowel.ogg) estas permeseblaj variantoj
 
 **u** - ideale prononcata [[u]](https://en.wikipedia.org/wiki/Close_back_rounded_vowel), proksima malantaŭa rondeta vokalo; la proksima malantaŭa kunpremita [[ɯᵝ]](compressed_u.mp3) estas permesebla varianto
 
@@ -188,8 +189,7 @@ Kvankam ne ideala, neskribita glota halto povas esti laŭvole enigita inter du a
 
 Kvankam ne ideala, iu ajn nerondita centra vokalo kiel ekzemple [ə] povas esti laŭvole enigita inter du ajnaj konsonantoj aŭ en vortfina pozicio. Kiel centra vokalo, la kardinala [ä] ankaŭ estas permesita kiel neskribita epentezo, kvankam tio estas la malplej rekomendinda opcio ĉar ĝi pli verŝajne malpliigus kompreneblon.
 
-**magneto** (magnet), prononcata [[mag'neto]](magneto.mp3) aŭ [[magə'neto]](mag_neto.mp3)
-
+**magneto** (magnet), prononcata [[mag'neto]](magneto.mp3) aŭ [[magə'neto]](mag_neto.mp3)  
 **asif** (bedaŭro), prononcata [[a'sif]](asif.mp3) aŭ [[a'sifə]](asif_.mp3)
 
 ## Duoblaj Vokaloj kaj Konsonantoj
@@ -198,14 +198,12 @@ Duoblaj vokaloj kaj konsonantoj, ĉu ene de vortoj kiel rezulto de derivaĵo aŭ
 
 ### Duoblaj Vokaloj
  
-**beeskri** (esti skribita), prononcata [[be'eskri]](beeskri.mp3) aŭ [[beʔeskri]](be_eskri.mp3)
-
+**beeskri** (esti skribita), prononcata [[be'eskri]](beeskri.mp3) aŭ [[beʔeskri]](be_eskri.mp3)  
 **semiisula** (duoninsulo), prononcata [[semi:'sula]](semiisula.mp3) aŭ [[semiʔi'sula]](semi_isula.mp3)
 
 ### Duoblaj Konsonantoj
 
-**possahay** (malhelpi), prononcata [[pos:a'xaj]](possahay.mp3) aŭ [[posəsa'xaj]](pos_sahay.mp3)
-
+**possahay** (malhelpi), prononcata [[pos:a'xaj]](possahay.mp3) aŭ [[posəsa'xaj]](pos_sahay.mp3)  
 **aselli** (originala), prononcata [[a'sel:i]](aselli.mp3) aŭ [[a'seləli]](asel_li.mp3)
 
 ### Duobla r
@@ -241,12 +239,12 @@ La sekva literuma konvencio validas nur por radikaj vortoj kaj ne por derivitaj 
 
 En la sekvaj radikvortoj, _i_ kaj _u_ estas akcentitaj:
 
-**maux** (muso), prononcata _ma-<u>**u**</u>x_ [[ma.'uʃ]](maux.mp3)
+**maux** (muso), prononcata _ma-<u>**u**</u>x_ [[ma.'uʃ]](maux.mp3)  
 **daifu** (malforta), prononcata _da-<u>**i**</u>-fu_ [da.'i.fu]
 
 En la sekvaj radikvortoj, fonotaksaj reguloj nur permesas _i_ kaj _u_:
 
-**triunfa** (win, triumph), prononcata _tri-<u>**u**</u>n-fa_ [[tri.'un.fa]](triunfa.mp3)
+**triunfa** (win, triumph), prononcata _tri-<u>**u**</u>n-fa_ [[tri.'un.fa]](triunfa.mp3)  
 **kruel** (kruela), prononcata _kru-<u>**e**</u>l_ [[kru.'el]](kruel.mp3)
 
 En la sekvaj radikvortoj, _y_ kaj _w_, kiuj povas laŭvole esti prononcataj kiel vokaloj, estas konvencie uzitaj:
@@ -317,7 +315,7 @@ Vidu fonotaksajn regulojn por ordinaraj vortoj supre.
 
 ### Fino
 
-La fino por propraj nomoj povas finiĝi per iu ajn konsonanto: **Madrid** (Madrido), ktp. Ili ankaŭ povas konsisti el du konsonantoj, inkluzive en vortfina pozicio: **Polska** (Pollando), **Budapest** (Budapeŝto), ktp. Fino-komencaj duoblaj plozivoj estas permesitaj en propraj nomoj: **vodka** (vodko), **futbol** (futbalo, piedpilko), ktp. Tamen duoblaj plozivoj, kiuj diferencas nur en voĉado ne estas permesitaj kaj devas aŭ esti simplitigaj al unu konsonanto aŭ alpreni epentezan vokalon.
+La fino por propraj nomoj povas finiĝi per iu ajn konsonanto: **Madrid** (Madrido), ktp. Ili ankaŭ povas konsisti el du konsonantoj, inkluzive en vortfina pozicio: **Polska** (Pollando), **Budapest** (Budapeŝto), ktp. Fino-komencaj duoblaj plozivoj estas permesitaj en propraj nomoj: **vodka** (vodko), **futbal** (usona futbalo), ktp. Tamen duoblaj plozivoj, kiuj diferencas nur en voĉado ne estas permesitaj kaj devas aŭ esti simplitigaj al unu konsonanto aŭ alpreni epentezan vokalon.
 
 ### Averto kun w kaj y
 
@@ -327,6 +325,6 @@ Tamen, male al ordinaraj vortoj, propraj nomoj permesas la kerno-komencajn kombi
 
 ## Fonotakso por Kulturo-Specifaj Vortoj
 
-Fonotakso por kulturspecifaj vortoj sekvas la regulojn por ordinaraj vortoj en vortfina pozicio kaj la regulojn por propraj nomoj aliloke: **teriyaki** (teriyaki), **koktel** (koktelo), **bakugamon** (triktrako), **blakjaku** (blackjack), **jazu** (ĵazo), ktp.
+Fonotakso por kulturspecifaj vortoj sekvas la regulojn por ordinaraj vortoj en vortfina pozicio kaj la regulojn por propraj nomoj aliloke: **teriyaki** (teriyaki), **koktel** (koktelo), **bakgamon** (triktrako), **blakjaku** (blackjack), **jazu** (ĵazo), ktp.
 
 Notu: La konsonantgrupo ** -ng** en _vorto-fina_ pozicio, inkluzive kiel vidite en pinjino, aldonas epentezan vokalon, anstataŭ esti simpligita al ** -n** kiel en ordinaraj vortoj: **yinyangu** (yinyang).

@@ -1,5 +1,5 @@
 ---
-title: 'Numbers and Months of the Year'
+title: 'Numbers and Months'
 visible: true
 ---
 

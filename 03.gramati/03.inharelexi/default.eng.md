@@ -310,7 +310,7 @@ _Ambitransitive verbs of state_ are similar _verbs of feeling_. They are _nouns 
 
 * **termo** - _tr:_ heat (up), warm (up) ; _intr:_ be warm, be hot 
 
-**Kam yu le termo banyo-kamer?**  
+**Kam yu le termo banyokamer?**  
 Did you warm up the bathroom?
 
 **Misu kafe no haji termo. = Misu kafe no haji sen termopul.**  
@@ -339,7 +339,7 @@ Yesterday was warm.
 
 versus:
 
-**To le termocu** (or **xortermo**) **fe midi-nuru.** = **To le sencu** (or **xorsen**) **termopul fe midi-nuru.**  
+**To le termocu** (or **xortermo**) **fe midinuru.** = **To le sencu** (or **xorsen**) **termopul fe midinuru.**  
 It got/became warm at noon. 
 
 **_Non-agentive Verbs_**

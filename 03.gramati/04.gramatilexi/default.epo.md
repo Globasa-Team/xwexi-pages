@@ -1,333 +1,334 @@
 ---
-title: 'Function Words: Conjunctions, Prepositions and Function Adverbs'
+title: 'Funkciaj vortoj: konjunkcioj, preposicioj kaj funkciaj adverboj'
 visible: true
 ---
 
-## Conjunctions
+## Konjunkcioj
 
-* **[ji](https://menalari.globasa.net/eng/lexi/ji)** - and
- * **[iji](https://menalari.globasa.net/eng/lexi/iji)... ji...** - both... and...
-* **[or](https://menalari.globasa.net/eng/lexi/or)** - or
- * **[oro](https://menalari.globasa.net/eng/lexi/oro)... or...** - either... or...
-* **[nor](https://menalari.globasa.net/eng/lexi/nor)** - nor
- * **[noro](https://menalari.globasa.net/eng/lexi/noro)... nor...** - neither... nor...
-* **[kam](https://menalari.globasa.net/eng/lexi/kam)** - yes/no question particle
- * **[kama](https://menalari.globasa.net/eng/lexi/kama)... kam...** - whether... or (whether)...
-* **[mas](https://menalari.globasa.net/eng/lexi/mas)** - but
-* **[eger](https://menalari.globasa.net/eng/lexi/eger)** - if
-* **[kwas](https://menalari.globasa.net/eng/lexi/kwas)** - as if [**kwasi** - seeming(ly)]
-* **[ki](https://menalari.globasa.net/eng/lexi/ki)** - that (clause conjunction)
+* **[ji](https://menalari.globasa.net/eng/lexi/ji)** - kaj
+ * **[iji](https://menalari.globasa.net/eng/lexi/iji)... ji...** - kaj... kaj...
+* **[or](https://menalari.globasa.net/eng/lexi/or)** - aŭ
+ * **[oro](https://menalari.globasa.net/eng/lexi/oro)... or...** - aŭ... aŭ...
+* **[nor](https://menalari.globasa.net/eng/lexi/nor)** - nek
+ * **[noro](https://menalari.globasa.net/eng/lexi/noro)... nor...** - nek... nek...
+* **[kam](https://menalari.globasa.net/eng/lexi/kam)** - partikulo de jes/ne-demando
+ * **[kama](https://menalari.globasa.net/eng/lexi/kama)... kam...** - ĉu... aŭ (ĉu)...
+* **[mas](https://menalari.globasa.net/eng/lexi/mas)** - sed
+* **[eger](https://menalari.globasa.net/eng/lexi/eger)** - se
+* **[kwas](https://menalari.globasa.net/eng/lexi/kwas)** - kvazaŭ [**kwasi** - ŝajna, ŝajne]
+* **[ki](https://menalari.globasa.net/eng/lexi/ki)** - ke (propozicia konjunkcio)
 
 ## Fe <a id="plasilexi_fe"></a>
 
-**[Fe](https://menalari.globasa.net/eng/lexi/fe)** is a multi-purpose preposition with a general, indefinite meaning, often translated as _of_ (_relating to_). It may be used as a preposition of time (_at_, _in_, _on_), as a preposition of place (only in prepositional phrases, as seen below), in sentence initial phrases, as an alternative to **-li** adjectives, and in cases where no other preposition is suitable.
+**[Fe](https://menalari.globasa.net/eng/lexi/fe)** estas plurcela prepozicio kun ĝenerala, nedifinita signifo, ofte tradukata kiel _de_ (_rilata al_). Ĝi povas esti uzata kiel prepozicio de tempo (_je_, _en_, _sur_), kiel prepozicio de loko (nur en prepoziciaj frazpartoj, kiel videblas sube), en frazkomencaj frazpartoj, kiel alternativo al **-li**-adjektivoj, kaj en kazoj kie neniu alia prepozicio taŭgas.
 
-**Fe** is optional with most expressions of time, as shown in the following examples:
+**Fe** estas nedeviga ĉe la plej multaj esprimoj de tempo, kiel montrite en la jenaj ekzemploj:
 
-(**fe**) **ban mara** - on a certain occasion, once, once upon a time  
-(**fe**) **duli mara** or - (**fe**) **dumara** sometimes, on occasion, at times  
-(**fe**) **hin mara** - this time  
-(**fe**) **hin momento** - in this moment  
-(**fe**) **lunadin** - (on) Monday  
-(**fe**) **duli lunadin** or (**fe**) **dulunadin**  - (on) Mondays  
-(**fe**) **nundin** - today (_used as an adverb_)  
-(**fe**) **tiga din fe xaya** - three days later
+(**fe**) **ban mara** - iuokaze, foje, iam antaŭ longe  
+(**fe**) **duli mara** aŭ - (**fe**) **dumara** kelkfoje, iuokaze, iafoje  
+(**fe**) **hin mara** - ĉi tiu fojo  
+(**fe**) **hin momento** - en ĉi tiu momento  
+(**fe**) **lunadin** - (en) lundo  
+(**fe**) **duli lunadin** aŭ (**fe**) **dulunadin**  - (en) lundoj  
+(**fe**) **nundin** - hodiaŭ (_uzata kiel adverbo_)  
+(**fe**) **tiga din fe xaya** - tri tagojn poste
 
-The expressions **fe nunya** (at present, presently, now), **fe leya** (in the past, previously) and **fe xaya** (in the future, later on, afterwards) are typically left intact.
+La esprimoj **fe nunya** (nuntempe, aktuale, nun), **fe leya** (en la pasinteco, antaŭe) kaj **fe xaya** (en la estonteco, poste, sekve) estas kutime lasataj sen ŝanĝo.
 
-## Expressing Possession <a id="de_su"></a>
+## Esprimo de Posedo <a id="de_su"></a>
 
-Globasa has two ways of expressing possession. The preposition **[de](https://menalari.globasa.net/eng/lexi/de)** (_of_, _belonging to_) is used to express possession by nouns.
+Globaso havas du manierojn esprimi posedon. La prepozicio **[de](https://menalari.globasa.net/eng/lexi/de)** (_de_, _apartenanta al_) estas uzata por esprimi posedon fare de substantivoj.
 
 **Baytu de Maria sen day.**  
-"House of Mary is big."  
-Mary's house is big.
+"Domo de Maria estas granda."  
+La domo de Maria estas granda.
 
-If the noun is understood, a pronoun is used (**te**/**to** or **ete**/**oto**):
+Se la substantivo estas subkomprenata, oni uzas pronomon (**te**/**to** aŭ **ete**/**oto**):
 
 **To de Maria sen day.**  
-Mary's is big.
+Tiu de Maria estas granda.
 
-The suffix [**-su**](gramati/pornamelexi#suyali_sifalexi) is added to pronouns to form possessive adjectives. Similarly, the particle **[su](https://menalari.globasa.net/eng/lexi/su)** is used to express possession by nouns and is equivalent to the English possessive suffix _'s_. Unlike in English, however, **su** is used as a separate word.
+La sufikso [**-su**](gramati/pornamelexi#suyali_sifalexi) estas aldonata al pronomoj por formi posedajn adjektivojn. Simile, la partikulo **[su](https://menalari.globasa.net/eng/lexi/su)** estas uzata por esprimi posedon fare de substantivoj kaj egalas al la angla poseda sufikso _'s_. Malkiel en la angla, tamen, **su** estas uzata kiel memstara vorto.
 
 **Maria su baytu sen day.**  
-Mary's house is big.
+La domo de Maria estas granda.
 
-If the noun is understood, a pronoun is used (**te**/**to** or **ete**/**oto**):
+Se la substantivo estas subkomprenata, oni uzas pronomon (**te**/**to** aŭ **ete**/**oto**):
 
 **Maria su to sen day.**  
-Mary's is big.
+Tiu de Maria estas granda.
 
-## Prepositions of Place
+## Prepozicioj de Loko
 
-* **[in](https://menalari.globasa.net/eng/lexi/in)** - in, inside of
- * **inli** - (_adj_) interior, inner
- * **fe inya** - (on the) inside; within
-* **[ex](https://menalari.globasa.net/eng/lexi/ex)** - outside (of), out
- * **exli** - (_adj_) exterior, external
- * **fe exya** - (on the) outside; without
-* **[per](https://menalari.globasa.net/eng/lexi/per)** - on
- * **perli** - (_adj_) superficial, surface
- * **fe perya** - on the surface
-* **[bax](https://menalari.globasa.net/eng/lexi/bax)** - under(neath), beneath, below
- * **baxli** - underlying
- * **fe baxya** - underneath, below
-* **[of](https://menalari.globasa.net/eng/lexi/of)** - off (of), out of, from
-* **[cel](https://menalari.globasa.net/eng/lexi/cel)** - to (movement) [**cele** - goal/purpose]
- * **celki** - so that, in order that
- * **cel na** - in order to
- * **cel in** - into
- * **cel ex** - out from, out of
-* **[hoy](https://menalari.globasa.net/eng/lexi/hoy)** - toward(s) [**hoyo** - orientation/direction]
-* **[intre](https://menalari.globasa.net/eng/lexi/intre)** - between
-* **[ultra](https://menalari.globasa.net/eng/lexi/ultra)** - beyond
-* **[infra](https://menalari.globasa.net/eng/lexi/infra)** - below
- * **infrali** - inferior
-* **[infer](https://menalari.globasa.net/eng/lexi/infer)** - shorter form of **infraya**: inferiority, belowness
- * **fe infer** - down below, down under 
- * **cel infer** - down, downwards
-* **[supra](https://menalari.globasa.net/eng/lexi/supra)** - above
- * **suprali** - superior
-* **[super](https://menalari.globasa.net/eng/lexi/super)** - shorter form of **supraya**: superiority, aboveness
- * **fe super** - up above 
- * **cel super** - up, upwards
-* **[pas](https://menalari.globasa.net/eng/lexi/pas)** - through, by way of, via [**pasa** - pass]
-* **[tras](https://menalari.globasa.net/eng/lexi/tras)** - across, on the other side of, trans-
-* **[cis](https://menalari.globasa.net/eng/lexi/cis)** - on this side of
-* **[wey](https://menalari.globasa.net/eng/lexi/wey)** - around [**jowey** - surroundings]
-* **[fol](https://menalari.globasa.net/eng/lexi/fol)** - alongside (of), according to [**folo** - follow]
- * **posfol** - against (in the opposite direction of)
+* **[in](https://menalari.globasa.net/eng/lexi/in)** - en, interne de
+ * **inli** - (_adj_) interna, ena
+ * **fe inya** - (en la) interno; ene
+* **[ex](https://menalari.globasa.net/eng/lexi/ex)** - ekster (de), ekstere
+ * **exli** - (_adj_) ekstera, eksterflanka
+ * **fe exya** - (en la) ekstero; ekstere
+* **[per](https://menalari.globasa.net/eng/lexi/per)** - sur
+ * **perli** - (_adj_) supraĵa, surfaca
+ * **fe perya** - sur la surfaco
+* **[bax](https://menalari.globasa.net/eng/lexi/bax)** - sub, malsupre de, sube
+ * **baxli** - subkuŝa
+ * **fe baxya** - malsupre, sube
+* **[of](https://menalari.globasa.net/eng/lexi/of)** - for (de), el, de
+* **[cel](https://menalari.globasa.net/eng/lexi/cel)** - al (movo) [**cele** - celo/intenco]
+ * **celki** - por ke, tiel ke
+ * **cel na** - por
+ * **cel in** - en (direkte)
+ * **cel ex** - el, for el
+* **[hoy](https://menalari.globasa.net/eng/lexi/hoy)** - al, direkte al [**hoyo** - orientiĝo/direkto]
+* **[intre](https://menalari.globasa.net/eng/lexi/intre)** - inter
+* **[ultra](https://menalari.globasa.net/eng/lexi/ultra)** - preter, trans
+* **[infra](https://menalari.globasa.net/eng/lexi/infra)** - sube, malsupre
+ * **infrali** - malsupra
+* **[infer](https://menalari.globasa.net/eng/lexi/infer)** - pli mallonga formo de **infraya**: malsupereco, subeco
+ * **fe infer** - malsupre, sube 
+ * **cel infer** - malsupren, suben
+* **[supra](https://menalari.globasa.net/eng/lexi/supra)** - supre, super
+ * **suprali** - supera
+* **[super](https://menalari.globasa.net/eng/lexi/super)** - pli mallonga formo de **supraya**: supereco, supreco
+ * **fe super** - tie supre 
+ * **cel super** - supren
+* **[pas](https://menalari.globasa.net/eng/lexi/pas)** - tra, laŭ la vojo de, per [**pasa** - pasi]
+* **[tras](https://menalari.globasa.net/eng/lexi/tras)** - trans, aliflanke de, trans-
+* **[cis](https://menalari.globasa.net/eng/lexi/cis)** - ĉi-flanke de
+* **[wey](https://menalari.globasa.net/eng/lexi/wey)** - ĉirkaŭ [**jowey** - ĉirkaŭaĵo]
+* **[fol](https://menalari.globasa.net/eng/lexi/fol)** - laŭlonge (de), laŭ [**folo** - sekvi]
+ * **posfol** - kontraŭ (en la mala direkto de)
 
-## Phrasal Prepositions and Conjunctions
+## Frazaj Prepozicioj kaj Konjunkcioj
 
-* **[ruke](https://menalari.globasa.net/eng/lexi/ruke)** - (_n_) back, rear; (_v_) be behind, be in the back
- * **fe ruke** - in the back
- * **fe ruke de** - behind, in the back of
-* **[kapi](https://menalari.globasa.net/eng/lexi/kapi)** - (_n_) head; (_v_) be on top (of)
- * **fe kapi** - on top
- * **fe kapi de** - on top of
-* **[fronta](https://menalari.globasa.net/eng/lexi/fronta)** - (_n_) forehead, front; (_v_) be in front (of)
- * **fe fronta** - in front
- * **fe fronta de** - in front of
-* **[muka](https://menalari.globasa.net/eng/lexi/muka)** - (_n_) face; (_v_) be facing, be face to face, be across (from)
- * **fe muka** - across, face to face
- * **fe muka de** - across from
-* **[oposya](https://menalari.globasa.net/eng/lexi/oposya)** - (_n_) opposite; (_v_) be the opposite of
- * **fe oposya** - on the contrary
- * **fe oposya de** - opposite, contrary to, against (physically)
-* **[peda](https://menalari.globasa.net/eng/lexi/peda)** - (_n_) foot, bottom; (_v_) be at the bottom (of)
- * **fe peda** - at the bottom
- * **fe peda de** - at the bottom of
-* **[comen](https://menalari.globasa.net/eng/lexi/comen)** - (_n_) side; (_v_) be beside
- * **fe comen** - on the side 
- * **fe comen de** - on the side (of), next to, beside
-* **[tayti](https://menalari.globasa.net/eng/lexi/tayti)** - (_n_) substitute, substitution; (_v_) substitute, replace
- * **fe tayti fe** - instead (of)
- * **fe tayti ki** - instead of _+ sentence_
-* **[kompara](https://menalari.globasa.net/eng/lexi/kompara)** - (_n_) comparison; (_v_) compare 
- * **fe kompara fe** - in comparison (to) 
- * **fe kompara ki** - whereas
-* **[kosa](https://menalari.globasa.net/eng/lexi/kosa)** - (_n_) cause; (_v_) cause
- * **fe kosa fe**; **[kos](https://menalari.globasa.net/eng/lexi/kos)** - due to, because of  
- * **fe kosa ki**; **koski** - because, since 
-* **[folo](https://menalari.globasa.net/eng/lexi/folo)** - follow  
- * **fe folo** - therefore, consequently
-* **[ner](https://menalari.globasa.net/eng/lexi/ner)** - nearby, close (to)
- * **ner fe** - near, close to
-* **[teli](https://menalari.globasa.net/eng/lexi/teli)** - far, far away, remote, distant
- * **teli fe** - far from  
+* **[ruke](https://menalari.globasa.net/eng/lexi/ruke)** - (_subst_) dorso, malantaŭo; (_verbo_) esti malantaŭe, esti en la malantaŭo
+ * **fe ruke** - en la malantaŭo
+ * **fe ruke de** - malantaŭ, en la malantaŭo de
+* **[kapi](https://menalari.globasa.net/eng/lexi/kapi)** - (_subst_) kapo; (_verbo_) esti supre (de)
+ * **fe kapi** - supre
+ * **fe kapi de** - supre de, sur
+* **[fronta](https://menalari.globasa.net/eng/lexi/fronta)** - (_subst_) frunto, antaŭo; (_verbo_) esti antaŭe (de)
+ * **fe fronta** - antaŭe
+ * **fe fronta de** - antaŭ, antaŭe de
+* **[muka](https://menalari.globasa.net/eng/lexi/muka)** - (_subst_) vizaĝo; (_verbo_) esti turnita al, esti vizaĝ-al-vizaĝe, esti kontraŭe (de)
+ * **fe muka** - kontraŭe, vizaĝ-al-vizaĝe
+ * **fe muka de** - kontraŭ, vidalvide de
+* **[oposya](https://menalari.globasa.net/eng/lexi/oposya)** - (_subst_) malo, kontraŭo; (_verbo_) esti la malo de
+ * **fe oposya** - male, kontraŭe
+ * **fe oposya de** - kontraŭ, male al, kontraŭ (fizike)
+* **[peda](https://menalari.globasa.net/eng/lexi/peda)** - (_subst_) piedo, fundo; (_verbo_) esti ĉe la fundo (de)
+ * **fe peda** - ĉe la fundo
+ * **fe peda de** - ĉe la fundo de
+* **[comen](https://menalari.globasa.net/eng/lexi/comen)** - (_subst_) flanko; (_verbo_) esti apud
+ * **fe comen** - flanke 
+ * **fe comen de** - flanke (de), apud, ĉe
+* **[tayti](https://menalari.globasa.net/eng/lexi/tayti)** - (_subst_) anstataŭaĵo, anstataŭigo; (_verbo_) anstataŭi, anstataŭigi
+ * **fe tayti fe** - anstataŭ
+ * **fe tayti ki** - anstataŭ ke _+ frazo_
+* **[kompara](https://menalari.globasa.net/eng/lexi/kompara)** - (_subst_) komparo; (_verbo_) kompari 
+ * **fe kompara fe** - kompare (al) 
+ * **fe kompara ki** - dum, kontraste ke
+* **[kosa](https://menalari.globasa.net/eng/lexi/kosa)** - (_subst_) kaŭzo; (_verbo_) kaŭzi
+ * **fe kosa fe**; **[kos](https://menalari.globasa.net/eng/lexi/kos)** - pro, kaŭze de  
+ * **fe kosa ki**; **koski** - ĉar, pro tio ke 
+* **[folo](https://menalari.globasa.net/eng/lexi/folo)** - sekvi  
+ * **fe folo** - sekve, konsekvence
+* **[ner](https://menalari.globasa.net/eng/lexi/ner)** - proksime, proksima (al)
+ * **ner fe** - proksime de, apud
+* **[teli](https://menalari.globasa.net/eng/lexi/teli)** - malproksima, fora, forega, distanca
+ * **teli fe** - malproksime de  
 
-## Other Prepositions
+## Aliaj Prepozicioj
 
-* **[el](https://menalari.globasa.net/eng/lexi/el)** - _direct object marker_
- * Functions as a preposition and is typically omitted
-* **[de](https://menalari.globasa.net/eng/lexi/de)** - of (_belonging to_)
-* **[tas](https://menalari.globasa.net/eng/lexi/tas)** - to (_indirect object marker_), for
-* **[tem](https://menalari.globasa.net/eng/lexi/tem)** - about [**tema** - theme, topic]
-* **[pro](https://menalari.globasa.net/eng/lexi/pro)** - in favor of, for, pro- (_opp_ **anti**)
-* **[anti](https://menalari.globasa.net/eng/lexi/anti)** - against
-* **[fal](https://menalari.globasa.net/eng/lexi/fal)** - (done) by [**fale** - do, make]
-* **[har](https://menalari.globasa.net/eng/lexi/har)** - with (_having_) [**hare** - have]
- * **nenhar** - without (_not having_)
-* **[ton](https://menalari.globasa.net/eng/lexi/ton)** - (together/along) with [**tongo** - together]
- * **nenton** - without, separate/apart from 
-* **[yon](https://menalari.globasa.net/eng/lexi/yon)** - with (_using_), by means of [**yongu** - use]
- * **yon na** - by _+ -ing verb phrase_
- * **nenyon** - without (_not using_)
- * **nenyon na** - without _+ -ing verb phrase_
-* **[wal](https://menalari.globasa.net/eng/lexi/wal)** - without [**wala** - lack; not have]
-* **[por](https://menalari.globasa.net/eng/lexi/por)** - in exchange for
- * **por** (**moyun**) - per
+* **[el](https://menalari.globasa.net/eng/lexi/el)** - _markilo de rekta objekto_
+ * Funkcias kiel prepozicio kaj estas kutime forlasata
+* **[de](https://menalari.globasa.net/eng/lexi/de)** - de (_apartenanta al_)
+* **[tas](https://menalari.globasa.net/eng/lexi/tas)** - al (_markilo de nerekta objekto_), por
+* **[tem](https://menalari.globasa.net/eng/lexi/tem)** - pri [**tema** - temo]
+* **[pro](https://menalari.globasa.net/eng/lexi/pro)** - favore al, por, por- (_malo:_ **anti**)
+* **[anti](https://menalari.globasa.net/eng/lexi/anti)** - kontraŭ
+* **[fal](https://menalari.globasa.net/eng/lexi/fal)** - (farite) de [**fale** - fari/krei]
+* **[har](https://menalari.globasa.net/eng/lexi/har)** - kun (_havante_) [**hare** - havi]
+ * **nenhar** - sen (_ne havante_)
+* **[ton](https://menalari.globasa.net/eng/lexi/ton)** - (kune) kun [**tongo** - kune]
+ * **nenton** - sen, aparte/dise de 
+* **[yon](https://menalari.globasa.net/eng/lexi/yon)** - per (_uzante_), pere de [**yongu** - uzi]
+ * **yon na** - per _+ gerundia frazparto_
+ * **nenyon** - sen (_ne uzante_)
+ * **nenyon na** - sen _+ gerundia frazparto_
+* **[wal](https://menalari.globasa.net/eng/lexi/wal)** - sen [**wala** - manko; ne havi]
+* **[por](https://menalari.globasa.net/eng/lexi/por)** - interŝanĝe kontraŭ
+ * **por** (**moyun**) - po, por ĉiu
 
-## Function Words of Time
+## Funkciaj Vortoj de Tempo
 
-* **[dur](https://menalari.globasa.net/eng/lexi/dur)** - during, for _+ noun phrase_
- * **dur** (**moyun**) - per
- * **dur na** - while _+ -ing verb phrase_
- * **durki** - while _+ sentence_
-* **[fin-](https://menalari.globasa.net/eng/lexi/fin-)** - (_prefix_) end, come to [**fini** - finish/end]
- * **finfe** - (_prep_) until _+ noun phrase_
- * **finfe ki**  - (_conj_) until _+ sentence_
-* **[xor-](https://menalari.globasa.net/eng/lexi/xor-)** - (_prefix_) beginning [**xoru** - begin/start]
- * **xorfe** - (_prep_) from, since _+ noun phrase_
- * **xorfe ki** - (_conj_) (ever) since _+ sentence_
-* **[jaldi](https://menalari.globasa.net/eng/lexi/jaldi)** - early
-* **[dyer](https://menalari.globasa.net/eng/lexi/dyer)** - late
-* **[haji](https://menalari.globasa.net/eng/lexi/haji)** - still
- * **no haji** - no longer, not anymore
-* **[uje](https://menalari.globasa.net/eng/lexi/uje)** - already
- * **no uje** - not yet
-* **[fori](https://menalari.globasa.net/eng/lexi/fori)** - immediate(ly)
-* **[pimpan](https://menalari.globasa.net/eng/lexi/pimpan)** - frequent(ly), often
-* **[nadir](https://menalari.globasa.net/eng/lexi/nadir)** - rare(ly), seldom
-* **[nun](https://menalari.globasa.net/eng/lexi/nun)** - present tense particle
- * **nunli** - present(ly), current(ly)
- * **nunya** - the present
+* **[dur](https://menalari.globasa.net/eng/lexi/dur)** - dum; por _+ substantiva frazparto_
+ * **dur** (**moyun**) - po, por ĉiu
+ * **dur na** - dum _+ gerundia frazparto_
+ * **durki** - dum _+ frazo_
+* **[fin-](https://menalari.globasa.net/eng/lexi/fin-)** - (_prefikso_) fino, veni al [**fini** - fini/finiĝi]
+ * **finfe** - (_prep_) ĝis _+ substantiva frazparto_
+ * **finfe ki**  - (_konj_) ĝis _+ frazo_
+* **[xor-](https://menalari.globasa.net/eng/lexi/xor-)** - (_prefikso_) komenco [**xoru** - komenci/komenciĝi]
+ * **xorfe** - (_prep_) de, ekde _+ substantiva frazparto_
+ * **xorfe ki** - (_konj_) (jam) de kiam _+ frazo_
+* **[jaldi](https://menalari.globasa.net/eng/lexi/jaldi)** - frua, frue
+* **[dyer](https://menalari.globasa.net/eng/lexi/dyer)** - malfrua, malfrue
+* **[haji](https://menalari.globasa.net/eng/lexi/haji)** - ankoraŭ
+ * **no haji** - ne plu, jam ne
+* **[uje](https://menalari.globasa.net/eng/lexi/uje)** - jam
+ * **no uje** - ankoraŭ ne
+* **[fori](https://menalari.globasa.net/eng/lexi/fori)** - tuja, tuje
+* **[pimpan](https://menalari.globasa.net/eng/lexi/pimpan)** - ofta, ofte
+* **[nadir](https://menalari.globasa.net/eng/lexi/nadir)** - malofta, malofte
+* **[nun](https://menalari.globasa.net/eng/lexi/nun)** - partikulo de nuna tempo
+ * **nunli** - nuna, nune, aktuala, aktuale
+ * **nunya** - la nuntempo
  <ul>
- * **fe nunya** - at present, presently, now
+ * **fe nunya** - nuntempe, aktuale, nun
  </ul>
- * (**fe**) **nundin** - today
- * (**fe**) **nunli din** - nowadays
-* **[ja-](https://menalari.globasa.net/eng/lexi/ja-)** - (_pfx_) immediately adjacent [**jara** - neighbor]
- * **jali** - adjacent
-* **[le](https://menalari.globasa.net/eng/lexi/le)** - _past tense particle_
- * **jale** - just have (_immediate past tense_)
- * **jaledin** - yesterday
- * **leli** - past, previous(ly), former(ly), ex-
- * **jaleli** - the last, the most recent
- * **nerleli** - recent(ly)
- * **telileli** - a long time ago 
- * **leya** - (_n_) the past
+ * (**fe**) **nundin** - hodiaŭ
+ * (**fe**) **nunli din** - en la nunaj tagoj
+* **[ja-](https://menalari.globasa.net/eng/lexi/ja-)** - (_pfk_) tuj apuda [**jara** - najbaro]
+ * **jali** - apuda
+* **[le](https://menalari.globasa.net/eng/lexi/le)** - _partikulo de pasinta tempo_
+ * **jale** - ĵus (_tuja pasinta tempo_)
+ * **jaledin** - hieraŭ
+ * **leli** - pasinta, antaŭa, iama, eks-
+ * **jaleli** - la lasta, la plej lastatempa
+ * **nerleli** - lastatempa, lastatempe
+ * **telileli** - antaŭ longa tempo 
+ * **leya** - (_subst_) la pasinteco
  <ul>
- * **fe leya** - in the past, previously, formerly
+ * **fe leya** - en la pasinteco, antaŭe, iam
  </ul>
-  * **lefe** - before _+ noun phrase_; ago
+  * **lefe** - antaŭ _+ substantiva frazparto_; antaŭe
 <ul>
- * **lefe or fe** - by (_on or before_)
+ * **lefe or fe** - ĝis (_je aŭ antaŭ_)
  </ul>
-  * **lefe na** - before _+ -ing verb phrase_
-  * **lefe ki** - before + _sentence_
+  * **lefe na** - antaŭ _+ gerundia frazparto_
+  * **lefe ki** - antaŭ ol + _frazo_
 * **[xa](https://menalari.globasa.net/eng/lexi/xa)**  
- * **jaxa** - be about to (_immediate future tense_)
- * **jaxadin** - tomorrow
- * **xali** - (_adj_) future
- * **jaxali**  - next, the following, (and) then
- * **nerxali** - soon
- * **telixali** - in a long time
- * **xaya** - (_n_) the future; (_v_) be after, come after, follow
+ * **jaxa** - esti tuj -onta (_tuja estonta tempo_)
+ * **jaxadin** - morgaŭ
+ * **xali** - (_adj_) estonta
+ * **jaxali**  - sekva, la sekvanta, (kaj) tiam
+ * **nerxali** - baldaŭ
+ * **telixali** - post longa tempo
+ * **xaya** - (_subst_) la estonteco; (_verbo_) esti post, veni post, sekvi
  <ul>
- * **fe xaya** - in the future, later (on), afterwards
+ * **fe xaya** - en la estonteco, poste, sekve
  </ul>
-  * **xafe** - after, in + _noun phrase_
-  * **xafe na** - after + _-ing verb phrase_
-  * **xafe ki** - after + _sentence_
+  * **xafe** - post, en + _substantiva frazparto_
+  * **xafe na** - post + _gerundia frazparto_
+  * **xafe ki** - post kiam + _frazo_
 
-## Function Words of Quantity and Degree
+## Funkciaj Vortoj de Kvanto kaj Grado
 
-* **[kriban](https://menalari.globasa.net/eng/lexi/kriban)** - almost
-* **[kufi](https://menalari.globasa.net/eng/lexi/kufi)** - sufficient, enough (_of quantity_)
- * **kufimo** - sufficiently, enough (_of degree_)
-* **[plu](https://menalari.globasa.net/eng/lexi/plu)** - multiple (_used for expressing plurality_)
-* **[multi](https://menalari.globasa.net/eng/lexi/multi)** - many, much
-* **[xosu](https://menalari.globasa.net/eng/lexi/xosu)** - few, little (_of quantity_), a little bit [_opp_ **multi**]
-* **[daymo](https://menalari.globasa.net/eng/lexi/daymo)** - greatly, very
-* **[lilmo](https://menalari.globasa.net/eng/lexi/lilmo)** - a little (_of degree_) [_opp_ **daymo**]
-* **[godomo](https://menalari.globasa.net/eng/lexi/godomo)** - too
-* **[total](https://menalari.globasa.net/eng/lexi/total)** - entire, whole
-* **[eskaso](https://menalari.globasa.net/eng/lexi/eskaso)** - scarce(ly), barely, hardly
-* **[daju](https://menalari.globasa.net/eng/lexi/daju)** - approximate(ly), rough(ly), about, around 
+* **[kriban](https://menalari.globasa.net/eng/lexi/kriban)** - preskaŭ
+* **[kufi](https://menalari.globasa.net/eng/lexi/kufi)** - sufiĉa, sufiĉe (_laŭ kvanto_)
+ * **kufimo** - sufiĉe (_laŭ grado_)
+* **[plu](https://menalari.globasa.net/eng/lexi/plu)** - multobla (_uzata por esprimi pluralon_)
+* **[multi](https://menalari.globasa.net/eng/lexi/multi)** - multaj, multe
+* **[xosu](https://menalari.globasa.net/eng/lexi/xosu)** - malmultaj, malmulte (_laŭ kvanto_), iomete [_malo:_ **multi**]
+* **[daymo](https://menalari.globasa.net/eng/lexi/daymo)** - tre, ege
+* **[lilmo](https://menalari.globasa.net/eng/lexi/lilmo)** - iom (_laŭ grado_) [_malo:_ **daymo**]
+* **[godomo](https://menalari.globasa.net/eng/lexi/godomo)** - tro
+* **[total](https://menalari.globasa.net/eng/lexi/total)** - tuta, kompleta
+* **[eskaso](https://menalari.globasa.net/eng/lexi/eskaso)** - malabunda, apenaŭ, preskaŭ ne
+* **[daju](https://menalari.globasa.net/eng/lexi/daju)** - proksimuma, proksimume, ĉirkaŭ, ĉirkaŭe 
 
-## Other Function Adverbs
+## Aliaj Funkciaj Adverboj
 
-* **[no](https://menalari.globasa.net/eng/lexi/no)** - no, not, don't, doesn't
- * **noli** - negative
-* **[si](https://menalari.globasa.net/eng/lexi/si)** - yes
- * **sili** - affirmative
-* **[hata](https://menalari.globasa.net/eng/lexi/hata)** - even
- * **no hata** - not even
- * **fe hataya** - even so, however, nevertheless, nonetheless, in spite of that
- * **fe hataya fe** - in spite of, despite _+ noun phrase_
- * **fe hataya na** in spite of _+ -ing verb phrase_
- * **fe hataya ki** - even though, although, despite the fact that _+ sentence_
-* **[pia](https://menalari.globasa.net/eng/lexi/pia)** - also
-* **[sol](https://menalari.globasa.net/eng/lexi/sol)** - only [**solo** - alone, the only, the sole]
+* **[no](https://menalari.globasa.net/eng/lexi/no)** - ne
+ * **noli** - negativa, nea
+* **[si](https://menalari.globasa.net/eng/lexi/si)** - jes
+ * **sili** - jesa, aproba
+* **[hata](https://menalari.globasa.net/eng/lexi/hata)** - eĉ
+ * **no hata** - eĉ ne
+ * **fe hataya** - eĉ tiel, tamen, malgraŭe, malgraŭ ĉio, malgraŭ tio
+ * **fe hataya fe** - malgraŭ, spite al _+ substantiva frazparto_
+ * **fe hataya na** malgraŭ _+ gerundia frazparto_
+ * **fe hataya ki** - eĉ kvankam, kvankam, malgraŭ tio ke _+ frazo_
+* **[pia](https://menalari.globasa.net/eng/lexi/pia)** - ankaŭ
+* **[sol](https://menalari.globasa.net/eng/lexi/sol)** - nur [**solo** - sola, la sola, la ununura]
 
-## Comparison
+## Komparo
 
-* **[kom](https://menalari.globasa.net/eng/lexi/kom)** - as (_comparable to_), than (_as compared with_) [**kompara** - comparison/compare]
-* **[denmo](https://menalari.globasa.net/eng/lexi/denmo)... kom...**  - as... as...
-* **[max](https://menalari.globasa.net/eng/lexi/max)** - more
- * **maxpul** - additional, extra, another; additionally, moreover, further, furthermore
- * **ji max (o)to/(e)te** - et cetera
-* **max... kom...** - more (_a greater number of_, _a greater amount_)... + _noun/verb_ than...
-* **maxmo... kom...** - more (_to a greater degree_)... + _adj/adv_ than...
-* **[denkwanti](https://menalari.globasa.net/eng/lexi/denkwanti)... kom...** - as much as
-* **[dennumer](https://menalari.globasa.net/eng/lexi/dennumer)... kom...** - as many as
-* **[maxim](https://menalari.globasa.net/eng/lexi/maxim)** - the most
-* **[maximum](https://menalari.globasa.net/eng/lexi/maximum)** - maximum, at most
- * **maximumya** - the maximum
- * **maximummo** - as... as possible
-* **[maxori](https://menalari.globasa.net/eng/lexi/maxori)** - (_adj/adv_) most (_the majority of_), mostly
- * **maxoriya** - majority
-* **[maxus](https://menalari.globasa.net/eng/lexi/maxus)** - (_prep_) plus, with addition of, in addition to, besides
- * **maxusli** - (_adj/adv_) positive (+1, +2, etc.), besides (that)
- * **fe maxusya** - besides (that)
-* **[min](https://menalari.globasa.net/eng/lexi/min)** - fewer, less
-* **min... kom...** - fewer, less... + _noun/verb_ than...
-* **minmo... kom...** - less... + _adj/adv_ than...
-* **[minim](https://menalari.globasa.net/eng/lexi/minim)** - the least
-* **[minimum](https://menalari.globasa.net/eng/lexi/minimum)** - minimum, at least
- * **minimumya** - the minimum
-* **[minori](https://menalari.globasa.net/eng/lexi/minori)** - (_adj/adv_) the minority of
- * **minoriya** - minority
-* **[minus](https://menalari.globasa.net/eng/lexi/minus)** - (_prep_) minus, except for
- * **minusli** - (_adj/adv_) negative (-1, -2, etc.), except for that
- * **minus eger** - unless
+* **[kom](https://menalari.globasa.net/eng/lexi/kom)** - kiel (_komparebla al_), ol (_kompare kun_) [**kompara** - komparo/kompari]
+* **[denmo](https://menalari.globasa.net/eng/lexi/denmo)... kom...**  - tiel... kiel...
+* **[max](https://menalari.globasa.net/eng/lexi/max)** - pli
+ * **maxpul** - aldona, ekstra, plia; aldone, krome, plie, cetere
+ * **ji max (o)to/(e)te** - kaj tiel plu
+* **max... kom...** - pli (_pli granda nombro da_, _pli granda kvanto da_)... + _subst/verbo_ ol...
+* **maxmo... kom...** - pli (_ĝis pli granda grado_)... + _adj/adv_ ol...
+* **[denkwanti](https://menalari.globasa.net/eng/lexi/denkwanti)... kom...** - tiom kiom (laŭ kvanto)
+* **[dennumer](https://menalari.globasa.net/eng/lexi/dennumer)... kom...** - tiom kiom (laŭ nombro)
+* **[maxim](https://menalari.globasa.net/eng/lexi/maxim)** - la plej
+* **[maximum](https://menalari.globasa.net/eng/lexi/maximum)** - maksimumo, maksimume
+ * **maximumya** - la maksimumo
+ * **maximummo** - kiel eble plej...
+* **[maxori](https://menalari.globasa.net/eng/lexi/maxori)** - (_adj/adv_) plej multaj (_la plimulto de_), plejparte
+ * **maxoriya** - plimulto
+* **[maxus](https://menalari.globasa.net/eng/lexi/maxus)** - (_prep_) plus, kun aldono de, aldone al, krom
+ * **maxusli** - (_adj/adv_) pozitiva (+1, +2, ktp.), krom tio
+ * **fe maxusya** - krom tio, cetere
+* **[min](https://menalari.globasa.net/eng/lexi/min)** - malpli
+* **min... kom...** - malpli... + _subst/verbo_ ol...
+* **minmo... kom...** - malpli... + _adj/adv_ ol...
+* **[minim](https://menalari.globasa.net/eng/lexi/minim)** - la malplej
+* **[minimum](https://menalari.globasa.net/eng/lexi/minimum)** - minimumo, minimume
+ * **minimumya** - la minimumo
+* **[minori](https://menalari.globasa.net/eng/lexi/minori)** - (_adj/adv_) la malplimulto de
+ * **minoriya** - malplimulto
+* **[minus](https://menalari.globasa.net/eng/lexi/minus)** - (_prep_) minus, escepte de
+ * **minusli** - (_adj/adv_) negativa (-1, -2, ktp.), escepte de tio
+ * **minus eger** - krom se
 
-## Contrastive Emphasis
+## Kontrasta Emfazo
 
-The particle **he** may be used to express contrastive emphasis on most words: determiners (See [Correlatives](/gramati/tabellexi)), content words, function adverbs and verb particles. It appears right before the word being emphasized. Compare the following set of sentences:
+La partikulo **he** povas esti uzata por esprimi kontrastan emfazon sur la plej multaj vortoj: determinantoj (Vidu [Korelativoj](/gramati/tabellexi)), enhavaj vortoj, funkciaj adverboj kaj verbaj partikuloj. Ĝi aperas ĝuste antaŭ la emfazata vorto. Komparu la jenan aron da frazoj:
 
 **He _mi_ le nilwatu loga ki te le cori misu pesa.**
 
-_I_ (myself) never said she stole my money. (Someone else said that she stole the money.)
+_Mi_ (mem) neniam diris ke ŝi ŝtelis mian monon. (Iu alia diris ke ŝi ŝtelis la monon.)
 
 **Mi le he _nilwatu_ loga ki te le cori misu pesa.**
 
- I _never_ (ever) said she stole my money. (I definitely did not, and would not, say that she stole my money.)
+ Mi _neniam_ (iam ajn) diris ke ŝi ŝtelis mian monon. (Mi certe ne diris, kaj ne dirus, ke ŝi ŝtelis mian monon.)
 
 **Mi le nilwatu he _loga_ ki te le cori misu pesa.**
 
-I never (even/actually) _said_ she stole my money. (Verbally, it was not said that she stole my money, but it was implied.)
+Mi neniam (eĉ/fakte) _diris_ ke ŝi ŝtelis mian monon. (Parole, ne estis dirite ke ŝi ŝtelis mian monon, sed tio estis implicita.)
 
 **Mi le nilwatu loga ki he _te_ le cori misu pesa.**
 
-I never said (it was) _she_ (who) stole my money. (I said that someone else stole my money.)
+Mi neniam diris (ke estis) _ŝi_ (kiu) ŝtelis mian monon. (Mi diris ke iu alia ŝtelis mian monon.)
 
 **Mi le nilwatu loga ki te le he _cori_ misu pesa.**
 
-I never said she (actually) _stole_ my money. (I said that she took my money, but I wouldn't describe it as stealing.)
+Mi neniam diris ke ŝi (fakte) _ŝtelis_ mian monon. (Mi diris ke ŝi prenis mian monon, sed mi ne priskribus ĝin kiel ŝtelon.)
 
 **Mi le nilwatu loga ki te le cori he _misu_ pesa.**
 
-I never said she stole _my_ money. Or, I never said the money she stole was mine. (I said that she stole someone else's money.)
+Mi neniam diris ke ŝi ŝtelis _mian_ monon. Aŭ, mi neniam diris ke la mono kiun ŝi ŝtelis estis mia. (Mi diris ke ŝi ŝtelis la monon de iu alia.)
 
 **Mi le nilwatu loga ki te le cori misu he _pesa_.**
 
-I never said she stole my _money_. Or, I never said it was money that she stole from me. (She stole something else from me.)
+Mi neniam diris ke ŝi ŝtelis mian _monon_. Aŭ, mi neniam diris ke estis mono, kiun ŝi ŝtelis de mi. (Ŝi ŝtelis ion alian de mi.)
 
-For greater emphasis, it's also possible to move the emphasized word to the front, along with **he**, followed by a comma and the entire sentence without **he**. For example:
+Por pli granda emfazo, eblas ankaŭ movi la emfazatan vorton al la komenco, kune kun **he**, sekvate de komo kaj la tuta frazo sen **he**. Ekzemple:
 
 **He nilwatu, mi le nilwatu loga ki te le cori misu pesa.**
 
-_Never ever_, I _never_ said she stole my money.
+_Neniam ajn_, mi _neniam_ diris ke ŝi ŝtelis mian monon.
 
 **He cori, mi le nilwatu loga ki te le cori misu pesa.**
 
-_Stole_? I never said she _stole_ my money.
+_Ŝtelis_? Mi neniam diris ke ŝi _ŝtelis_ mian monon.
 
-## Other Function Words
+## Aliaj Funkciaj Vortoj
 
-[Pronouns](/gramati/pronamelexi)  
-[Correlatives](/gramati/tabellexi)  
-[Numbers](/gramati/numer-ji-mesi)  
+[Pronomoj](/gramati/pronamelexi)  
+[Korelativoj](/gramati/tabellexi)  
+[Nombroj](/gramati/numer-ji-mesi)  
+

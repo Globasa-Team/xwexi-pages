@@ -1,172 +1,172 @@
 ---
-title: Pronouns
+title: Pronomoj
 visible: true
 ---
 
-## Subject/Object Pronouns
+## Subjektaj/Objektaj Pronomoj
 
-Globasa's subject/object pronouns are as follows:
+La subjektaj/objektaj pronomoj de Globaso estas jenaj:
 
 <table style="width:100%">
   <tbody><tr>
     <td></td>
-    <th><b><i>singular</i></b></th>
-    <th><b><i>plural</i></b></th>
+    <th><b><i>ununombro</i></b></th>
+    <th><b><i>multenombro</i></b></th>
   </tr>
   <tr>
-    <th><b><i>1st person</i></b></th>
-    <td><b>mi</b> - I, me</td>
-    <td><b>imi</b> - we, us</td>
+    <th><b><i>1a persono</i></b></th>
+    <td><b>mi</b> - mi</td>
+    <td><b>imi</b> - ni</td>
   </tr>
   <tr>
-    <th><b><i>2nd person</i></b></th>
-    <td><b>yu</b> - you</td>
-    <td><b>uyu</b> - you</td>
+    <th><b><i>2a persono</i></b></th>
+    <td><b>yu</b> - vi</td>
+    <td><b>uyu</b> - vi</td>
   </tr>
   <tr>
-  <th><b><i>3rd person<br>(animate)</i></b></th>
-    <td><b>te</b> - he, him, she, her, it</td>
-    <td><b>ete</b> - they, them</td>
+  <th><b><i>3a persono<br>(vivanta)</i></b></th>
+    <td><b>te</b> - li, ŝi, ĝi</td>
+    <td><b>ete</b> - ili</td>
   </tr>
   <tr>
-  <th><b><i>3rd person<br>(inanimate)</i></b></th>
-    <td><b>to</b> - it</td>
-    <td><b>oto</b> - they, them</td>
+  <th><b><i>3a persono<br>(neviva)</i></b></th>
+    <td><b>to</b> - ĝi</td>
+    <td><b>oto</b> - ili</td>
   </tr>
   <tr>
   </tr>
   <tr>
-  <td colspan="3"><b>ren</b> - one</td>
+  <td colspan="3"><b>ren</b> - oni</td>
   </tr>
   <tr>
-  <td colspan="3"><b>se</b> - ‘reflexive pronoun’ (myself, yourself, herself, himself, ourselves, themselves)
+  <td colspan="3"><b>se</b> - ‘refleksiva pronomo’ (min, vin, sin, nin)
 </td>
   </tr>
   <tr>
-  <td colspan="3"><b>da</b> - 'relative pronoun' (he, she, it, they)</td>
+  <td colspan="3"><b>da</b> - 'rilativa pronomo' (li, ŝi, ĝi, ili)</td>
   </tr>
 </tbody></table>
 
-The gender-neutral **te** and **ete** are used for all living forms and personified objects. If it is necessary to emphasize gender, the adjectives **fem** and **man**, also used for nouns, may be used as prefixes.
+La seksneŭtralaj **te** kaj **ete** estas uzataj por ĉiuj vivantaj formoj kaj personigitaj objektoj. Se necesas emfazi la sekson, la adjektivoj **fem** kaj **man**, uzataj ankaŭ por substantivoj, povas esti uzataj kiel prefiksoj.
 
-* **femte** - she
-* **mante** - he
-* **femete**/**manete** - they
+* **femte** - ŝi
+* **mante** - li
+* **femete**/**manete** - ili
 
 ### he
 
-The particle **he** is used with subject pronouns to express emphasis.
+La partikulo **he** estas uzata kun subjektaj pronomoj por esprimi emfazon.
 
-**he mi** - I myself  
-**he yu** - you yourself  
-etc.
+**he mi** - mi mem  
+**he yu** - vi mem  
+ktp.
 
-## Possessive Adjectives <a id="suyali_sifalexi"></a>
+## Posedaj Adjektivoj <a id="suyali_sifalexi"></a>
 
-The possessive adjectives are derived from the pronouns by adding the suffix **-su**:
+La posedaj adjektivoj deriviĝas de la pronomoj per aldono de la sufikso **-su**:
 
 <table style="width:100%">
   <tbody><tr>
     <td></td>
-    <th><b><i>singular</i></b></th>
-    <th><b><i>plural</i></b></th>
+    <th><b><i>ununombro</i></b></th>
+    <th><b><i>multenombro</i></b></th>
   </tr>
   <tr>
-    <th><b><i>1st person</i></b></th>
-    <td><b>misu</b> - my</td>
-    <td><b>imisu</b> - our</td>
+    <th><b><i>1a persono</i></b></th>
+    <td><b>misu</b> - mia</td>
+    <td><b>imisu</b> - nia</td>
   </tr>
   <tr>
-    <th><b><i>2nd person</i></b></th>
-    <td><b>yusu</b> - your</td>
-    <td><b>uyusu</b> - your</td>
+    <th><b><i>2a persono</i></b></th>
+    <td><b>yusu</b> - via</td>
+    <td><b>uyusu</b> - via</td>
   </tr>
   <tr>
-  <th><b><i>3rd person<br>animate</i></b></th>
-    <td><b>tesu</b> - her, his, its</td>
-    <td><b>etesu</b> - their</td>
+  <th><b><i>3a persono<br>vivanta</i></b></th>
+    <td><b>tesu</b> - ŝia, lia, ĝia</td>
+    <td><b>etesu</b> - ilia</td>
   </tr>
   <tr>
-  <th><b><i>3rd person<br>inanimate</i></b></th>
-    <td><b>tosu</b> - its</td>
-    <td><b>otosu</b> - their</td>
+  <th><b><i>3a persono<br>neviva</i></b></th>
+    <td><b>tosu</b> - ĝia</td>
+    <td><b>otosu</b> - ilia</td>
   </tr>
   <tr>
   </tr>
   <tr>
-  <td colspan="3"><b>rensu</b> - one's</td>
+  <td colspan="3"><b>rensu</b> - onia</td>
   </tr>
   <tr>
-  <td colspan="3"><b>sesu</b> - my own, your own, her own, his own, our own, their own
+  <td colspan="3"><b>sesu</b> - mia propra, via propra, sia propra, nia propra
 </td>
   </tr>
       <tr>
-  <td colspan="3"><b>dasu</b> - (relative clauses) her, his, its, their
+  <td colspan="3"><b>dasu</b> - (rilativaj propozicioj) ŝia, lia, ĝia, ilia
 </td>
   </tr>
 </tbody></table>
 
-As with the pronouns, the gender-neutral possessive adjectives **tesu** and **etesu** are typically used for all third-person animate beings. If it is necessary to emphasize gender, the prefixes **fem** and **man** may be used.
+Kiel ĉe la pronomoj, la seksneŭtralaj posedaj adjektivoj **tesu** kaj **etesu** estas kutime uzataj por ĉiuj triapersonaj vivantaj estaĵoj. Se necesas emfazi la sekson, oni povas uzi la prefiksojn **fem** kaj **man**.
 
-* **femtesu** - her
-* **mantesu** - his
-* **femetesu**/**manetesu** - their
+* **femtesu** - ŝia
+* **mantesu** - lia
+* **femetesu**/**manetesu** - ilia
 
-## Possessive Pronouns
+## Posedaj Pronomoj
 
-The possessive pronouns are derived from the possessive adjectives by adding the pronoun **(e)te** or **(o)to**:
+La posedaj pronomoj deriviĝas de la posedaj adjektivoj per aldono de la pronomo **(e)te** aŭ **(o)to**:
 
 <table style="width:100%">
   <tbody><tr>
     <td></td>
-    <th><b><i>singular</i></b></th>
-    <th><b><i>plural</i></b></th>
+    <th><b><i>ununombro</i></b></th>
+    <th><b><i>multenombro</i></b></th>
   </tr>
   <tr>
-    <th><b><i>1st person</i></b></th>
-    <td><b>misu te/to</b> - mine</td>
-    <td><b>imisu te/to</b> - ours</td>
+    <th><b><i>1a persono</i></b></th>
+    <td><b>misu te/to</b> - la mia</td>
+    <td><b>imisu te/to</b> - la nia</td>
   </tr>
   <tr>
-    <th><b><i>2nd person</i></b></th>
-    <td><b>yusu te/to</b> - yours</td>
-    <td><b>uyusu te/to</b> - yours</td>
+    <th><b><i>2a persono</i></b></th>
+    <td><b>yusu te/to</b> - la via</td>
+    <td><b>uyusu te/to</b> - la via</td>
   </tr>
   <tr>
-  <th><b><i>3rd person<br>animate</i></b></th>
-    <td><b>tesu te/to</b> - hers, his, its</td>
-    <td><b>etesu te/to</b> - theirs</td>
+  <th><b><i>3a persono<br>vivanta</i></b></th>
+    <td><b>tesu te/to</b> - la ŝia, la lia, la ĝia</td>
+    <td><b>etesu te/to</b> - la ilia</td>
   </tr>
   <tr>
-  <th><b><i>3rd person<br>inanimate</i></b></th>
-    <td><b>tosu te/to</b> - its</td>
-    <td><b>otosu te/to</b> - theirs</td>
+  <th><b><i>3a persono<br>neviva</i></b></th>
+    <td><b>tosu te/to</b> - la ĝia</td>
+    <td><b>otosu te/to</b> - la ilia</td>
   </tr>
   <tr>
   </tr>
   <tr>
-  <td colspan="3"><b>rensu te/to</b> - one's own</td>
+  <td colspan="3"><b>rensu te/to</b> - onia propra</td>
   </tr>
   <tr>
-  <td colspan="3"><b>sesu te/to</b> - my own, your own, her own, his own, our own, their own
+  <td colspan="3"><b>sesu te/to</b> - mia propra, via propra, sia propra, nia propra
 </td>
   </tr>
 </tbody></table>
 
-### Third-Person Pronouns at End of Noun Phrases
+### Triapersonaj Pronomoj ĉe Fino de Substantivaj Sintagmoj
 
-As seen under Correlatives, third-person pronouns (**te**/**to** and **ete**/**oto**) are used for correlative pronouns since determiners (**ke**, **hin**, **den**, etc.) must always be followed by a (pro)noun.  See [Noun Phrases](/gramati/jumlemonli-estrutur#pronamelexi_in_namelexili_jumlemon).
+Kiel videblas ĉe la Tabelvortoj, triapersonaj pronomoj (**te**/**to** kaj **ete**/**oto**) estas uzataj por korelativaj pronomoj, ĉar determinantojn (**ke**, **hin**, **den**, ktp.) ĉiam devas sekvi (pro)nomo.  Vidu [Substantivaj Sintagmoj](/gramati/jumlemonli-estrutur#pronamelexi_in_namelexili_jumlemon).
 
-Similarly, **(e)te**/**(o)to** are used at the end of noun phrases when the noun is understood. 
+Simile, **(e)te**/**(o)to** estas uzataj ĉe la fino de substantivaj sintagmoj kiam la substantivo estas subkomprenata. 
 
-_One reason for this rule, as illustrated below, is that since nouns and verbs have the same form in Globasa, leaving a determiner or an adjective without a (pro)noun can potentially be mistaken as modifying the noun/verb immediately following._
+_Unu kialo por ĉi tiu regulo, kiel ilustrite sube, estas ke, ĉar substantivoj kaj verboj havas la saman formon en Globaso, determinanto aŭ adjektivo lasita sen (pro)nomo povas esti erare komprenata kiel modifanta la tuj sekvantan substantivon/verbon._
 
 **Multi _te_ pala sol in Englisa.**  
-Many (_people_) speak only (in) English.
+Multaj (_homoj_) parolas nur (en) la Angla.
 
-_Another reason, as illustrated below, is that Globasa does not use articles. So whereas English is able to use adjectives as nouns, Globasa cannot._
+_Alia kialo, kiel ilustrite sube, estas ke Globaso ne uzas artikolojn. Do dum la Angla povas uzi adjektivojn kiel substantivojn, Globaso ne povas._
 
 **bon _te_, bur _te_ ji colo _te_**  
-the good (_one_), the bad (_one_) and the ugly (_one_)
+la bona (_ulo_), la malbona (_ulo_) kaj la malbela (_ulo_)
 
-Notice as well that although **te** and **to** are singular pronouns they may be optionally used with words denoting plurality, such as **max**, **min**, **multi**, **xosu**.  
+Notu ankaŭ ke kvankam **te** kaj **to** estas ununombraj pronomoj, ili povas esti laŭvole uzataj kun vortoj indikantaj plurecon, kiel **max**, **min**, **multi**, **xosu**.  

@@ -26,7 +26,7 @@ The typical phrase order in Globasa is _Subject-Verb-Object_.
 </tr>
 </tbody></table>
 
-## Direct Object Marker
+## Direct Object Marker <a id="partikul_el"></a>
 
 Other than S-V-O, Globasa allows two other options with the subject always preceding the verb: S-O-V and O-S-V.  This flexible phrase order is made possible using the direct object marker **el**, which essentially functions as a preposition. As illustrated below, **el** is used with S-O-V and O-S-V, which are typically only used in poetry and song lyrics.
 
@@ -34,7 +34,7 @@ Other than S-V-O, Globasa allows two other options with the subject always prece
 * **Patre el matre mwa.** - (S-O-V) The father kisses the mother.
 * **El matre patre mwa.** - (O-S-V) The father kisses the mother.  
 
-_Etymology of **el**: Korean (을 “eul”)_
+_Etymology of **el**: Korean (을 “eul”), Hebrew (אֵת “et”)_
 
 ## Copula
 

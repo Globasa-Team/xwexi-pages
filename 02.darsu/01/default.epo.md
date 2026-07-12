@@ -69,3 +69,88 @@ Salom, bwaw! Weda, papa! Xanti, uma! Weda, sodar! Xanti, doste! Salom, nini! Wed
 _Kreu viajn proprajn frazojn uzante la suprajn ekzemplojn kiel frazajn ŝablonojn kaj la legopraktikon kiel modelon._
  
 <textarea width="100%" spellcheck="false" placeholder="Tajpu viajn proprajn frazojn ĉi tie."></textarea>
+
+## Leciono 1
+Restudu la [alfabeton kaj elparolon](/gramati/abece-ji-lafuzu) antaŭ komencado de la sekvaj lecionoj
+
+
+## Vortprovizo
+<audio controls>
+ <source src=”/darsu/01/darsu_1_lexilista.mp3” type=”audio/mp3” />
+ <p>Via uzantagento ne subtenas la aŭdo-elementon HTML5.</p>
+</audio>
+
+
+* **salom** - saluton
+* **weda** - ĝis (la revido)
+* **xanti** - pacon (saluton aŭ ĝis)
+* **bwaw** - hundo
+* **myaw** - kato
+* **piu** - birdo
+* **uma** - ĉevalo
+* **mahi** - fiŝo
+* **doste** - amiko
+* **nini** - infano
+* **sodar** - frato, fratino
+* **matre** - patrino
+* **mama** - panjo
+* **patre** - patro
+* **papa** - paĉjo
+
+
+[Studkartojn de Quizlet](https://quizlet.com/555796313/globasa-101-lesson-1-flash-cards/)
+
+
+## Notoj
+### Sekso
+En Globaso, nur malmultaj vortoj, ekzemple **matre** kaj **patre**, montras sekson. Alie, vortoj, kiuj priskribas homojn, estas seksneŭtraj. En venonta leciono, vi lernos, kiel oni distingas inter virsekso kaj insekso per prefiksoj el la adjektivoj de sekso.
+
+
+## Neniaj pluralaj substantivoj
+
+
+Globaso ne distingas inter singularaj kaj pluralaj substantivoj. En venonta leciono, vi lernos, kiel oni indikas singularon aŭ pluralon, kiam tio necesas
+
+
+* **doste** - _amiko_ aŭ _amikoj_
+
+
+### _xanti_
+
+
+La vorto **xanti** signifas _pacon_, sed oni povas uzi ĝin ankaŭ por diri _saluton_ aŭ _ĝis la revido._
+
+
+## Ekzemplaj frazoj
+<audio controls>
+<source src="/darsu/01/darsu_1_misalli_jumle.mp3" type="audio/mp3" />
+<p>Via uzantagento ne subtenas la aŭdo-elementon HTML5.</p>
+</audio>
+
+
+**Salom, doste!**
+Saluton, amiko!
+
+
+**Weda, uma!**
+Ĝis, ĉevalo!
+
+
+## Ekzercoj de legado kaj aŭskultado
+
+
+<audio controls>
+<source src="/darsu/01/darsu_01_doxoli_abyasa.mp3" type="audio/mp3" />
+<p>Via uzantagento ne subtenas la aŭdo-elementon HTML5.</p>
+</audio>
+
+
+Salom, bwaw! Weda, papa! Xanti, uma! Weda, sodar! Xanti, doste! Salom, nini! Weda, matre! Salom, mahi! Xanti, piu! Weda, myaw!
+
+
+## Tasko de la leciono
+Skribu viajn proprajn frazojn uzante la suprajn ekzemplojn kiel ŝablonojn.
+
+
+<textarea width="100%" spellcheck="false" placeholder="Tajpu viajn proprajn frazojn ĉi tie."></textarea>
+

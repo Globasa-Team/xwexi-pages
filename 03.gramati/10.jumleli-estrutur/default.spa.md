@@ -34,7 +34,7 @@ Además del orden S-V-O, Globasa permite otras dos opciones con el sujeto siempr
 * **Patre el matre mwa.** - (S-O-V) El padre a la madre besa.  
 * **El matre patre mwa.** - (O-S-V) A la madre el padre besa.  
 
-_Etimología de **el**: coreano (을 “eul”)_
+_Etimología de **el**: coreano (을 “eul”), hebreo (אֵת “et”)_
 
 ## Cópula
 

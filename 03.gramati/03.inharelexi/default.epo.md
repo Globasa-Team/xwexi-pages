@@ -1,16 +1,16 @@
 ---
-title: 'Content Words: Nouns, Verbs, Adjectives and Adverbs'
+title: 'Enhavaj vortoj: substantivoj, verboj, adjektivoj kaj adverboj'
 visible: true
 ---
 
 ## Substantivoj
 
-La substantivoj de Globasa ne distingas inter singularaj kaj pluralaj formoj.
+La substantivoj de Globaso ne distingas inter singularaj kaj pluralaj formoj.
 
 * **maux** -  muso, musoj
 * **kalamu** - plumo(j)
 
-La substantivoj de Globasa havas nek difinan nek nedifinan artikolon.
+La substantivoj de Globaso havas nek difinan nek nedifinan artikolon.
 
 * **janela** -  fenestro, (la) fenestro(j)
 
@@ -31,7 +31,7 @@ Se estas strikte necese emfazi pluralecon, oni povas uzi **plu** (pluraj).
 
 ### Sekso
 
-En Globasa, substantivoj kiuj signifas homojn kaj bestojn estas tipe seksneŭtralaj.
+En Globaso, substantivoj kiuj signifas homojn kaj bestojn estas tipe seksneŭtralaj.
 
 * **ixu** - plenkreskulo (viro, virino)
 * **nini** - infano (knabo, knabino)
@@ -79,7 +79,7 @@ _Noto: La seksneŭtrala vorto por gepatro(j) estas **atre**. La seksneŭtrala vo
 
 ### Apozicio
 
-En Globasa, substantivon povas sekvi alia substantivo sen uzo de prepozicio, kiam la dua substantivo specifas la identecon de la unua. Tio estas konata kiel _apozicio_.
+En Globaso, substantivon povas sekvi alia substantivo sen uzo de prepozicio, kiam la dua substantivo specifas la identecon de la unua. Tio estas konata kiel _apozicio_.
 
 * **Hotel Kaliforni** - Hotelo Kalifornio  
 * **Estato Florida** - la Ŝtato Florido  
@@ -91,7 +91,7 @@ En Globasa, substantivon povas sekvi alia substantivo sen uzo de prepozicio, kia
 
 ### Partikulo _di_: Kulturspecifaj Vortoj kaj Propraj Nomoj <a id="partikul_di"></a>
 
-La partikulo **di** povas esti nedevige uzata por marki kulturspecifajn vortojn kaj proprajn nomojn kiuj havas _identan formon_ al ordinaraj vortoj jam establitaj en Globasa. 
+La partikulo **di** povas esti nedevige uzata por marki kulturspecifajn vortojn kaj proprajn nomojn kiuj havas _identan formon_ al ordinaraj vortoj jam establitaj en Globaso. 
 
 * **soho** - reciproka, komuna
  * **(di) Soho** - Soho (kvartalo de Novjorko)
@@ -118,7 +118,7 @@ La adjektivo **gao** (alta) kaj la substantivo **kef** (estro, ĉefo) povas esti
 
 ### Substantivo/Verboj
 
-En Globasa, substantivo/verboj estas vortoj kiuj povas funkcii aŭ kiel substantivo aŭ kiel verbo.
+En Globaso, substantivo/verboj estas vortoj kiuj povas funkcii aŭ kiel substantivo aŭ kiel verbo.
 
 * **ergo** - laboro, labori (_substantivo aŭ verbo_)
 * **danse** - danco, danci (_substantivo aŭ verbo_)
@@ -198,7 +198,7 @@ La hundo dormas malpli ol la kato.
 aŭ: **Bebe somno denkwanti kom myaw.**  
 La bebo dormas tiom kiom la kato.
 
-Por esprimi _ju pli/malpli..., des pli/malpli..._, Globasa uzas **folki... max/min, max/min**.
+Por esprimi _ju pli/malpli..., des pli/malpli..._, Globaso uzas **folki... max/min, max/min**.
 
 **Folki mi max doxo, mi max jixi.**  
 Ju pli mi legas, des pli mi scias.
@@ -214,7 +214,7 @@ Verboj estas difinitaj en la vortaro kiel _helpaj_, _kopulaj_, _transitivaj_, _n
 
 #### **Helpaj Verboj**
 
-_Helpajn verbojn_ tuj sekvas verboj en sia infinitiva formo (markita per la partikulo **na**), kiu povas esti forlasita. Estas nur tri _helpaj verboj_ en Globasa: **abil** (povi), **ingay** (devus), **musi** (devi). 
+_Helpajn verbojn_ tuj sekvas verboj en sia infinitiva formo (markita per la partikulo **na**), kiu povas esti forlasita. Estas nur tri _helpaj verboj_ en Globaso: **abil** (povi), **ingay** (devus), **musi** (devi). 
 
 #### **Kopulaj Verboj**
 
@@ -224,7 +224,7 @@ _Kopulaj verboj_ ligas la subjekton al ĝia predikativo. Estas nuntempe 12 _kopu
 
 _Transitivaj verboj_ prenas rektan objekton: **haja** (bezoni), **bujo** (kapti), **gibe** (doni). Tamen, certaj _transitivaj verboj_ kelkfoje aŭ ofte forlasas la rektan objekton: **doxo** (legi), **yam** (manĝi), **lala** (kanti), ktp. 
 
-Kelkaj _transitivaj verboj_ estas ofte aŭ preskaŭ ĉiam uzataj sen rekta objekto: **somno** (dormi), **haha** (ridi), **pawbu** (kuri), **fley** (flugi), ktp. Tiuj estas konataj en Globasa kiel _eĥo-objektaj transitivaj verboj_, ĉar la nedeviga rekta objekto estas la sama vorto kiel la verbo. 
+Kelkaj _transitivaj verboj_ estas ofte aŭ preskaŭ ĉiam uzataj sen rekta objekto: **somno** (dormi), **haha** (ridi), **pawbu** (kuri), **fley** (flugi), ktp. Tiuj estas konataj en Globaso kiel _eĥo-objektaj transitivaj verboj_, ĉar la nedeviga rekta objekto estas la sama vorto kiel la verbo. 
 
 **Mi le somno (lungo somno).**  
 Mi dormis (longan dormon).
@@ -264,7 +264,7 @@ En vortderivado, tamen, **[-gi](/gramati/inharelexi#xafefikso_-gi)** estas devig
 
 #### **Ambaŭtransitivaj Verboj** 
 
-En Globasa, [_ambaŭtransitivaj verboj_](https://en.wikipedia.org/wiki/Ambitransitive_verb#Patientive) estas esence transitivaj verboj kiuj povas esti uzataj ankaŭ netransitive.
+En Globaso, [_ambaŭtransitivaj verboj_](https://en.wikipedia.org/wiki/Ambitransitive_verb#Patientive) estas esence transitivaj verboj kiuj povas esti uzataj ankaŭ netransitive.
 
 Estas kvar subkategorioj de _ambaŭtransitivaj verboj_: _verboj de sento_, _verboj de stato_, _neagentaj verboj_, kaj _verboj de movo_. 
 
@@ -310,7 +310,7 @@ _Ambaŭtransitivaj verboj de stato_ similas al _verboj de sento_. Ili estas _sub
 
 * **termo** - _tr:_ varmigi ; _ntr:_ esti varma 
 
-**Kam yu le termo banyo-kamer?**  
+**Kam yu le termo banyokamer?**  
 Ĉu vi varmigis la banĉambron?
 
 **Misu kafe no haji termo. = Misu kafe no haji sen termopul.**  
@@ -339,7 +339,7 @@ Hieraŭ estis varme.
 
 kontraste:
 
-**To le termocu** (aŭ **xortermo**) **fe midi-nuru.** = **To le sencu** (aŭ **xorsen**) **termopul fe midi-nuru.**  
+**To le termocu** (aŭ **xortermo**) **fe midinuru.** = **To le sencu** (aŭ **xorsen**) **termopul fe midinuru.**  
 Varmiĝis tagmeze. 
 
 **_Neagentaj Verboj_**
@@ -422,7 +422,7 @@ _netransitiva verbo_: **klosi**(**cu**)**do dwer** - la fermita pordo (_kiu ferm
 
 ## Adjektivo/Adverboj
 
-En Globasa, adjektivoj kaj _verb-modifaj adverboj_ havas identan formon.
+En Globaso, adjektivoj kaj _verb-modifaj adverboj_ havas identan formon.
 
 * **bon** - bona, bone
 * **velosi** - rapida, rapide
@@ -488,18 +488,18 @@ Adjektivo/adverba komparo estas esprimata jene per la vortoj **maxmo** (_pli_), 
 * **minmo kimapul kom...** - malpli multekosta ol...
 * **denmo kimapul kom...** - tiel multekosta kiel...
 
-Por esprimi _la plej_ kaj _la malplej_, Globasa uzas **maxim... te/to** kaj **minim... te/to**. La vorto **of** signifas _el_ aŭ _de (sur)_. Notu ke la pronomoj **te**/**to** devas tuj sekvi la adjektivon, ĉar substantivaj frazpartoj devas ĉiam finiĝi per substantivo aŭ pronomo. Vidu [Substantivaj Frazpartoj](/gramati/jumlemonli-estrutur#pronamelexi_in_namelexili_jumlemon).
+Por esprimi _la plej_ kaj _la malplej_, Globaso uzas **maxim... te/to** kaj **minim... te/to**. La vorto **of** signifas _el_ aŭ _de (sur)_. Notu ke la pronomoj **te**/**to** devas tuj sekvi la adjektivon, ĉar substantivaj frazpartoj devas ĉiam finiĝi per substantivo aŭ pronomo. Vidu [Substantivaj Frazpartoj](/gramati/jumlemonli-estrutur#pronamelexi_in_namelexili_jumlemon).
 
 * **maxim juni te (of misu bete)** - la plej juna (el miaj infanoj)
 * **minim kimapul to (of yusu mobil)** - la malplej multekosta (el viaj aŭtoj)
 
-Por esprimi _ju pli/malpli..., des pli/malpli..._, Globasa uzas **folki maxmo/minmo, maxmo/minmo**.
+Por esprimi _ju pli/malpli..., des pli/malpli..._, Globaso uzas **folki maxmo/minmo, maxmo/minmo**.
 
 * **folki (to sen) maxmo neo, (to sen) maxmo bon** - ju pli nova, des pli bona
 
 ## Verbo/Adj-Adv Vortoj
 
-Krom substantivo/verbaj vortoj kaj adj/adv vortoj, Globasa havas trian klason de vortoj: _verbo/adj-adv vortoj_. Nur helpaj verboj apartenas al tiu ĉi klaso, kiu konsistas el nur tri vortoj: **abil**, **musi** kaj **ingay**.  
+Krom substantivo/verbaj vortoj kaj adj/adv vortoj, Globaso havas trian klason de vortoj: _verbo/adj-adv vortoj_. Nur helpaj verboj apartenas al tiu ĉi klaso, kiu konsistas el nur tri vortoj: **abil**, **musi** kaj **ingay**.  
 
 * **abil**: (verbo) povi; (adj/adv) kapabla, povanta, kiu povas  
 * **musi**: (verbo) devi; (adj/adv) kiu devas  
@@ -574,7 +574,7 @@ _Etimologio de **-ya**: Hindia (सत्य "satya" - vero), Hispana (alegría 
 
 ### Prefikso du- <a id="lefefikso_du-"></a>
 
-Globasa uzas la prefikson **du-** por esprimi la gerundion.
+Globaso uzas la prefikson **du-** por esprimi la gerundion.
 
 * **dudanse** - dancado (la ago danci)
 * **dulala** - kantado (la ago kanti)
@@ -647,7 +647,7 @@ Etimologio de **cudu**: Mandarena (取得 "qǔdé"), Korea (취득 “chwideug�
 
 ### Adjektivo/Adverba Sufikso -li <a id="xafefikso_-li"></a>
 
-En Globasa, adjektivo/adverboj estas derivitaj el substantivoj per diversaj sufiksoj. Vidu la plenan liston de sufiksoj sub [Vortfarado](/gramati/lexikostrui). Unu el la plej oftaj estas la sufikso **-li** (_de, rilata al_).
+En Globaso, adjektivo/adverboj estas derivitaj el substantivoj per diversaj sufiksoj. Vidu la plenan liston de sufiksoj sub [Vortfarado](/gramati/lexikostrui). Unu el la plej oftaj estas la sufikso **-li** (_de, rilata al_).
 
 * **musika** - muziko  
 **musikali** - muzika, muzike
@@ -679,7 +679,7 @@ _Etimologio de **pul**: Angla (full), Hindia (पूर्ण  “purn”), Rusa
 
 ### Aktivaj Adjektivoj: Sufikso -ne <a id="xafefikso_-ne"></a>
 
-La sufikso **-ne** signifas _en aktiva stato aŭ procezo de_ kaj estas uzata por derivi tion, kio en Globasa estas konata kiel _aktivaj adjektivoj_.
+La sufikso **-ne** signifas _en aktiva stato aŭ procezo de_ kaj estas uzata por derivi tion, kio en Globaso estas konata kiel _aktivaj adjektivoj_.
 
 _Aktivaj adjektivoj_ plej ofte egalas al la _aktivaj participoj_ en Esperanto (adjektivoj finiĝantaj per _-anta_). Tamen, malkiel la progresiva formo (_mi estas dormanta_, _ŝi estas dancanta_, ktp.), _aktivaj adjektivoj_ ne estas uzataj por krei progresivajn verbo-formojn. Anstataŭe, ili funkcias nur kiel adjektivoj.
 
@@ -715,7 +715,7 @@ _aŭ_
 **_Dur na doxo,_ nini le xorsomno.**  
 _Dum legado,_ la infano ekdormis. 
 
-Tiu konstruo estas utila precipe kiam la frazparto inkluzivas rektan objekton, ĉar, malkiel la _aktiva participo_ en Esperanto, _aktivaj adjektivoj_ en Globasa ne povas funkcii kiel verboj.
+Tiu konstruo estas utila precipe kiam la frazparto inkluzivas rektan objekton, ĉar, malkiel la _aktiva participo_ en Esperanto, _aktivaj adjektivoj_ en Globaso ne povas funkcii kiel verboj.
 
 **_Dur na doxo sesu preferido kitabu,_ nini le xorsomno.**  
 _Dum legado de sia preferata libro,_ la infano ekdormis.
@@ -727,14 +727,14 @@ _Dum li legis (sian preferatan libron),_ la infano ekdormis.
 
 ### Pasivaj Adjektivoj
 
-_Aktivaj adjektivoj_ povas esti farataj pasivaj per aldono de la pasiva prefikso **be-**, por derivi tion, kio en Globasa estas konata kiel _pasivaj aktivaj adjektivoj_ (aŭ mallonge _pasivaj adjektivoj_). En Esperanto, _pasivaj adjektivoj_ plej bone kompreneblas kiel la pasiva participo (la formo per _-ata_).
+_Aktivaj adjektivoj_ povas esti farataj pasivaj per aldono de la pasiva prefikso **be-**, por derivi tion, kio en Globaso estas konata kiel _pasivaj aktivaj adjektivoj_ (aŭ mallonge _pasivaj adjektivoj_). En Esperanto, _pasivaj adjektivoj_ plej bone kompreneblas kiel la pasiva participo (la formo per _-ata_).
 
 * **belalane melodi** - kantata melodio (melodio kiu estas kantata)  
 * **belubine doste** - amata amiko (amiko kiu estas amata)
 
 ### Neaktivaj Adjektivoj: Sufikso -do <a id="xafefikso_-do"></a>
 
-La sufikso **-do** signifas _en neaktiva stato de_. Vortoj kun ĉi tiu sufikso estas konataj en Globasa kiel _neaktivaj adjektivoj_ kaj estas tipe tradukataj kiel la _pasiva participo_ en Esperanto (la formo per _-ita_). Tamen, malkiel la _perfektaj_ aŭ _pasivaj verbo_-formoj (_mi estas laborinta_, _ĝi estis/iĝis ŝtelita_, ktp.), _neaktivaj adjektivoj_ ne estas uzataj por krei tiajn formojn. Anstataŭe, ili funkcias nur kiel adjektivoj.
+La sufikso **-do** signifas _en neaktiva stato de_. Vortoj kun ĉi tiu sufikso estas konataj en Globaso kiel _neaktivaj adjektivoj_ kaj estas tipe tradukataj kiel la _pasiva participo_ en Esperanto (la formo per _-ita_). Tamen, malkiel la _perfektaj_ aŭ _pasivaj verbo_-formoj (_mi estas laborinta_, _ĝi estis/iĝis ŝtelita_, ktp.), _neaktivaj adjektivoj_ ne estas uzataj por krei tiajn formojn. Anstataŭe, ili funkcias nur kiel adjektivoj.
 
 * **bujodo morgiyen** - kaptita murdisto (_en stato de kapto_ aŭ _kiu estis kaptita_)
 
