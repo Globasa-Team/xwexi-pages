@@ -12,7 +12,7 @@ Complete Globasa Grammar:
 * [Function Words: Conjunctions, Prepositions and Function Adverbs](gramatilexi)
 * [Pronouns](pornamelexi)
 * [Correlatives](tabellexi)
-* [Numbers and Months of the Year](numer-ji-mesi)
+* [Numbers and Months](numer-ji-mesi)
 * [Verb Forms](falelexili-morfo)
 * [Word Order: Phrase Structure](jumlemonli-estrutur)
 * [Word Order: Sentence Structure](jumleli-estrutur)

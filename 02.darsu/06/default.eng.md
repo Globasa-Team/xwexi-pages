@@ -68,7 +68,7 @@ The mother loves many children.
 
 In Globasa, two nouns may be freely joined to produce a compound word. 
 
-_Fill in the blanks below:_
+_Fill in the blanks below_:
 
 library: <textarea width="100%" spellcheck="false" placeholder="Type your answer here."></textarea>
 dining room: <textarea width="100%" spellcheck="false" placeholder="Type your answer here."></textarea>

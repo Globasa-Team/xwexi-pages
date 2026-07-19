@@ -5,11 +5,11 @@ visible: true
 
 ## SVO
 
-La tipa sintagma ordo en Globaso estas _Subjekto-Verbo-Objekto_.
+La tipa frazparta ordo en Globaso estas _Subjekto-Verbo-Objekto_.
 
 <table style="width:100%">
 <tbody><tr>
-<td colspan="3"><b>SVO-Frazstrukturo</b></td>
+<td colspan="3"><b>Fraza Strukturo de SVO</b></td>
 </tr>
 <tr>
 <th>Subjekto</th>
@@ -26,9 +26,9 @@ La tipa sintagma ordo en Globaso estas _Subjekto-Verbo-Objekto_.
 </tr>
 </tbody></table>
 
-## Markilo de Rekta Objekto
+## Markilo de Rekta Objekto <a id="partikul_el"></a>
 
-Krom S-V-O, Globaso permesas du aliajn opciojn, ĉe kiuj la subjekto ĉiam antaŭas la verbon: S-O-V kaj O-S-V.  Ĉi tiu fleksebla sintagma ordo estas ebligata per la markilo de rekta objekto **el**, kiu esence funkcias kiel prepozicio. Kiel montrite sube, **el** estas uzata ĉe S-O-V kaj O-S-V, kiuj tipe estas uzataj nur en poezio kaj kantotekstoj.
+Krom S-V-O, Globaso permesas du aliajn opciojn, ĉe kiuj la subjekto ĉiam antaŭas la verbon: S-O-V kaj O-S-V.  Ĉi tiu fleksebla frazparta ordo estas ebligata per la markilo de rekta objekto **el**, kiu esence funkcias kiel prepozicio. Kiel montrite sube, **el** estas uzata ĉe S-O-V kaj O-S-V, kiuj tipe estas uzataj nur en poezio kaj kantotekstoj.
 
 * **Patre mwa matre.** - (S-V-O) La patro kisas la patrinon.
 * **Patre el matre mwa.** - (S-O-V) La patro kisas la patrinon.
@@ -38,16 +38,16 @@ _Etimologio de **el**: la korea (을 “eul”)_
 
 ## Kopulo
 
-La verbo **sen** (_esti_), konata kiel la _kopulo_, funkcias kiel predikata markilo ĉe sintagmoj krom predikataj verbaj sintagmoj, ligante la subjekton kun substantivaj sintagmoj, substantivecaj (infinitivaj) verbaj sintagmoj, adjektivaj sintagmoj, prepoziciaj sintagmoj kaj propozicioj.
+La verbo **sen** (_esti_), konata kiel la _kopulo_, funkcias kiel predikata markilo ĉe frazpartoj krom predikataj verbaj frazpartoj, ligante la subjekton kun substantivaj frazpartoj, substantivecaj (infinitivaj) verbaj frazpartoj, adjektivaj frazpartoj, prepoziciaj frazpartoj kaj propozicioj.
 
 <table style="width:100%">
 <tbody><tr>
-<td colspan="3"><b>Kopulaj Frazstrukturoj</b></td>
+<td colspan="3"><b>Kopulaj Frazaj Strukturoj</b></td>
 </tr>
 <tr>
 <th>Subjekto</th>
 <th>Kopulo</th>
-<th>Substantiva Sintagmo</th>
+<th>Substantiva Frazparto</th>
 </tr>
 <tr>
 <td><b>nini</b><br>infano (knabo aŭ knabino)</td>
@@ -60,7 +60,7 @@ La verbo **sen** (_esti_), konata kiel la _kopulo_, funkcias kiel predikata mark
 <tr>
 <th>Subjekto</th>
 <th>Kopulo</th>
-<th>Infinitiva Verba Sintagmo</th>
+<th>Infinitiva Verba Frazparto</th>
 </tr>
 <tr>
 <td><b>cele</b><br>celo</td>
@@ -73,7 +73,7 @@ La verbo **sen** (_esti_), konata kiel la _kopulo_, funkcias kiel predikata mark
 <tr>
 <th>Subjekto</th>
 <th>Kopulo</th>
-<th>Adjektiva Sintagmo</th>
+<th>Adjektiva Frazparto</th>
 </tr>
 <tr>
 <td><b>uma</b><br>ĉevalo</td>
@@ -86,7 +86,7 @@ La verbo **sen** (_esti_), konata kiel la _kopulo_, funkcias kiel predikata mark
 <tr>
 <th>Subjekto</th>
 <th>Kopulo</th>
-<th>Prepozicia Sintagmo</th>
+<th>Prepozicia Frazparto</th>
 </tr>
 <tr>
 <td><b>myaw</b><br>kato</td>
@@ -119,18 +119,18 @@ Kie estas la kato?
 **Filme sen kewatu?**  
 Kiam estas la filmo?
 
-En neformala lingvaĵo, la kopulo povas esti ellasita, kiam ĝi ligas adjektivajn sintagmojn.
+En neformala lingvaĵo, la kopulo povas esti ellasita, kiam ĝi ligas adjektivajn frazpartojn.
 
 **Uma (sen) perfetomo syahe.**   
 La ĉevalo estas perfekte nigra. 
 
-## Infinitivaj Verbaj Sintagmoj <a id="nafalelexili_jumlemon"></a>
+## Infinitivaj Verbaj Frazpartoj <a id="nafalelexili_jumlemon"></a>
 
-Infinitivaj verbaj sintagmoj estas markataj per la partikulo **na** sekvata de la verbo. Ili estas uzataj en la jenaj frazstrukturoj.
+Infinitivaj verbaj frazpartoj estas markataj per la partikulo **na** sekvata de la verbo. Ili estas uzataj en la jenaj frazaj strukturoj.
 
 ### Substantivaj/Verbaj Komplementoj
 
-La infinitiva verbformo devas esti uzata en substantivaj kaj verbaj (transitivaj, netransitivaj aŭ _stativaj_) komplementoj.
+La infinitiva verbformo devas esti uzata en substantivaj kaj verbaj (transitivaj, netransitivaj aŭ _statecaj_) komplementoj.
 
 * Verbaj Komplementoj
 
@@ -153,21 +153,21 @@ Mi estas preta iri.
 
 **misu xiwon na oko yu** - mia deziro vidi vin
 
-### Substantivecaj Verbaj Sintagmoj
+### Substantivecaj Verbaj Frazpartoj
 
-Verbaj sintagmoj, kiuj funkcias anstataŭ substantivaj sintagmoj, estas nomataj _substantivecaj verbaj sintagmoj_ kaj postulas la infinitivan verbformon.
+Verbaj frazpartoj, kiuj funkcias anstataŭ substantivaj frazpartoj, estas nomataj _substantivecaj verbaj frazpartoj_ kaj postulas la infinitivan verbformon.
 
 * Ĉe _kopulaj_ (**sen**) frazoj, kiel montrite supre:
 
 **Cele sen na triunfa.**  
 La celo estas venki.
 
-En ĉi tiuj frazoj, subjektaj infinitivaj verbaj sintagmoj povas esti movataj al la fino de la frazo. Tamen la pronomo **to** devas anstataŭi la infinitivan verban sintagmon, kaj komo devas esti aldonita antaŭ la movita sintagmo.
+En ĉi tiuj frazoj, subjektaj infinitivaj verbaj frazpartoj povas esti movataj al la fino de la frazo. Tamen la pronomo **to** devas anstataŭi la infinitivan verban frazparton, kaj komo devas esti aldonita antaŭ la movita frazparto.
 
 **Na sen nensabar sen problema.**   
 Esti senpacienca estas problemo.    
 _aŭ_  
-**To sen problem, na sen nensabar.**   
+**To sen problema, na sen nensabar.**   
 Estas problemo esti senpacienca.
 
 **Na soti gitara sen asan.**    
@@ -192,14 +192,14 @@ Li falis dancante.
 **Fe na doxo, nini le xorsomno.**    
 Legante, la knabo endormiĝis.
 
-## Prepoziciaj Sintagmoj <a id="plasilexili_jumlemon"></a>
+## Prepoziciaj Frazpartoj <a id="plasilexili_jumlemon"></a>
 
-Globaso, kiel la plimulto de SVO-lingvoj, uzas prepoziciojn anstataŭ [postpoziciojn](https://en.wikipedia.org/wiki/Preposition_and_postposition). Prepoziciaj sintagmoj ĉiam tuj sekvas la substantivajn sintagmojn, kiujn ili modifas.
+Globaso, kiel plej multaj SVO-lingvoj, uzas prepoziciojn anstataŭ [postpoziciojn](https://en.wikipedia.org/wiki/Preposition_and_postposition). Prepoziciaj frazpartoj ĉiam tuj sekvas la substantivajn frazpartojn, kiujn ili modifas.
 
 **Myaw _in sanduku_ somno.**  
 La kato _en la skatolo_ dormas.  
 
-Prepoziciaj sintagmoj, kiuj modifas verbojn, ĝuas relative liberan vortordon kaj povas esti movataj ien ajn en la frazo. Kiam ili estas movataj antaŭ la verbon, oni uzas komojn, kiel videblas sube. 
+Prepoziciaj frazpartoj, kiuj modifas verbojn, ĝuas relative liberan vortordon kaj povas esti movataj ien ajn en la frazo. Kiam ili estas movataj antaŭ la verbon, oni uzas komojn, kiel videblas sube. 
 
 **Myaw yam _in sanduku_ maux.**    
 **Myaw yam maux _in sanduku_.**   
@@ -207,7 +207,7 @@ Prepoziciaj sintagmoj, kiuj modifas verbojn, ĝuas relative liberan vortordon ka
 **_In sanduku,_ myaw yam maux.**  
 La kato manĝas la muson _en la skatolo_.
 
-Por indiki pozicion sen referenco al loko, prepozicioj estas ŝanĝataj en substantivojn per aldono de **-ya**, formante prepoziciajn sintagmojn kun **fe**.
+Por indiki pozicion sen referenco al loko, prepozicioj estas ŝanĝataj en substantivojn per aldono de **-ya**, formante prepoziciajn frazpartojn kun **fe**.
 
 **Myaw sen _fe inya._**  
 La kato estas _interne_.
@@ -220,7 +220,7 @@ _Interne_, la kato dormas.
 
 ### Nerekta Objekto
 
-La nerekta objekto ĉiam estas markata per la prepozicio **tas** (al, por). Nerektobjektaj sintagmoj, same kiel rektobjektaj sintagmoj markataj per **el**, povas esti movataj sen la neceso indiki la movon per komoj.
+La nerekta objekto ĉiam estas markata per la prepozicio **tas** (al, por). Nerektobjektaj frazpartoj, same kiel rektobjektaj frazpartoj markataj per **el**, povas esti movataj sen la neceso indiki la movon per komoj.
 
 **Mi gibe kitabu _tas nini_.**    
 Mi donas la libron _al la infano_.
@@ -246,14 +246,14 @@ _Al la infano_ mi donas libron.
 **_Tas te_ mi gibe to.**    
 _Al ŝi/li_ mi donas ĝin.
 
-### Sintagmaj Prepozicioj
+### Frazpartaj Prepozicioj
 
-Globaso uzas plurajn sintagmajn prepoziciojn, konsistantajn el **fe** sekvata de substantivo sekvata de **de**. 
+Globaso uzas plurajn frazpartajn prepoziciojn, konsistantajn el **fe** sekvata de substantivo sekvata de **de**. 
 
 **Baytu _fe kapi de_ liljabal sen kimapul.**  
 La domoj _sur la supro de_ la monteto estas multekostaj. 
 
-Por indiki pozicion sen referenco al loko, sintagmaj prepozicioj simple forlasas **de**.
+Por indiki pozicion sen referenco al loko, frazpartaj prepozicioj simple forlasas **de**.
 
 **Baytu _fe kapi_ sen kimapul.**  
 La domoj _supre_ estas multekostaj.
@@ -266,16 +266,16 @@ La multekostaj domoj estas _supre_.
 
 ## Prepoziciaj Verboj <a id="plasilexili_falelexi"></a>
 
-En Globaso, prepozicioj povas esti ŝanĝataj en verbojn per la sufikso **-ya**, kiel alternativo al la ligado de prepoziciaj sintagmoj kun subjektoj per la kopulo, kiel videblas supre. 
+En Globaso, prepozicioj povas esti ŝanĝataj en verbojn per la sufikso **-ya**, kiel alternativo al la ligado de prepoziciaj frazpartoj kun subjektoj per la kopulo, kiel videblas supre. 
 
 <table style="width:100%">
 <tbody><tr>
-<td colspan="3"><b>Frazstrukturo kun Prepozicia Verbo </b></td>
+<td colspan="3"><b>Fraza Strukturo kun Prepozicia Verbo </b></td>
 </tr>
 <tr>
 <th>Subjekto</th>
 <th>Prepozicia Verbo</th>
-<th>Substantiva Sintagmo</th>
+<th>Substantiva Frazparto</th>
 </tr>
 <tr>
 <td><b>myaw</b><br>kato</td>
@@ -287,12 +287,12 @@ En Globaso, prepozicioj povas esti ŝanĝataj en verbojn per la sufikso **-ya**,
 </tr>
 </tbody></table>
 
-Prepoziciaj verboj povas esti sekvataj de substantiva sintagmo aŭ ne.
+Prepoziciaj verboj povas esti sekvataj de substantiva frazparto aŭ ne.
 
 **Myaw inya.**      
 La kato estas interne. 
 
-Substantivoj uzataj en sintagmaj prepozicioj povas ankaŭ esti uzataj kiel verboj, same kiel prepoziciaj verboj.
+Substantivoj uzataj en frazpartaj prepozicioj povas ankaŭ esti uzataj kiel verboj, same kiel prepoziciaj verboj.
 
 **Myaw ruke sanduku.**      
 La kato estas malantaŭ la skatolo.
@@ -334,7 +334,7 @@ La konjunkcio **ki** estas uzata, kiam propozicio (_frazo enigita en la ĉefan f
 
 <table style="width:100%">
 <tbody><tr>
-<td colspan="2"><b>Frazstrukturo kun Propozicio anstataŭ Rekta Objekto</b></td>
+<td colspan="2"><b>Fraza Strukturo kun Propozicio anstataŭ Rekta Objekto</b></td>
 </tr>
 <tr>
 <th>Subjekto kaj Verbo</th>
@@ -353,7 +353,7 @@ La konjunkcio **ki** estas uzata, kiam propozicio (_frazo enigita en la ĉefan f
 
 <table style="width:100%">
 <tbody><tr>
-<td colspan="2"><b>Frazstrukturo kun Propozicio anstataŭ Subjekto</b></td>
+<td colspan="2"><b>Fraza Strukturo kun Propozicio anstataŭ Subjekto</b></td>
 </tr>
 <tr>
 <th>Propozicio anstataŭ la Subjekto</th>
@@ -368,18 +368,18 @@ La konjunkcio **ki** estas uzata, kiam propozicio (_frazo enigita en la ĉefan f
 </tr>
 </tbody></table>
 
-Subjektaj **ki**-propozicioj povas esti movataj al la fino de la frazo. Tamen la pronomo **to** devas anstataŭi la **ki**-propozicion, kaj komo devas esti aldonita antaŭ la menciita sintagmo.
+Subjektaj **ki**-propozicioj povas esti movataj al la fino de la frazo. Tamen la pronomo **to** devas anstataŭi la **ki**-propozicion, kaj komo devas esti aldonita antaŭ la menciita frazparto.
 
 **To no surprisa mi, ki yu le xuli mobil.**    
 Ne surprizas min, ke vi riparis la aŭton.
 
 ## Demandoj 
 
-En Globaso, la vortordo de demandaj frazoj estas la sama kiel tiu de iliaj korespondaj asertaj frazoj. 
+En Globaso, la vortordo de demandaj frazoj estas la sama kiel tiu de iliaj korespondaj deklaraj frazoj. 
 
 ### Jes/Ne-Demandoj
 
-Jes/ne-demandoj estas formataj per aldono de la partikulo **kam** ĉe la komenco de la koresponda aserta frazo de la demando. Tio estas ilustrita en la jenaj paroj de frazoj kun (1) aserta frazo kaj (2) la koresponda jes/ne-demando. 
+Jes/ne-demandoj estas formataj per aldono de la partikulo **kam** ĉe la komenco de la koresponda deklara frazo de la demando. Tio estas ilustrita en la jenaj paroj de frazoj kun (1) deklara frazo kaj (2) la koresponda jes/ne-demando. 
 
 (1) **Yu sen yamkal.**  
 Vi estas malsata.
@@ -428,3 +428,4 @@ Dupunktaj demandoj en Globaso estas jenaj.
 **Yu ogar keloka: in Barati or Indonesi?**  
 "Vi loĝas kie: en Barato aŭ Indonezio?"  
 Ĉu vi loĝas en Barato aŭ Indonezio?
+

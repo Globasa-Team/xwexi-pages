@@ -46,21 +46,21 @@ visible: true
 800 - **ococen**  
 900 - **nuecen**
 
-1,000 - **kilo**  
-2,000 - **dua kilo**  
-3,000 - **tiga kilo**  
-4,000 - **care kilo**  
-5,000 - **lima kilo**  
-6,000 - **sisa kilo**  
-7,000 - **sabe kilo**  
-8,000 - **oco kilo**  
-9,000 - **nue kilo**
+1 000 - **kilo**  
+2 000 - **dua kilo**  
+3 000 - **tiga kilo**  
+4 000 - **care kilo**  
+5 000 - **lima kilo**  
+6 000 - **sisa kilo**  
+7 000 - **sabe kilo**  
+8 000 - **oco kilo**  
+9 000 - **nue kilo**
 
-1 x 10^6 (1,000,000) - **mega**  
-1 X 10^9 (1,000,000,000) - **giga**  
-1 X 10^12 (1,000,000,000,000) - **tera**  
+1 x 10^6 (1 000 000) - **mega**  
+1 X 10^9 (1 000 000 000) - **giga**  
+1 X 10^12 (1 000 000 000 000) - **tera**  
 
-Pli grandaj nombroj esprimeblas kombinante **kilo**, **mega**, **giga** kaj **tera**.
+Pli grandaj nombroj esprimeblas per kombino de **kilo**, **mega**, **giga** kaj **tera**.
 
 1 x 10^15 - **kilo tera**  
 1 x 10^18 - **mega tera**  
@@ -83,7 +83,7 @@ dek-unua (11a) - **desunyum** (11yum), ktp.
 
 ## Kolektivaj Numeraloj
 
-**unyen, unxey** - unuopo, solo  
+**unyen, unxey** - unuopo  
 **duayen, duaxey** - duopo, paro  
 **tigayen, tigaxey** - triopo, ktp.
 
@@ -140,17 +140,17 @@ Vortoj por metrikaj mezuroj uzas entjerajn kaj frakciajn numeralojn kiel prefiks
 **limaple** - kvinobla  
 **sisaple** - sesobla, ktp.
 
-## Monatoj de la Jaro
+## Monatoj  
 
-**mesi 1 (mesi un)** - Januaro  
-**mesi 2 (mesi dua)** - Februaro  
-**mesi 3 (mesi tiga)** - Marto  
-**mesi 4 (mesi care)** - Aprilo  
-**mesi 5 (mesi lima)** - Majo  
-**mesi 6 (mesi sisa)** - Junio  
-**mesi 7 (mesi sabe)** - Julio  
-**mesi 8 (mesi oco)** - Aŭgusto  
-**mesi 9 (mesi nue)** - Septembro  
-**mesi 10 (mesi des)** - Oktobro  
-**mesi 11 (mesi des un)** - Novembro  
-**mesi 12 (mesi des dua)** - Decembro
+**mesi 1 (mesi un)** - januaro  
+**mesi 2 (mesi dua)** - februaro  
+**mesi 3 (mesi tiga)** - marto  
+**mesi 4 (mesi care)** - aprilo  
+**mesi 5 (mesi lima)** - majo  
+**mesi 6 (mesi sisa)** - junio  
+**mesi 7 (mesi sabe)** - julio  
+**mesi 8 (mesi oco)** - aŭgusto  
+**mesi 9 (mesi nue)** - septembro  
+**mesi 10 (mesi des)** - oktobro  
+**mesi 11 (mesi des un)** - novembro  
+**mesi 12 (mesi des dua)** - decembro

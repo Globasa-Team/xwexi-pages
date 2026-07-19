@@ -1,17 +1,20 @@
 ---
-title: Vortospecoj
+title: Vortklasoj
 visible: true
-slug: vortospecoj
 ---
 
 ## Enhavaj Vortoj
 
+* **benjilexi** _(b)_ - substantivo/verbo _(s/v)_
 * **[falelexi](/gramati/inharelexi#falelexili_klase)** _(f)_ - verbo _(v)_
- * **linkuli falelexi** _(b.lin)_ - ligverbo _(v.lig)_
+ * **linkuli falelexi** _(b.lin)_ - ligverbo _(ligv)_
  * **ojetoli falelexi** _(b.oj)_ - transitiva verbo _(v.tr)_
- * **nenojetoli falelexi** _(b.nenoj)_ - netransitiva verbo _(v.netr)_
+ <ul>
+ * **rusoti-ojetoli falelexi** _(b.oj.ru)_ - eĥ-objekta transitiva verbo _(v.tr.e)_
+</ul>
+ * **nenojetoli falelexi** _(b.nenoj)_ - netransitiva verbo _(v.ntr)_
  * **oroojetoli falelexi** _(b.oro)_ - (agata) ambaŭtransitiva verbo _(v.amb)_
- * **sahayli falelexi** _(b.sah)_ - helpverbo _(v.help)_
+ * **sahayli falelexi** _(b.sah)_ - helpverbo _(helpv)_
 * **manerlexi** _(m)_ - adverbo _(adv)_
 * **namelexi** _(n)_ - substantivo _(s)_
  * **pornamelexi** _(pn)_ - pronomo _(pron)_
@@ -26,11 +29,11 @@ slug: vortospecoj
 
 ## Funkciaj Vortoj
 
-* **dingyalexi** _(d)_ - determinilo _(det)_
+* **dingyalexi** _(d)_ - determinanto _(det)_
 * **intrelogalexi** _(il)_ - interjekcio _(interj)_
-* **linkulexi** _(l)_ - konjunkcio _(conj)_
+* **linkulexi** _(l)_ - konjunkcio _(konj)_
 * **numer** _(num)_ - numeralo _(num)_
-* **partikul** _(par)_ - partikulo _(part)_
+* **partikul** _(par)_ - partikulo _(par)_
 * **plasilexi** _(p)_ -  adpozicio _(adp)_
  * **lefeplasilexi** _(lp)_ - prepozicio _(prep)_
  * **xafeplasilexi** _(xp)_ - postpozicio _(postp)_
@@ -41,11 +44,10 @@ slug: vortospecoj
   * **lefefikso** _(lfik)_ - prefikso _(pfk)_
   * **xafefikso** _(xfik)_ - sufikso _(sfk)_
 
-## Frazeroj
+## Frazpartoj
 
-Krom unuopaj vortoj, ankaŭ diversaj frazeroj aperas en la Globasa vortaro. Pluraj ekzemploj estas listigitaj malsupre.  
+Krom unuopaj vortoj, ankaŭ diversaj frazpartoj aperas en la Globasa vortaro. Pluraj ekzemploj estas listigitaj malsupre.  
 
-* **jumlemon** _(jm)_ - frazero _(phrs)_
- * **plasilexili jumlemon** _(p jm)_ - prepozicia frazero _(prep frazer)_
- * **jumlemonli plasilexi** _(jm p)_ - frazera prepozicio _(frazer prep)_
- * **falelexili jumlemon** _(f jm)_ - verba frazero _(v frazer)_
+* **jumlemon** _(jm)_ - frazparto _(frazparto)_
+ * **plasilexili jumlemon** _(p jm)_ - prepozicia frazparto _(prep frazparto)_
+ * **falelexili jumlemon** _(f jm)_ - verba frazparto _(v frazparto)_

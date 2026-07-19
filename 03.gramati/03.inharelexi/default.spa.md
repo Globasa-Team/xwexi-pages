@@ -455,9 +455,9 @@ _Rápidamente_, el perro bebe el agua.
 **_Unyum_, te le idi cel banko.**  
 _Primero_, ella fue al banco.
 
-### Adjetivos/adverbios en frases iniciales
+### Adverbios en posición inicial de oración
 
-Los siguientes son adjetivos/adverbios comúnmente utilizados en frases iniciales seguidas de una clara pausa antes del resto de la oración.
+Los siguientes son adjetivos/adverbios que típicamente se usan como adverbios en posición inicial de oración, seguidos de una pausa clara antes del resto de la oración. La pausa impide que el adverbio oracional se interprete erróneamente como un adjetivo que modifica al sujeto.
 
 * **Ripul**, **Rili**, **Rimarali** - De nuevo, Otra vez  
 * **Dumarali** - A veces

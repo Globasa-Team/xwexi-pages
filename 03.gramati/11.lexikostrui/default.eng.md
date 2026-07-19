@@ -17,8 +17,8 @@ Prefixes do not alter the word class of the affixed word. On the other hand, suf
 * **[-cu](/gramati/inharelexi#xafefikso_-cu):** intransitivity marker
 * **[-ne](/gramati/inharelexi#xafefikso_-ne):** in the active state or process of (turns verbs into _active adjectives_)
 * **[-do](/gramati/inharelexi#xafefikso_-do):** in an inactive state of (turns nouns into _inactive adjectives_)
-* **[be-](/gramati/falelexili-morfo#be-):** passive voice
-* **[du-](/gramati/inharelexi#lefefikso_du-):** gerund; _habitual/continuous verb aspect_
+* **[be-](/gramati/falelexili-morfo#lefefikso_be-):** passive voice
+* **[du-](/gramati/falelexili-morfo#lefefikso_du-):** gerund; _habitual/continuous verb aspect_
 
 ## Prefixes <a id="lefefikso"></a>
 
@@ -130,7 +130,7 @@ Note that the dictionary labels both _true affixes_ and _quasi-affixes_ simply a
 * **alo:** other  
  * **aloopsyon** - alternative (_opsyon - option_)
 * **bon:** good; _in compounds:_ objectively or morally good, well
- * **bonata** - welcome (_ata_ - _come_); **bonxanse** - good luck (_xanse_ - _chance_, _luck_)
+ * **bonata** - welcome (_ata_ - _come_); **bonxanse** - good luck (_xanse_ - _chance_, _odds_)  
 * **bur:** bad; _in compounds:_ objectively or morally bad 
  * **burnini** - brat (_nini_ - _kid_); **bursolo** - lonely (_solo_ - _alone_); **burlexi** - swearword (_lexi_ - _word_)
 * **colo:** ugly; _in compounds:_ ugly
@@ -160,7 +160,7 @@ Note that the dictionary labels both _true affixes_ and _quasi-affixes_ simply a
 * **meli:** beautiful, pretty
  * **melieskri** - calligraphy (_eskri_ - _write_)
 * **midi:** middle; _in compounds:_ mid-
- * **midinuru** - noon (_nuru_ - _daytime_); **midinoce** - midnight (_noce_ - _night_); **mididay** - medium
+ * **midinuru** - noon (_nuru_ - _daytime_); **midinoce** - midnight (_noce_ - _night_); **mididay** - medium (_day_ - _big, large_)  
 * **neo:** new; _in compounds:_ new, neo-
  * **neoklasiko** - neoclassical (_klasiko_ - _classic_, _classical_)
 * **sama:** same  
@@ -177,9 +177,9 @@ Note that the dictionary labels both _true affixes_ and _quasi-affixes_ simply a
 * **bisu:** - compulsory, mandatory, indispensable, essential; _in compounds:_ which must be done, which must happen (counterpart of **-musi**)  
  * **okobisu** - must-see (_oko - see, look, watch_)
 * **bon:** good
- * **xetocubon** - delicious (_xetocu - taste_); **xansebon** - lucky, fortunate (_xanse - odds_)
+ * **xetocubon** - delicious (_xetocu - taste_); **xansebon** - lucky, fortunate (_xanse_ - _chance_, _odds_)  
 * **bur:** bad
- * **xansebur** - unlucky, unfortunate (_xanse_ - odds)
+ * **xansebur** - unlucky, unfortunate (_xanse_ - _chance_, _odds_)  
 * **day:** - big, large, great; _in compounds:_ great in, high in  
  * **termoday** - hot (_termo - heat_)
 * **ible:** possible; _in compounds_ -able. -ible (counterpart to **-abil**)
@@ -210,7 +210,7 @@ Note that the dictionary labels both _true affixes_ and _quasi-affixes_ simply a
 * **bol:** ball 
  * **pedabol** - soccer, football (_peda_ - _foot_); **basketobol** - basketball (_basketo_ - _basket_)
 * **din:** day
- * **Soladin** - Sunday (_Sola - Earth's sun_); **Lunadin** - Monday (_Luna - Earth's moon_); **Marihidin** - Tuesday (_Marihi - Mars_); **Bududin** - Wednesday (_Budu - Mercury_); **Muxtaridin** - Thursday (_Muxtari - Jupiter_); **Zuhuradin** - Friday (_Zuhura - Venus_); **Xanidin** - Saturday (_Xani - Saturn_); **Kristodin** - Christmas (_Kristo - Chirst_); **xencudin** - birthday (_xencu - birth_)
+ * **soladin** - Sunday (_Sola - Earth's sun_); **lunadin** - Monday (_Luna - Earth's moon_); **marihidin** - Tuesday (_Marihi - Mars_); **bududin** - Wednesday (_Budu - Mercury_); **muxtaridin** - Thursday (_Muxtari - Jupiter_); **zuhuradin** - Friday (_Zuhura - Venus_); **xanidin** - Saturday (_Xani - Saturn_); **Kristodin** - Christmas (_Kristo - Chirst_); **xencudin** - birthday (_xencu - birth_)
 * **dom:** place
  * **kitabudom** - library (_kitabu_ - _book_); **mehmandom** - hostel (_mehman_ - _guest_); **dinidom** - church, temple (_dini_ - _religion_)
 * **doku:** document 
@@ -260,7 +260,7 @@ Note that the dictionary labels both _true affixes_ and _quasi-affixes_ simply a
 * **osis:** pathology 
  * **sikoosis** - psychosis (_siko_ - _mind_)
 * **pel:** (extrinsic) drive, push; _in compounds:_ cause desire for/to
- * **seksopel** - sexiness, sex appeal (_sekso - sex_); **jixipel** - make (one) wonder
+ * **seksopel** - sexiness, sex appeal (_sekso - sex_); **jixipel** - make (one) wonder (_jixi_ - _know_)  
 * **tim:** team; _in compounds:_ team, body, short for **-yenlari**   
  * **asosyatim** - association (_asosya_ - _associate_); **komuntim** - community (_komun_ - _communal_); **organisatim** - organization (_organisa_ - _organize_); **jangetim** - military (_jange_ - _war_); **krasitim** - government (_krasi_ - _rule, govern_); **ergotim** - staff (_ergo_ - _work_); **oretim** - audience (_ore_ - _ear; hear_)
 * **tora:** machine, device, apparatus; _in compounds:_ -ator, machine, device, apparatus

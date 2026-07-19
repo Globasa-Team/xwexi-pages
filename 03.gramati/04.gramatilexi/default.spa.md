@@ -12,7 +12,8 @@ visible: true
 * **[nor](https://menalari.globasa.net/spa/lexi/nor)** - ni
  * **[noro](https://menalari.globasa.net/spa/lexi/noro)... nor...** - ni... ni (tampoco)...
 * **[kam](https://menalari.globasa.net/spa/lexi/kam)** - partícula interrogativa _sí/no_
- * **[kama](https://menalari.globasa.net/spa/lexi/kama)... kam...** - si... o (si)...
+ * **[ku kam](https://menalari.globasa.net/spa/lexi/ku_kam)** - (_introduce una pregunta indirecta_) si
+ * **[kama](https://menalari.globasa.net/spa/lexi/kama)... kam...** - (_introduce una posibilidad alternativa_) si... o (si)...
 * **[mas](https://menalari.globasa.net/spa/lexi/mas)** - pero
 * **[eger](https://menalari.globasa.net/spa/lexi/eger)** - si
 * **[kwas](https://menalari.globasa.net/spa/lexi/kwas)** - como si [**kwasi** - aparente(mente)]
@@ -47,7 +48,7 @@ Si el sustantivo es implícito, se utiliza un pronombre (**te**/**to** o **ete**
 **To de Maria sen day.**  
 La de María es grande.
 
-El sufijo **-su** se añade a los pronombres para formar adjetivos posesivos. Asimismo, la partícula **[su](https://menalari.globasa.net/spa/lexi/su)** se utiliza para expresar la posesión de los sustantivos. Sin embargo, a diferencia del uso de **-su** como sufijo en los pronombres posesivos, la partícula **su** se utiliza como una palabra independiente.
+El sufijo [**-su**](/gramati/pornamelexi#suyali_sifalexi) se añade a los pronombres para formar adjetivos posesivos. Asimismo, la partícula **[su](https://menalari.globasa.net/spa/lexi/su)** se utiliza para expresar la posesión de los sustantivos. Sin embargo, a diferencia del uso de **-su** como sufijo en los pronombres posesivos, la partícula **su** se utiliza como una palabra independiente.
 
 **Maria su baytu sen day.**  
 La casa de María es grande.
@@ -319,6 +320,6 @@ _¿Que robó_? Nunca dije que ella _robó_ mi dinero.
 
 ## Otras palabras de función
 
-[Pronombres](/gramati/pronamelexi)  
+[Pronombres](/gramati/pornamelexi)  
 [Correlativos](/gramati/tabellexi)  
 [Números](/gramati/numer-ji-mesi)  

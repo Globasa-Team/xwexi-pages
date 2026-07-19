@@ -79,13 +79,13 @@ When spelling words out loud, the names of the letters may be shortened.
 
 **d**, **t** - never like the American English pronunciation of _d_ and _t_ between vowels, as in _lady_ and _meter_
 
-In American English, _d_ and _t_ tend to be rendered as [[ɾ]](r.mp3) when they appear between vowels (leader, liter, etc). The phoneme [ɾ], or so-called _tap_, is virtually identical to the Spanish (and Globasa) _r_. English speakers with American accents should be careful to always pronounce a true _d_ (the _d_ in _done_, not in _leader_) and a true _t_ (the _t_ in _talk_, not in _liter_) in Globasa.
+In American English, _d_ and _t_ tend to be rendered as [[ɾ]](r.mp3) when they appear between vowels (leader, liter, etc.). The phoneme [ɾ], or so-called _tap_, is virtually identical to the Spanish (and Globasa) _r_. English speakers with American accents should be careful to always pronounce a true _d_ (the _d_ in _done_, not in _leader_) and a true _t_ (the _t_ in _talk_, not in _liter_) in Globasa.
  
 **g** - never [dʒ] as in _gym_
  
-**h** - ideally pronounced as a [voiceless velar fricative](h.mp3), not to be confused with [χ], a [voiceless uvular fricative](uvular.mp3)
+**h** - ideally pronounced as a [voiceless velar fricative](h.mp3); not to be confused with [χ], a [voiceless uvular fricative](uvular.mp3)
 
-The _velar_ fricative is pronounced in the same point of articulation as [k], and is akin to a cat's hissing sound. In contrast, the _uvular_ fricative is a more guttural sound pronounced further back in the throat in which uvular vibration is noticeable. Permissible variant: [h], as in _hotel_.
+The _velar_ fricative is pronounced at the same point of articulation as [k], and is akin to a cat's hissing sound. In contrast, the _uvular_ fricative is a more guttural sound pronounced further back in the throat in which uvular vibration is noticeable. Permissible variant: [h], as in _hotel_.
  
 **l** - ideally pronounced as a clear or light [l] in any position, rather than as [ɫ], a velarized or so-called dark _l_, pronounced in English in syllable-final position, as in _bell_; compare with the French pronunciation of _belle_
  
@@ -107,14 +107,14 @@ See [Spelling Convention](/gramati/abece-ji-lafuzu#regula_fe_harufiya) below.
 
 ### Other Consonant Variants
 
-Depending on one's native language, other consonant variants are also permissible. For example, some Spanish speakers might tend to pronounce _h_ as [[χ]](uvular.mp3) rather than [[x]](h.mp3). French speakers might tend to pronounce _r_ as [[ʁ]](Voiced_uvular_fricative.ogg) rather than [[ɾ]](r.mp3). Mandarin speakers might tend to pronounce _x_ as [[ʂ]](Voiceless_alveolo-palatal_sibilant.ogg) or [[ɕ]](Voiceless_retroflex_sibilant.ogg) rather than [[ʃ]](x.mp3). These and other such variants are also permissible. 
+Depending on one's native language, other consonant variants are also permissible. For example, some Spanish speakers might tend to pronounce _h_ as [[χ]](uvular.mp3) rather than [[x]](h.mp3). French speakers might tend to pronounce _r_ as [[ʁ]](Voiced_uvular_fricative.ogg) rather than [[ɾ]](r.mp3). Mandarin speakers might tend to pronounce _x_ as [[ʂ]](Voiceless_retroflex_sibilant.ogg) or [[ɕ]](Voiceless_alveolo-palatal_sibilant.ogg) rather than [[ʃ]](x.mp3). These and other such variants are also permissible. 
 
 The following table lists all free variation consonant allophones. The first allophone listed for each phoneme is the ideal Globasa pronunciation. Dozens of other complementary distribution allophones (allophones that depend on the phonetic environment) will likely be heard among many speakers, but everybody should make an effort to not deviate too much from the set of allophones listed here. 
 
 | letter | allophones | 
 |
 | **b** | [[b](b.mp3)] |
-| **c** | [[t͡ʃʰ](c_aspirated.mp3) ~ [ʈ͡ʂʰ](ch.wav) ~ [t͡ɕʰ](q.wav) ~ [[t͡ʃ](c_unaspirated.mp3)] |
+| **c** | [[t͡ʃʰ](c_aspirated.mp3) ~ [ʈ͡ʂʰ](ch.wav) ~ [t͡ɕʰ](q.wav) ~ [t͡ʃ](c_unaspirated.mp3)] |
 | **d** | [[d](d.mp3)] |
 | **f** | [[f](f.mp3) ~ [ɸ](Voiceless_bilabial_fricative.ogg)] |
 | **g** | [[g](g.mp3)] |
@@ -148,13 +148,13 @@ Globasa's vowels (**a**, **e**, **i**, **o**, **u**) are pronounced as in Spanis
 
 ### Vowel Variants
 
-**a** - ideally pronounced [[ä]](https://en.wikipedia.org/wiki/Open_central_unrounded_vowel), an open central unrounded vowel; the front [[a]](https://upload.wikimedia.org/wikipedia/commons/0/0e/PR-open_front_unrounded_vowel.ogg) and back [[ɑ]](https://upload.wikimedia.org/wikipedia/commons/e/e5/Open_back_unrounded_vowel.ogg) are permissible variants
+**a** - ideally pronounced [[**ä**]](https://en.wikipedia.org/wiki/Open_central_unrounded_vowel), an open central unrounded vowel; the front [[a]](https://upload.wikimedia.org/wikipedia/commons/0/0e/PR-open_front_unrounded_vowel.ogg) and back [[ɑ]](https://upload.wikimedia.org/wikipedia/commons/e/e5/Open_back_unrounded_vowel.ogg) are permissible variants
  
-**e** - ideally pronounced [[e̞]](https://en.wikipedia.org/wiki/Mid_front_unrounded_vowel), a mid front unrounded vowel; the close-mid [[e]](https://upload.wikimedia.org/wikipedia/commons/6/6c/Close-mid_front_unrounded_vowel.ogg) and the open-mid [[ɛ]](https://upload.wikimedia.org/wikipedia/commons/7/71/Open-mid_front_unrounded_vowel.ogg) are permissible variants
+**e** - ideally pronounced [[**e̞**]](https://en.wikipedia.org/wiki/Mid_front_unrounded_vowel), a mid front unrounded vowel; the close-mid [[e]](https://upload.wikimedia.org/wikipedia/commons/6/6c/Close-mid_front_unrounded_vowel.ogg) and the open-mid [[ɛ]](https://upload.wikimedia.org/wikipedia/commons/7/71/Open-mid_front_unrounded_vowel.ogg) are permissible variants
  
-**o** - ideally pronounced [[o̞]](https://en.wikipedia.org/wiki/Mid_back_rounded_vowel), a mid back round vowel; the close-mid [[o]](https://upload.wikimedia.org/wikipedia/commons/8/84/Close-mid_back_rounded_vowel.ogg) and the open-mid [[ɔ]](https://upload.wikimedia.org/wikipedia/commons/d/d0/PR-open-mid_back_rounded_vowel.ogg) are permissible variants
+**o** - ideally pronounced [[**o̞**]](https://en.wikipedia.org/wiki/Mid_back_rounded_vowel), a mid back rounded vowel; the close-mid [[o]](https://upload.wikimedia.org/wikipedia/commons/8/84/Close-mid_back_rounded_vowel.ogg) and the open-mid [[ɔ]](https://upload.wikimedia.org/wikipedia/commons/d/d0/PR-open-mid_back_rounded_vowel.ogg) are permissible variants
 
-**u** - ideally pronounced [[u]](https://en.wikipedia.org/wiki/Close_back_rounded_vowel), a close back rounded vowel; the close back compressed [[ɯᵝ]](compressed_u.mp3) is a permissible variant
+**u** - ideally pronounced [[**u**]](https://en.wikipedia.org/wiki/Close_back_rounded_vowel), a close back rounded vowel; the close back compressed [[ɯᵝ]](compressed_u.mp3) is a permissible variant
 
 ### Elision
 
@@ -170,7 +170,7 @@ Syllables in Globasa are either stressed or unstressed. In other words, Globasa 
 
 * All monosyllabic content words (_nouns, verbs, adjectives, adverbs_) are stressed. 
 
-Monosyllabic words may be stressed or unstressed according to what feels most natural for speakers. If in doubt, the following suggested guidelines may be used:
+Monosyllabic function words may be stressed or unstressed according to what feels most natural for speakers. If in doubt, the following suggested guidelines may be used:
 
 * Unstressed monosyllabic function words: _prepositions, conjunctions and particles (including verb form particles)_
 * Stressed monosyllabic function words: _pronouns, determiners, numerals, quantifiers, adverbs and interjections_ 
@@ -215,12 +215,12 @@ Double vowels and consonants, whether within words as a result of derivation or 
 ### Double Vowels
  
 **beeskri** (be written), pronounced [[be'eskri]](beeskri.mp3) or [[beʔeskri]](be_eskri.mp3)  
-**semiisula** (peninsula), pronounced [[semi:'sula]](semiisula.mp3) or [[semiʔi'sula]](semi_isula.mp3)
+**semiisula** (peninsula), pronounced [[semiː'sula]](semiisula.mp3) or [[semiʔi'sula]](semi_isula.mp3)
 
 ### Double Consonants
 
-**possahay** (hinder), pronounced [[pos:a'xaj]](possahay.mp3) or [[posəsa'xaj]](pos_sahay.mp3)  
-**aselli** (original), pronounced [[a'sel:i]](aselli.mp3) or [[a'seləli]](asel_li.mp3)
+**possahay** (hinder), pronounced [[posːa'xaj]](possahay.mp3) or [[posəsa'xaj]](pos_sahay.mp3)  
+**aselli** (original), pronounced [[a'selːi]](aselli.mp3) or [[a'seləli]](asel_li.mp3)
 
 ### Double r
 
@@ -236,7 +236,7 @@ Although _r_ cannot be lengthened in the same way that other consonants can be, 
 
 As stated above, _w_ and _y_ may be pronounced as vowels. However, since they are technically consonants they are never stressed.
 
-Compare the pronunciation of following proper names:
+Compare the pronunciation of the following proper names:
 
 **_Maria_**, pronounced _ma-r<u>**i**</u>-a_ [[ma.'ɾi.a]](maria.mp3)  
 **_Maryo_**, pronounced _m<u>**a**</u>-ryo_ [['ma.ɾjo]](maryo.mp3) or _m<u>**a**</u>-ri-o_ [['ma.ɾi.o]](ma.ri.o.mp3)
@@ -274,7 +274,7 @@ In the following root words, _y_ and _w_, which may optionally be pronounced as 
 
 **Note:** As a learner of Globasa you may skip this last portion on phonotactics, as this is merely a description of Globasa's syllable structure.
 
-Globasa has two sets of phonotactics rules, one for ordinary words (this section) and one for proper nouns (see next section). Phonotactics rules for culture-specific words combine both sets of rules (see last section). 
+Globasa has two sets of phonotactic rules, one for ordinary words (this section) and one for proper nouns (see next section). Phonotactic rules for culture-specific words combine both sets of rules (see last section). 
 
 The following rules apply to ordinary words. 
 

@@ -15,7 +15,7 @@ La jenaj funkciovortoj estas _trunkitaj morfemoj_:
 * **fol** (laŭ, apud) _el_ **folo** (sekvi)
 * **ger** (-us) _el_ **eger** (se)
 * **har** (kun, havante) _el_ **hare** (havi)
-* **kom** (ol) _el_ **kompara** (komparo/kompari)
+* **kom** (ol) _el_ **kompara** (kompari)
 * **kos** (pro, kaŭze de) _el_ **kosa** (kaŭzo)
 * **kwas** (kvazaŭ) _el_ **kwasi** (ŝajna)
 * **pas** (tra) _el_ **pasa** (pasi)
@@ -29,13 +29,13 @@ La jenaj funkciovortoj estas _trunkitaj morfemoj_:
 La jenaj prefiksoj estas _trunkitaj morfemoj_:
 
 * **awto-** (aŭto-, aŭtomate, aŭtonome, per si mem) _el_ **awtomati** (aŭtomata) kaj **awtonom** (aŭtonoma)
-* **du-** (_kontinua/kutima aspekto_) _el_ **dure** (daŭro)
+* **du-** (_daŭra/kutima aspekto_) _el_ **dure** (daŭri)
 * **fin-** (fino/fini) _el_ **fini** (fino, fini)
 * **fron-** (antaŭen) _el_ **fronta** (frunto, antaŭo)
 * **ja-** (tuj apuda) _el_ **jara** (najbaro)
 * **pos-** (kontraŭa) _el_ **opos** (kontraŭa)
 * **ru-** (retro, malantaŭen) _el_ **ruke** (dorso, malantaŭo)
-* **xor-** (komenci, eki) _el_ **xoru** (komenci, eki)
+* **xor-** (komenci, ek-) _el_ **xoru** (komenci, eki)
 
 La jenaj sufiksoj estas _trunkitaj morfemoj_:
 

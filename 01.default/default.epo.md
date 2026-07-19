@@ -4,16 +4,16 @@ metadata:
     description: 'Learn Globasa, a newly constructed, truly international auxiliary language.'
 ---
 
-Globasa is the product of an elaborate thought experiment. It envisions the linguistic outcome of a hypothetical scenario whereby 1,000 people from around the world are randomly selected to permanently inhabit an island. What would the community's language look like within three generations? This is Globasa's _guiding vision_.
+Globaso estas la produkto de ellaborita pensa eksperimento. Ĝi imagis la lingvan rezulton de hipoteza scenaro, en kiu 1000 homoj el la tuta mondo estas hazarde elektitaj por porĉiame ekloĝi sur insulo. Kiel aspektus la lingvo de la komunumo post tri generacioj? Tio estas la _gvida vizio_ de Globaso.
 
-Globasa's design is primarily the work of a linguist, translator and expert in adult language acquisition and teaching. It has been created with the average world citizen in mind to be as easy as possible to learn and to use without sacrificing clarity and degree of expressiveness. Its design, reminiscent of the world's creole languages, is the result of the following guiding principles:
+La dezajno de Globaso estas ĉefe la verko de lingvisto, tradukisto kaj fakulo pri plenkreskula lingvo-akirado kaj -instruado. Ĝi estas kreita kun konsidero pri la meza mondcivitano, por esti kiel eble plej facila por lerni kaj uzi, sen oferi klarecon nek gradon de esprimkapablo. Ĝia dezajno, kiu memorigas pri la kreolaj lingvoj de la mondo, estas la rezulto de la jenaj gvidaj principoj:
 
-* Optimal simplicity with the goal of maximum learnability and ease of use for both speaker and listener
-* Optimal balance between opposing linguistic parameters
-* Internationality 
+* Optimuma simpleco, kun la celo de maksimuma lernebleco kaj facileco de uzo por kaj la parolanto kaj la aŭskultanto
+* Optimuma ekvilibro inter kontraŭaj lingvaj parametroj
+* Internacieco
 
-## Learn Globasa
+## Lernu Globason
 
-The best way to learn Globasa is to start with [Lesson 1](/darsu/01) of Globasa Lessons for Beginners.
+La plej bona maniero lerni Globason estas komenci per [Leciono 1](/darsu/01) de la Globasaj Lecionoj por Komencantoj.
 
-If you prefer, you may dive into Globasa's complete grammar [here](/gramati).
+Se vi preferas, vi povas plonĝi en la kompletan gramatikon de Globaso [ĉi tie](/gramati).

@@ -189,7 +189,7 @@ Note: As seen above, greetings with **bon** (good, well) are expressed as compou
  <source src="/pimpan-logaxey/otima.mp3" type="audio/mp3" />
  <p>Your user agent does not support the HTML5 Audio element.</p>
 </audio>
-**afarin** - well done, good job ("applause")  
+**afarin** - well done, good job, bravo ("applause")  
 <audio controls>
  <source src="/pimpan-logaxey/afarin.mp3" type="audio/mp3" />
  <p>Your user agent does not support the HTML5 Audio element.</p>
@@ -464,7 +464,7 @@ My name is...
  <p>Your user agent does not support the HTML5 Audio element.</p>
 </audio>
 
-**(To sen) yukwe, na xorkone yu.** _or_ **Yukwe.**  
+**(To sen) yukwe na xorkone yu.** _or_ **Yukwe.**  
 It's nice (pleasant) meeting you. or It's pleasant. 
 
 <audio controls>
@@ -476,7 +476,7 @@ It's nice (pleasant) meeting you. or It's pleasant.
  <p>Your user agent does not support the HTML5 Audio element.</p>
 </audio>
 
-**(To sen) furaha, na xorkone yu.** _or_ **Furaha.**  
+**(To sen) furaha na xorkone yu.** _or_ **Furaha.**  
 It's a pleasure to meet you. or It's a pleasure.
 
 <audio controls>
@@ -556,8 +556,8 @@ Do you speak Globasa?
  <p>Your user agent does not support the HTML5 Audio element.</p>
 </audio>
 
-**Si, lil.**  or **Si, mas xosu.**  
-Yes, a little (bit). or Yes, but not much.
+**Si, xosu.**  or **Si, mas no bon.**   
+Yes, a little (bit). or Yes, but not well.  
 
 * **Yu pala ke basa?**  
 What language(s) do you speak?  

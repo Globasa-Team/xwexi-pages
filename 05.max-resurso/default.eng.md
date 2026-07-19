@@ -76,9 +76,9 @@ title: 'More Resources'
 
 [Guidelines for categorization of ambitransitive verbs](https://www.reddit.com/r/Globasa/comments/1av6mfs/guidelines_for_categorization_of_ambitransitve/)
 
-#### Word Derivation
+#### Word Formation
 
-[aloya intre -tim ji -lari](https://www.reddit.com/r/Globasa/comments/1pfwx7t/aloya_intre_tim_ji_lari/)
+[Difference between **-tim** and **-lari**](https://www.reddit.com/r/Globasa/comments/1pfwx7t/aloya_intre_tim_ji_lari/)
 
 [Clarification around the difference between **du-**[count noun] and [count root]**-ya**](https://www.reddit.com/r/Globasa/comments/1nz5jki/clarification_around_the_difference_between/)
 

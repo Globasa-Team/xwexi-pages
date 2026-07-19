@@ -1,22 +1,22 @@
 ---
-title: 'Vortordo: sintagma strukturo'
+title: 'Vortordo: frazparta strukturo'
 visible: true
 ---
 
 ## Strikta Vortordo
 
-En Globaso, relative strikta vortordo estas aplikata ene de sintagmoj.
+En Globaso, relative strikta vortordo estas aplikata ene de frazpartoj.
 
-## Substantivaj Sintagmoj <a id="namelexili_jumlemon"></a>
+## Substantivaj Frazpartoj <a id="namelexili_jumlemon"></a>
 
-Substantivaj sintagmoj konsistas el la jena strukturo, kiel ilustrite en la suba tabelo:
+Substantivaj frazpartoj konsistas el la jena strukturo, kiel ilustrite en la suba tabelo:
 
 (Specifilo) + (Komplemento) + Kerno
 
 <table style="width:100%">
 		<tbody>
 			<tr>
-				<td colspan="6"><b>Substantiva Sintagmo</b></td>
+				<td colspan="6"><b>Substantiva Frazparto</b></td>
 			</tr>
 			<tr>
 				<th colspan="3">(Specifilo)</th>
@@ -24,7 +24,7 @@ Substantivaj sintagmoj konsistas el la jena strukturo, kiel ilustrite en la suba
 				<th>Kerno</th>
 			</tr>
 			<tr>
-				<td><b>Determinilo</b></td>
+				<td><b>Determinanto</b></td>
 				<td><b>Poseda Adj</b></td>
 				<td><b>Kvantigilo</b></td>
 				<td><b>Adj/Adv-Modifanta<br>
@@ -85,13 +85,13 @@ Substantivaj sintagmoj konsistas el la jena strukturo, kiel ilustrite en la suba
 		</tbody>
 </table>
 
-Ĉar specifiloj kaj komplementoj estas nedevigaj, substantiva sintagmo povas konsisti el ununura substantivo, ekzemple **kitabu**.
+Ĉar specifiloj kaj komplementoj estas nedevigaj, substantiva frazparto povas konsisti el ununura substantivo, ekzemple **kitabu**.
 
-### Triapersonaj Pronomoj ĉe Fino de Substantivaj Sintagmoj <a id="pronamelexi_in_namelexili_jumlemon"></a>
+### Triapersonaj Pronomoj ĉe Fino de Substantivaj Frazpartoj <a id="pronamelexi_in_namelexili_jumlemon"></a>
 
-Substantivaj sintagmoj devas ĉiam finiĝi per aŭ substantivo aŭ pronomo. Kiam ajn substantivo estas subkomprenata kaj ellasata, pronomo devas anstataŭi ĝin, anstataŭ lasi specifilon aŭ komplementon pendanta. Sen la uzo de pronomoj por kompletigi substantivajn sintagmojn, tiaj sintagmoj havus malsamajn signifojn aŭ kreus nekompletajn kaj tial malgramatikajn frazojn.
+Substantivaj frazpartoj devas ĉiam finiĝi per aŭ substantivo aŭ pronomo. Kiam ajn substantivo estas subkomprenata kaj ellasata, pronomo devas anstataŭi ĝin, anstataŭ lasi specifilon aŭ komplementon pendanta. Sen la uzo de pronomoj por kompletigi substantivajn frazpartojn, tiaj frazpartoj havus malsamajn signifojn aŭ kreus nekompletajn kaj tial malgramatikajn frazojn.
 
-### Determinilo + Pronomo = Kompleta Substantiva Sintagmo
+### Determinanto + Pronomo = Kompleta Substantiva Frazparto
 
 **_Banete_ ergo velosi ji _banete_ ergo hanman.**  
 _Iuj_ laboras rapide kaj _iuj_ laboras malrapide.
@@ -100,7 +100,7 @@ Sen la pronomo **te**, la frazo tekstus:
 **Ban ergo sen velosi ji ban ergo sen hanman.**  
 Iu laboro estas rapida kaj iu laboro estas malrapida.
 
-### Poseda Adj + Pronomo (Poseda Pronomo) = Kompleta Substantiva Sintagmo
+### Poseda Adj + Pronomo (Poseda Pronomo) = Kompleta Substantiva Frazparto
 
 **Yusu gami ergo velosi mas _misu_ te ergo hanman.**  
 Via geedzo laboras rapide sed _la mia_ laboras malrapide.
@@ -109,7 +109,7 @@ Sen la pronomo **te**, la dua parto de la frazo tekstus:
 **Misu ergo sen hanman.**  
 Mia laboro estas malrapida.
 
-### Kvantigilo + Pronomo = Kompleta Substantiva Sintagmo
+### Kvantigilo + Pronomo = Kompleta Substantiva Frazparto
 
 **Dua basataytiyen ergo velosi mas _un te_ ergo hanman.**  
 Du tradukistoj laboras rapide sed _unu_ laboras malrapide.
@@ -118,7 +118,7 @@ Sen la pronomo **te**, la dua parto de la frazo tekstus:
 **Un ergo sen hanman.**  
 Unu laboro estas malrapida.
 
-### Adjektivo + Pronomo = Kompleta Substantiva Sintagmo
+### Adjektivo + Pronomo = Kompleta Substantiva Frazparto
 
 **Day manyen ergo velosi mas _lil te_ ergo hanman.**  
 La granda viro laboras rapide sed _la malgranda_ laboras malrapide.
@@ -127,14 +127,14 @@ Sen la pronomo **te**, la dua parto de la frazo tekstus:
 **Lil ergo sen hanman.**  
 La malgranda laboro estas malrapida.
 
-## Verbaj Sintagmoj
+## Verbaj Frazpartoj
 
-Verbaj sintagmoj similas strukture al substantivaj sintagmoj:
+Verbaj frazpartoj similas strukture al substantivaj frazpartoj:
 
 <table style="width:100%">
 	<tbody>
 		<tr>
-			<td colspan="7"><b>Verba Sintagmo</b></td>
+			<td colspan="7"><b>Verba Frazparto</b></td>
 		</tr>
 		<tr>
 			<th>(Specifilo)</th>
@@ -148,7 +148,7 @@ Verbaj sintagmoj similas strukture al substantivaj sintagmoj:
 			<td><b>Adverbo(j)</b></td>
 			<td><b>Pasiva Voĉo</b></td>
 			<td><b>Daŭra/<br>
-			Kutima Modo</b></td>
+			Kutima Aspekto</b></td>
 			<td><b>Verbo</b></td>
 		</tr>
 		<tr>
@@ -175,7 +175,7 @@ Verbaj sintagmoj similas strukture al substantivaj sintagmoj:
 			<td><b>du</b> -<br>
 			daŭra/<br>
 			kutima<br>
-			modo-markilo</td>
+			aspekt-markilo</td>
 			<td><b>danse</b> - danci<br>
 			<b>lala</b> - kanti<br>
 			<b>eskri</b> - skribi<br>
@@ -199,11 +199,11 @@ Verbaj sintagmoj similas strukture al substantivaj sintagmoj:
 
 ### Verbaj Markiloj
 
-Kiel specifiloj, verbaj markiloj (**nun**, **le**, **xa**, **ger**, **am**, **na**) estas metataj ĉe la komenco de verbaj sintagmoj.
+Kiel specifiloj, verbaj markiloj (**nun**, **le**, **xa**, **ger**, **am**, **na**) estas metataj ĉe la komenco de verbaj frazpartoj.
 
 ### Adverboj
 
-Kiel videblas en la supra frazo, adverboj (aŭ adverbaj sintagmoj) tipe antaŭas verbojn.
+Kiel videblas en la supra frazo, adverboj (aŭ adverbaj frazpartoj) tipe antaŭas verbojn.
 
 Alternative, adverboj povas esti metataj post la verbo, tuj post la objektoj, se estas iuj.
 
@@ -212,12 +212,12 @@ Alternative, adverboj povas esti metataj post la verbo, tuj post la objektoj, se
 **Femyen danse _meli_.**  
 La virino dancas _bele_.
 
-* Tamen, se la frazo enhavas objektojn, la adverba sintagmo devas tuj sekvi ĉiujn objektojn.
+* Tamen, se la frazo enhavas objektojn, la adverba frazparto devas tuj sekvi ĉiujn objektojn.
 
 **Mi le gibe pesa tas coriyen _volekal_ koski mi le befobi ki te xa morgi mi.**  
 Mi donis la monon al la ŝtelisto _kontraŭvole_ ĉar mi timis, ke li mortigos min.
 
-Adverboj povas ankaŭ esti movataj al la komenco de la frazo, kondiĉe ke estas definitiva paŭzo per la komo por apartigi la sintagmon de la resto de la frazo. Sen la paŭzo, la adjektivo/adverbo povus esti erare interpretata kiel modifanta la subjekton.
+Adverboj povas ankaŭ esti movataj al la komenco de la frazo, kondiĉe ke estas klara paŭzo per la komo por apartigi la frazparton de la resto de la frazo. Sen la paŭzo, la adjektivo/adverbo povus esti erare interpretata kiel modifanta la subjekton.
 
 **_Velosi_, bwaw glu sui.**  
 _Rapide_, la hundo trinkas la akvon.
@@ -227,7 +227,7 @@ _Unue_, ŝi iris al la banko.
 
 ## Neado
 
-La neanta adverbo **no** tuj antaŭas la neatan vorton aŭ sintagmon.
+La neanta adverbo **no** tuj antaŭas la neatan vorton aŭ frazparton.
 
 **Manyen _no godomo bur_ danse.**  
 aŭ: **Manyen danse _no godomo bur_.**  
@@ -240,25 +240,25 @@ Alternative, **no** povus tuj antaŭi la verbon kaj esti interpretata kiel modif
 **Manixu _no danse godomo bur_.**  
 La viro _ne dancas tro malbone_.
 
-## Infinitivaj Verbaj Sintagmoj
+## Infinitivaj Verbaj Frazpartoj
 
-Infinitivaj verbaj sintagmoj havas la jenan strukturon:
+Infinitivaj verbaj frazpartoj havas la jenan strukturon:
 
-**na** + verba sintagmo
+**na** + verba frazparto
 
-Vidu [Infinitivaj Verbaj Sintagmoj](/gramati/jumleli-estrutur#nafalelexili_jumlemon) sub Frazstrukturo.
+Vidu [Infinitivajn Verbajn Frazpartojn](/gramati/jumleli-estrutur#nafalelexili_jumlemon) sub Fraza Strukturo.
 
-## Prepoziciaj Sintagmoj
+## Prepoziciaj Frazpartoj
 
-Globaso, kiel plej multaj SVO-lingvoj, uzas prepoziciojn anstataŭ [postpoziciojn](https://en.wikipedia.org/wiki/Preposition_and_postposition). Prepoziciaj sintagmoj konsistas el prepozicio sekvata de substantiva sintagmo.
+Globaso, kiel plej multaj SVO-lingvoj, uzas prepoziciojn anstataŭ [postpoziciojn](https://en.wikipedia.org/wiki/Preposition_and_postposition). Prepoziciaj frazpartoj konsistas el prepozicio sekvata de substantiva frazparto.
 
 <table style="width:100%">
 <tbody><tr>
-<td colspan="2"><b>Prepozicia Sintagmo</b></td>
+<td colspan="2"><b>Prepozicia Frazparto</b></td>
 </tr>
 <tr>
 <th>Prepozicio</th>
-<th>Substantiva Sintagmo</th>
+<th>Substantiva Frazparto</th>
 </tr>
 <tr>
 <td><b>in </b><br>en</td>
@@ -268,11 +268,11 @@ Globaso, kiel plej multaj SVO-lingvoj, uzas prepoziciojn anstataŭ [postpozicioj
 </tr>
 </tbody></table>
 
-La pozicio de prepoziciaj sintagmoj ene de frazoj estas klarigata sub [Frazstrukturo](/gramati/jumleli-estrutur#plasilexili_jumlemon).
+La pozicio de prepoziciaj frazpartoj ene de frazoj estas klarigata sub [Fraza Strukturo](/gramati/jumleli-estrutur#plasilexili_jumlemon).
 
 ## Fokusaj Adverboj
 
-Krom **no** (_ne_), _fokusaj adverboj_, kiel **sol** (_nur_), **pia** (_ankaŭ_) kaj **hata** (_eĉ_), ne aperas en la ĉisupraj tabeloj de Substantiva Sintagmo kaj Verba Sintagmo. La kialo estas, ke _fokusaj adverboj_ povas aperi ie ajn en frazo, depende de tio, kio estas modifata en la frazo. _Fokusaj adverboj_ ĉiam tuj antaŭas la sintagmon aŭ vorton kiun ili modifas.
+Krom **no** (_ne_), _fokusaj adverboj_, kiel **sol** (_nur_), **pia** (_ankaŭ_) kaj **hata** (_eĉ_), ne aperas en la ĉisupraj tabeloj de Substantiva Frazparto kaj Verba Frazparto. La kialo estas, ke _fokusaj adverboj_ povas aperi ie ajn en frazo, depende de tio, kio estas modifata en la frazo. _Fokusaj adverboj_ ĉiam tuj antaŭas la frazparton aŭ vorton kiun ili modifas.
 
 **Misu gami glu _sol_ kafe fe soba.**  
 Mia geedzo trinkas _nur_ kafon matene.
@@ -283,11 +283,11 @@ Mia geedzo trinkas kafon _eĉ_ vespere.
 **_Pia_ misu gami glu kafe fe soba.**  
 _Ankaŭ_ mia geedzo trinkas kafon matene.
 
-## Kompleksaj Adjektivaj Sintagmoj
+## Kompleksaj Adjektivaj Frazpartoj
 
-Kompleksaj adjektivaj sintagmoj venas post la substantivoj kiujn ili modifas.
+Kompleksaj adjektivaj frazpartoj venas post la substantivoj kiujn ili modifas.
 
-**Adj/Adv plus Prepozicia Sintagmo**
+**Adj/Adv plus Prepozicia Frazparto**
 
 **kitabu eskrido fal misu doste**  
 la libro skribita de mia amiko
@@ -295,7 +295,7 @@ la libro skribita de mia amiko
 **alimyen hox kos yusu sukses**  
 la instruisto feliĉa pro via sukceso
 
-**Komparaj Adj/Adv-Sintagmoj**
+**Komparaj Adj/Adv-Frazpartoj**
 
 **nini maxmo lao kom misu sodar**  
 la infano pli aĝa ol mia frato
@@ -304,9 +304,9 @@ la infano pli aĝa ol mia frato
 
 En Globaso, rilataj subfrazoj estas enkondukataj per la _markilo de modifanta subfrazo_ **hu** kaj konservas tipan vortordon. Notindas, ke la konjunkcio **hu** ne havas ekzaktan ekvivalenton en Esperanto, sed tipe tradukiĝas kiel _kiu_, _kiuj_, aŭ _kiu(j)n_.
 
-### Rilataj Subfrazoj kun Resumpta Pronomo
+### Rilataj Subfrazoj kun Reprena Pronomo
 
-Rilataj subfrazoj, kiuj postulas pronomon por rilati al la antecedento, uzas la _devigan_ resumptan rilatan pronomon **da** (_li, ŝi, ĝi, ili, tiu, tiuj_).
+Rilataj subfrazoj, kiuj postulas pronomon por rilati al la antecedento, uzas la _devigan_ reprenan rilatan pronomon **da** (_li, ŝi, ĝi, ili, tiu, tiuj_).
 
 **Te sen femixu _hu da lubi mi_.**  
 "Ŝi estas la virino _kiu tiu amas min_."  
@@ -324,7 +324,7 @@ Mi perdis la tranĉilon _per kiu mi tranĉis la panon_.
 "La ĉemizo _kiu mi ŝatas tiun_ estas blua." aŭ "Ĝi estas blua, la ĉemizo _kiu mi ŝatas tiun_."  
 La ĉemizo _(kiun) mi ŝatas_ estas blua. _aŭ_ Ĝi estas blua, la ĉemizo _(kiun) mi ŝatas_.
 
-_Noto: Kiel videblas en la lasta ekzemplo, kiam la rilata subfrazo estas parto de la subjekto, la frazo povas esti reformulata por meti la kernon de la frazo unue kaj movi la rilatan subfrazon al la fino de la frazo. Tio helpas fari la frazon pli facile procezebla._
+_Noto: Kiel videblas en la lasta ekzemplo, kiam la rilata subfrazo estas parto de la subjekto, la frazo povas esti reformulata por meti la kernon de la frazo unue kaj movi la rilatan subfrazon al la fino de la frazo. Tio helpas fari la frazon pli facile komprenebla._
 
 La poseda adjektivo **dasu** estas uzata en rilataj subfrazoj jene:
 
@@ -340,7 +340,7 @@ Li estas la viro _kies fraton mi konas_.
 "La ulo _kiu ties geedzo parolas Globason_ estas mia amiko." _aŭ_ "Li estas mia amiko, la ulo _kiu ties geedzo parolas Globason_."  
 La ulo _kies geedzo parolas Globason_ estas mia amiko. _aŭ_ Li estas mia amiko, la ulo _kies geedzo parolas Globason_.
 
-### Rilataj Subfrazoj kun Resumpta Korelativa Adverbo
+### Rilataj Subfrazoj kun Reprena Korelativa Adverbo
 
 Rilataj subfrazoj, en kiuj korelativa adverbo rilatas al la antecedento, estas jenaj:
 
@@ -358,7 +358,7 @@ _aŭ_
 "La tago _kiu tiam mi alvenas_ estas lundo."  
 La tago _kiam mi alvenas_ estas lundo.
 
-Anstataŭ korelativaj adverboj, prepoziciaj sintagmoj povas esti uzataj por esprimi ekvivalentajn frazojn.
+Anstataŭ korelativaj adverboj, prepoziciaj frazpartoj povas esti uzataj por esprimi ekvivalentajn frazojn.
 
 **Kitabudom _hu mi ergo in da_ sen day.**  
 "La biblioteko _kiu mi laboras en tiu_ estas granda."  
@@ -374,9 +374,9 @@ _aŭ_
 "La tago _kiu je tiu mi alvenas_ estas lundo."  
 La tago _en kiu mi alvenas_ estas lundo.
 
-### Rilataj Subfrazoj en Nespecifaj Substantivaj Sintagmoj
+### Rilataj Subfrazoj en Nespecifaj Substantivaj Frazpartoj
 
-Nespecifaj substantivaj sintagmoj kun rilataj subfrazoj povas konsisti el **to/te** plus resumpta korelativa adverbo aŭ **da**.
+Nespecifaj substantivaj frazpartoj kun rilataj subfrazoj povas konsisti el **to/te** plus reprena korelativa adverbo aŭ **da**.
 
 **Mi no suki _to hu mi ergo denloka_.**  
 "Mi ne ŝatas _tion kiu mi laboras tie_."  
@@ -400,7 +400,7 @@ Donu al mi _kion mi volas_.
 "Mi ne ŝatas _lin/ŝin/ilin kiu vi elektis tiun._"  
 Mi ne ŝatas _kiun vi elektis_.
 
-Alternative, ili povas konsisti el substantivo plus resumpta prepozicia sintagmo aŭ **da**.
+Alternative, ili povas konsisti el substantivo plus reprena prepozicia frazparto aŭ **da**.
 
 **Mi no suki _loka hu mi ergo in da_.**  
 "Mi ne ŝatas _la lokon kiu mi laboras en tiu_."  
@@ -426,14 +426,14 @@ Mi ne ŝatas _la personon kiun vi elektis_.
 
 ## Nerilataj Modifantaj Subfrazoj
 
-Substantivoj estas foje modifataj per subfrazoj kiuj ne estas rilataj, alivorte, subfrazoj sen resumpta elemento. Tiaj subfrazoj estas enkondukataj per **feki**.
+Substantivoj estas foje modifataj per subfrazoj kiuj ne estas rilataj, alivorte, subfrazoj sen reprena elemento. Tiaj subfrazoj estas enkondukataj per **feki**.
 
 **Singa begude idey _feki maux ger abil na sahay te_.**  
-La leono estis tiklata de la ideo _ke la muso povus helpi lin_.
+La leono estas tiklata de la ideo _ke la muso povus helpi lin_.
 
 ## Subfrazoj kun _feki_ anstataŭ Rilataj Subfrazoj kun _hu_
 
-Substantivaj sintagmoj kun vortoj de loko, tempo, maniero kaj kialo povas esti modifataj per subfrazoj kun **feki** anstataŭ rilataj subfrazoj kun **hu**. Alivorte, por krei pli mallongajn frazojn sen resumptaj subfrazoj, **feki** povas anstataŭigi **hu** plus resumptan korelativan aŭ prepozician sintagmon (**hu denloka/hu in da**, **hu denwatu/hu fe da**, **hu denmaner/hu yon da**, **hu denseba/hu kos da**).
+Substantivaj frazpartoj kun vortoj de loko, tempo, maniero kaj kialo povas esti modifataj per subfrazoj kun **feki** anstataŭ rilataj subfrazoj kun **hu**. Alivorte, por krei pli mallongajn frazojn sen reprenaj subfrazoj, **feki** povas anstataŭigi **hu** plus reprenan korelativan aŭ prepozician frazparton (**hu denloka/hu in da**, **hu denwatu/hu fe da**, **hu denmaner/hu yon da**, **hu denseba/hu kos da**).
 
 **Mi no suki _restoran feki imi le yam_.**  
 "Mi ne ŝatas _la restoracion ke ni manĝis ĉe_."  

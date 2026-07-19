@@ -4,82 +4,9 @@ visible: true
 media_order: 'darsu_1_lexilista.mp3,darsu_1_misalli_jumle.mp3,darsu_01_doxoli_abyasa.mp3'
 ---
 
-Studu la paĝon [Alfabeto kaj Prononco](/gramati/abece-ji-lafuzu) antaŭ ol komenci la sekvajn lecionojn.
- 
-## Vortlisto
-<audio controls>
-<source src="/darsu/01/darsu_1_lexilista.mp3" type="audio/mp3" />
-<p>Via uzantagento ne subtenas la aŭdo-elementon HTML5.</p>
-</audio>
- 
-* **salom** - saluton
-* **weda** - adiaŭ, ĝis
-* **xanti** - paco (_saluton, adiaŭ_)
-* **bwaw** - hundo(j)
-* **miaw** - kato(j)
-* **piu** - birdo(j)
-* **uma** - ĉevalo(j)
-* **mahi** - fiŝo(j)
-* **doste** - amiko(j)
-* **nini** - knabo(j)/knabino(j), infano(j)
-* **sodar** - frato(j)/fratino(j), gefrato(j)
-* **matro** - patrino(j)
-* **panjo** - panjo(j)
-* **patro** - patro(j)
-* **paĉjo** - paĉjo(j)
- 
-## Notoj
-### Sekso
- 
-En Globasa, nur manpleno da vortoj, kiel **matre** kaj **patre**, indikas sekson. Alie, vortoj indikantaj homojn estas seksneŭtralaj. En posta leciono, vi lernos kiel distingi inter viroj kaj inoj uzante genrajn adjektivojn kiel prefiksojn.
- 
-### Neniuj Pluralaj Substantivoj
- 
-Globasa ne distingas inter singularaj kaj pluralaj substantivoj. En posta leciono, vi lernos kiel indiki singularecon aŭ plurecon kiam necese.
- 
-* **doste** - _amiko_ aŭ _amikoj_
- 
-### _xanti_
- 
-La vorto **xanti** signifas _pacon_, sed ĝi ankaŭ povas esti uzata por diri _saluton_ aŭ _ĝis revido_.
- 
-## Ekzemplaj Frazoj
-<audio controls>
-<source src="/darsu/01/darsu_1_misalli_jumle.mp3" type="audio/mp3" />
-<p>Via uzantagento ne subtenas la aŭdo-elementon HTML5.</p>
-</audio>
- 
-**Salom, dote!**
-Saluton, amikoj)!
- 
-**Weda, uma!**
-Adiaŭ, ĉevalo(j)!
- 
-## Praktiko de Legado kaj Aŭskultado
- 
-<audio controls>
-<source src="/darsu/01/darsu_01_doxoli_abyasa.mp3" type="audio/mp3" />
-<p>Via uzantagento ne subtenas la aŭdo-elementon HTML5.</p>
-</audio>
- 
-Salom, bwaw! Weda, papa! Xanti, uma! Weda, sodar! Xanti, doste! Salom, nini! Weda, matre! Salom, mahi! Xanti, piu! Weda, myaw!
- 
-## Leciona Ekzerco
- 
-_Kreu viajn proprajn frazojn uzante la suprajn ekzemplojn kiel frazajn ŝablonojn kaj la legopraktikon kiel modelon._
- 
-<textarea width="100%" spellcheck="false" placeholder="Tajpu viajn proprajn frazojn ĉi tie."></textarea>
+Studu la paĝon [Alfabeto kaj prononco](/gramati/abece-ji-lafuzu) antaŭ ol komenci la sekvajn lecionojn.
 
-## Leciono 1
-Restudu la [alfabeton kaj elparolon](/gramati/abece-ji-lafuzu) antaŭ komencado de la sekvaj lecionoj
-
-
-## Vortprovizo
-<audio controls>
- <source src=”/darsu/01/darsu_1_lexilista.mp3” type=”audio/mp3” />
- <p>Via uzantagento ne subtenas la aŭdo-elementon HTML5.</p>
-</audio>
-
+## [Vortprovizo](darsu_1_lexilista.mp3)
 
 * **salom** - saluton
 * **weda** - ĝis (la revido)
@@ -97,60 +24,36 @@ Restudu la [alfabeton kaj elparolon](/gramati/abece-ji-lafuzu) antaŭ komencado 
 * **patre** - patro
 * **papa** - paĉjo
 
-
-[Studkartojn de Quizlet](https://quizlet.com/555796313/globasa-101-lesson-1-flash-cards/)
-
-
 ## Notoj
+
 ### Sekso
-En Globaso, nur malmultaj vortoj, ekzemple **matre** kaj **patre**, montras sekson. Alie, vortoj, kiuj priskribas homojn, estas seksneŭtraj. En venonta leciono, vi lernos, kiel oni distingas inter virsekso kaj insekso per prefiksoj el la adjektivoj de sekso.
 
+En Globaso, nur malmultaj vortoj, ekzemple **matre** kaj **patre**, montras sekson. Alie, vortoj kiuj priskribas homojn estas seksneŭtraj. En venonta leciono, vi lernos kiel oni distingas inter la vira kaj la ina sekso uzante seksajn adjektivojn kiel prefiksojn.
 
-## Neniaj pluralaj substantivoj
+### Neniaj pluralaj substantivoj
 
-
-Globaso ne distingas inter singularaj kaj pluralaj substantivoj. En venonta leciono, vi lernos, kiel oni indikas singularon aŭ pluralon, kiam tio necesas
-
+Globaso ne distingas inter singularaj kaj pluralaj substantivoj. En venonta leciono, vi lernos kiel oni indikas singularon aŭ pluralon kiam tio necesas.
 
 * **doste** - _amiko_ aŭ _amikoj_
 
-
 ### _xanti_
 
+La vorto **xanti** signifas _pacon_, sed oni povas uzi ĝin ankaŭ por diri _saluton_ aŭ _ĝis la revido_.
 
-La vorto **xanti** signifas _pacon_, sed oni povas uzi ĝin ankaŭ por diri _saluton_ aŭ _ĝis la revido._
+## [Ekzemplaj frazoj](darsu_1_misalli_jumle.mp3)
 
-
-## Ekzemplaj frazoj
-<audio controls>
-<source src="/darsu/01/darsu_1_misalli_jumle.mp3" type="audio/mp3" />
-<p>Via uzantagento ne subtenas la aŭdo-elementon HTML5.</p>
-</audio>
-
-
-**Salom, doste!**
+**Salom, doste!**  
 Saluton, amiko!
 
-
-**Weda, uma!**
+**Weda, uma!**  
 Ĝis, ĉevalo!
 
-
-## Ekzercoj de legado kaj aŭskultado
-
-
-<audio controls>
-<source src="/darsu/01/darsu_01_doxoli_abyasa.mp3" type="audio/mp3" />
-<p>Via uzantagento ne subtenas la aŭdo-elementon HTML5.</p>
-</audio>
-
+## [Ekzerco de legado kaj aŭskultado](darsu_01_doxoli_abyasa.mp3)
 
 Salom, bwaw! Weda, papa! Xanti, uma! Weda, sodar! Xanti, doste! Salom, nini! Weda, matre! Salom, mahi! Xanti, piu! Weda, myaw!
 
+## Leciona tasko
 
-## Tasko de la leciono
-Skribu viajn proprajn frazojn uzante la suprajn ekzemplojn kiel ŝablonojn.
-
+_Skribu viajn proprajn frazojn uzante la suprajn ekzemplojn kiel ŝablonojn._
 
 <textarea width="100%" spellcheck="false" placeholder="Tajpu viajn proprajn frazojn ĉi tie."></textarea>
-

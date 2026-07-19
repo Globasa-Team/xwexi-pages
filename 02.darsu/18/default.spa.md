@@ -19,7 +19,7 @@ media_order: 'darsu_18_lexilista.mp3,darsu_18_misalli_jumle.mp3,darsu_18_doxoli_
 * **fe** - en (_con frases de tiempo_)
 * **mara** - vez, ocasión
 * (**fe**) **ban mara** - una vez (_en cierta ocasión_), había una vez
-* (**fe**) **duli mara** - a veces, en ocasiones
+* (**fe**) **dumara** - a veces, en ocasiones
 * **mesaje** - mensaje
 * **neto** - red
 * **posta** - correo

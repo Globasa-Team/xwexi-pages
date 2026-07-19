@@ -21,7 +21,7 @@ Globasa's simple present tenses are expressed as follows.
 |
 | Verb Form | Markers | Sample Sentences
 | General Present<br /><br /><br /> | **(nun)**<br /><br /><br /> | **Mi (nun) yam pingo.**<br />I eat the apple.<br />I am eating the apple.
-| Continuous/Habitual Present<br /><br /><br /> | **(nun) (du-)**<br /><br /><br /> | **Mi (nun) (du)yam pingo.**<br />I  (continuously/habitually) eat apples.
+| Durative/Habitual Present<br /><br /><br /> | **(nun) (du-)**<br /><br /><br /> | **Mi (nun) (du)suki ji (du)yam pingo.**<br />I like and eat apples.
 
 ### Dictionary Verb Form
 
@@ -31,9 +31,9 @@ By default, the dictionary verb form expresses the general present tense, which 
 
 As an alternative to using the dictionary verb form alone, the particle **u** may be used in place of either **nun** or **du-**. This particle is typically only used in formal texts or speech as a simple way to mark the predicate where no other tense/mood marker is being used.
 
-### Prefix du-
+### Prefix du- <a id="lefefikso_du-"></a>
 
-As a verb prefix, **du-** expresses the continuous/habitual aspect, which depicts an activity or a state over an indefinite period of time, rather than happening in a single moment in time or for a specific length of time. The prefix **du-** is typically omitted with the present tense.
+As a verb prefix, **du-** expresses the durative aspect with stative verbs (_like, know, understand_) and the habitual aspect with dynamic verbs (_eat, dance, read_). The durative aspect depicts a state lasting over a period of time, while the habitual aspect depicts an action that is habitual. The prefix **du-** is typically omitted with the present tense.
 
 As nouns, words with the prefix **du-** are equivalent to the gerund in English.
 
@@ -53,7 +53,7 @@ _Etymology of **le**: Mandarin  (了 “le”), Swahili (-li-), Russian (-л “
 |
 | Verb Form | Markers | Sample Sentences
 | General Past<br /><br /> | **le**<br /><br /> | **Mi le yam pingo.**<br />I ate the apple.
-| Continuous/Habitual Past<br /><br /> | **le du-**<br /><br /> | **Mi le duyam pingo.**<br />I used to eat apples.
+| Durative/Habitual Past<br /><br /> | **le du-**<br /><br /> | **Mi le dusuki ji duyam pingo.**<br />I used to like and eat apples.
 
 ## Simple Future Tenses
 
@@ -65,7 +65,7 @@ _Etymology of **xa**: Arabic (سوف “sawf”, سا “sa”), English (shall)
 |
 | Verb Form | Markers | Sample Sentences
 | General Future<br /><br /> | **xa**<br /><br /> | **Mi xa yam pingo.**<br />I will eat the apple.
-| Continuous/Habitual Future<br /><br /> | **xa du-**<br /><br /> | **Mi xa duyam pingo.**<br />I will (continuously/habitually) eat apples.
+| Durative/Habitual Future<br /><br /> | **xa du-**<br /><br /> | **Mi xa dusuki ji duyam pingo.**<br />I will be liking and eating apples.  
 
 ## Immediate Past and Future Tenses
 
@@ -87,11 +87,11 @@ _Etymology of **jara**: Arabic (جارة “jara”), Swahili (jirani), Indonesi
 
 The compound tenses are formed by combining any two of the general tense particles (**nun**, **le**, **xa**).
 
-Linguistically speaking, the compound tenses are used for expressing different grammatical aspects in detail. There are three aspects expressed through the compound tenses, which correlate with the three rows in each of the tables below: progressive (active), perfective (completed) and prospective.
+Linguistically speaking, the compound tenses are used for expressing different grammatical aspects in detail. There are three aspects expressed through the compound tenses, which correlate with the three rows in each of the tables below: progressive (ongoing), perfective (completed) and prospective (expected).
 
 While the simple tenses report events only from the point of view of the present moment, the compound tenses are used for reporting the temporal status and aspect of an event from the point of view of the present, past or future.
 
-Some compound tenses are rarely used and are often best expressed using a simple tense instead. Others are more useful and may be rather common in speech, particularly the following tenses: past active (**le nun**), present completed (**nun le**), future completed (**xa le**), past prospective (**le xa**).
+Some compound tenses are rarely used and are often best expressed using a simple tense instead. Others are more useful and may be rather common in speech, particularly the following tenses: past progressive (**le nun**), present perfective (**nun le**), future perfective (**xa le**), past prospective (**le xa**).
 
 ## Compound Present Tenses
 
@@ -100,8 +100,8 @@ The compound present tenses are expressed as follows:
 | Compound Present Tenses
 |
 | Verb Form | Markers | Sample Sentences
-| Present Active<br /><br /> | **(nun) nun**<br /><br /> | **Mi (nun) nun yam pingo.**<br />I am eating the apple.
-| Present Completed<br /><br /> | **nun le**<br /><br /> | **Mi nun le yam pingo.**<br />I have eaten the apple.
+| Present Progressive<br /><br /> | **(nun) nun**<br /><br /> | **Mi (nun) nun yam pingo.**<br />I am eating the apple.
+| Present Perfective<br /><br /> | **nun le**<br /><br /> | **Mi nun le yam pingo.**<br />I have eaten the apple.
 | Present Prospective<br /><br /> | **nun xa**<br /><br /> | **Mi nun xa yam pingo.**<br />I am going to eat the apple.
 
 ## Compound Past Tenses
@@ -111,8 +111,8 @@ The compound past tenses are expressed as follows:
 | Compound Past Tenses
 |
 | Verb Form | Markers | Sample Sentences
-| Past Active<br /><br /> | **le nun**<br /><br /> | **Mi le nun yam pingo.**<br />I was eating the apple.
-| Past Completed<br /><br /> | **le le**<br /><br /> | **Mi le le yam pingo.**<br />I had eaten the apple.
+| Past Progressive<br /><br /> | **le nun**<br /><br /> | **Mi le nun yam pingo.**<br />I was eating the apple.
+| Past Perfective<br /><br /> | **le le**<br /><br /> | **Mi le le yam pingo.**<br />I had eaten the apple.
 | Past Prospective<br /><br /> | **le xa**<br /><br /> | **Mi le xa yam pingo.**<br />I was going to eat the apple.
 
 ## Compound Future Tenses
@@ -122,11 +122,11 @@ The compound future tenses are expressed as follows:
 | Compound Future Tenses
 |
 | Verb Form | Markers | Sample Sentences
-| Future Active<br /><br /> | **xa nun**<br /><br /> | **Mi xa nun yam pingo.**<br />I will be eating the apple.
-| Future Completed<br /><br /> | **xa le**<br /><br /> | **Mi xa le yam pingo.**<br />I will have eaten the apple.
+| Future Progressive<br /><br /> | **xa nun**<br /><br /> | **Mi xa nun yam pingo.**<br />I will be eating the apple.
+| Future Perfective<br /><br /> | **xa le**<br /><br /> | **Mi xa le yam pingo.**<br />I will have eaten the apple.
 | Future Prospective<br /><br /> | **xa xa**<br /><br /> | **Mi xa xa yam pingo.**<br />I will be going to eat the apple.
 
-It is worth noting that whereas the _perfect_ tenses in English do not always express a completed action, the _completed_ tenses in Globasa always do.
+It is worth noting that whereas the _perfect_ tenses in English do not always express a completed action, the _perfective_ tenses in Globasa always do.
 
 ## Continuative Aspect <a id="dupul"></a>
 

@@ -26,7 +26,7 @@ El orden típico de las oraciones en Globasa es _Sujeto-Verbo-Objeto_.
 </tr>
 </tbody></table>
 
-## Marcador del objeto directo
+## Marcador del objeto directo <a id="partikul_el"></a>
 
 Además del orden S-V-O, Globasa permite otras dos opciones con el sujeto siempre antes del verbo: S-O-V y O-S-V. Este orden de oraciones flexible es posible gracias al marcador de objeto (_complemento verbal_) directo **el**, que esencialmente funciona como una preposición. Como se ilustra a continuación, **el** se usa con S-O-V y O-S-V, los cuales generalmente sólo se usan en poesía y letras de canciones.
 

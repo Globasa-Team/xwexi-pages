@@ -19,7 +19,7 @@ media_order: 'darsu_18_lexilista.mp3,darsu_18_misalli_jumle.mp3,darsu_18_doxoli_
 * **fe** - at, in, on (_with phrases denoting time_)
 * **mara** - time (_occasion_)
 	* (**fe**) **ban mara** - once (_on a certain occasion_), once upon a time
-	* (**fe**) **duli mara** - sometimes, at times, on occasion
+	* (**fe**) **dumara** - sometimes, at times, on occasion
 * **mesaje** - message; (send) message  
 * **neto** - net, web
 * **posta** - mail

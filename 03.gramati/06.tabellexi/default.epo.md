@@ -14,7 +14,7 @@ visible: true
     <th><b><i>nedifinita</i></b><br> (iu, certa)</th>
     <th><b><i>universala</i></b><br> (ĉiu)</th>
     <th><b><i>nea</i></b><br> (neniu)</th>
-    <th><b><i>alterna</i></b><br> (alia, malsama, cetera)</th>
+    <th><b><i>alia</i></b><br> (alia, malsama, cetera)</th>
     <th><b><i>identa</i></b><br> (sama)</th>
   </tr>
   <tr>
@@ -51,7 +51,7 @@ visible: true
      <td><b>samaoto</b><br>la samaj aĵoj</td>
   </tr>
   <tr>
-   <th><b><i>vivanta estaĵo</i></b> <br><br><b>te</b> -<br>li/ŝi aŭ ajna vivoformo</th>
+   <th><b><i>vivanta estaĵo</i></b> <br><br><b>te</b> -<br>li/ŝi aŭ ajna vivanta estaĵo</th>
     <td><b>kete</b><br>kiu<br>kiu (el ili)</td>
     <td><b>hinte</b><br>ĉi tiu</td>
     <td><b>dente</b><br>tiu</td>
@@ -197,19 +197,19 @@ visible: true
 
 ## Determinantaj Korelativoj
 
-La korelativaj vortoj **ke**, **hin**, **den**, **ban**, **moy**, **nil**, **alo** kaj **sama** ĉiam devas esti sekvataj de _substantivo_ (ĉu modifita per adjektivoj aŭ ne) aŭ de _pronomo_. Ili neniam devus stari sole, ĉar pro la ellaso de la _(pro)nomo_ oni povas facile miskompreni la korelativon kiel determinanton de la substantivo/verbo, kiu ĝin sekvas. En la foresto de specifita substantivo, la pronomoj **te** aŭ **to** markas la finon de la substantiva sintagmo. Vidu [Substantivajn Sintagmojn](/gramati/jumlemonli-estrutur#pronamelexi_in_namelexili_jumlemon).
+La korelativaj vortoj **ke**, **hin**, **den**, **ban**, **moy**, **nil**, **alo** kaj **sama** ĉiam devas esti sekvataj de _substantivo_ (ĉu modifita per adjektivoj aŭ ne) aŭ de _pronomo_. Ili neniam devus stari sole, ĉar pro la ellaso de la _pronomo aŭ substantivo_ oni povas facile miskompreni la korelativon kiel determinanton de la substantivo/verbo, kiu ĝin sekvas. En la foresto de specifita substantivo, la pronomoj **te** aŭ **to** markas la finon de la substantiva frazparto. Vidu [Substantivajn Frazpartojn](/gramati/jumlemonli-estrutur#pronamelexi_in_namelexili_jumlemon).
 
 Komparu la jenajn frazojn:
 
 **Hinto bon nasacu.**  
 Ĉi tio bonodoras.
 
-En la supra frazo, **-to** markas la finon de la substantiva sintagmo.
+En la supra frazo, **-to** markas la finon de la substantiva frazparto.
 
 **Hin bon nasacu... memorigi mi cel misu femgami.**  
 Ĉi tiu bona odoro... memorigas min pri mia edzino.
 
-En la supra frazo, **nasacu** markas la finon de la substantiva sintagmo.
+En la supra frazo, **nasacu** markas la finon de la substantiva frazparto.
 
 ## _kekwanti_, _kenumer_
 
@@ -234,9 +234,9 @@ ktp.
 
 ## Demandoj kontraŭ Demandaj Subfrazoj ene de Deklaraj Frazoj
 
-_Demandaj subfrazoj ene de deklaraj frazoj_ estas subfrazoj, kiuj aperas anstataŭ substantivaj sintagmoj kaj kiuj signifas _tion, kio estas la respondo al la demando "XYZ?"_ aŭ varianton de tio. Ili formiĝas per enkonduko per la subfraza konjunkcio **ku**, per la uzo de la sama determinanto (**ke**) videbla en veraj demandoj, kaj per la konservo de la vortordo de la kongrua demando de la subfrazo.
+_Demandaj subfrazoj ene de deklaraj frazoj_ estas subfrazoj, kiuj aperas anstataŭ substantivaj frazpartoj kaj kiuj signifas _tion, kio estas la respondo al la demando "XYZ?"_ aŭ varianton de tio. Ili formiĝas per enkonduko de la subfraza konjunkcio **ku**, per la uzo de la sama determinanto (**ke**) videbla en veraj demandoj, kaj per la konservo de la vortordo de la kongrua demando de la subfrazo.
 
-La jenaj paroj de ekzemplaj frazoj ilustras: (1) verajn demandojn, (2) deklarajn frazojn kun demandaj subfrazoj
+La jenaj paroj de ekzemplaj frazoj ilustras: (1) verajn demandojn, (2) deklarajn frazojn kun demandaj subfrazoj.
 
 ### ke - _kiu_; kete - _kiu(n)_; keto - _kio_
 
@@ -249,7 +249,7 @@ Kiu amas vin?
 Mi scias, kiu amas vin.
 
 (1) **Yu lubi kete?**  
-"Vi amas kiun."  
+"Vi amas kiun?"  
 Kiun vi amas?
 
 (2) **Mi jixi ku yu lubi kete.**  
@@ -283,8 +283,8 @@ Kies seĝo estas ĉi tio?
 Mi volas scii, kies seĝo ĉi tio estas.
 
 (1) **Kesu kitabu sen per mesa?**  
-"Kies libro sur la tablo?"  
-Kies libro estas sur la tablo.
+"Kies libro estas sur la tablo?"  
+Kies libro estas sur la tablo?
 
 (2) **Mi jixi ku kesu kitabu sen per mesa.**  
 "Mi scias ĉi tion: _Kies libro estas sur la tablo?_"  
@@ -384,9 +384,9 @@ Kiel vi riparis la aŭton?
 "Mi scivolas ĉi tion: _Vi riparis la aŭton kiel?_"  
 Mi scivolas, kiel vi riparis la aŭton.
 
-## Deklaraj Frazoj kun Demandaj Sintagmoj
+## Deklaraj Frazoj kun Demandaj Frazpartoj
 
-Parolantoj foje reduktas demandan subfrazon al sintagmo, eĉ al la sola demanda vorto. La konjunkcio **ku** estas ankoraŭ uzata en la foresto de plena subfrazo.
+Parolantoj foje reduktas demandan subfrazon al frazparto, eĉ al la sola demanda vorto. La konjunkcio **ku** estas ankoraŭ uzata en la foresto de plena subfrazo.
 
 **Mi jixi ku fe ke mesi.**  
 Mi scias en kiu monato.
@@ -400,9 +400,9 @@ Tio estas kie.
 **Mi jixi ku na idi keloka.**  
 Mi scias kien iri.
 
-## Korelativaj Sintagmaj Konjunkcioj
+## Korelativaj Frazpartaj Konjunkcioj
 
-Korelativaj sintagmaj konjunkcioj finiĝas per **-loka**, **-watu**, **-seba** kaj **-maner**, kaj uzas la rilatan konjunkcion **hu**.
+Korelativaj frazpartaj konjunkcioj finiĝas per **-loka**, **-watu**, **-seba** kaj **-maner**, kaj uzas la rilatan konjunkcion **hu**.
 
 **Mi ergo** _**denloka hu yu ergo**_**.**  
 Mi laboras _kie vi laboras_.
@@ -421,7 +421,7 @@ _Kiel mi diris_...
 
 ## Komparaj Korelativoj
 
-La konjunkcio **kom** signifas _kiel, same kiel_ kaj estas uzata kun la korelativoj finiĝantaj per **-pul**, **-mo**, **-kwanti** kaj **-numer** por fari komparojn. En la jenaj paroj de ekzemplaj frazoj, la dua frazo anstataŭigas specifan vorton aŭ sintagmon per korelativo.
+La konjunkcio **kom** signifas _kiel, same kiel_ kaj estas uzata kun la korelativoj finiĝantaj per **-pul**, **-mo**, **-kwanti** kaj **-numer** por fari komparojn. En la jenaj paroj de ekzemplaj frazoj, la dua frazo anstataŭigas specifan vorton aŭ frazparton per korelativo.
 
 (1) **Mi sen** _**hazuni kom yu**_**.**  
 Mi estas _malĝoja kiel vi_.
@@ -482,7 +482,7 @@ Vi estas _tiel_ forta.
 **Yu hare** _**daydenmo**_ **day oko.**  
 Vi havas _tiajn_ grandajn okulojn.
 
-La vorto **daydenmo** ankaŭ estas uzata multe kiel **daydenpul**. Ĝi signifas _kiel_, kiam ĝi estas sekvata de adjektivo/adverbo, aŭ _kia_, kiam ĝi estas sekvata de modifita substantivo.
+La vorto **daydenmo** ankaŭ estas uzata simile al **daydenpul**. Ĝi signifas _kiel_, kiam ĝi estas sekvata de adjektivo/adverbo, aŭ _kia_, kiam ĝi estas sekvata de modifita substantivo.
 
 _**Daydenmo**_ **meli!**  
 _Kiel_ bela!

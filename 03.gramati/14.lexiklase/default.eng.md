@@ -33,7 +33,7 @@ visible: true
 * **intrelogalexi** _(il)_ - interjection _(interj)_
 * **linkulexi** _(l)_ - conjunction _(conj)_
 * **numer** _(num)_ - number _(num)_
-* **partikul** _(par)_ - particle _(part)_
+* **partikul** _(par)_ - particle _(par)_
 * **plasilexi** _(p)_ - adposition _(adp)_
  * **lefeplasilexi** _(lp)_ - preposition _(prep)_
  * **xafeplasilexi** _(xp)_ - postposition _(postp)_
@@ -50,5 +50,4 @@ In addition to single words, a variety of phrases are also seen as entries in th
 
 * **jumlemon** _(jm)_ - phrase _(phrs)_
  * **plasilexili jumlemon** _(p jm)_ - prepositional phrase _(prep phrs)_
- * **jumlemonli plasilexi** _(jm p)_ - phrasal preposition _(phrs prep)_
  * **falelexili jumlemon** _(f jm)_ - verb phrase _(v phrs)_

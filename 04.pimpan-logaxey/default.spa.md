@@ -185,7 +185,7 @@ Nota: Como se vio anteriormente, los saludos con **bon** (buen) se expresan como
   <source src="/pimpan-logaxey/otima.mp3" type="audio/mp3" />
   <p>Su agente de usuario no es compatible con el elemento de audio HTML5.</p>
 </audio>
-**afarin** - bien hecho, buen trabajo ("aplausos")
+**afarin** - bien hecho, buen trabajo, bravo ("aplausos")
 <audio controls>
   <source src="/pimpan-logaxey/afarin.mp3" type="audio/mp3" />
   <p>Su agente de usuario no es compatible con el elemento de audio HTML5.</p>

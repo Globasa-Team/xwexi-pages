@@ -20,7 +20,6 @@ media_order: 'c.mp3,d.mp3,g.mp3,h.mp3,j.mp3,l.mp3,m.mp3,n.mp3,p.mp3,r.mp3,rr.mp3
 |**i**|**I**| /i/ | iya |
 |**j**|**J**| /d͡ʒ/ | ije |
 |**k**|**K**| /kʰ/ | ike |
-
 |**l**|**L**| /l/ | ile |
 |**m**|**M**| /m/ | ime |
 |**n**|**N**| /n/ | ine |
@@ -36,7 +35,7 @@ media_order: 'c.mp3,d.mp3,g.mp3,h.mp3,j.mp3,l.mp3,m.mp3,n.mp3,p.mp3,r.mp3,rr.mp3
 |**y**|**Y**| /j/ | iye |
 |**z**|**Z**| /z/ | ize |
 
-### Majuskloj kaj Minusklaj Literoj
+### Majusklaj kaj Minusklaj Literoj
 
 Nuntempe ne estas fiksitaj reguloj en Globaso por la uzo de majusklaj literoj. Globasaj parolantoj rajtas uzi majusklojn laŭ sia bontrovo ĝis venos la tempo por establi tiajn regulojn aŭ gvidliniojn.
 
@@ -65,12 +64,12 @@ Dum literumo de vortoj laŭte, la nomoj de la literoj povas esti mallongigitaj.
 |**p**| [/pʰ/](p_aspirated.mp3) | kiel en _paco_ | [**pingo**](pingo.mp3) pomo |
 |**r**| [/ɾ/](r.mp3) | kiel en _pura_ | [**risi**](risi.mp3) rizo |
 |**s**| [/s/](s.mp3) | kiel en _sidi_ | [**sui**](sui.mp3) akvo |
-|**t**| [/tʰ/](t_aspirita.mp3) | kiel en _tempo_ | [**teatro**](teatro.mp3) teatro |
+|**t**| [/tʰ/](t_aspirated.mp3) | kiel en _tempo_ | [**teatro**](teatro.mp3) teatro |
 |**v**| [/v/](v.mp3) | kiel en _vesto_ | [**visita**](visita.mp3) vizito |
 |**w**| [/w/](w.mp3) | kiel _ŭ_ en _antaŭ_ | [**watu**](watu.mp3) tempo |
 |**x**| [/ʃ/](x.mp3) | kiel _ŝ_ en _ŝipo_ | [**xugwan**](xugwan.mp3) kutimo |
 |**y**| [/j/](y.mp3) | kiel _j_ en _jes_ | [**yuxi**](yuxi.mp3) ludo, ludi |
-|**z**| [/z/](z.mp3) | kiel en _zebro_ | [**zebra**](zebro.mp3) zebro |
+|**z**| [/z/](z.mp3) | kiel en _zebro_ | [**zebra**](zebra.mp3) zebro |
 
 ### Notoj
 
@@ -78,12 +77,13 @@ Dum literumo de vortoj laŭte, la nomoj de la literoj povas esti mallongigitaj.
 
 **c**, **k**, **p** kaj **t** - ideale aspirataj (kvankam ne tiel forte kiel en la angla) por pli bone distingi ilin de iliaj voĉaj ekvivalentoj; permesebla varianto: forta aspiro, kiel en la angla
 
-**h** - ideale prononcata kiel [senvoĉa velara frikativo](h.mp3), ne konfuzu kun [χ], [senvoĉa uvula frikativo](uvular.mp3)  
-La _velara_ frikativo estas prononcata en la sama punkto de artikulacio kiel [k], kaj similas al sibla sono de kato. Kontraste, la _uvula_ frikativo estas pli guturala sono prononcata pli malantaŭe en la gorĝo per kiu uvula vibrado estas rimarkebla. Permesebla varianto: [h] kiel en _hotelo_.  
+**h** - ideale prononcata kiel [senvoĉa velara frikativo](h.mp3); ne konfuzu ĝin kun [χ], [senvoĉa uvula frikativo](uvular.mp3)  
 
-**j** - neniam [j] kiel en _jes_; permesabla varianto: [ĵ] kiel en _ ĵaluza_
+La _velara_ frikativo estas prononcata en la sama punkto de artikulacio kiel [k], kaj similas al sibla sono de kato. Kontraste, la _uvula_ frikativo estas pli guturala sono prononcata pli malantaŭe en la gorĝo ĉe kiu uvula vibrado estas rimarkebla. Permesebla varianto: [h] kiel en _hotelo_.  
 
-**r** - ideale prononcata kiel ununura [_frapeto_](r.mp3) anstataŭe de [_trilo_](rr.mp3)
+**j** - neniam [j] kiel en _jes_; permesebla varianto: [ĵ] kiel en _ ĵaluza_
+
+**r** - ideale prononcata kiel ununura [_frapeto_](r.mp3) anstataŭ [_trilo_](rr.mp3)
 
 **w** kaj **y** - permeseblaj variantoj: kiel neakcentitaj vokaloj (**u** kaj **i**)
 
@@ -91,14 +91,14 @@ Vidu [Literuman Konvencion](/gramati/abece-ji-lafuzu#regula_fe_harufiya) sube.
 
 ### Aliaj Konsonantaj Variantoj
 
-Depende de sia gepatra lingvo estas permeseblaj ankaŭ aliaj konsonantaj variantoj. Ekzemple, kelkaj hispanlingvanoj eble emas prononci _h_ kiel [[χ]](uvular.mp3) anstataŭ [[x]](h.mp3). Franclingvanoj eble emas prononci _r_ kiel [[ʁ]](Voiced_uvular_fricative.ogg) anstataŭ [[ɾ]](r.mp3). Mandarenparolantoj eble emas prononci _x_ kiel [[ʂ]](Voiceless_alveolo-palatal_sibilant.ogg) aŭ [[ɕ]](Voiceless_retroflex_sibilant.ogg) anstataŭ [[ʃ]](x.mp3). Ĉi tiuj kaj aliaj tiaj variantoj ankaŭ estas permeseblaj.
+Depende de la gepatra lingvo estas permeseblaj ankaŭ aliaj konsonantaj variantoj. Ekzemple, kelkaj hispanlingvanoj eble emas prononci _h_ kiel [[χ]](uvular.mp3) anstataŭ [[x]](h.mp3). Franclingvanoj eble emas prononci _r_ kiel [[ʁ]](Voiced_uvular_fricative.ogg) anstataŭ [[ɾ]](r.mp3). Mandarenparolantoj eble emas prononci _x_ kiel [[ʂ]](Voiceless_retroflex_sibilant.ogg) aŭ [[ɕ]](Voiceless_alveolo-palatal_sibilant.ogg) anstataŭ [[ʃ]](x.mp3). Ĉi tiuj kaj aliaj tiaj variantoj ankaŭ estas permeseblaj.
 
 La sekva tabelo listigas ĉiujn libervariajn konsonantajn alofonojn. La unua alofono listigita por ĉiu fonemo estas la ideala Globasa prononco. Dekoj da aliaj alofonoj komplement-distribuaj (alofonoj kiuj dependas de la fonetika medio) verŝajne aŭdiĝos inter multaj parolantoj, sed ĉiuj devus klopodi por ne tro devii de la aro de alofonoj listigitaj ĉi tie.
 
 | litero | alofonoj |
 |
 |**b**| [[b](b.mp3)] |
-|**c**| [[t͡ʃʰ](c_aspirated.mp3) ~ [ʈ͡ʂʰ](ch.wav) ~ [t͡ɕʰ](q.wav) ~ [[t͡ʃ](c_unaspirated.mp3)] |
+|**c**| [[t͡ʃʰ](c_aspirated.mp3) ~ [ʈ͡ʂʰ](ch.wav) ~ [t͡ɕʰ](q.wav) ~ [t͡ʃ](c_unaspirated.mp3)] |
 |**d**| [[d](d.mp3)] |
 |**f**| [[f](f.mp3) ~ [ɸ](Voiceless_bilabial_fricative.ogg)] |
 |**g**| [[g](g.mp3)] |
@@ -122,27 +122,27 @@ La sekva tabelo listigas ĉiujn libervariajn konsonantajn alofonojn. La unua alo
 
 La vokaloj de Globaso (**a**, **e**, **i**, **o**, **u**) estas prononcataj kiel en la hispana, itala aŭ Esperanto.
 
-| litero | IPA | prononco | ekzemplo |
+| litero | IFA | prononco | ekzemplo |
 |
 |**a**| [/ä/](a.ogg) | kiel en _arba_ | [**basa**](basa.mp3) lingvo |
 |**e**| [/e̞/](e.ogg) | kiel en _eble_ | [**bete**](bete.mp3) filo/filino |
-|**i**| [/i/](i.ogg) | kiel en _iri_ | [**idi**](idi.mp3) idi |
+|**i**| [/i/](i.ogg) | kiel en _iri_ | [**idi**](idi.mp3) iri |
 |**o**| [/o̞/](o.ogg) | kiel en _ordo_ | [**oko**](oko.mp3) okulo |
 |**u**| [/u/](u.ogg) | kiel en _unu_ | [**mumu**](mumu.mp3) bovo (virbovo/bovino) |
 
 ### Vokalaj Variantoj
 
-**a** - ideale prononcata [[ä]](https://en.wikipedia.org/wiki/Open_central_unrounded_vowel), malfermita centra neronda vokalo; la antaŭa [[a]](https://upload.wikimedia.org/wikipedia/commons/0/0e/PR-open_front_unrounded_vowel.ogg) kaj malantaŭa [[ɑ]](https://upload.wikimedia.org/wikipedia/commons/e/e5/Open_back_unrounded_vowel.ogg) estas permeseblaj variantoj
+**a** - ideale prononcata [[**ä**]](https://en.wikipedia.org/wiki/Open_central_unrounded_vowel), malferma centra neronda vokalo; la antaŭa [[a]](https://upload.wikimedia.org/wikipedia/commons/0/0e/PR-open_front_unrounded_vowel.ogg) kaj malantaŭa [[ɑ]](https://upload.wikimedia.org/wikipedia/commons/e/e5/Open_back_unrounded_vowel.ogg) estas permeseblaj variantoj
  
-**e** - ideale prononcata [[e̞]](https://en.wikipedia.org/wiki/Mid_front_unrounded_vowel), meza antaŭa neronda vokalo; la proksima-meza [[e]](https://upload.wikimedia.org/wikipedia/commons/6/6c/Close-mid_front_unrounded_vowel.ogg) kaj la malferma-meza [[ɛ]](https://upload.wikimedia.org/wikipedia/commons/7/71/Open-mid_front_unrounded_vowel.ogg) estas permeseblaj variantoj
+**e** - ideale prononcata [[**e̞**]](https://en.wikipedia.org/wiki/Mid_front_unrounded_vowel), meza antaŭa neronda vokalo; la ferma-meza [[e]](https://upload.wikimedia.org/wikipedia/commons/6/6c/Close-mid_front_unrounded_vowel.ogg) kaj la malferma-meza [[ɛ]](https://upload.wikimedia.org/wikipedia/commons/7/71/Open-mid_front_unrounded_vowel.ogg) estas permeseblaj variantoj
  
-**o** - ideale prononcata [[o̞]](https://en.wikipedia.org/wiki/Mid_back_rounded_vowel), meza malantaŭa ronda vokalo; la proksima-meza [[o]](https://upload.wikimedia.org/wikipedia/commons/8/84/Close-mid_back_rounded_vowel.ogg) kaj la malferma-meza [[ɔ]](https://upload.wikimedia.org/wikipedia/commons/d/d0/PR-open-mid_back_rounded_vowel.ogg) estas permeseblaj variantoj
+**o** - ideale prononcata [[**o̞**]](https://en.wikipedia.org/wiki/Mid_back_rounded_vowel), meza malantaŭa ronda vokalo; la ferma-meza [[o]](https://upload.wikimedia.org/wikipedia/commons/8/84/Close-mid_back_rounded_vowel.ogg) kaj la malferma-meza [[ɔ]](https://upload.wikimedia.org/wikipedia/commons/d/d0/PR-open-mid_back_rounded_vowel.ogg) estas permeseblaj variantoj
 
-**u** - ideale prononcata [[u]](https://en.wikipedia.org/wiki/Close_back_rounded_vowel), proksima malantaŭa rondeta vokalo; la proksima malantaŭa kunpremita [[ɯᵝ]](compressed_u.mp3) estas permesebla varianto
+**u** - ideale prononcata [[**u**]](https://en.wikipedia.org/wiki/Close_back_rounded_vowel), ferma malantaŭa ronda vokalo; la ferma malantaŭa kunpremita [[ɯᵝ]](compressed_u.mp3) estas permesebla varianto
 
 ### Elizio
 
-En certaj kazoj, ĉefe en poezio kaj kantoteksto, _e_ en vortkomenca pozicio (se sekvite per _-s-_ kaj alia konsonanto) povas esti silentigita kaj anstataŭigita per apostrofo.
+En certaj kazoj, ĉefe en poezio kaj kantoteksto, _e_ en vortkomenca pozicio (se sekvite de _-s-_ kaj alia konsonanto) povas esti silentigita kaj anstataŭigita per apostrofo.
 
 **espesyal** aŭ **'spesyal**
 
@@ -152,14 +152,14 @@ Silaboj en Globaso estas aŭ akcentitaj aŭ neakcentitaj. Alivorte, Globaso ne u
 
 #### Unusilabaj Vortoj
 
-* Ĉiuj unusilabaj enhavaj vortoj (_substantivoj, verboj, adjektivoj, adverboj_) estas akcentitan.
+* Ĉiuj unusilabaj enhavaj vortoj (_substantivoj, verboj, adjektivoj, adverboj_) estas akcentitaj.
 
-Unusilabaj vortoj povas esti akcentitaj aŭ neakcentitaj laŭ tio, kio ŝajnas plej natura por parolantoj. Okaze de dubo, la sekvaj rekomenditaj gvidlinioj povas esti uzataj:
+Unusilabaj funkciaj vortoj povas esti akcentitaj aŭ neakcentitaj laŭ tio, kio ŝajnas plej natura por parolantoj. Okaze de dubo, la sekvaj rekomenditaj gvidlinioj povas esti uzataj:
 
-* Neakcentitaj unusilabaj funkciaj vortoj: _prepozicioj, konjunkcioj kaj partikloj (inkluzive de verboformaj partikloj)_  
-* Akcentitaj unusilabaj funkciaj vortoj: _pronomoj, difiniloj, numeraloj, kvantigiloj, adverboj kaj interjekcioj_
+* Neakcentitaj unusilabaj funkciaj vortoj: _prepozicioj, konjunkcioj kaj partikuloj (inkluzive de verboformaj partikloj)_  
+* Akcentitaj unusilabaj funkciaj vortoj: _pronomoj, determinantoj, numeraloj, kvantigiloj, adverboj kaj interjekcioj_
 
-#### Plurisilabaj Vortoj
+#### Plursilabaj Vortoj
 
 La sekvaj akcent-reguloj validas por ĉiuj plursilabaj vortoj, inkluzive de funkciaj vortoj kaj derivitaj vortoj.
 
@@ -181,20 +181,20 @@ Kiel dirite supre, akcent-reguloj validas ankaŭ por derivitaj vortoj. La derivi
 
 ### Konsonanta Epentezo
 
-Kvankam ne ideala, neskribita glota halto povas esti laŭvole enigita inter du ajnaj vokaloj, ĉu ene de ĉu inter vortoj.
+Kvankam ne ideala, neskribita glota halto povas esti laŭvole enigita inter du ajnaj vokaloj, ĉu interne de vortoj ĉu inter ili.
 
 **poema** (poemo), prononcata [[po'ema]](poema.mp3) aŭ [[poʔ'ema]](po_ema.mp3)
 
 ### Vokala Epentezo
 
-Kvankam ne ideala, iu ajn nerondita centra vokalo kiel ekzemple [ə] povas esti laŭvole enigita inter du ajnaj konsonantoj aŭ en vortfina pozicio. Kiel centra vokalo, la kardinala [ä] ankaŭ estas permesita kiel neskribita epentezo, kvankam tio estas la malplej rekomendinda opcio ĉar ĝi pli verŝajne malpliigus kompreneblon.
+Kvankam ne ideala, iu ajn neronda centra vokalo kiel ekzemple [ə] povas esti laŭvole enigita inter du ajnaj konsonantoj aŭ en vortfina pozicio. Kiel centra vokalo, la kardinala [ä] ankaŭ estas permesita kiel neskribita epentezo, kvankam tio estas la malplej rekomendinda opcio ĉar ĝi pli verŝajne malpliigus kompreneblon.
 
-**magneto** (magnet), prononcata [[mag'neto]](magneto.mp3) aŭ [[magə'neto]](mag_neto.mp3)  
+**magneto** (magneto), prononcata [[mag'neto]](magneto.mp3) aŭ [[magə'neto]](mag_neto.mp3)  
 **asif** (bedaŭro), prononcata [[a'sif]](asif.mp3) aŭ [[a'sifə]](asif_.mp3)
 
 ## Duoblaj Vokaloj kaj Konsonantoj
 
-Duoblaj vokaloj kaj konsonantoj, ĉu ene de vortoj kiel rezulto de derivaĵo aŭ inter vortoj, estas tipe prononcataj iomete pli longaj aŭ ĝis duoble pli longaj ol unuopaj. Kiel vidite supre, permesebla alternativo estas aldoni glotan halton inter duoblaj vokaloj kaj mezan centran vokalon inter duoblaj konsonantoj.
+Duoblaj vokaloj kaj konsonantoj, ĉu ene de vortoj kiel rezulto de derivado aŭ inter vortoj, estas tipe prononcataj iomete pli longaj aŭ ĝis duoble pli longaj ol unuopaj. Kiel vidite supre, permesebla alternativo estas aldoni glotan halton inter duoblaj vokaloj kaj mezan centran vokalon inter duoblaj konsonantoj.
 
 ### Duoblaj Vokaloj
  
@@ -208,7 +208,7 @@ Duoblaj vokaloj kaj konsonantoj, ĉu ene de vortoj kiel rezulto de derivaĵo aŭ
 
 ### Duobla r
 
-Kvankam _r_ ne povas esti plilongigita en la sama maniero kiel aliaj konsonantoj, duobla _r_ povas esti plilongigita kiel trilo aŭ alternative prononcata kiel ununura _r_. Ĉar la trilo estas varianto de unuopa _r_, eblas ke iuj parolantoj prononcos kaj _r_ kaj _rr_ kiel trilon, dum aliaj prononcos ambaŭ kiel frapeto kaj tamen aliaj distingos ununuran _r_ kiel frapeto kaj duobla _r_ kiel trilo. Kiel vidite supre pri du ajnaj sinsekvaj konsonantoj, tria opcio en ĉi tiu kazo estas aldoni epentezan vokalon inter du frapetoj.
+Kvankam _r_ ne povas esti plilongigita en la sama maniero kiel aliaj konsonantoj, duobla _r_ povas esti plilongigita kiel trilo aŭ alternative prononcata kiel ununura _r_. Ĉar la trilo estas varianto de unuopa _r_, eblas ke iuj parolantoj prononcos kaj _r_ kaj _rr_ kiel trilon, dum aliaj prononcos ambaŭ kiel frapeton kaj tamen aliaj distingos ununuran _r_ kiel frapeton kaj duoblan _r_ kiel trilon. Kiel vidite supre pri du ajnaj sinsekvaj konsonantoj, tria opcio en ĉi tiu kazo estas aldoni epentezan vokalon inter du frapetoj.
 
 **burroya** (koŝmaro, premsonĝo), prononcata [[bu'roja]](burroya.mp3) aŭ [[bu'ɾoja]](burroya_single_r.mp3) aŭ [[buɾə'ɾoja]](bur_roya.mp3)
 
@@ -225,15 +225,15 @@ Komparu la prononcon de jenaj propraj nomoj:
 **_Maria_**, prononcata _ma-r<u>**i**</u>-a_ [[ma.'ɾi.a]](maria.mp3)  
 **_Maryo_**, prononcata _m<u>**a**</u>-ryo_ [['ma.ɾjo]](maryo.mp3) aŭ _m<u>**a**</u>- ri-o_ [['ma.ɾi.o]](ma.ri.o.mp3)
 
-Literumo **Maryo** kun _y_ anstataŭ _i_ permesas la akcenton esti ŝanĝita al _a_, la antaŭlasta vokala _litero_. Kun la akcento sur la taŭga vokalo, ne estas diferenco en Globaso ĉu **Maryo** estas prononcata kiel du silaboj, kun konsonanta _y_ (m<u>**a**</u>-ryo), aŭ alternative, kiel tri silaboj, kun _y_ prononcata kiel neakcentita _i_ (m<u>**a**</u>-ri-o).
+Literumo **Maryo** kun _y_ anstataŭ _i_ permesas ŝanĝi la akcenton al _a_, la antaŭlasta vokala _litero_. Kun la akcento sur la taŭga vokalo, ne estas diferenco en Globaso ĉu **Maryo** estas prononcata kiel du silaboj, kun konsonanta _y_ (m<u>**a**</u>-ryo), aŭ alternative, kiel tri silaboj, kun _y_ prononcata kiel neakcentita _i_ (m<u>**a**</u>-ri-o).
 
 ### Diftongoj
 
-Globaso ne havas verajn diftongojn. Tamen estas permesataj la sekvaj kombinoj de vokalo plus _-w/-y_: **aw**, **ew**, **ow**, **aj**, **ey**, **oy**. Tiuj ĉi kombinaĵoj povas esti prononcataj kiel diftongoj eĉ se _-w_ kaj _-y_ teknike reprezentas kodajn konsonantojn, anstataŭe de kernaj glisadoj. Ni scias tion ĉar silaboj (en ordinaraj vortoj) ne povas finiĝi per _-w/-y_ plus alia konsonanto. Se tio estus la kazo, _-w/-y_ povus esti konsiderata parto de la kerno. Anstataŭe, _-w/-y_ prenas la lokon de la sola silab-fina konsonanto permesita. Estas ankaŭ akcepteble, kiel permesebla alternativo, ke _-w_ kaj _-y_ estu prononcataj kiel sendependaj, neakcentitaj vokaloj.
+Globaso ne havas verajn diftongojn. Tamen estas permesataj la sekvaj kombinoj de vokalo plus _-w/-y_: **aw**, **ew**, **ow**, **ay**, **ey**, **oy**. Tiuj ĉi kombinaĵoj povas esti prononcataj kiel diftongoj eĉ se _-w_ kaj _-y_ teknike reprezentas finajn konsonantojn, anstataŭ kernajn glisadojn. Ni scias tion ĉar silaboj (en ordinaraj vortoj) ne povas finiĝi per _-w/-y_ plus alia konsonanto. Se tio estus la kazo, _-w/-y_ povus esti konsiderata parto de la kerno. Anstataŭe, _-w/-y_ prenas la lokon de la sola silab-fina konsonanto permesita. Estas ankaŭ akcepteble, kiel permesebla alternativo, ke _-w_ kaj _-y_ estu prononcataj kiel sendependaj, neakcentitaj vokaloj.
 
 **Ewropa** (Eŭropo), prononcata _ew-r<u>**o**</u>-pa_ [[ew.'ɾo.pa]/[eu̯.'ɾo.pa]](ewropa.mp3) aŭ eĉ _e-ur<u>**o**</u>-pa_ [[eu'ɾo.pa]](euro.pa.mp3)
 
-### Literuma Konvencio <a id=" regula_fe_harufiya "> </a>
+### Literuma Konvencio <a id="regula_fe_harufiya"> </a>
 
 La sekva literuma konvencio validas nur por radikaj vortoj kaj ne por derivitaj vortoj. Apud aliaj vokaloj, Globaso uzas _i_ kaj _u_ nur se tiuj estas akcentitaj aŭ se _y_ kaj _w_ ne estas permesitaj de fonotaksaj reguloj. En ĉiuj aliaj kazoj, Globaso uzas _y_ kaj _w_ anstataŭ _i_ kaj _u_.
 
@@ -244,14 +244,14 @@ En la sekvaj radikvortoj, _i_ kaj _u_ estas akcentitaj:
 
 En la sekvaj radikvortoj, fonotaksaj reguloj nur permesas _i_ kaj _u_:
 
-**triunfa** (win, triumph), prononcata _tri-<u>**u**</u>n-fa_ [[tri.'un.fa]](triunfa.mp3)  
+**triunfa** (triumfi, venki), prononcata _tri-<u>**u**</u>n-fa_ [[tri.'un.fa]](triunfa.mp3)  
 **kruel** (kruela), prononcata _kru-<u>**e**</u>l_ [[kru.'el]](kruel.mp3)
 
 En la sekvaj radikvortoj, _y_ kaj _w_, kiuj povas laŭvole esti prononcataj kiel vokaloj, estas konvencie uzitaj:
 
 **pyano** (piano), prononcata _py<u>**a**</u>-no_ [['pja.no]](pyano.mp3) aŭ _pi-<u>**a**</u>-no_ [[pi.'a.no]](pi.a.no.mp3)  
-**cyan** (cian), prononcata _cy<u>**a**</u>n_ [[t͡ʃjan]](cyan.mp3) aŭ _ci-<u>**a**</u>n_ [[t͡ʃi.'an]](ci.an.mp3)  
-**swini** (porko, porko), prononcata _sw<u>**i**</u>-ni_ [['swi.ni]](swini.mp3) aŭ _su-<u>**i**</u>-ni_ [[su.'i.ni]](su.i.ni.mp3)  
+**cyan** (cejana), prononcata _cy<u>**a**</u>n_ [[t͡ʃjan]](cyan.mp3) aŭ _ci-<u>**a**</u>n_ [[t͡ʃi.'an]](ci.an.mp3)  
+**swini** (porko), prononcata _sw<u>**i**</u>-ni_ [['swi.ni]](swini.mp3) aŭ _su-<u>**i**</u>-ni_ [[su.'i.ni]](su.i.ni.mp3)  
 **trawma** (traŭmato), prononcata _tr<u>**a**</u>w-ma_ [['traw.ma]](trawma.mp3) aŭ _tr<u>**a**</u>-u-ma_ [['tra.u.ma]](tra.u.ma.mp3)
 
 ## Fonotakso por Ordinaraj Vortoj
@@ -275,7 +275,7 @@ Silaboj povas havi aŭ ne havi komencon. En Globaso, la komenco konsistas el iu 
 bl-, fl-, gl-, kl-, pl-, vl-
 br-, dr-, fr-, gr-, kr-, pr-, tr-, vr-
 bw-, cw-, dw-, fw-, gw-, hw-, jw-, kw-, lw-, mw-, nw-, pw-, rw-, sw-, tw-, vw-, xw- , zw-
-de-, cy-, dy-, fy-, gy-, hy-, jy-, ky-, ly-, mia-, ny-, py-, ry-, sy-, ty-, vy-, xy- , zy-
+by-, cy-, dy-, fy-, gy-, hy-, jy-, ky-, ly-, my-, ny-, py-, ry-, sy-, ty-, vy-, xy- , zy-
 
 ### Kerno
 
@@ -283,13 +283,13 @@ de-, cy-, dy-, fy-, gy-, hy-, jy-, ky-, ly-, mia-, ny-, py-, ry-, sy-, ty-, vy-,
     
 ### Fino
 
-Silaboj povas havi aŭ ne havi finon. En Globaso, la fino en ordinaraj vortoj konsistas el _iu ajn_ ununura konsonanto. Tamen, la sekvaj avertigoj validas:
+Silaboj povas havi aŭ ne havi finon. En Globaso, la fino en ordinaraj vortoj konsistas el _iu ajn_ ununura konsonanto. Tamen, la sekvaj avertoj validas:
 
 Vortfina pozicio: Ordinaraj vortoj en Globaso nur permesas jenajn konsonantojn en vortfina pozicio: -f, -l, -m, -n, -r, -s, -w, -x, -y.
 
-Fina-komenca voĉigo: Fina-komencaj konsonantgrupoj povas aŭ ne kongrui pri voĉado: **tekno** (teknologio) kompare kun **magneto** (magneto), **epilepsi** (epilepsio) kompare kun **absorbi** (sorbi), ktp.
+Fino-komenca voĉigo: Fino-komencaj konsonantgrupoj povas aŭ ne kongrui pri voĉado: **tekno** (teknologio) kompare kun **magneto** (magneto), **epilepsi** (epilepsio) kompare kun **absorbi** (sorbi), ktp.
 
-Fina-komencaj plozivoj: Konsonantgrupoj konsistantaj el du plozivoj (-kt-, -pt-, ktp.) ne estas permesitaj en ordinaraj vortoj. Anstataŭe, ordinaraj vortoj sekvas la italan kaj portugalan modelon kiu preterlasas la unuan konsonanton. Alivorte, se silabo komenciĝas per plozivo, la antaŭa silabo ne povas havi finan plozivon: **astrato** (abstrakta), **ativo** (aktiva), **otima** (optimuma), ktp. 
+Fino-komencaj plozivoj: Konsonantgrupoj konsistantaj el du plozivoj (-kt-, -pt-, ktp.) ne estas permesitaj en ordinaraj vortoj. Anstataŭe, ordinaraj vortoj sekvas la italan kaj portugalan modelon kiu preterlasas la unuan konsonanton. Alivorte, se silabo komenciĝas per plozivo, la antaŭa silabo ne povas havi finan plozivon: **astrato** (abstrakta), **ativo** (aktiva), **otima** (optimuma), ktp. 
 
 ### Avertoj kun w kaj y
 
@@ -299,7 +299,7 @@ Kerno-komenco: La kerno-komencaj kombinaĵoj _iy_ kaj _uw_ ne estas permesitaj e
 
 Komenco-kerno: La komenco-kernaj kombinaĵoj _wu_ kaj _yi_ ankaŭ ne estas permesitaj en ordinaraj vortoj.
 
-## Fonotakso por Propraj Substantivoj
+## Fonotakso por Propraj Nomoj
 
 Propraj nomoj havas pli malstriktajn fonotaksajn regulojn.
 
@@ -315,7 +315,7 @@ Vidu fonotaksajn regulojn por ordinaraj vortoj supre.
 
 ### Fino
 
-La fino por propraj nomoj povas finiĝi per iu ajn konsonanto: **Madrid** (Madrido), ktp. Ili ankaŭ povas konsisti el du konsonantoj, inkluzive en vortfina pozicio: **Polska** (Pollando), **Budapest** (Budapeŝto), ktp. Fino-komencaj duoblaj plozivoj estas permesitaj en propraj nomoj: **vodka** (vodko), **futbal** (usona futbalo), ktp. Tamen duoblaj plozivoj, kiuj diferencas nur en voĉado ne estas permesitaj kaj devas aŭ esti simplitigaj al unu konsonanto aŭ alpreni epentezan vokalon.
+La fino por propraj nomoj povas finiĝi per iu ajn konsonanto: **Madrid** (Madrido), ktp. Ili ankaŭ povas konsisti el du konsonantoj, inkluzive en vortfina pozicio: **Polska** (Pollando), **Budapest** (Budapeŝto), ktp. Fino-komencaj duoblaj plozivoj estas permesitaj en propraj nomoj: **vodka** (vodko), **futbal** (usona futbalo), ktp. Tamen duoblaj plozivoj, kiuj diferencas nur en voĉado ne estas permesitaj kaj devas aŭ esti simpligitaj al unu konsonanto aŭ alpreni epentezan vokalon.
 
 ### Averto kun w kaj y
 
@@ -323,8 +323,8 @@ La kerno-fina averto por ordinaraj vortoj ankaŭ validas por propraj nomoj. Kiam
 
 Tamen, male al ordinaraj vortoj, propraj nomoj permesas la kerno-komencajn kombinaĵojn _iy_ kaj _uw_ (**Kuweyti** - Kuvajto, ktp.) kaj la komenco-kernajn kombinaĵojn _wu_ kaj _yi_ (**Wuhan** - Wuhan, ktp.) .
 
-## Fonotakso por Kulturo-Specifaj Vortoj
+## Fonotakso por Kulturspecifaj Vortoj
 
 Fonotakso por kulturspecifaj vortoj sekvas la regulojn por ordinaraj vortoj en vortfina pozicio kaj la regulojn por propraj nomoj aliloke: **teriyaki** (teriyaki), **koktel** (koktelo), **bakgamon** (triktrako), **blakjaku** (blackjack), **jazu** (ĵazo), ktp.
 
-Notu: La konsonantgrupo ** -ng** en _vorto-fina_ pozicio, inkluzive kiel vidite en pinjino, aldonas epentezan vokalon, anstataŭ esti simpligita al ** -n** kiel en ordinaraj vortoj: **yinyangu** (yinyang).
+Noto: La konsonantgrupo ** -ng** en _vortfina_ pozicio, inkluzive kiel vidite en pinjino, aldonas epentezan vokalon, anstataŭ esti simpligita al ** -n** kiel en ordinaraj vortoj: **yinyangu** (yinyang).

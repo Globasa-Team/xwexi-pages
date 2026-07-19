@@ -7,22 +7,22 @@ visible: true
 
 La substantivoj de Globaso ne distingas inter singularaj kaj pluralaj formoj.
 
-* **maux** -  muso, musoj
+* **maux** - muso(j)
 * **kalamu** - plumo(j)
 
 La substantivoj de Globaso havas nek difinan nek nedifinan artikolon.
 
-* **janela** -  fenestro, (la) fenestro(j)
+* **janela** - (la) fenestro(j)
 
 Se estas strikte necese emfazi difinitecon, oni povas uzi **hin** (ĉi tiu/ĉi tiuj) aŭ **den** (tiu/tiuj).
 
-* **hin kitabu** - ĉi tiu libro, ĉi tiuj libroj
-* **den flura** - tiu floro, tiuj floroj
+* **hin kitabu** - ĉi tiu(j) libro(j)
+* **den flura** - tiu(j) floro(j)
 
 Se estas strikte necese emfazi singularecon, oni povas uzi **un** (unu).
 
 * **un denta** - unu dento
-* **hin un denta** - ĉi tiu (unu) dento
+* **hin un denta** - ĉi tiu dento
 
 Se estas strikte necese emfazi pluralecon, oni povas uzi **plu** (pluraj).
 
@@ -35,7 +35,7 @@ En Globaso, substantivoj kiuj signifas homojn kaj bestojn estas tipe seksneŭtra
 
 * **ixu** - plenkreskulo (viro, virino)
 * **nini** - infano (knabo, knabino)
-* **gami** - edz(in)o (edzo, edzino)
+* **gami** - edzo, edzino
 * **mumu** - bovo (virbovo, bovino)
 
 Se estas necese emfazi sekson, la adjektivoj **fem** (ina) kaj **man** (vira) povas esti uzataj kiel prefiksoj.
@@ -69,9 +69,9 @@ _Noto: La seksneŭtrala vorto por gepatro(j) estas **atre**. La seksneŭtrala vo
 * **Fe misal,** - Ekzemple  
 * **Fe xugwan,** - Kutime  
 * **Fe benji,** - Esence, Funde  
-* **Fe durama,** - Foje  
+* **Fe durama,** - (Kelk)foje  
 * **Fe rimara,** - Denove  
-* **Fe moy kaso,** - Ĉiukaze, Iel ajn  
+* **Fe moy kaso,** - Ĉiukaze, Malgraŭe  
 * **Fe alo kaso,** - Alie  
 * **Fe nunya,** - Nuntempe, Nun  
 * **Fe leya,** - Pasinte, Antaŭe  
@@ -98,7 +98,7 @@ La partikulo **di** povas esti nedevige uzata por marki kulturspecifajn vortojn 
 
 ### Partikulo _ci_: Kareso kaj Korinklino <a id="partikul_ci"></a>
 
-Substantivon aŭ propran nomon povas sekvi la partikulo **ci** por signi karesemon aŭ korinklinon.
+Substantivon aŭ propran nomon povas sekvi la partikulo **ci** por esprimi kareson aŭ korinklinon.
 
 * **mama** - panjo
  * **mama ci** - panjeto
@@ -114,7 +114,7 @@ La adjektivo **gao** (alta) kaj la substantivo **kef** (estro, ĉefo) povas esti
 * **alimyen** - instruisto
  * **gao alimyen** - majstro
 * **papa** - paĉjo
- * **kef papa** - estro
+ * **kef papa** - "ĉefpaĉjo"
 
 ### Substantivo/Verboj
 
@@ -127,7 +127,7 @@ En Globaso, substantivo/verboj estas vortoj kiuj povas funkcii aŭ kiel substant
 
 ### Substantivo/Verba Komparo
 
-Substantivo/verba komparo estas esprimata jene per la vortoj **max** (_pli_), **min** (_malpli, malpli da_), **dennumer** (_tiu nombro da, tiom da_), **denkwanti** (_tiu kvanto da, tiom da_), **kom** (_kiel, ol_).
+Substantivo/verba komparo estas esprimata jene per la vortoj **max** (_pli, pli da_), **min** (_malpli, malpli da_), **dennumer** (_tiu nombro da, tiom da_), **denkwanti** (_tiu kvanto da, tiom da_), **kom** (_kiel, ol_).
 
 Kun substantivoj:
 
@@ -163,30 +163,30 @@ Vi havas malpli ol cent librojn.
 **Te hare dennumer kitabu kom mi.**  
 Ŝi havas tiom da libroj kiom mi.
 
-* **dennumer te/to kom...** tiom (da ili) kiom...
+* **dennumer te/to kom...** - tiom (da ili) kiom...
 
 **Te hare dennumer to kom mi.**  
 Ŝi havas tiom (da ili) kiom mi.
 
-* **denkwanti... kom...** tiom da... kiom...
+* **denkwanti... kom...** - tiom da... kiom...
 
 **Yu yam denkwanti risi kom mi.**  
 Vi manĝas tiom da rizo kiom mi.
 
-* **denkwanti to kom...** tiom (da ĝi) kiom...
+* **denkwanti to kom...** - tiom (da ĝi) kiom...
 
 **Yu yam denkwanti to kom mi.**  
 Vi manĝas tiom (da ĝi) kiom mi.
 
 Kun verboj:
 
-* **max... kom....** aŭ **max kom...** - pli ol
+* **max... kom...** aŭ **max kom...** - pli ol
 
 **Myaw max somno kom bwaw.**  
 aŭ: **Myaw somno max kom bwaw.**  
 La kato dormas pli ol la hundo.
 
-* **min... kom....** aŭ **min kom...** - malpli ol
+* **min... kom...** aŭ **min kom...** - malpli ol
 
 **Bwaw min somno kom myaw.**  
 aŭ: **Bwaw somno min kom myaw.**  
@@ -218,7 +218,7 @@ _Helpajn verbojn_ tuj sekvas verboj en sia infinitiva formo (markita per la part
 
 #### **Kopulaj Verboj**
 
-_Kopulaj verboj_ ligas la subjekton al ĝia predikativo. Estas nuntempe 12 _kopulaj verboj_: **sen** (esti), **xorsen** (iĝi), **sencu** (iĝi), **sengi** (igi esti), **kwasisen** (ŝajni), **okocu** (aspekti), **orecu** (soni), **nasacu** (odori), **xetocu** (gusti), **pifucu** (senti je tuŝo), **hisicu** (senti fizike aŭ emocie), **ganjoncu** (senti emocie). 
+_Kopulaj verboj_ ligas la subjekton al ĝia predikativo. Estas nuntempe 12 _kopulaj verboj_: **sen** (esti), **xorsen** (iĝi), **sencu** (iĝi), **sengi** (igi esti), **kwasisen** (ŝajni), **okocu** (aspekti), **orecu** (soni), **nasacu** (odori), **xetocu** (gusti), **pifucu** (senti je tuŝo), **hisi**(**cu**) (senti fizike aŭ emocie), **ganjon**(**cu**) (senti emocie). 
 
 #### **Transitivaj Verboj**
 
@@ -245,7 +245,7 @@ La klaŭno ridigis min.
 
 #### **Netransitivaj Verboj**
 
-_Netransitivaj verboj_ ne prenas rektan objekton: **idi** (iri), **konduta** (konduti), **loka** (situi), **side** (sidi), **garaku** (droni, sinki). _Netransitivaj verboj_ povas esti transformitaj en _transitivajn verbojn_ per nedeviga uzo de **[-gi](/gramati/inharelexi#xafefikso_-gi)** ĉe la ĉeesto de rekta objekto. 
+_Netransitivaj verboj_ ne prenas rektan objekton: **idi** (iri), **konduta** (konduti), **loka** (situi), **side** (sidi), **garaku** (droni, sinki). _Netransitivaj verboj_ povas esti transformitaj en _transitivajn verbojn_ per nedeviga uzo de **[-gi](/gramati/inharelexi#xafefikso_-gi)** kiam ĉeestas rekta objekto. 
 
 * **garaku** - droni, sinki  
 **garaku**(**gi**) - (igi) droni, sinki
@@ -256,11 +256,11 @@ La kapitano dronis.
 **Navikef le garaku**(**gi**) **navi.**  
 La kapitano sinkigis la ŝipon.
 
-En vortderivado, tamen, **[-gi](/gramati/inharelexi#xafefikso_-gi)** estas deviga. Komparu la jenajn adjektivojn derivitajn per **garaku** kaj la sufikso **[-ne](/gramati/inharelexi#xafefikso_-ne)**. 
+En vortderivado, tamen, **[-gi](/gramati/inharelexi#xafefikso_-gi)** estas deviga. Komparu la jenajn adjektivojn derivitajn el **garaku** per la sufikso **[-ne](/gramati/inharelexi#xafefikso_-ne)**. 
 
 **garakune navikef** - la dronanta kapitano  
 
-**garakugine navikef**- la kapitano sinkiganta (la ŝipon)
+**garakugine navikef** - la kapitano sinkiganta (la ŝipon)
 
 #### **Ambaŭtransitivaj Verboj** 
 
@@ -270,7 +270,7 @@ Estas kvar subkategorioj de _ambaŭtransitivaj verboj_: _verboj de sento_, _verb
 
 **_Verboj de Sento_**
 
-_Ambaŭtransitivaj verboj_ kiuj signifas senton signifas _kaŭzi senti [substantivo aŭ adjektivo]_ aŭ _senti [substantivo aŭ adjektivo]_, tipe depende de la ĉeesto aŭ foresto de rekta objekto. Notu ke la netransitiva signifo povas ankaŭ esti esprimita kiel kopulo kaj adjektiva frazo: **sen** _[radiko]_**[-do](/gramati/inharelexi#xafefikso_-do)**.
+_Ambaŭtransitivaj verboj_ kiuj signifas senton signifas _kaŭzi senti [substantivo aŭ adjektivo]_ aŭ _senti [substantivo aŭ adjektivo]_, tipe depende de la ĉeesto aŭ foresto de rekta objekto. Notu ke la netransitiva signifo povas ankaŭ esti esprimita kiel kopulo kaj adjektiva frazparto: **sen** _[radiko]_**[-do](/gramati/inharelexi#xafefikso_-do)**.
 
 * **interes** - _tr:_ interesi; _ntr:_ esti (_senti sin_) interesita (pri), havi intereson (pri)  
 
@@ -306,9 +306,9 @@ Mi ekinteresiĝis pri lingvoscienco antaŭ multaj jaroj.
 
 **_Verboj de Stato_**
 
-_Ambaŭtransitivaj verboj de stato_ similas al _verboj de sento_. Ili estas _substantivoj de stato_ kiuj povas esti uzataj kiel _ambaŭtransitivaj verboj_ signifantaj _kaŭzi havi [substantivo]_ aŭ _havi [substantivo]_, tipe depende de la ĉeesto aŭ foresto de rekta objekto. Notu ke la netransitiva signifo povas ankaŭ esti esprimita kiel kopulo kaj adjektiva frazo: **sen** _[radiko]_**[-pul](/gramati/inharelexi#xafefikso_-pul)**.
+_Ambaŭtransitivaj verboj de stato_ similas al _verboj de sento_. Ili estas _substantivoj de stato_ kiuj povas esti uzataj kiel _ambaŭtransitivaj verboj_ signifantaj _kaŭzi havi [substantivo]_ aŭ _havi [substantivo]_, tipe depende de la ĉeesto aŭ foresto de rekta objekto. Notu ke la netransitiva signifo povas ankaŭ esti esprimita kiel kopulo kaj adjektiva frazparto: **sen** _[radiko]_**[-pul](/gramati/inharelexi#xafefikso_-pul)**.
 
-* **termo** - _tr:_ varmigi ; _ntr:_ esti varma 
+* **termo** - _tr:_ varmigi; _ntr:_ esti varma 
 
 **Kam yu le termo banyokamer?**  
 Ĉu vi varmigis la banĉambron?
@@ -324,7 +324,7 @@ La lernejo inteligentigis lin.
 **Syensiyen cinon. = Syensiyen sen cinonpul.**  
 La sciencisto estas inteligenta. 
 
-* **talento** - _tr:_ talentigi ; _ntr:_ esti talenta
+* **talento** - _tr:_ talentigi; _ntr:_ esti talenta
 
 **Patre le talento lalayen.**  
 La patro talentigis la kantiston.
@@ -344,7 +344,7 @@ Varmiĝis tagmeze.
 
 **_Neagentaj Verboj_**
 
-En la netransitiva signifo de _neagentaj ambaŭtransitivaj verboj_, la ago estas io kio okazas al la subjekto, prefere ol io kion la subjekto faras. La sufikso **[-cu](/gramati/inharelexi#xafefikso_-do)** povas esti nedevige aplikata al _neagentaj verboj_ por la netransitiva signifo.
+En la netransitiva signifo de _neagentaj ambaŭtransitivaj verboj_, la ago estas io kio okazas al la subjekto, anstataŭ io, kion la subjekto faras. La sufikso **[-cu](/gramati/inharelexi#xafefikso_-cu)** povas esti nedevige aplikata al _neagentaj verboj_ por la netransitiva signifo.
 
 * **kasiru** - _tr:_ rompi (_kaŭzi rompiĝon_)  
 **kasiru**(**cu**) - _ntr:_ rompiĝi (_iĝi rompita_)  
@@ -375,7 +375,7 @@ La milito finiĝis.
 
 **_Verboj de Movo_**
 
-En la netransitiva signifo de _ambaŭtransitivaj verboj de movo_, la subjekto estas samtempe aganto kaj paciento. La sufikso **[-cu](/gramati/inharelexi#xafefikso_-do)** povas esti nedevige aplikata al _verboj de movo_ por la netransitiva signifo.
+En la netransitiva signifo de _ambaŭtransitivaj verboj de movo_, la subjekto estas samtempe aganto kaj paciento. La sufikso **[-cu](/gramati/inharelexi#xafefikso_-cu)** povas esti nedevige aplikata al _verboj de movo_ por la netransitiva signifo.
 
 * **esto** - _tr:_ haltigi (_kaŭzi halton_)  
 **esto**(**cu**) - _ntr:_ halti (_veni al halto_)  
@@ -410,7 +410,7 @@ En vortderivado, _ambaŭtransitivaj verboj_ kondutas kiel _transitivaj verboj_, 
 
 Kiam la _netransitiva_ signifo de _neagentaj verboj_ kaj _verboj de movo_ estas bezonata en derivita vorto, **[-cu](/gramati/inharelexi#xafefikso_-cu)** estas deviga, krom kiam oni aplikas **-ne**, **-do**, **-abil**, **-musi** aŭ **-ingay**, en kiu kazo **-cu** restas nedeviga. 
 
-Komparu la jenajn adjektivojn derivitajn per la radikoj **buka** (malfermi) kaj **klosi** (fermi) kaj la sufiksoj **[-ne](/gramati/inharelexi#xafefikso_-ne)** kaj **[-do](/gramati/inharelexi#xafefikso_-do)**. Kiel videblas en la subaj ekzemploj, la ambigueco kiu povas estiĝi de la forlaso de la nedeviga **-cu** en derivado estas tipe sensignifa.
+Komparu la jenajn adjektivojn derivitajn el la radikoj **buka** (malfermi) kaj **klosi** (fermi) per la sufiksoj **[-ne](/gramati/inharelexi#xafefikso_-ne)** kaj **[-do](/gramati/inharelexi#xafefikso_-do)**. Kiel videblas en la subaj ekzemploj, la ambigueco kiu povas estiĝi de la forlaso de la nedeviga **-cu** en derivado estas tipe sensignifa.
 
 _transitiva verbo_: **bukane merasem** - la malferma ceremonio  
 
@@ -439,7 +439,7 @@ La bebo _bone manĝas_.
 **Uma _velosi pawbu_.**  
 La ĉevalo _rapide kuras_.
 
-Alternative, adverboj povas aperi post la verbo, sed antaŭataj de la rektaj kaj nerektaj objektoj, se estas: Subjekto - Verbo - (Rektaj kaj Nerektaj Objektoj) - Adverbo.
+Alternative, adverboj povas aperi post la verbo, sed antaŭataj de la rektaj kaj nerektaj objektoj, se tiaj estas: Subjekto - Verbo - (Rektaj kaj Nerektaj Objektoj) - Adverbo.
 
 **Bebe yam _bon_.**  
 La bebo manĝas _bone_.
@@ -455,9 +455,9 @@ _Rapide_, la hundo trinkas la akvon.
 **_Unyum_, te le idi cel banko.**  
 _Unue_, ŝi iris al la banko.
 
-### Adjektivo/Adverboj en Frazkomencaj Frazpartoj
+### Frazkomencaj Adverboj
 
-La jenaj estas adjektivo/adverboj ofte uzataj en frazkomencaj frazpartoj sekvataj de klara paŭzo antaŭ la resto de la frazo.
+La jenaj estas adjektivo/adverboj tipe uzataj kiel frazkomencaj adverboj, sekvataj de klara paŭzo antaŭ la cetero de la frazo. La paŭzo malhelpas, ke la fraza adverbo estu erare interpretata kiel adjektivo modifanta la subjekton.
 
 * **Ripul, Rili, Rimarali,** - Denove  
 * **Dumarali,** - Foje
@@ -475,20 +475,20 @@ La jenaj estas adjektivo/adverboj ofte uzataj en frazkomencaj frazpartoj sekvata
 * **Fori,** - Tuj    
 * **Sati,** - Vere  
 * **Umumi,** - Ĝenerale  
-* **Nerleli,** - Lastatempe  
-* **Telileli,** - Antaŭ longe  
+* **Nerleli,** - Freŝdate, lastatempe  
+* **Telileli,** - Antaŭ longe, antaŭ longa tempo
 * **Nerxali,** - Baldaŭ  
-* **Telixali,** - Post longe  
+* **Telixali,** - Post longe, post longa tempo  
 
 ### Adjektivo/Adverba Komparo
 
-Adjektivo/adverba komparo estas esprimata jene per la vortoj **maxmo** (_pli_), **minmo** (_malpli_), **denmo** (_tiel_),**kom** (_kiel, ol_).
+Adjektivo/adverba komparo estas esprimata jene per la vortoj **maxmo** (_pli_), **minmo** (_malpli_), **denmo** (_tiel_), **kom** (_kiel, ol_).
 
 * **maxmo kimapul kom...** - pli multekosta ol...
 * **minmo kimapul kom...** - malpli multekosta ol...
 * **denmo kimapul kom...** - tiel multekosta kiel...
 
-Por esprimi _la plej_ kaj _la malplej_, Globaso uzas **maxim... te/to** kaj **minim... te/to**. La vorto **of** signifas _el_ aŭ _de (sur)_. Notu ke la pronomoj **te**/**to** devas tuj sekvi la adjektivon, ĉar substantivaj frazpartoj devas ĉiam finiĝi per substantivo aŭ pronomo. Vidu [Substantivaj Frazpartoj](/gramati/jumlemonli-estrutur#pronamelexi_in_namelexili_jumlemon).
+Por esprimi _la plej_ kaj _la malplej_, Globaso uzas **maxim... te/to** kaj **minim... te/to**. La vorto **of** signifas _el_ aŭ _de (sur)_. Notu ke la pronomoj **te**/**to** devas tuj sekvi la adjektivon, ĉar substantivaj frazpartoj devas ĉiam finiĝi per substantivo aŭ pronomo. Vidu [Substantivajn Frazpartojn](/gramati/jumlemonli-estrutur#pronamelexi_in_namelexili_jumlemon).
 
 * **maxim juni te (of misu bete)** - la plej juna (el miaj infanoj)
 * **minim kimapul to (of yusu mobil)** - la malplej multekosta (el viaj aŭtoj)
@@ -528,7 +528,7 @@ La sufikso **-ya** havas diversajn utilajn funkciojn kaj egalas al la Esperanta 
 2. La sufikso **-ya** estas uzata por derivi abstraktajn kaj nenombreblajn substantivojn el diversaj konkretaj kaj nombreblaj substantivoj.
 
 * **poema** - poemo (_konkreta subst_)  
-* **poemaya** - poezio (_abstrakta subst_)
+**poemaya** - poezio (_abstrakta subst_)
 
 La sufikso **-ya** egalas al la Esperanta _-eco_ kiam aldonita al substantivoj kiuj signifas rilatojn.
 
@@ -566,20 +566,20 @@ Simile, la korpopartoj asociitaj kun la kvin sensoj signifas la rilatan agon (_v
 * **pifu** - haŭto (_konkreta subst_), tuŝi (_verbo_)  
 **pifuya** - tuŝo _aŭ_ senso de tuŝo (_abstrakta subst_)
 
-3. Prepozicioj estas transformitaj en substantivo/verbojn per la sufikso **-ya**. Vidu [Prepoziciaj Verboj](/gramati/jumleli-estrutur#plasilexili_falelexi).
+3. Prepozicioj estas transformitaj en substantivo/verbojn per la sufikso **-ya**. Vidu [Prepoziciajn Verbojn](/gramati/jumleli-estrutur#plasilexili_falelexi).
 
-4. La sufikso **-ya** estas ankaŭ uzata por transformi aliajn funkciovortojn en substantivojn. Vidu [Funkciovortoj](/gramati/gramatilexi).
+4. La sufikso **-ya** estas ankaŭ uzata por transformi aliajn funkciajn vortojn en substantivojn. Vidu [Funkciajn vortojn](/gramati/gramatilexi).
 
-_Etimologio de **-ya**: Hindia (सत्य "satya" - vero), Hispana (alegría - ĝojo)_
+_Etimologio de **-ya**: Hindia (सत्य “satya” - vero), Hispana (alegría - ĝojo)_
 
-### Prefikso du- <a id="lefefikso_du-"></a>
+### Prefikso du-  
 
-Globaso uzas la prefikson **du-** por esprimi la gerundion.
+Globaso uzas la prefikson **du-** por esprimi ago-substantivojn, kiuj en Esperanto finiĝas per _-ado_.
 
 * **dudanse** - dancado (la ago danci)
 * **dulala** - kantado (la ago kanti)
 
-La prefikso **du-** estas ankaŭ uzata por la _kontinua/kutima verba aspekto_. Vidu [Verbaj Formoj](/gramati/falelexili-morfo#nun_du-).
+La prefikso **du-** estas ankaŭ uzata por la _kontinua/kutima verba aspekto_. Vidu [Verbajn Formojn](/gramati/falelexili-morfo#lefefikso_du-).  
 
 _La prefikso **du-** estas mallongigita el **dure** (daŭro).  
 Etimologio de **dure**: Angla, Franca, Germana kaj Hispana_
@@ -620,7 +620,7 @@ Etimologio de **gibe**: Angla (give), Germana (geben, gibt) kaj Mandarena (给 �
 
 ### Substantivo/Verba Sufikso -cu <a id="xafefikso_-cu"></a>
 
-La sufikso **-cu** povas esti aplikata al adjektivoj kaj substantivoj, krom al verboj, kiel videblas sub [_Verbaj Kategorioj_](/gramati/inharelexi#falelexili_klase) supre.
+La sufikso **-cu** povas esti aplikata al adjektivoj kaj substantivoj, aldone al verboj, kiel videblas sub [_Verbaj Kategorioj_](/gramati/inharelexi#falelexili_klase) supre.
 
 #### Adjektivoj
 
@@ -642,8 +642,8 @@ La sufikso **-cu** signifas _iĝi_ kiam aldonita al substantivoj.
 * **ixu** - (homa) plenkreskulo  
 **ixucu** - iĝi plenkreskulo, plenaĝiĝi
 
-_La sufikso **-cu** estas mallongigita el **cudu** (preni, akiri, gajni)  
-Etimologio de **cudu**: Mandarena (取得 "qǔdé"), Korea (취득 “chwideug”)_
+_La sufikso **-cu** estas mallongigita el **cudu** (preni, akiri, gajni).  
+Etimologio de **cudu**: Mandarena (取得 “qǔdé”), Korea (취득 “chwideug”)_
 
 ### Adjektivo/Adverba Sufikso -li <a id="xafefikso_-li"></a>
 
@@ -661,13 +661,13 @@ En Globaso, adjektivo/adverboj estas derivitaj el substantivoj per diversaj sufi
 * **Franse** - Francio  
 **Franseli** - franca
 
-La sufikso **-li** estas ankaŭ uzata por derivi adjektivo/adverbojn el funkciovortoj. Vidu [Funkciovortoj](/gramati/gramatilexi).
+La sufikso **-li** estas ankaŭ uzata por derivi adjektivo/adverbojn el funkciaj vortoj. Vidu [Funkciajn vortojn](/gramati/gramatilexi).
 
 _Etimologio de **-li**: Franca (-el, -elle), Hispana (-al), Angla (-al, -ly), Germana (-lich), Rusa (-ельный “-elni”, -альный “-alni”), Turka (-li)_
 
 ### Adjektivo/Adverba Sufikso -pul <a id="xafefikso_-pul"></a>
 
-La vorto **pul** signifas _plena_. Tamen, kiel sufikso **-pul** signifas _kun sufiĉe aŭ pli ol sufiĉe_.
+La vorto **pul** signifas _plena_. Tamen, kiel sufikso **-pul** signifas _havanta sufiĉe aŭ pli ol sufiĉe da io_.
 
 * **humor** - humuro  
 **humorpul** - humura, amuza
@@ -681,7 +681,7 @@ _Etimologio de **pul**: Angla (full), Hindia (पूर्ण  “purn”), Rusa
 
 La sufikso **-ne** signifas _en aktiva stato aŭ procezo de_ kaj estas uzata por derivi tion, kio en Globaso estas konata kiel _aktivaj adjektivoj_.
 
-_Aktivaj adjektivoj_ plej ofte egalas al la _aktivaj participoj_ en Esperanto (adjektivoj finiĝantaj per _-anta_). Tamen, malkiel la progresiva formo (_mi estas dormanta_, _ŝi estas dancanta_, ktp.), _aktivaj adjektivoj_ ne estas uzataj por krei progresivajn verbo-formojn. Anstataŭe, ili funkcias nur kiel adjektivoj.
+_Aktivaj adjektivoj_ plej ofte egalas al la _aktivaj prezencaj participoj_ en Esperanto (adjektivoj finiĝantaj per _-anta_). Tamen, malkiel la verbaj formoj en Esperanto (_mi estas dormanta_, _ŝi estas dancanta_, ktp.), _aktivaj adjektivoj_ ne estas uzataj por krei verbajn formojn. Anstataŭe, ili funkcias nur kiel adjektivoj.
 
 * **somno** - dormi  
 **_somnone_ meliyen** - _dormanta_ belulino
@@ -702,7 +702,7 @@ _Etimologio de **-ne**: Angla (-ing), Franca (-ant), Hispana (-ando), Germana (-
 
 ### Frazkomencaj Aktivaj Adjektivoj
 
-Aktivaj adjektivoj kiuj aperas frazkomence povas alternative esti esprimitaj kiel prepoziciaj frazpartoj per la infinitiva verbformo.
+Aktivaj adjektivoj kiuj aperas frazkomence povas alternative esti esprimitaj kiel prepoziciaj frazpartoj per la infinitiva verba formo.
 
 **_Doxone,_ nini le xorsomno.**  
 _Legante,_ la infano ekdormis.
@@ -715,7 +715,7 @@ _aŭ_
 **_Dur na doxo,_ nini le xorsomno.**  
 _Dum legado,_ la infano ekdormis. 
 
-Tiu konstruo estas utila precipe kiam la frazparto inkluzivas rektan objekton, ĉar, malkiel la _aktiva participo_ en Esperanto, _aktivaj adjektivoj_ en Globaso ne povas funkcii kiel verboj.
+Tiu konstruo estas utila precipe kiam la frazparto inkluzivas rektan objekton, ĉar, malkiel la _aktiva prezenca participo_ en Esperanto, _aktivaj adjektivoj_ en Globaso ne povas funkcii kiel verboj.
 
 **_Dur na doxo sesu preferido kitabu,_ nini le xorsomno.**  
 _Dum legado de sia preferata libro,_ la infano ekdormis.
@@ -734,7 +734,7 @@ _Aktivaj adjektivoj_ povas esti farataj pasivaj per aldono de la pasiva prefikso
 
 ### Neaktivaj Adjektivoj: Sufikso -do <a id="xafefikso_-do"></a>
 
-La sufikso **-do** signifas _en neaktiva stato de_. Vortoj kun ĉi tiu sufikso estas konataj en Globaso kiel _neaktivaj adjektivoj_ kaj estas tipe tradukataj kiel la _pasiva participo_ en Esperanto (la formo per _-ita_). Tamen, malkiel la _perfektaj_ aŭ _pasivaj verbo_-formoj (_mi estas laborinta_, _ĝi estis/iĝis ŝtelita_, ktp.), _neaktivaj adjektivoj_ ne estas uzataj por krei tiajn formojn. Anstataŭe, ili funkcias nur kiel adjektivoj.
+La sufikso **-do** signifas _en neaktiva stato de_. Vortoj kun ĉi tiu sufikso estas konataj en Globaso kiel _neaktivaj adjektivoj_ kaj estas tipe tradukataj kiel la _pasiva participo_ en Esperanto (la formo per _-ita_). Tamen, malkiel la _perfektaj_ aŭ _pasivaj verbaj formoj_ (_mi estas laborinta_, _ĝi estis ŝtelita_, ktp.), _neaktivaj adjektivoj_ ne estas uzataj por krei tiajn formojn. Anstataŭe, ili funkcias nur kiel adjektivoj.
 
 * **bujodo morgiyen** - kaptita murdisto (_en stato de kapto_ aŭ _kiu estis kaptita_)
 
@@ -746,7 +746,7 @@ La sufikso **-do** signifas _en neaktiva stato de_. Vortoj kun ĉi tiu sufikso e
 
 * **klosido dwer** - fermita pordo (_en stato de fermo_ aŭ _kiu fermiĝis aŭ estis fermita_)  
 
-_Etimologio de **-do**: Angla (-ed), Hispana (-ado, -ido), Mandarena ( 的 “de”)_
+_Etimologio de **-do**: Angla (-ed), Hispana (-ado, -ido), Mandarena (的 “de”)_
 
 ### Adverba Sufikso -mo <a id="xafefikso_-mo"></a>
 

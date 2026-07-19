@@ -12,7 +12,8 @@ visible: true
 * **[nor](https://menalari.globasa.net/eng/lexi/nor)** - nor
  * **[noro](https://menalari.globasa.net/eng/lexi/noro)... nor...** - neither... nor...
 * **[kam](https://menalari.globasa.net/eng/lexi/kam)** - yes/no question particle
- * **[kama](https://menalari.globasa.net/eng/lexi/kama)... kam...** - whether... or (whether)...
+ * **[ku kam](https://menalari.globasa.net/eng/lexi/ku_kam)** - (introduces indirect question) whether, if
+ * **[kama](https://menalari.globasa.net/eng/lexi/kama)... kam...** - (introduces alternate possibility) whether... or (whether)...
 * **[mas](https://menalari.globasa.net/eng/lexi/mas)** - but
 * **[eger](https://menalari.globasa.net/eng/lexi/eger)** - if
 * **[kwas](https://menalari.globasa.net/eng/lexi/kwas)** - as if [**kwasi** - seeming(ly)]
@@ -48,7 +49,7 @@ If the noun is understood, a pronoun is used (**te**/**to** or **ete**/**oto**):
 **To de Maria sen day.**  
 Mary's is big.
 
-The suffix [**-su**](gramati/pornamelexi#suyali_sifalexi) is added to pronouns to form possessive adjectives. Similarly, the particle **[su](https://menalari.globasa.net/eng/lexi/su)** is used to express possession by nouns and is equivalent to the English possessive suffix _'s_. Unlike in English, however, **su** is used as a separate word.
+The suffix [**-su**](/gramati/pornamelexi#suyali_sifalexi) is added to pronouns to form possessive adjectives. Similarly, the particle **[su](https://menalari.globasa.net/eng/lexi/su)** is used to express possession by nouns and is equivalent to the English possessive suffix _'s_. Unlike in English, however, **su** is used as a separate word.
 
 **Maria su baytu sen day.**  
 Mary's house is big.
@@ -328,6 +329,6 @@ _Stole_? I never said she _stole_ my money.
 
 ## Other Function Words
 
-[Pronouns](/gramati/pronamelexi)  
+[Pronouns](/gramati/pornamelexi)  
 [Correlatives](/gramati/tabellexi)  
 [Numbers](/gramati/numer-ji-mesi)  

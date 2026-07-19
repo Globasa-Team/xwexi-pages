@@ -93,7 +93,7 @@ La fricativa _velar_ se pronuncia en el mismo punto de articulación que [k], y 
 
 **w** e **y** - variantes permitidas: como vocales átonas (**u** e **i**)
 
-Consulte la [convención ortográfica](/grammar/abece-ji-lafuzu#regula_fe_harufiya) a continuación.
+Consulte la [convención ortográfica](/gramati/abece-ji-lafuzu#regula_fe_harufiya) a continuación.
 
 **x** - nunca [ks] como en _taxi_
 
@@ -110,7 +110,7 @@ La siguiente tabla incluye todos los alófonos de consonantes en variación libr
 | letra | alófonos |
 |
 | **b** | [[b](b.mp3)] |
-| **c** | [[t͡ʃʰ](c_aspirated.mp3) ~ [ʈ͡ʂʰ](ch.wav) ~ [t͡ɕʰ](q.wav) ~ [[t͡ʃ](c_unaspirated.mp3)] |
+| **c** | [[t͡ʃʰ](c_aspirated.mp3) ~ [ʈ͡ʂʰ](ch.wav) ~ [t͡ɕʰ](q.wav) ~ [t͡ʃ](c_unaspirated.mp3)] |
 | **d** | [[d](d.mp3)] |
 | **f** | [[f](f.mp3) ~ [ɸ](Voiceless_bilabial_fricative.ogg)] |
 | **g** | [[g](g.mp3)] |
@@ -144,13 +144,13 @@ Las vocales de Globasa (**a**, **e**, **i**, **o**, **u**) se pronuncian como en
 
 ### Variantes de vocales
 
-**a** - idealmente pronunciada [[ä]](https://en.wikipedia.org/wiki/Open_central_unrounded_vocal), una vocal central abierta no redondeada; la [[a]](https://upload.wikimedia.org/wikipedia/commons/0/0e/PR-open_front_unrounded_vocal.ogg) anterior y la [[ɑ]](https://upload.wikimedia.org/wikipedia/commons/e/e5/Open_back_unrounded_vocal.ogg) posterior son variantes permitidas
+**a** - idealmente pronunciada [[**ä**]](https://en.wikipedia.org/wiki/Open_central_unrounded_vocal), una vocal central abierta no redondeada; la [[a]](https://upload.wikimedia.org/wikipedia/commons/0/0e/PR-open_front_unrounded_vocal.ogg) anterior y la [[ɑ]](https://upload.wikimedia.org/wikipedia/commons/e/e5/Open_back_unrounded_vocal.ogg) posterior son variantes permitidas
  
-**e** - idealmente pronunciada [[e̞]](https://en.wikipedia.org/wiki/Mid_front_unrounded_vowel), una vocal anterior media no redondeada; la [[e]](https://upload.wikimedia.org/wikipedia/commons/6/6c/Close-mid_front_unrounded_vocal.ogg) semicerrada y la [[ɛ]](https://upload.wikimedia.org/wikipedia/commons/7/71/Open-mid_front_unrounded_vocal.ogg) semiabierta son variantes permitidas
+**e** - idealmente pronunciada [[**e̞**]](https://en.wikipedia.org/wiki/Mid_front_unrounded_vowel), una vocal anterior media no redondeada; la [[e]](https://upload.wikimedia.org/wikipedia/commons/6/6c/Close-mid_front_unrounded_vocal.ogg) semicerrada y la [[ɛ]](https://upload.wikimedia.org/wikipedia/commons/7/71/Open-mid_front_unrounded_vocal.ogg) semiabierta son variantes permitidas
  
-**o** - idealmente pronunciada [[o̞]](https://en.wikipedia.org/wiki/Mid_back_rounded_vowel), una vocal redonda media posterior; la [[o]](https://upload.wikimedia.org/wikipedia/commons/8/84/Close-mid_back_rounded_vocal.ogg) semicerrada y la [[ɔ]](https://upload.wikimedia.org/wikipedia/commons/d/d0/PR-open-mid_back_rounded_vocal.ogg) semiabierta son variantes permitidas
+**o** - idealmente pronunciada [[**o̞**]](https://en.wikipedia.org/wiki/Mid_back_rounded_vowel), una vocal redondeada media posterior; la [[o]](https://upload.wikimedia.org/wikipedia/commons/8/84/Close-mid_back_rounded_vocal.ogg) semicerrada y la [[ɔ]](https://upload.wikimedia.org/wikipedia/commons/d/d0/PR-open-mid_back_rounded_vocal.ogg) semiabierta son variantes permitidas
 
-**u** - idealmente pronunciada [[u]](https://en.wikipedia.org/wiki/Close_back_rounded_vowel), una vocal cerrada posterior redondeada; la [[ɯᵝ]](compressed_u.mp3) cerrada posterior comprimida es una variante permitida
+**u** - idealmente pronunciada [[**u**]](https://en.wikipedia.org/wiki/Close_back_rounded_vowel), una vocal cerrada posterior redondeada; la [[ɯᵝ]](compressed_u.mp3) cerrada posterior comprimida es una variante permitida
 
 ### Elisión
 
@@ -166,7 +166,7 @@ Las sílabas en Globasa pueden ser tónicas o átonas. En otras palabras, Globas
 
 * Todas las palabras de contenido monosílabas (_sustantivos, verbos, adjetivos, adverbios_) son tónicas.  
 
-Todas las demás palabras monosílabas se pueden acentuar o no según lo que se sienta más natural para el hablante. En caso de duda, se pueden utilizar las siguientes pautas sugeridas:
+Palabras de función monosílabas se pueden acentuar o no según lo que se sienta más natural para el hablante. En caso de duda, se pueden utilizar las siguientes pautas sugeridas:
 
 * Palabras de función monosílabas átonas: _preposiciones, conjunciones y partículas (incluidas las partículas verbales)_  
 * Palabras de función monosílabas tónicas: _pronombres, determinantes, numerales, cuantificadores, adverbios e interjecciones_

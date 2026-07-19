@@ -1,5 +1,5 @@
 ---
-title: '​Word Order: Sentence Structure'
+title: 'Word Order: Sentence Structure'
 visible: true
 ---
 

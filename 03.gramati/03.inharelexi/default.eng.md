@@ -218,7 +218,7 @@ _Auxiliary verbs_ are immediately followed by verbs in their infinitive form (ma
 
 #### **Copula Verbs**
 
-_Copula verbs_ link the subject to its complement. There are currently 12 _copula verbs_: **sen** (be), **xorsen** (become), **sencu** (become), **sengi** (cause to be), **kwasisen** (seem), **okocu** (look), **orecu** (sound), **nasacu** (smell), **xetocu** (taste), **pifucu** (feel to touch), **hisicu** (feel physically or emotionally), **ganjoncu** (feel emotionally). 
+_Copula verbs_ link the subject to its complement. There are currently 12 _copula verbs_: **sen** (be), **xorsen** (become), **sencu** (become), **sengi** (cause to be), **kwasisen** (seem), **okocu** (look), **orecu** (sound), **nasacu** (smell), **xetocu** (taste), **pifucu** (feel to touch), **hisi**(**cu**) (feel physically or emotionally), **ganjon**(**cu**) (feel emotionally). 
 
 #### **Transitive Verbs**
 
@@ -455,9 +455,9 @@ _Quickly_, the dog drinks the water.
 **_Unyum_, te le idi cel banko.**  
 _First_, she went to the bank.
 
-### Adjective/Adverbs in Sentence-Initial Phrases
+### Sentence-Initial Adverbs  
 
-The following are adjective/adverbs commonly used in sentence-initial phrases followed by a clear pause before the rest of the sentence.
+The following are adjective/adverbs typically used as sentence-initial adverbs, followed by a clear pause before the rest of the sentence. The pause prevents the sentence adverb from being mistaken as an adjective modifying the subject.
 
 * **Ripul, Rili, Rimarali,** - Again  
 * **Dumarali,** - Sometimes
@@ -572,14 +572,14 @@ Likewise, the body parts associated with the five senses denote the related acti
 
 _Etymology of **-ya**: Hindi (सत्य "satya" - truth), Spanish (alegría - joy)_
 
-### Prefix du- <a id="lefefikso_du-"></a>
+### Prefix du-  
 
 Globasa uses the prefix **du-** to express the gerund.
 
 * **dudanse** - (the act of) dancing
 * **dulala** - (the act of) singing
 
-The prefix **du-** is also used for the _continuous/habitual verb aspect_. See [Verb Forms](/gramati/falelexili-morfo#nun_du-).
+The prefix **du-** is also used for the _continuous/habitual verb aspect_. See [Verb Forms](/gramati/falelexili-morfo#lefefikso_du-).  
 
 _The prefix **du-** is truncated from **dure** (duration).  
 Etymology of **dure**: English, French, German and Spanish_
