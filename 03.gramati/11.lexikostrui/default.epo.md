@@ -182,7 +182,7 @@ Notu ke la vortaro etikedas kaj _verajn afiksojn_ kaj _kvazaŭafiksojn_ simple k
  * **xansebur** - malbonŝanca, malfeliĉa (_xanse_ - _ŝanco_)  
 * **day:** granda, ampleksa, grandioza; _en kunmetaĵoj:_ granda je, alta je  
  * **termoday** - varmega (_termo - varmo_)
-* **ible:** ebla; _en kunmetaĵoj_ -ebla (samfunkcia kun **-abil**)
+* **ible:** ebla; _en kunmetaĵoj:_ -ebla (samfunkcia kun **-abil**)
  * **yamible** - manĝebla (_yam - manĝi_); **doxoible** - legebla (_doxo - legi_); **okoible** - videbla (_oko - vidi_)
 * **fil:** inklina al, ema
  * **ergofil** - diligenta, laborema (_ergo_ - _labori_); **fobifil** - timema (_fobi_ - _timo_); **dinifil** - religiema (_dini_ - _religio_)

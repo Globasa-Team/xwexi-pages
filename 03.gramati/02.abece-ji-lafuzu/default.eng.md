@@ -2,7 +2,7 @@
 title: 'Alphabet and Pronunciation'
 published: true
 visible: true
-media_order: 'c.mp3,d.mp3,g.mp3,h.mp3,j.mp3,l.mp3,m.mp3,n.mp3,p.mp3,r.mp3,rr.mp3,s.mp3,t.mp3,uvular.mp3,w.mp3,x.mp3,b.mp3,y.mp3,z.mp3,f.mp3,k.mp3,ng.mp3,v.mp3,Voiced_palato-alveolar_sibilant.ogg,Voiceless_alveolo-palatal_sibilant.ogg,Voiceless_retroflex_sibilant.ogg,doste.mp3,Espanisa.mp3,harita.mp3,kitabudom.mp3,pantalun.mp3,barix.mp3,Voiced_uvular_fricative.ogg,asif.mp3,asif_.mp3,mag_neto.mp3,magneto.mp3,po_ema.mp3,poema.mp3,asel_li.mp3,aselli.mp3,be_eskri.mp3,beeskri.mp3,bur_roya.mp3,burroya.mp3,pos_sahay.mp3,possahay.mp3,semi_isula.mp3,semiisula.mp3,ci.an.mp3,cyan.mp3,daif.mp3,e.u.ro.pa.mp3,ewropa.mp3,ji.en.mp3,jyen.mp3,ma.ri.o.mp3,maria.mp3,maryo.mp3,maux.mp3,pi.a.no.mp3,pyano.mp3,su.i.ni.mp3,swini.mp3,a.ogg,e.ogg,i.ogg,o.ogg,u.ogg,compressed_u.mp3,ch.wav,q.wav,Voiceless_bilabial_fricative.ogg,Voiceless_glottal_fricative.ogg,Voiced_alveolo-palatal_affricate.ogg,Voiced_palatal_affricate.ogg,Voiceless_pharyngeal_fricative.ogg,Voiceless_uvular_plosive.ogg,Velarized_alveolar_lateral_approximant.ogg,Postalveolar_approximant.ogg,Retroflex_Approximant2.mp3,Labiodental_approximant.ogg,Voiced_palatal_fricative.ogg,c_full_aspiration.mp3,k_full_aspiration.mp3,p_full_aspiration.mp3,t_full_aspiration.mp3,Alveolar_approximant.ogg,basa.mp3,bete.mp3,idi.mp3,mumu.mp3,oko.mp3,baytu.mp3,cokolate.mp3,dexa.mp3,globa.mp3,juni.mp3,kitabu.mp3,lala.mp3,multi.mp3,neo.mp3,pingo.mp3,risi.mp3,sui.mp3,teatro.mp3,visita.mp3,watu.mp3,xugwan.mp3,yuxi.mp3,zebra.mp3,fasul.mp3,hawa.mp3,c_aspirated.mp3,p_aspirated.mp3,t_aspirated.mp3,k_aspirated.mp3,c_unaspirated.mp3,k_unaspirated.mp3,p_unaspirated.mp3,t_unaspirated.mp3,piu.mp3,Alveolar_trill.ogg,burroya_single_r.mp3,kruel.mp3,triunfa.mp3,trawma.mp3,tra.u.ma.mp3'
+media_order: 'c.mp3, d.mp3, g.mp3, h.mp3, j.mp3, l.mp3, m.mp3, n.mp3, p.mp3, r.mp3, rr.mp3, s.mp3, t.mp3, uvular.mp3, w.mp3, x.mp3, b.mp3, y.mp3, z.mp3, f.mp3, k.mp3, ng.mp3, v.mp3, Voiced_palato-alveolar_sibilant.ogg, Voiceless_alveolo-palatal_sibilant.ogg, Voiceless_retroflex_sibilant.ogg, doste.mp3, Espanisa.mp3, harita.mp3, kitabudom.mp3, pantalun.mp3, barix.mp3, Voiced_uvular_fricative.ogg, asif.mp3, asif_.mp3, mag_neto.mp3, magneto.mp3, po_ema.mp3, poema.mp3, asel_li.mp3, aselli.mp3, be_eskri.mp3, beeskri.mp3, bur_roya.mp3, burroya.mp3, pos_sahay.mp3, possahay.mp3, semi_isula.mp3, semiisula.mp3, ci.an.mp3, cyan.mp3, daif.mp3, e.u.ro.pa.mp3, ewropa.mp3, ji.en.mp3, jyen.mp3, ma.ri.o.mp3, maria.mp3, maryo.mp3, maux.mp3, pi.a.no.mp3, pyano.mp3, su.i.ni.mp3, swini.mp3, a.ogg, e.ogg, i.ogg, o.ogg, u.ogg, compressed_u.mp3, ch.wav, q.wav, Voiceless_bilabial_fricative.ogg, Voiceless_glottal_fricative.ogg, Voiced_alveolo-palatal_affricate.ogg, Voiced_palatal_affricate.ogg, Voiceless_pharyngeal_fricative.ogg, Voiceless_uvular_plosive.ogg, Velarized_alveolar_lateral_approximant.ogg, Postalveolar_approximant.ogg, Retroflex_Approximant2.mp3, Labiodental_approximant.ogg, Voiced_palatal_fricative.ogg, c_full_aspiration.mp3, k_full_aspiration.mp3, p_full_aspiration.mp3, t_full_aspiration.mp3, Alveolar_approximant.ogg, basa.mp3, bete.mp3, idi.mp3, mumu.mp3, oko.mp3, baytu.mp3, cokolate.mp3, dexa.mp3, globa.mp3, juni.mp3, kitabu.mp3, lala.mp3, multi.mp3, neo.mp3, pingo.mp3, risi.mp3, sui.mp3, teatro.mp3, visita.mp3, watu.mp3, xugwan.mp3, yuxi.mp3, zebra.mp3, fasul.mp3, hawa.mp3, c_aspirated.mp3, p_aspirated.mp3, t_aspirated.mp3, k_aspirated.mp3, c_unaspirated.mp3, k_unaspirated.mp3, p_unaspirated.mp3, t_unaspirated.mp3, piu.mp3, Alveolar_trill.ogg, burroya_single_r.mp3, kruel.mp3, triunfa.mp3, trawma.mp3, tra.u.ma.mp3, daifu.mp3'
 ---
 
 ## Alphabet
@@ -79,13 +79,13 @@ When spelling words out loud, the names of the letters may be shortened.
 
 **d**, **t** - never like the American English pronunciation of _d_ and _t_ between vowels, as in _lady_ and _meter_
 
-In American English, _d_ and _t_ tend to be rendered as [[ɾ]](r.mp3) when they appear between vowels (leader, liter, etc.). The phoneme [ɾ], or so-called _tap_, is virtually identical to the Spanish (and Globasa) _r_. English speakers with American accents should be careful to always pronounce a true _d_ (the _d_ in _done_, not in _leader_) and a true _t_ (the _t_ in _talk_, not in _liter_) in Globasa.
+In American English, _d_ and _t_ tend to be rendered as [[ɾ]](r.mp3) when they appear between vowels (leader, liter, etc.). The sound [ɾ], or so-called _tap_, is virtually identical to the Spanish (and Globasa) _r_. English speakers with American accents should be careful to always pronounce a true _d_ (the _d_ in _done_, not in _leader_) and a true _t_ (the _t_ in _talk_, not in _liter_) in Globasa.
  
-**g** - never [dʒ] as in _gym_
+**g** - never [d͡ʒ] as in _gym_
  
 **h** - ideally pronounced as a [voiceless velar fricative](h.mp3); not to be confused with [χ], a [voiceless uvular fricative](uvular.mp3)
 
-The _velar_ fricative is pronounced at the same point of articulation as [k], and is akin to a cat's hissing sound. In contrast, the _uvular_ fricative is a more guttural sound pronounced further back in the throat in which uvular vibration is noticeable. Permissible variant: [h], as in _hotel_.
+The _velar_ fricative is pronounced at the same place of articulation as [k], and is akin to a cat's hissing sound. In contrast, the _uvular_ fricative is a more guttural sound pronounced further back in the throat in which uvular vibration is noticeable. Permissible variant: [h], as in _hotel_.
  
 **l** - ideally pronounced as a clear or light [l] in any position, rather than as [ɫ], a velarized or so-called dark _l_, pronounced in English in syllable-final position, as in _bell_; compare with the French pronunciation of _belle_
  
@@ -234,7 +234,7 @@ Although _r_ cannot be lengthened in the same way that other consonants can be, 
 
 ### Stress
 
-As stated above, _w_ and _y_ may be pronounced as vowels. However, since they are technically consonants they are never stressed.
+As stated above, _w_ and _y_ may be pronounced as vowels. However, since they are technically consonants, they are never stressed.
 
 Compare the pronunciation of the following proper names:
 
@@ -256,7 +256,7 @@ The following spelling convention applies only to root words and not to derived 
 In the following root words, _i_ and _u_ are stressed:
 
 **maux** (mouse), pronounced _ma-<u>**u**</u>x_ [[ma.'uʃ]](maux.mp3)  
-**daifu** (weak), pronounced _da-<u>**i**</u>-fu_ [da.'i.fu]    
+**daifu** (weak), pronounced _da-<u>**i**</u>-fu_ [[da.'i.fu]](daifu.mp3)    
 
 In the following root words, phonotactic rules only allow _i_ and _u_: 
 
@@ -305,7 +305,7 @@ Word-final position: Ordinary words in Globasa only allow the following consonan
 
 Coda-onset voicing: Coda-onset consonant clusters may or may not agree with regards to voicing: **tekno** (technology) vs **magneto** (magnet), **epilepsi** (epilepsy) vs **absorbi** (absorb), etc.
 
-Coda-onset stops: Consonant clusters consisting of two stops (-kt-, -pt-, etc.) are not allowed in ordinary words. Instead, ordinary words follow the Italian and Portuguese model which omits the first consonant. In other words, if a syllable begins with a stop, the previous syllable may not have a coda stop: **astrato** (abstract), **ativo** (active), **otima** (optimal), etc.
+Coda-onset stops: Consonant clusters consisting of two stops (-kt-, -pt-, etc.) are not allowed in ordinary words. Instead, ordinary words follow the Italian and Portuguese model, which omits the first consonant. In other words, if a syllable begins with a stop, the previous syllable may not have a coda stop: **ativo** (active), **otima** (optimal), etc.
 
 ### Caveats with w and y
 

@@ -1,7 +1,7 @@
 ---
 title: 'Lesson 4'
 visible: true
-media_order: 'darsu_4_lexilista.mp3,darsu_4_misalli_jumle.mp3,darsu_04_doxoli_abyasa 01.mp3,darsu_04_doxoli_abyasa 02.mp3,darsu_04_doxoli_abyasa 03.mp3,darsu_04_doxoli_abyasa 04.mp3,darsu_04_doxoli_abyasa 05.mp3,darsu_04_doxoli_abyasa 06.mp3,icons8-sound-48.png'
+media_order: 'darsu_4_lexilista.mp3, darsu_4_misalli_jumle.mp3, icons8-sound-icon-30.png, darsu_04_doxoli_abyasa_06.mp3, darsu_04_doxoli_abyasa_05.mp3, darsu_04_doxoli_abyasa_01.mp3, darsu_04_doxoli_abyasa_02.mp3, darsu_04_doxoli_abyasa_03.mp3, darsu_04_doxoli_abyasa_04.mp3'
 ---
 
 ## Word List
@@ -85,21 +85,21 @@ No, the father doesn't like to eat salad.
 ## Reading and Listening Practice
 
 <audio controls>
- <source src="/darsu/04/darsu_04_doxoli_abyasa 01.mp3" type="audio/mp3" />
+ <source src="/darsu/04/darsu_04_doxoli_abyasa_01.mp3" type="audio/mp3" />
  <p>Your user agent does not support the HTML5 Audio element.</p>
 </audio>
 
-Xanti, doste. Kafe, fe lutuf! Xukra, doste. Mi suki kafe!
+Xanti, doste. Kafe, fe lutuf! Xukra, doste. Mi suki kafe! 
 
 <audio controls>
- <source src="/darsu/04/darsu_04_doxoli_abyasa 02.mp3" type="audio/mp3" />
+ <source src="/darsu/04/darsu_04_doxoli_abyasa_02.mp3" type="audio/mp3" />
  <p>Your user agent does not support the HTML5 Audio element.</p>
 </audio>
 
 Salom, mama. Cay, fe lutuf! Xukra, mama! Mi suki cay!
 
 <audio controls>
- <source src="/darsu/04/darsu_04_doxoli_abyasa 03.mp3" type="audio/mp3" />
+ <source src="/darsu/04/darsu_04_doxoli_abyasa_03.mp3" type="audio/mp3" />
  <p>Your user agent does not support the HTML5 Audio element.</p>
 </audio>
 
@@ -109,7 +109,7 @@ Papa: Kam yu yam roti?
 Bete: Si, mi suki na yam roti.
 
 <audio controls>
- <source src="/darsu/04/darsu_04_doxoli_abyasa 04.mp3" type="audio/mp3" />
+ <source src="/darsu/04/darsu_04_doxoli_abyasa_04.mp3" type="audio/mp3" />
  <p>Your user agent does not support the HTML5 Audio element.</p>
 </audio>
 
@@ -118,7 +118,7 @@ Marta: Salom, sodar. No, mi no ore musika, mi oko filme. Kam yu doxo kitabu?
 Omar: No, mi no doxo kitabu. Mi ore musika.
 
 <audio controls>
- <source src="/darsu/04/darsu_04_doxoli_abyasa 05.mp3" type="audio/mp3" />
+ <source src="/darsu/04/darsu_04_doxoli_abyasa_05.mp3" type="audio/mp3" />
  <p>Your user agent does not support the HTML5 Audio element.</p>
 </audio>
 
@@ -126,7 +126,7 @@ Doste: Kam yu aham lala?
 Doste: Si, mi aham lala: Uma fley, kam no?
 
 <audio controls>
- <source src="/darsu/04/darsu_04_doxoli_abyasa 06.mp3" type="audio/mp3" />
+ <source src="/darsu/04/darsu_04_doxoli_abyasa_06.mp3" type="audio/mp3" />
  <p>Your user agent does not support the HTML5 Audio element.</p>
 </audio>
 

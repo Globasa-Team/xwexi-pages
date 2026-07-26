@@ -81,7 +81,7 @@ The _immediate_ past and future tenses are expressed as follows using the prefix
 
 The prefix **ja-** means _immediately adjacent_ and is truncated from **jara** (_neighbor_).
 
-_Etymology of **jara**: Arabic (جارة “jara”), Swahili (jirani), Indonesia (jiran)_
+_Etymology of **jara**: Arabic (جارة “jara”), Swahili (jirani), Indonesian (jiran)_
 
 ## Compound Tenses
 
@@ -126,25 +126,26 @@ The compound future tenses are expressed as follows:
 | Future Perfective<br /><br /> | **xa le**<br /><br /> | **Mi xa le yam pingo.**<br />I will have eaten the apple.
 | Future Prospective<br /><br /> | **xa xa**<br /><br /> | **Mi xa xa yam pingo.**<br />I will be going to eat the apple.
 
-It is worth noting that whereas the _perfect_ tenses in English do not always express a completed action, the _perfective_ tenses in Globasa always do.
-
 ## Continuative Aspect <a id="dupul"></a>
 
 The _continuative aspect_ adverb **dupul** is used when an action or state began in the past and continues into the present. In English, this is expressed either with the _present perfect_ or the _perfect progressive_.
 
 ### Example Sentences with the Present Perfect in English
 
-**Mi no dupul oko te xorfe mesi tiga.**  
-I haven't seen her since March.
+**Mi dupul ogar denloka dur 10 nyan.**  
+I have lived there for 10 years.  
 
 **Mi dupul kone te dur 30 nyan.**  
 I have known him for 30 years.
 
-**Mi dupul sen gadibu.**  
-I have been angry.
+**Mi no dupul oko te xorfe mesi tiga.**  
+I haven't seen her since March.
 
 **Yu dupul sen kepul?**  
 How have you been?
+
+**Mi dupul sen gadibu.**  
+I have been angry.
 
 ### Example Sentences with the Perfect Progressive in English
 
@@ -154,7 +155,7 @@ I have been eating this apple for one hour.
 **Yu dupul fale keto?**  
 What have you been doing?
 
-**Mi dupul doxo hin kitabu xorfe jaleli sabedin.**  
+**Mi dupul doxo hin kitabu xorfe jaleli safta.**  
 I have been reading this book since last week.
 
 ## Conditional Mood
@@ -188,7 +189,7 @@ _Etymology of **be-**: Mandarin (被 “bèi”), English (be), Norwegian (ble)_
 | Past Passive<br /><br /> | **le be-**<br /><br /> | **Pingo le beyam mi.**<br />The apple was eaten by me.
 | Future Passive<br /><br /> | **xa be-**<br /><br /> | **Pingo xa beyam mi.**<br />The apple will be eaten by me.
 
-Although the passive mood can technically also be used with all the compound tenses, in practice it is most often used with the general present, past and future tenses, as illustrated above.
+Although the passive voice can technically also be used with all the compound tenses, in practice it is most often used with the general present, past and future tenses, as illustrated above.
 
 Note: In Globasa, the agent in passive voice sentences is expressed as the direct object without the need for a preposition to mark the agent. In contrast, English marks the agent using _by_.
 
@@ -200,7 +201,7 @@ The bird wasn't quickly eaten by the cat.
 
 ## Imperative and Jussive Moods <a id="partikul_am"></a>
 
-In Globasa, commands (_imperative mood_) and exhortation (_jussive mood_) are both expressed using the particle **am**.
+In Globasa, commands (_imperative mood_) and exhortations (_jussive mood_) are both expressed using the particle **am**.
 
 _The particle **am** is truncated from **amiru** (command)  
 Etymology of **amiru**: Arabic (أمر “amr”), Turkish (emir), Swahili (amri, -amuru)_
@@ -208,7 +209,7 @@ Etymology of **amiru**: Arabic (أمر “amr”), Turkish (emir), Swahili (amri
 | Imperative and Jussive Moods
 |
 | Verb Form | Markers | Sample Sentences
-| Imperative Mood<br /><br /><br /><br /><br /><br /><br /><br /> | **am**<br /><br /><br /><br /><br /><br /><br /><br /> | **(Yu) Am yam!**<br />Eat!<br /><br />**(Uyu) Am yam!**<br />(You all) eat!<br /><br />**Imi am yam!**<br />Let’s eat!
+| Imperative Mood<br /><br /><br /><br /><br /><br /><br /><br /> | **am**<br /><br /><br /><br /><br /><br /><br /><br /> | **(Yu) Am yam!**<br />Eat!<br /><br />**(Uyu) Am yam!**<br />(You all) eat!<br /><br />**Imi am yam!**<br />Let's eat!
 | Jussive Mood<br /><br /><br /><br /><br /><br /><br /><br /> | **am**<br /><br /><br /><br /><br /><br /><br /><br /> | **Te am yam.**<br />May she eat.<br /><br />**Mi am yam.**<br />May I eat.
 
 ### Imperative Mood
@@ -217,7 +218,7 @@ The pronouns **yu** and **uyu** may be omitted when expressing the _imperative m
 
 ### Jussive Mood
 
-The _jussive mood_ is similar in meaning to the _imperative mood_. With the 3rd person (**te**/**to**, **ete**/**oto**) as well as the 1st person singular (**mi**) it has an hortative connotation (meaning something between _should_ and _must_).
+The _jussive mood_ is similar in meaning to the _imperative mood_. With the 3rd person (**te**/**to**, **ete**/**oto**) as well as the 1st person singular (**mi**) it has a hortative connotation (meaning something between _should_ and _must_).
 
 **Mi vole bwaw, mas te am no sen godomo day.**  
 I want a dog, but it should/must not be too big.
@@ -236,17 +237,17 @@ I ask that we arrive early.
 **Kitabu hu xwexiyen am doxo da no sen daymo lungo.**  
 The book that the pupils are to read is not very long.
 
-With the 2nd person singular and plural, and the use of the **kam** (yes/no quesiton particle), it has an optative connotation, functioning as a polite request. 
+With the 2nd person singular and plural, and the use of the **kam** (yes/no question particle), it has an optative connotation, functioning as a polite request. 
 
 **Kam yu am sahay mi?**  
 Could you help me?
 
 **Kam yu am klosi janela?**  
-Would you (kindly) close the window.
+Would you (kindly) close the window?
 
 ## Negation
 
-Negation for all verbs forms is expressed with the word **no** and, as an adverb, it immediately precedes the verb and any other modifying adverbs.
+Negation for all verb forms is expressed with the word **no** and, as an adverb, it immediately precedes the verb and any other modifying adverbs.
 
 | Negation | &nbsp;
 |

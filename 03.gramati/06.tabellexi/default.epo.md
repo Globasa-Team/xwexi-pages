@@ -9,8 +9,8 @@ visible: true
   <tbody><tr>
     <th></th>
     <th><b><i>demanda</i></b><br> (kiu)</th>
-    <th><b><i>montra</i></b><br> (ĉi tiu/ĉi tiuj)</th>
-    <th><b><i>montra</i></b><br> (tiu/tiuj)</th>
+    <th><b><i>montra</i></b><br> (ĉi tiu, ĉi tiuj)</th>
+    <th><b><i>montra</i></b><br> (tiu, tiuj)</th>
     <th><b><i>nedifinita</i></b><br> (iu, certa)</th>
     <th><b><i>universala</i></b><br> (ĉiu)</th>
     <th><b><i>nea</i></b><br> (neniu)</th>
@@ -23,7 +23,7 @@ visible: true
     <td><b>hin...</b><br> ĉi tiu...</td>
     <td><b>den...</b><br> tiu...</td>
     <td><b>ban...</b><br>iu...<br>certa...</td>
-    <td><b>moy...</b><br>ĉiu...<br>ĉiu unuopa...</td>
+    <td><b>moy...</b><br>ĉiu...<br>ĉiuj</td>
     <td><b>nil...</b><br>neniu...<br>neniu el...</td>
       <td><b>alo...</b><br>alia...<br>alia malsama...</td>
     <td><b>sama...</b><br>(la) sama...<br></td>
@@ -31,10 +31,10 @@ visible: true
   <tr>
    <th><b><i>aĵo</i></b> <br><br><b> to</b> - ĝi</th>
     <td><b>keto</b><br>kio<br>kiu</td>
-    <td><b>hinto</b><br>ĉi tio (aĵo), <br>ĉi tiu</td>
-    <td><b>dento</b><br>tio (aĵo), <br>tiu</td>
-    <td><b>banto</b><br>io</td>
-    <td><b>moyto</b><br>ĉio</td>
+    <td><b>hinto</b><br>ĉi tio<br>ĉi tiu</td>
+    <td><b>dento</b><br>tio<br>tiu</td>
+    <td><b>banto</b><br>io<br>iu</td>
+    <td><b>moyto</b><br>ĉio<br>ĉiu</td>
 <td><b>nilto</b><br>nenio<br>neniu</td>
     <td><b>aloto</b><br>io alia, la alia</td>
      <td><b>samato</b><br>la sama aĵo</td>
@@ -42,34 +42,34 @@ visible: true
       <tr>
    <th><b><i>plurala aĵo</i></b> <br><br><b> oto</b> - ili</th>
     <td><b>keoto</b><br>kiuj aĵoj<br>kiuj</td>
-    <td><b>hinoto</b><br>ĉi tiuj (aĵoj), <br>ĉi tiuj</td>
-    <td><b>denoto</b><br>tiuj (aĵoj), <br>tiuj</td>
+    <td><b>hinoto</b><br>ĉi tiuj (aĵoj)</td>
+    <td><b>denoto</b><br>tiuj (aĵoj)</td>
     <td><b>banoto</b><br>iuj aĵoj</td>
     <td><b>moyoto</b><br>ĉiuj aĵoj</td>
 <td><b>niloto</b><br>neniu el ili</td>
-    <td><b>alooto</b><br>iuj/la aliaj aĵoj</td>
+    <td><b>alooto</b><br>la aliaj aĵoj</td>
      <td><b>samaoto</b><br>la samaj aĵoj</td>
   </tr>
   <tr>
-   <th><b><i>vivanta estaĵo</i></b> <br><br><b>te</b> -<br>li/ŝi aŭ ajna vivanta estaĵo</th>
-    <td><b>kete</b><br>kiu<br>kiu (el ili)</td>
+   <th><b><i>vivanta estaĵo</i></b> <br><br><b>te</b> -<br>li, ŝi, ĝi (vivanta estaĵo)</th>
+    <td><b>kete</b><br>kiu</td>
     <td><b>hinte</b><br>ĉi tiu</td>
     <td><b>dente</b><br>tiu</td>
     <td><b>bante</b><br>iu</td>
-    <td><b>moyte</b><br>ĉiu</td>
+    <td><b>moyte</b><br>ĉiu, ĉiuj</td>
 <td><b>nilte</b><br>neniu</td>
  <td><b>alote</b><br>iu alia, la alia</td>
      <td><b>samate</b><br>la sama</td>
   </tr>
         <tr>
    <th><b><i>plurala vivanta estaĵo</i></b> <br><br><b>ete</b> -<br>ili</th>
-    <td><b>keete</b><br>kiuj<br>kiuj (el ili)</td>
+    <td><b>keete</b><br>kiuj</td>
     <td><b>hinete</b><br>ĉi tiuj</td>
     <td><b>denete</b><br>tiuj</td>
-    <td><b>banete</b><br>iuj el ili</td>
+    <td><b>banete</b><br>iuj</td>
     <td><b>moyete</b><br>ili ĉiuj</td>
 <td><b>nilete</b><br>neniu el ili</td>
- <td><b>aloete</b><br>iuj/la aliaj, aliaj</td>
+ <td><b>aloete</b><br>(la) aliaj</td>
      <td><b>samaete</b><br>la samaj</td>
   </tr>
   <tr>
@@ -81,51 +81,51 @@ visible: true
     <td><b>moysu</b><br>ĉies</td>
 <td><b>nilsu</b><br>nenies</td>
  <td><b>alosu</b><br>de iu alia, de la alia</td>
-       <td><b>samasu</b><br>de la sama persono</td>
+       <td><b>samasu</b><br>de la sama persono/aĵo</td>
   </tr>
   <tr>
    <th><b><i>speco, maniero</i></b> <br><br><b>-pul</b> -<br>adj/adv sufikso</th>
-    <td><b>kepul</b><br>kia, simila al kio; kiel<br>(en kiu maniero)</td>
-    <td><b>hinpul</b><br>ĉi tia, tiel ĉi;<br>(en) ĉi tiu maniero</td>
-    <td><b>denpul</b><br>tia, tiel;<br>(en) tiu maniero</td>
-    <td><b>banpul</b><br>ia;<br>en iu maniero</td>
-    <td><b>moypul</b><br>ĉia;<br>en ĉiu maniero</td>
-<td><b>nilpul</b><br>nenia;<br>en neniu maniero</td>
-  <td><b>alopul</b><br>alia speco de;<br>alie, en alia maniero</td>
- <td><b>samapul</b><br>la sama speco de;<br>en la sama maniero</td>
+    <td><b>kepul</b><br>kia, kiel</td>
+    <td><b>hinpul</b><br>ĉi tia, ĉi tiel</td>
+    <td><b>denpul</b><br>tia, tiel</td>
+    <td><b>banpul</b><br>ia, iel</td>
+    <td><b>moypul</b><br>ĉia, ĉiel</td>
+<td><b>nilpul</b><br>nenia, neniel</td>
+  <td><b>alopul</b><br>alia speco de,<br>alie, en alia maniero</td>
+ <td><b>samapul</b><br>la sama speco de,<br>en la sama maniero</td>
   </tr>
   <tr>
    <th><b><i>grado</i></b> <br><br><b>-mo</b> -<br>adv sufikso</th>
-    <td><b>kemo</b><br>kiom<br>(ĝis kiu grado)</td>
-    <td><b>hinmo</b><br>ĝis ĉi tiu grado<br>ĉi tiom</td>
-    <td><b>denmo</b><br>ĝis tiu grado<br>tiom, tiel</td>
-    <td><b>banmo</b><br>ĝis certa grado, iom</td>
-    <td><b>moymo</b><br>ĝis ĉiu grado</td>
-<td><b>nilmo</b><br>ĝis neniu grado</td>
+    <td><b>kemo</b><br>kiel, kiom</td>
+    <td><b>hinmo</b><br>ĉi tiel, ĉi tiom</td>
+    <td><b>denmo</b><br>tiel, tiom</td>
+    <td><b>banmo</b><br>iel, iom</td>
+    <td><b>moymo</b><br>ĉiel, ĉiom</td>
+<td><b>nilmo</b><br>neniel, neniom</td>
  <td><b>alomo</b><br>ĝis alia grado</td>
      <td><b>samamo</b><br>ĝis la sama grado</td>
   </tr>
   <tr>
    <th><b><i>kvanto, sumo </i></b><br><br> <b>kwanti</b> -<br>kvanto<br>sumo</th>
-    <td><b>kekwanti</b><br>kiom da</td>
-    <td><b>hinkwanti</b><br>ĉi tiom da</td>
-    <td><b>denkwanti</b><br>tiom da</td>
-    <td><b>bankwanti</b><br>iom da</td>
-    <td><b>moykwanti</b><br>la tuta<br>kvanto de</td>
-<td><b>nilkwanti</b><br>neniom da,<br> neniom</td>
- <td><b>alokwanti</b><br>alia<br>kvanto de</td>
-     <td><b>samakwanti</b><br>la sama<br>kvanto de</td>
+    <td><b>kekwanti</b><br>kiom (da)</td>
+    <td><b>hinkwanti</b><br>ĉi tiom (da)</td>
+    <td><b>denkwanti</b><br>tiom (da)</td>
+    <td><b>bankwanti</b><br>iom (da)</td>
+    <td><b>moykwanti</b><br>ĉiom (da)</td>
+<td><b>nilkwanti</b><br>neniom (da)</td>
+ <td><b>alokwanti</b><br>alia<br>kvanto da</td>
+     <td><b>samakwanti</b><br>la sama<br>kvanto da</td>
 </tr>
 <tr>
    <th><b><i>nombro </i></b><br><br> <b>numer</b> -<br>nombro</th>
     <td><b>kenumer</b><br>kiom da</td>
     <td><b>hinnumer</b><br>ĉi tiom da</td>
     <td><b>dennumer</b><br>tiom da</td>
-    <td><b>bannumer</b><br>iu nombro de</td>
-    <td><b>moynumer</b><br>ĉiuj el la</td>
-<td><b>nilnumer</b><br>neniu el la</td>
- <td><b>alonumer</b><br>alia<br>nombro de</td>
-      <td><b>samanumer</b><br>la sama<br>nombro de</td>
+    <td><b>bannumer</b><br>iom da</td>
+    <td><b>moynumer</b><br>ĉiom da</td>
+<td><b>nilnumer</b><br>neniom da</td>
+ <td><b>alonumer</b><br>alia<br>nombro da</td>
+      <td><b>samanumer</b><br>la sama<br>nombro da</td>
 </tr>
   <tr>
    <th><b><i>loko</i></b><br><br><b>loka</b> -<br>loko</th>
@@ -141,34 +141,34 @@ visible: true
     <tr>
    <th><b><i>tempo</i></b><br><br><b>watu</b> -<br>tempo</th>
     <td><b>kewatu</b><br>kiam</td>
-    <td><b>hinwatu</b><br>nun</td>
+    <td><b>hinwatu</b><br>ĉi tiam</td>
     <td><b>denwatu</b><br>tiam</td>
     <td><b>banwatu</b><br>iam</td>
     <td><b>moywatu</b><br>ĉiam</td>
 <td><b>nilwatu</b><br>neniam</td>
- <td><b>alowatu</b><br>en aliaj tempoj</td>
+ <td><b>alowatu</b><br>en alia tempo</td>
        <td><b>samawatu</b><br>en la sama tempo, samtempe</td>
 </tr>
   <tr>
    <th><b><i>kialo<br> (kaŭzo aŭ celo)</i></b><br><br><b>seba</b> -<br>kialo</th>
-    <td><b>keseba</b><br>kial, pro kio</td>
-    <td><b>hinseba</b><br>pro ĉi tiu kialo</td>
-    <td><b>denseba</b><br>pro tiu kialo</td>
-    <td><b>banseba</b><br>pro iu kialo</td>
-    <td><b>moyseba</b><br>pro ĉiu kialo</td>
-<td><b>nilseba</b><br>pro neniu kialo</td>
-  <td><b>aloseba</b><br>pro alia kialo, pro la alia kialo</td>
+    <td><b>keseba</b><br>kial</td>
+    <td><b>hinseba</b><br>ĉi tial</td>
+    <td><b>denseba</b><br>tial</td>
+    <td><b>banseba</b><br>ial</td>
+    <td><b>moyseba</b><br>ĉial</td>
+<td><b>nilseba</b><br>nenial</td>
+  <td><b>aloseba</b><br>pro (la) alia kialo</td>
      <td><b>samaseba</b><br>pro la sama kialo</td>
   </tr>
   <tr>
   <th><b><i>maniero<br></i></b><br><b>maner</b> - <br>maniero</th>
     <td><b>kemaner</b><br>kiel (farite per<br>kiu maniero)</td>
-    <td><b>hinmaner</b><br>tiel ĉi, tiele,<br>per ĉi tiu maniero</td>
-    <td><b>denmaner</b><br>tiel, tiele,<br>per tiu maniero</td>
-    <td><b>banmaner</b><br>iel,<br>per iu maniero</td>
-    <td><b>moymaner</b><br>per ĉiu maniero</td>
+    <td><b>hinmaner</b><br>ĉi tiel<br>per ĉi tiu maniero</td>
+    <td><b>denmaner</b><br>tiel<br>per tiu maniero</td>
+    <td><b>banmaner</b><br>iel<br>per iu maniero</td>
+    <td><b>moymaner</b><br>ĉiel<br>per ĉiu manier</td>
 <td><b>nilmaner</b><br>per neniu maniero</td>
-   <td><b>alomaner</b><br>per alia maniero, en la alia maniero, alie</td>
+   <td><b>alomaner</b><br>per alia maniero</td>
      <td><b>samamaner</b><br>per la sama maniero</td>
   </tr>
   <tr>
@@ -213,7 +213,7 @@ En la supra frazo, **nasacu** markas la finon de la substantiva frazparto.
 
 ## _kekwanti_, _kenumer_
 
-Same, **kekwanti** (kiu kvanto _de_) kaj **kenumer** (kiu nombro _de_) ankaŭ devas esti sekvataj de **te** aŭ **to**, kiam substantivo estas subkomprenata kaj ne specifita.
+Same, **kekwanti** (kiu kvanto _da_) kaj **kenumer** (kiu nombro _da_) ankaŭ devas esti sekvataj de **te** aŭ **to**, kiam substantivo estas subkomprenata kaj ne specifita.
 
 **kenumer bon lala** - kiom da bonaj kantoj  
 vs  
@@ -290,7 +290,7 @@ Kies libro estas sur la tablo?
 "Mi scias ĉi tion: _Kies libro estas sur la tablo?_"  
 Mi scias, kies libro estas sur la tablo.
 
-### kepul - _kiel aŭ kia (kun substantivoj); kiel (kun verboj)_
+### kepul - _kia (kun substantivoj); kiel (kun verboj)_
 
 (1) **Yu sen kepul?**  
 "Vi estas kia?"  
@@ -308,7 +308,7 @@ Kia persono vi estas?
 "Mi scias ĉi tion: _Vi estas kia persono?_"  
 Mi scias, kia persono vi estas.
 
-### kemo - _kiom (ĝis kiu grado)_
+### kemo - _kiel, kiom (ĝis kiu grado)_
 
 (1) **Te sen kemo lao?**  
 "Ŝi estas kiom aĝa?"  
@@ -319,12 +319,12 @@ Kiom aĝa ŝi estas?
 Ŝi diris al mi, kiom aĝa ŝi estas.
 
 (1) **Yu sen kemo pilodo?**  
-"Vi estas kiom laca?"  
-Kiom laca vi estas?
+"Vi estas kiel/kiom laca?"  
+Kiel/kiom laca vi estas?
 
 (2) **Mi jixi ku yu sen kemo pilodo.**  
-"Mi scias ĉi tion: _Vi estas kiom laca?_"  
-Mi scias, kiom laca vi estas.
+"Mi scias ĉi tion: _Vi estas kiel/kiom laca?_"  
+Mi scias, kiel/kiom laca vi estas.
 
 ### kekwanti - _kiom da (kvanto)_; kenumer - _kiom da (nombro)_
 
@@ -374,7 +374,7 @@ Kial vi ne iris al la festo?
 "Mi scias ĉi tion: _Vi ne iris al la festo kial?_"  
 Mi scias, kial vi ne iris al la festo.
 
-### kemaner - _kiel (en kiu maniero)_
+### kemaner - _kiel (per kiu maniero)_
 
 (1) **Yu le xuli mobil kemaner?**  
 "Vi riparis la aŭton kiel?"  
@@ -472,7 +472,7 @@ La vorto **daydenpul** estas derivita vorto konsistanta el **day-** (_pligrandig
 _**Daydenpul**_ **din!**  
 _Kia_ tago!
 
-## daydenmo <a id="daydenmmo"></a>
+## daydenmo <a id="daydenmo"></a>
 
 La vorto **daydenmo** estas derivita vorto konsistanta el **day-** (_pligrandiga prefikso_) kaj la korelativo **denmo**. Ĝi estas grado-adverbo signifanta _tiel_, kiam ĝi estas sekvata de adjektivo/adverbo, aŭ _tia_, kiam ĝi estas sekvata de modifita substantivo.
 

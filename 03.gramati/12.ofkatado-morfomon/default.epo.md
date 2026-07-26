@@ -39,8 +39,8 @@ La jenaj prefiksoj estas _trunkitaj morfemoj_:
 
 La jenaj sufiksoj estas _trunkitaj morfemoj_:
 
-* **-cu** (_netransitiva_) _el_ **cudu** (akiri, ekhavi, ricevi, preni)
-* **-gon** (_geometria figuro kun specifa nombro da anguloj_) _el_ **gona** (angulo)
-* **-gi** (_transitiva_) _el_ **gibe** (doni)
-* **-je** (grado) _el_ **daraje** (grado)
+* **-cu** (_netransitiva_) _el_ **cudu** (akiri, ekhavi, preni)  
+* **-gi** (_transitiva_) _el_ **gibe** (doni)  
+* **-gon** (_geometria figuro kun specifa nombro da anguloj_) _el_ **gona** (angulo)  
+* **-je** (grado) _el_ **daraje** (grado)  
 * **-sa** (lingvo; bestaj krioj) _el_ **basa** (lingvo)

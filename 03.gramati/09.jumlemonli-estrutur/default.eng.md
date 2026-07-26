@@ -27,7 +27,7 @@ Noun phrases consist of the following structure, as illustrated in the table bel
 				<td><b>Determiner</b></td>
 				<td><b>Possessive Adj</b></td>
 				<td><b>Quantifier</b></td>
-				<td><b>Adj/Adv-Modying<br>
+				<td><b>Adj/Adv-Modifying<br>
 				Adverb</b></td>
 				<td><b>Adjective(s)</b></td>
 				<td><b>Noun or Pronoun</b></td>
@@ -103,7 +103,7 @@ Some work is fast and some work is slow.
 ### Possessive Adj + Pronoun (Possessive Pronoun) = Complete Noun Phrase
 
 **Yusu gami ergo velosi mas _misu_ te ergo hanman.**  
-Your spouse works fast but _mine_ works slow.
+Your spouse works fast but _mine_ works slowly.
 
 Without the pronoun **te**, the second part of the sentence would read:  
 **Misu ergo sen hanman.**  
@@ -147,8 +147,8 @@ Verb phrases are similar in structure to noun phrases:
 			<td><b>Adj/Adv-Modifying<br></b></td>
 			<td><b>Adverb(s)</b></td>
 			<td><b>Passive Voice</b></td>
-			<td><b>Continous/<br>
-			Habitual Mood</b></td>
+			<td><b>Durative/<br>
+			Habitual Aspect</b></td>
 			<td><b>Verb</b></td>
 		</tr>
 		<tr>
@@ -173,9 +173,9 @@ Verb phrases are similar in structure to noun phrases:
 			<td><b>be</b> -<br>
 			passive voice<br>marker</td>
 			<td><b>du</b> -<br>
-			continuous/<br>
+			durative/<br>
 			habitual<br>
-			mood marker</td>
+			aspect marker</td>
 			<td><b>danse</b> - dance<br>
 			<b>lala</b> - sing<br>
 			<b>eskri</b> - write<br>
@@ -207,7 +207,7 @@ As seen in the sentence above, adverbs (or adverb phrases) typically precede ver
 
 Alternatively, adverbs may be placed after the verb, immediately following objects, if any.
 
-* If the sentence has no direct or indirect objects the adverb may immediately follow the verb.
+* If the sentence has no direct or indirect objects, the adverb may immediately follow the verb.
 
 **Femyen danse _meli_.**  
 The lady dances _beautifully_.
@@ -233,11 +233,11 @@ The negating adverb **no** immediately precedes the word or phrase being negated
 or: **Manyen danse _no godomo bur_.**  
 The man _doesn't_ dance _too badly_.
 
-In the second sentence above, **no** is along with the rest of the complement to the end of the sentence. (The man did dance, but not too badly.)
+In the second sentence above, **no** is moved along with the rest of the complement to the end of the sentence. (The man did dance, but not too badly.)
 
-Alternatively, **no** could immediately precede the verb and interpreted as modifying the verb plus its descriptive adverbs.
+Alternatively, **no** could immediately precede the verb and be interpreted as modifying the verb plus its descriptive adverbs.
 
-**Manixu _no danse godomo bur_.**  
+**Manyen _no danse godomo bur_.**  
 The man _doesn't dance too badly_.
 
 ## Infinitive Verb Phrases
@@ -272,7 +272,7 @@ The position of prepositional phrases within sentences is explained under [Sente
 
 ## Adverbs of Focus
 
-Other than **no** (_not_), _Adverbs of focus_, such as **sol** (_only_), **pia** (_also_, _too_) and **hata** (_even_), do not appear in the Noun Phrase and Verb Phrase tables above. The reason for this is that _adverbs of focus_ can appear anywhere in a sentence, depending on what is being modified in the sentence. _Adverbs of focus_ always immediately precede the phrase or word they modify.
+Other than **no** (_not_), _adverbs of focus_, such as **sol** (_only_), **pia** (_also_, _too_) and **hata** (_even_), do not appear in the Noun Phrase and Verb Phrase tables above. The reason for this is that _adverbs of focus_ can appear anywhere in a sentence, depending on what is being modified in the sentence. _Adverbs of focus_ always immediately precede the phrase or word they modify.
 
 **Misu gami glu _sol_ kafe fe soba.**  
 My spouse drinks _only_ coffee in the morning.
@@ -287,17 +287,17 @@ My spouse, _too_, drinks coffee in the morning.
 
 Complex adjective phrases come after the nouns they modify.
 
-**Adj/Adv plus Prepositional Phrase**
+**Adj/Adv plus Prepositional Phrase**
 
 **kitabu eskrido fal misu doste**  
 the book written by my friend
 
-**alimyen hox kos yusu sukses**  
+**alimyen hox kos yusu sukses**  
 the teacher happy for your success
 
 **Comparative Adj/Adv Phrases**
 
-**nini maxmo lao kom misu sodar**  
+**nini maxmo lao kom misu sodar**  
 the kid older than my brother
 
 ## Relative Clauses <a id="relativo_baxjumle"></a>
@@ -337,7 +337,7 @@ He is the man _whose brother knows me_.
 He is the man _whose brother I know_.
 
 **Manyen _hu dasu gami Globasa_ sen misu doste.** _or_ **Te sen misu doste, manyen _hu dasu gami Globasa_.**  
-"The guy _who that-one's spouse speaks Globasa_ is my friend." _or_ "He's my friend, the guy _who that one's spouse speaks Globasa_."   
+"The guy _who that-one's spouse speaks Globasa_ is my friend." _or_ "He's my friend, the guy _who that-one's spouse speaks Globasa_."   
 The guy _whose spouse speaks Globasa_ is my friend. _or_ He is my friend, the guy _whose spouse speaks Globasa_.
 
 ### Relative Clauses with Resumptive Correlative Adverb

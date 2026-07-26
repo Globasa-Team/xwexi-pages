@@ -162,12 +162,12 @@ Verb phrases functioning in the place of noun phrases are known as _nominal verb
 **Cele sen na triunfa.**  
 The goal is to win.
 
-In these sentences, subject infinitive verb phrases may be moved to the end of the sentence. However, the pronoun **to** must take the place of the infinitive verb phrase and a comma must be added before relocated phrase.
+In these sentences, subject infinitive verb phrases may be moved to the end of the sentence. However, the pronoun **to** must take the place of the infinitive verb phrase and a comma must be added before the relocated phrase.
 
 **Na sen nensabar sen problema.**   
 To be impatient is a problem.    
 _or_  
-**To sen problem, na sen nensabar.**   
+**To sen problema, na sen nensabar.**   
 It is a problem to be impatient.
 
 **Na soti gitara sen asan.**    
@@ -194,12 +194,12 @@ Reading, the boy fell asleep.
 
 ## Prepositional Phrases <a id="plasilexili_jumlemon"></a>
 
-Globasa, like most SVO languages, uses prepositions rather [postpositions](https://en.wikipedia.org/wiki/Preposition_and_postposition). Prepositional phrases always immediately follow the noun phrases they modify.
+Globasa, like most SVO languages, uses prepositions rather than [postpositions](https://en.wikipedia.org/wiki/Preposition_and_postposition). Prepositional phrases always immediately follow the noun phrases they modify.
 
 **Myaw _in sanduku_ somno.**  
 The cat _in the box_ is sleeping.  
 
-Prepositional phrases that modify verbs enjoy relative free word order and may be moved anywhere in the sentence. When moved before the verb, commas are used as seen below. 
+Prepositional phrases that modify verbs enjoy relatively free word order and may be moved anywhere in the sentence. When moved before the verb, commas are used as seen below. 
 
 **Myaw yam _in sanduku_ maux.**    
 **Myaw yam maux _in sanduku_.**   
@@ -379,7 +379,7 @@ In Globasa, the word order of interrogative sentences is the same as that of the
 
 ### Yes/No Questions
 
-Yes/no questions are formed by adding the particle **kam** at the beginning of the question's countepart declarative sentence. This is illutrated in the following pairs of sentences with (1) a declarative sentence and (2) the counterpart yes/no question. 
+Yes/no questions are formed by adding the particle **kam** at the beginning of the question's counterpart declarative sentence. This is illustrated in the following pairs of sentences with (1) a declarative sentence and (2) the counterpart yes/no question. 
 
 (1) **Yu sen yamkal.**  
 You are hungry.
@@ -428,5 +428,3 @@ Do you like coffee or tea?
 **Yu ogar keloka: in Barati or Indonesi?**  
 "You live where: in India or Indonesia?"  
 Do you live in India or Indonesia?
-
-

@@ -24,12 +24,12 @@ Globasa's subject/object pronouns are as follows:
     <td><b>uyu</b> - you</td>
   </tr>
   <tr>
-  <th><b><i>3rd person<br>(animate)</i></b></th>
+  <th><b><i>3rd person<br>animate</i></b></th>
     <td><b>te</b> - he, him, she, her, it</td>
     <td><b>ete</b> - they, them</td>
   </tr>
   <tr>
-  <th><b><i>3rd person<br>(inanimate)</i></b></th>
+  <th><b><i>3rd person<br>inanimate</i></b></th>
     <td><b>to</b> - it</td>
     <td><b>oto</b> - they, them</td>
   </tr>
@@ -39,7 +39,7 @@ Globasa's subject/object pronouns are as follows:
   <td colspan="3"><b>ren</b> - one</td>
   </tr>
   <tr>
-  <td colspan="3"><b>se</b> - ‘reflexive pronoun’ (myself, yourself, herself, himself, ourselves, themselves)
+  <td colspan="3"><b>se</b> - 'reflexive pronoun' (myself, yourself, herself, himself, ourselves, themselves)
 </td>
   </tr>
   <tr>
@@ -159,7 +159,7 @@ As seen under Correlatives, third-person pronouns (**te**/**to** and **ete**/**o
 
 Similarly, **(e)te**/**(o)to** are used at the end of noun phrases when the noun is understood. 
 
-_One reason for this rule, as illustrated below, is that since nouns and verbs have the same form in Globasa, leaving a determiner or an adjective without a (pro)noun can potentially be mistaken as modifying the noun/verb immediately following._
+_One reason for this rule, as illustrated below, is that since nouns and verbs have the same form in Globasa, leaving a determiner or an adjective without a (pro)noun can potentially be mistakenly interpreted as modifying the noun/verb immediately following._
 
 **Multi _te_ pala sol in Englisa.**  
 Many (_people_) speak only (in) English.
@@ -169,4 +169,4 @@ _Another reason, as illustrated below, is that Globasa does not use articles. So
 **bon _te_, bur _te_ ji colo _te_**  
 the good (_one_), the bad (_one_) and the ugly (_one_)
 
-Notice as well that although **te** and **to** are singular pronouns they may be optionally used with words denoting plurality, such as **max**, **min**, **multi**, **xosu**.  
+Notice as well that although **te** and **to** are singular pronouns, they may be optionally used with words denoting plurality, such as **max**, **min**, **multi**, **xosu**.  

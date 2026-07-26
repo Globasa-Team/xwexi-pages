@@ -217,7 +217,7 @@ La virino dancas _bele_.
 **Mi le gibe pesa tas coriyen _volekal_ koski mi le befobi ki te xa morgi mi.**  
 Mi donis la monon al la ŝtelisto _kontraŭvole_ ĉar mi timis, ke li mortigos min.
 
-Adverboj povas ankaŭ esti movataj al la komenco de la frazo, kondiĉe ke estas klara paŭzo per la komo por apartigi la frazparton de la resto de la frazo. Sen la paŭzo, la adjektivo/adverbo povus esti erare interpretata kiel modifanta la subjekton.
+Adverboj povas ankaŭ esti movataj al la komenco de la frazo, kondiĉe ke estas klara paŭzo per la komo por apartigi la frazparton de la cetero de la frazo. Sen la paŭzo, la adjektivo/adverbo povus esti erare interpretata kiel modifanta la subjekton.
 
 **_Velosi_, bwaw glu sui.**  
 _Rapide_, la hundo trinkas la akvon.
@@ -233,11 +233,11 @@ La neanta adverbo **no** tuj antaŭas la neatan vorton aŭ frazparton.
 aŭ: **Manyen danse _no godomo bur_.**  
 La viro _ne_ dancas _tro malbone_.
 
-En la dua frazo supre, **no** iras kune kun la resto de la komplemento al la fino de la frazo. (La viro ja dancis, sed ne tro malbone.)
+En la dua frazo supre, **no** aperas kune kun la cetero de la komplemento fine de la frazo. (La viro ja dancis, sed ne tro malbone.)
 
 Alternative, **no** povus tuj antaŭi la verbon kaj esti interpretata kiel modifanta la verbon plus ĝiajn priskribajn adverbojn.
 
-**Manixu _no danse godomo bur_.**  
+**Manyen _no danse godomo bur_.**  
 La viro _ne dancas tro malbone_.
 
 ## Infinitivaj Verbaj Frazpartoj

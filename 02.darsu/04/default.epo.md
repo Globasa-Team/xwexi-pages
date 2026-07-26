@@ -71,26 +71,38 @@ Jes, la patro ŝatas manĝi salaton.
 **No, patre no suki na yam salada.**  
 Ne, la patro ne ŝatas manĝi salaton.
 
-## [Ekzerco de legado kaj aŭskultado](darsu_04_doxoli_abyasa.mp3)
+## Ekzerco de legado kaj aŭskultado
 
 Xanti, doste. Kafe, fe lutuf! Xukra, doste. Mi suki kafe!
 
+[![icons8-sound-icon-30.png](icons8-sound-icon-30.png)](darsu_04_doxoli_abyasa_01.mp3)
+
 Salom, mama. Cay, fe lutuf! Xukra, mama! Mi suki cay!
+
+[![icons8-sound-icon-30.png](icons8-sound-icon-30.png)](darsu_04_doxoli_abyasa_02.mp3)
 
 Papa: Salom, bete! Kam yu glu sui?
 Bete: Xanti, papa. No, mi no suki sui. Mi suki na glu jusu.
 Papa: Kam yu yam roti?
 Bete: Si, mi suki na yam roti.
 
+[![icons8-sound-icon-30.png](icons8-sound-icon-30.png)](darsu_04_doxoli_abyasa_03.mp3)
+
 Omar: Xanti, sodar! Kam yu ore musika?
 Marta: Salom, sodar. No, mi no ore musika, mi oko filme. Kam yu doxo kitabu?
 Omar: No, mi no doxo kitabu. Mi ore musika.
 
+[![icons8-sound-icon-30.png](icons8-sound-icon-30.png)](darsu_04_doxoli_abyasa_04.mp3)
+
 Doste: Kam yu aham lala?
 Doste: Si, mi aham lala: Uma fley, kam no?
 
+[![icons8-sound-icon-30.png](icons8-sound-icon-30.png)](darsu_04_doxoli_abyasa_05.mp3)
+
 Mama: Kam yu lubi mi?
 Papa: Si, mi lubi yu.
+
+[![icons8-sound-icon-30.png](icons8-sound-icon-30.png)](darsu_04_doxoli_abyasa_06.mp3)
 
 ## Leciona tasko
 

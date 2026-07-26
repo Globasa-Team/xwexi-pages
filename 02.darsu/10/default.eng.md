@@ -102,7 +102,7 @@ Everybody is dancing.
 ## Reading and Listening Practice
 
 <audio controls>
- <source src="/darsu/10/darsu_10_doxoli_abyasa 01.mp3" type="audio/mp3" />
+ <source src="/darsu/10/darsu_10_doxoli_abyasa_01.mp3" type="audio/mp3" />
  <p>Your user agent does not support the HTML5 Audio element.</p>
 </audio>
 
@@ -114,7 +114,7 @@ Matre loga, "Dento sen day ergo! Yu xa hare lima mahi."
 Myaw un loga, "Xukra!"  
 
 <audio controls>
- <source src="/darsu/10/darsu_10_doxoli_abyasa 02.mp3" type="audio/mp3" />
+ <source src="/darsu/10/darsu_10_doxoli_abyasa_02.mp3" type="audio/mp3" />
  <p>Your user agent does not support the HTML5 Audio element.</p>
 </audio>
 
@@ -128,7 +128,7 @@ Matre loga, "Lima te sen bon numer."
 Myaw dua loga, "Bon..."  
 
 <audio controls>
- <source src="/darsu/10/darsu_10_doxoli_abyasa 03.mp3" type="audio/mp3" />
+ <source src="/darsu/10/darsu_10_doxoli_abyasa_03.mp3" type="audio/mp3" />
  <p>Your user agent does not support the HTML5 Audio element.</p>
 </audio>
 

@@ -1,7 +1,7 @@
 ---
 title: 'Leciono 10'
 visible: true
-media_order: 'darsu_10_lexilista.mp3,darsu_10_misalli_jumle.mp3,darsu_10_doxoli_abyasa 01.mp3,darsu_10_doxoli_abyasa 02.mp3,darsu_10_doxoli_abyasa 03.mp3'
+media_order: 'darsu_10_lexilista.mp3, darsu_10_misalli_jumle.mp3, icons8-sound-icon-30.png, darsu_10_doxoli_abyasa_01.mp3, darsu_10_doxoli_abyasa_03.mp3, darsu_10_doxoli_abyasa_02.mp3'
 ---
 
 ## [Vortprovizo](darsu_10_lexilista.mp3)
@@ -87,7 +87,7 @@ Kiom da gefratoj vi havas?
 **Moyte danse.**  
 Ĉiuj dancas.
 
-## [Ekzerco de legado kaj aŭskultado](darsu_10_doxoli_abyasa.mp3)
+## Ekzerco de legado kaj aŭskultado
 
 Plu myaw sen in ergodom de sesu matre. Matre vole na ore moy sesu bete.
 
@@ -95,6 +95,8 @@ Matre loga, "Uyu le ergo fe keto?"
 Myaw un loga, "Mi le polisi. Mi le anda ji oko moyloka."
 Matre loga, "Dento sen day ergo! Yu xa hare lima mahi."
 Myaw un loga, "Xukra!"
+
+[![icons8-sound-icon-30.png](icons8-sound-icon-30.png)](darsu_10_doxoli_abyasa_01.mp3)
 
 Matre loga, "Myaw dua, yusu ergo le sen keto?"
 Myaw dua loga, "Mi le idi cel nahir cel na cudu neo yam. Mi le cudu des mahi tas imi."
@@ -105,12 +107,16 @@ Myaw dua loga, "Xukra. Mas mi le cudu max mahi kom lima te..."
 Matre loga, "Lima te sen bon numer."
 Myaw dua loga, "Bon..."
 
+[![icons8-sound-icon-30.png](icons8-sound-icon-30.png)](darsu_10_doxoli_abyasa_02.mp3)
+
 Matre loga, "Ji yu, myaw tiga?"
 Myaw tiga loga, "Mi le..."
 Myaw un loga, "Te le somno lungo! Te le no ergo!"
 Matre loga, "Myaw tiga xa hare lima mahi."
 Myaw un ji dua loga, "Keto? Kam no nilte? Myaw tiga le no ergo!"
 Matre loga, "Moy myaw xa hare yam. Nilte yam nilto. Mas, myaw tiga xa koki ton mi!"
+
+[![icons8-sound-icon-30.png](icons8-sound-icon-30.png)](darsu_10_doxoli_abyasa_03.mp3)
 
 ## Leciona tasko
 

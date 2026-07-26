@@ -1,7 +1,7 @@
 ---
 title: 'Leciono 8'
 visible: true
-media_order: 'darsu_8_lexilista.mp3,darsu_8_misalli_jumle.mp3,darsu_08_doxoli_abyasa 01.mp3,darsu_08_doxoli_abyasa 02.mp3'
+media_order: 'darsu_8_lexilista.mp3, darsu_8_misalli_jumle.mp3, icons8-sound-icon-30.png, darsu_08_doxoli_abyasa_01.mp3, darsu_08_doxoli_abyasa_02.mp3'
 ---
 
 ## [Vortprovizo](darsu_8_lexilista.mp3)
@@ -74,17 +74,21 @@ La birdo estas ekstere.
 **Bwaw de polisiyen sen day.**  
 La hundo de la policano estas granda.
 
-## [Ekzerco de legado kaj aŭskultado](darsu_08_doxoli_abyasa.mp3)
+## Ekzerco de legado kaj aŭskultado
 
 Manixu ergo in bahari. Te sen mahiyen. Te hare ogar ton femixu. Femixu hare juni bete. Hin ogar no sen day. Ete no suki to.
 
 Ete sen in hin ogar. Manixu ji femixu sen fe mesa. Ete glu cay. Bete bon somno per bistar. Ete oko bete.
+
+[![icons8-sound-icon-30.png](icons8-sound-icon-30.png)](darsu_08_doxoli_abyasa_01.mp3)
 
 Femixu loga, "Mi vole neo ogar, har day somnokamer ji meli kokikamer." Manixu loga, "Mi aham, mas ogar xa sen keloka?" Femixu loga, "Kam yu suki jabal? Dento sen bon cel neo ogar." Manixu loga, "Si, mi suki. Mas mi vole ergo." Femixu loga, "Jabal hare nahir. Mahi sen in nahir. Yu xa cudu multi mahi." Manixu loga, "Mas, kam jabal xa hare eskol?"
 
 Bete ore ixu. Te le no somno!
 
 Bete loga, "Mi no vole na idi cel eskol! Mi vole na yuxi per drevo, ex bahari ji ex eskol!"
+
+[![icons8-sound-icon-30.png](icons8-sound-icon-30.png)](darsu_08_doxoli_abyasa_02.mp3)
 
 ## Leciona tasko
 

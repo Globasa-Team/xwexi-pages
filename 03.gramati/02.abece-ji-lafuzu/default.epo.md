@@ -79,7 +79,7 @@ Dum literumo de vortoj laŭte, la nomoj de la literoj povas esti mallongigitaj.
 
 **h** - ideale prononcata kiel [senvoĉa velara frikativo](h.mp3); ne konfuzu ĝin kun [χ], [senvoĉa uvula frikativo](uvular.mp3)  
 
-La _velara_ frikativo estas prononcata en la sama punkto de artikulacio kiel [k], kaj similas al sibla sono de kato. Kontraste, la _uvula_ frikativo estas pli guturala sono prononcata pli malantaŭe en la gorĝo ĉe kiu uvula vibrado estas rimarkebla. Permesebla varianto: [h] kiel en _hotelo_.  
+La _velara_ frikativo estas prononcata en la sama loko de artikulacio kiel [k], kaj similas al sibla sono de kato. Kontraste, la _uvula_ frikativo estas pli guturala sono prononcata pli malantaŭe en la gorĝo ĉe kiu uvula vibrado estas rimarkebla. Permesebla varianto: [h] kiel en _hotelo_.  
 
 **j** - neniam [j] kiel en _jes_; permesebla varianto: [ĵ] kiel en _ ĵaluza_
 
@@ -240,7 +240,7 @@ La sekva literuma konvencio validas nur por radikaj vortoj kaj ne por derivitaj 
 En la sekvaj radikvortoj, _i_ kaj _u_ estas akcentitaj:
 
 **maux** (muso), prononcata _ma-<u>**u**</u>x_ [[ma.'uʃ]](maux.mp3)  
-**daifu** (malforta), prononcata _da-<u>**i**</u>-fu_ [da.'i.fu]
+**daifu** (malforta), prononcata _da-<u>**i**</u>-fu_ [[da.'i.fu]](daifu.mp3)
 
 En la sekvaj radikvortoj, fonotaksaj reguloj nur permesas _i_ kaj _u_:
 
@@ -289,7 +289,7 @@ Vortfina pozicio: Ordinaraj vortoj en Globaso nur permesas jenajn konsonantojn e
 
 Fino-komenca voĉigo: Fino-komencaj konsonantgrupoj povas aŭ ne kongrui pri voĉado: **tekno** (teknologio) kompare kun **magneto** (magneto), **epilepsi** (epilepsio) kompare kun **absorbi** (sorbi), ktp.
 
-Fino-komencaj plozivoj: Konsonantgrupoj konsistantaj el du plozivoj (-kt-, -pt-, ktp.) ne estas permesitaj en ordinaraj vortoj. Anstataŭe, ordinaraj vortoj sekvas la italan kaj portugalan modelon kiu preterlasas la unuan konsonanton. Alivorte, se silabo komenciĝas per plozivo, la antaŭa silabo ne povas havi finan plozivon: **astrato** (abstrakta), **ativo** (aktiva), **otima** (optimuma), ktp. 
+Fino-komencaj plozivoj: Konsonantgrupoj konsistantaj el du plozivoj (-kt-, -pt-, ktp.) ne estas permesitaj en ordinaraj vortoj. Anstataŭe, ordinaraj vortoj sekvas la italan kaj portugalan modelon, kiu preterlasas la unuan konsonanton. Alivorte, se silabo komenciĝas per plozivo, la antaŭa silabo ne povas havi finan plozivon: **ativo** (aktiva), **otima** (optimuma), ktp. 
 
 ### Avertoj kun w kaj y
 

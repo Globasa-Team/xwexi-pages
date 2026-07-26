@@ -21,17 +21,17 @@ visible: true
 
 ## Fe <a id="plasilexi_fe"></a>
 
-**[Fe](https://menalari.globasa.net/eng/lexi/fe)** is a multi-purpose preposition with a general, indefinite meaning, often translated as _of_ (_relating to_). It may be used as a preposition of time (_at_, _in_, _on_), as a preposition of place (only in prepositional phrases, as seen below), in sentence initial phrases, as an alternative to **-li** adjectives, and in cases where no other preposition is suitable.
+**[Fe](https://menalari.globasa.net/eng/lexi/fe)** is a multi-purpose preposition with a general, indefinite meaning, often translated as _of_ (_relating to_). It may be used as a preposition of time (_at_, _in_, _on_), as a preposition of place (only in prepositional phrases, as seen below), in sentence-initial phrases, as an alternative to **-li** adjectives, and in cases where no other preposition is suitable.
 
 **Fe** is optional with most expressions of time, as shown in the following examples:
 
 (**fe**) **ban mara** - on a certain occasion, once, once upon a time  
-(**fe**) **duli mara** or - (**fe**) **dumara** sometimes, on occasion, at times  
+(**fe**) **duli mara** or (**fe**) **dumara** - sometimes, on occasion, at times  
 (**fe**) **hin mara** - this time  
 (**fe**) **hin momento** - in this moment  
 (**fe**) **lunadin** - (on) Monday  
 (**fe**) **duli lunadin** or (**fe**) **dulunadin**  - (on) Mondays  
-(**fe**) **nundin** - today (_used as an adverb_)  
+(**fe**) **nundin** - today  
 (**fe**) **tiga din fe xaya** - three days later
 
 The expressions **fe nunya** (at present, presently, now), **fe leya** (in the past, previously) and **fe xaya** (in the future, later on, afterwards) are typically left intact.
@@ -122,7 +122,7 @@ Mary's is big.
 * **[comen](https://menalari.globasa.net/eng/lexi/comen)** - (_n_) side; (_v_) be beside
  * **fe comen** - on the side 
  * **fe comen de** - on the side (of), next to, beside
-* **[tayti](https://menalari.globasa.net/eng/lexi/tayti)** - (_n_) substitute, substitution; (_v_) substitute, replace
+* **[tayti](https://menalari.globasa.net/eng/lexi/tayti)** - (_n_) replacement; (_v_) replace
  * **fe tayti fe** - instead (of)
  * **fe tayti ki** - instead of _+ sentence_
 * **[kompara](https://menalari.globasa.net/eng/lexi/kompara)** - (_n_) comparison; (_v_) compare 
@@ -143,9 +143,9 @@ Mary's is big.
 * **[el](https://menalari.globasa.net/eng/lexi/el)** - _direct object marker_
  * Functions as a preposition and is typically omitted
 * **[de](https://menalari.globasa.net/eng/lexi/de)** - of (_belonging to_)
-* **[tas](https://menalari.globasa.net/eng/lexi/tas)** - to (_indirect object marker_), for
+* **[tas](https://menalari.globasa.net/eng/lexi/tas)** - to (_indirect object marker_), for (_recipient_)
 * **[tem](https://menalari.globasa.net/eng/lexi/tem)** - about [**tema** - theme, topic]
-* **[pro](https://menalari.globasa.net/eng/lexi/pro)** - in favor of, for, pro- (_opp_ **anti**)
+* **[pro](https://menalari.globasa.net/eng/lexi/pro)** - in favor of, for, pro- [_opp_ **anti**]
 * **[anti](https://menalari.globasa.net/eng/lexi/anti)** - against
 * **[fal](https://menalari.globasa.net/eng/lexi/fal)** - (done) by [**fale** - do, make]
 * **[har](https://menalari.globasa.net/eng/lexi/har)** - with (_having_) [**hare** - have]
@@ -181,7 +181,7 @@ Mary's is big.
 * **[fori](https://menalari.globasa.net/eng/lexi/fori)** - immediate(ly)
 * **[pimpan](https://menalari.globasa.net/eng/lexi/pimpan)** - frequent(ly), often
 * **[nadir](https://menalari.globasa.net/eng/lexi/nadir)** - rare(ly), seldom
-* **[nun](https://menalari.globasa.net/eng/lexi/nun)** - present tense particle
+* **[nun](https://menalari.globasa.net/eng/lexi/nun)** - _present tense particle_
  * **nunli** - present(ly), current(ly)
  * **nunya** - the present
  <ul>
@@ -191,10 +191,11 @@ Mary's is big.
  * (**fe**) **nunli din** - nowadays
 * **[ja-](https://menalari.globasa.net/eng/lexi/ja-)** - (_pfx_) immediately adjacent [**jara** - neighbor]
  * **jali** - adjacent
+ * **jali fe** - next to
 * **[le](https://menalari.globasa.net/eng/lexi/le)** - _past tense particle_
  * **jale** - just have (_immediate past tense_)
  * **jaledin** - yesterday
- * **leli** - past, previous(ly), former(ly), ex-
+ * **leli** - past, previous(ly), former(ly)
  * **jaleli** - the last, the most recent
  * **nerleli** - recent(ly)
  * **telileli** - a long time ago 
@@ -207,8 +208,8 @@ Mary's is big.
  * **lefe or fe** - by (_on or before_)
  </ul>
   * **lefe na** - before _+ -ing verb phrase_
-  * **lefe ki** - before + _sentence_
-* **[xa](https://menalari.globasa.net/eng/lexi/xa)**  
+  * **lefe ki** - before _+ sentence_
+* **[xa](https://menalari.globasa.net/eng/lexi/xa)** - _future tense particle_  
  * **jaxa** - be about to (_immediate future tense_)
  * **jaxadin** - tomorrow
  * **xali** - (_adj_) future
@@ -221,7 +222,7 @@ Mary's is big.
  </ul>
   * **xafe** - after, in + _noun phrase_
   * **xafe na** - after + _-ing verb phrase_
-  * **xafe ki** - after + _sentence_
+  * **xafe ki** - after _+ sentence_
 
 ## Function Words of Quantity and Degree
 
@@ -248,7 +249,7 @@ Mary's is big.
  * **no hata** - not even
  * **fe hataya** - even so, however, nevertheless, nonetheless, in spite of that
  * **fe hataya fe** - in spite of, despite _+ noun phrase_
- * **fe hataya na** in spite of _+ -ing verb phrase_
+ * **fe hataya na** - in spite of _+ -ing verb phrase_
  * **fe hataya ki** - even though, although, despite the fact that _+ sentence_
 * **[pia](https://menalari.globasa.net/eng/lexi/pia)** - also
 * **[sol](https://menalari.globasa.net/eng/lexi/sol)** - only [**solo** - alone, the only, the sole]
@@ -260,8 +261,8 @@ Mary's is big.
 * **[max](https://menalari.globasa.net/eng/lexi/max)** - more
  * **maxpul** - additional, extra, another; additionally, moreover, further, furthermore
  * **ji max (o)to/(e)te** - et cetera
-* **max... kom...** - more (_a greater number of_, _a greater amount_)... + _noun/verb_ than...
-* **maxmo... kom...** - more (_to a greater degree_)... + _adj/adv_ than...
+* **max... kom...** - more... + _noun/verb_ than...
+* **maxmo... kom...** - more... + _adj/adv_ than...
 * **[denkwanti](https://menalari.globasa.net/eng/lexi/denkwanti)... kom...** - as much as
 * **[dennumer](https://menalari.globasa.net/eng/lexi/dennumer)... kom...** - as many as
 * **[maxim](https://menalari.globasa.net/eng/lexi/maxim)** - the most
@@ -287,7 +288,7 @@ Mary's is big.
 
 ## Contrastive Emphasis
 
-The particle **he** may be used to express contrastive emphasis on most words: determiners (See [Correlatives](/gramati/tabellexi)), content words, function adverbs and verb particles. It appears right before the word being emphasized. Compare the following set of sentences:
+The particle **he** may be used to express contrastive emphasis on most words: determiners (see [Correlatives](/gramati/tabellexi)), content words, function adverbs and verb particles. It appears right before the word being emphasized. Compare the following set of sentences:
 
 **He _mi_ le nilwatu loga ki te le cori misu pesa.**
 

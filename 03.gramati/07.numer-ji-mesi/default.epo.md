@@ -56,16 +56,16 @@ visible: true
 8 000 - **oco kilo**  
 9 000 - **nue kilo**
 
-1 x 10^6 (1 000 000) - **mega**  
-1 X 10^9 (1 000 000 000) - **giga**  
-1 X 10^12 (1 000 000 000 000) - **tera**  
+1 × 10^6 (1 000 000) - **mega**  
+1 × 10^9 (1 000 000 000) - **giga**  
+1 × 10^12 (1 000 000 000 000) - **tera**  
 
 Pli grandaj nombroj esprimeblas per kombino de **kilo**, **mega**, **giga** kaj **tera**.
 
-1 x 10^15 - **kilo tera**  
-1 x 10^18 - **mega tera**  
-1 x 10^21 - **giga tera**  
-1 x 10^24 - **tera tera**  
+1 × 10^15 - **kilo tera**  
+1 × 10^18 - **mega tera**  
+1 × 10^21 - **giga tera**  
+1 × 10^24 - **tera tera**  
 
 ## Ordaj Numeraloj
 
@@ -104,12 +104,12 @@ Derivitaj frakciaj numeraloj estas substantivoj kaj konsistas el du vortoj: la n
 
 Globaso ankaŭ uzas la jenajn frakciajn metrikajn numeralojn.
 
-1 X 10^-1 (unu dekono de): **deci** (**un ofdes fe**)  
-1 X 10^-2 (unu centono de): **centi** (**un ofcen fe**)  
-1 X 10^-3 (unu milono de): **mili** (**un ofkilo fe**)  
-1 X 10^-6 (unu milionono de): **mikro** (**un ofmega fe**)  
-1 X 10^-9 (unu miliardono de): **nano** (**un ofgiga fe**)  
-1 X 10^-12 (unu bilionono de): **piko** (**un oftera fe**)
+1 × 10^-1 (unu dekono de): **deci** (**un ofdes fe**)  
+1 × 10^-2 (unu centono de): **centi** (**un ofcen fe**)  
+1 × 10^-3 (unu milono de): **mili** (**un ofkilo fe**)  
+1 × 10^-6 (unu milionono de): **mikro** (**un ofmega fe**)  
+1 × 10^-9 (unu miliardono de): **nano** (**un ofgiga fe**)  
+1 × 10^-12 (unu bilionono de): **piko** (**un oftera fe**)
 
 ## Metrikaj Mezuroj
 

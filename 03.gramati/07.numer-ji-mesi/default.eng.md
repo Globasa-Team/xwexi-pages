@@ -56,16 +56,16 @@ visible: true
 8,000 - **oco kilo**  
 9,000 - **nue kilo**
 
-1 x 10^6 (1,000,000) - **mega**  
-1 X 10^9 (1,000,000,000) - **giga**   
-1 X 10^12 (1,000,000,000,000) - **tera**  
+1 × 10^6 (1,000,000) - **mega**  
+1 × 10^9 (1,000,000,000) - **giga**   
+1 × 10^12 (1,000,000,000,000) - **tera**  
 
 Larger numbers can be expressed by combining **kilo**, **mega**, **giga** and **tera**.
 
-1 x 10^15 - **kilo tera**    
-1 x 10^18 - **mega tera**  
-1 x 10^21 - **giga tera**  
-1 x 10^24 - **tera tera**  
+1 × 10^15 - **kilo tera**    
+1 × 10^18 - **mega tera**  
+1 × 10^21 - **giga tera**  
+1 × 10^24 - **tera tera**  
 
 ## Ordinal Numbers
 
@@ -104,12 +104,12 @@ Derived fractional numbers are nouns and are composed of two words, the numerato
 
 Globasa also uses the following fractional metric numbers. 
 
-1 X 10^-1 (one 10th of): **deci** (**un ofdes fe**)   
-1 X 10^-2 (one 100th of): **centi** (**un ofcen fe**)    
-1 X 10^-3 (one 1,000th of): **mili** (**un ofkilo fe**)    
-1 X 10^-6 (one 1,000,000th of): **mikro** (**un ofmega fe**)  
-1 X 10^-9 (one 1,000,000,000th of): **nano** (**un ofgiga fe**)  
-1 X 10^-12 (one 1,000,000,000,000th of): **piko** (**un oftera fe**)
+1 × 10^-1 (one 10th of): **deci** (**un ofdes fe**)   
+1 × 10^-2 (one 100th of): **centi** (**un ofcen fe**)    
+1 × 10^-3 (one 1,000th of): **mili** (**un ofkilo fe**)    
+1 × 10^-6 (one 1,000,000th of): **mikro** (**un ofmega fe**)  
+1 × 10^-9 (one 1,000,000,000th of): **nano** (**un ofgiga fe**)  
+1 × 10^-12 (one 1,000,000,000,000th of): **piko** (**un oftera fe**)
 
 ## Metric Measurements
 

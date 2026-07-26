@@ -3,7 +3,7 @@ title: Mallongigoj
 published: true
 ---
 
-Mallongigoj en Globaso estas kutime prononcataj laŭ sia signifo: **fmk**, ekzemple, estas prononcata /fe 'moj 'ka.so/ prefere ol laŭ la literoj de la mallongigo, /'fe 'me 'ke/. Tamen, la plej ofte uzataj mallongigoj, kiel **ff** kaj **jmt**, povas esti prononcataj laŭ la literoj de la mallongigo por mallongeco: /'fe 'fe/ kaj /'ʤe 'me 'te/ respektive. 
+Mallongigoj en Globaso estas kutime prononcataj laŭ sia signifo: **fmk**, ekzemple, estas prononcata /fe 'moj 'ka.so/ prefere ol laŭ la literoj de la mallongigo, /'fe 'me 'ke/. Tamen, la plej ofte uzataj mallongigoj, kiel **ff** kaj **jmt**, povas esti prononcataj laŭ la literoj de la mallongigo por mallongeco: /'fe 'fe/ kaj /'d͡ʒe 'me 'te/ respektive. 
 
 <table style="width:100%">
 
@@ -73,7 +73,7 @@ Mallongigoj en Globaso estas kutime prononcataj laŭ sia signifo: **fmk**, ekzem
 
     <td><b>fe moy kaso</b></td>
 
-    <td>ĉiuokaze, ĉiaokaze, malgraŭ ĉio</td>
+    <td>ĉiuokaze, ĉiaokaze</td>
 
   </tr>
 

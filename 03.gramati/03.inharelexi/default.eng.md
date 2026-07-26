@@ -56,9 +56,9 @@ A handful of nouns denoting people do indicate gender.
 
 _Note: The gender-neutral word for parent(s) is **atre**. The gender-neutral word for mom/dad is **mapa**._
 
-### Nouns in Sentence Initial Phrases
+### Nouns in Sentence-Initial Phrases
 
-**Fe** is often used in sentence initial phrases with nouns.
+**Fe** is often used in sentence-initial phrases with nouns.
 
 * **Fe fato,** - In fact, Actually  
 * **Fe fini,** - Finally  
@@ -138,7 +138,7 @@ With nouns:
 I have more books than you.
 
 **Yu hare min kitabu kom mi.**  
-You have fewer books than I.
+You have fewer books than me.
 
 * **max te/to kom...** - more (of them) than...
 * **min te/to kom...** - fewer (of them) than...
@@ -147,7 +147,7 @@ You have fewer books than I.
 I have more (of them) than you.
 
 **Yu hare min to kom mi.**  
-You have fewer (of them) than I.
+You have fewer (of them) than me.
 
 * **max kom** - more than
 * **min kom** - fewer than
@@ -163,30 +163,30 @@ You have fewer than one hundred books.
 **Te hare dennumer kitabu kom mi.**  
 She has as many books as me.
 
-* **dennumer te/to kom...** as many (of them) as...
+* **dennumer te/to kom...** - as many (of them) as...
 
 **Te hare dennumer to kom mi.**  
 She has as many as me.
 
-* **denkwanti... kom...** as much... as...
+* **denkwanti... kom...** - as much... as...
 
 **Yu yam denkwanti risi kom mi.**  
 You eat as much rice as me.
 
-* **denkwanti to kom...** as much (of it) as...
+* **denkwanti to kom...** - as much (of it) as...
 
 **Yu yam denkwanti to kom mi.**  
 You eat as much (of it) as me.
 
 With verbs:
 
-* **max... kom....** or **max kom...** - more than
+* **max... kom...** or **max kom...** - more than
 
 **Myaw max somno kom bwaw.**  
 or: **Myaw somno max kom bwaw.**  
 The cat sleeps more than the dog.
 
-* **min... kom....** or **min kom...** - less than
+* **min... kom...** or **min kom...** - less than
 
 **Bwaw min somno kom myaw.**  
 or: **Bwaw somno min kom myaw.**  
@@ -260,19 +260,19 @@ In word derivation, however, **[-gi](/gramati/inharelexi#xafefikso_-gi)** is obl
 
 **garakune navikef** - the drowning captain  
 
-**garakugine navikef**- the captain sinking (the ship)
+**garakugine navikef** - the captain sinking (the ship)
 
 #### **Ambitransitive Verbs** 
 
-In Globasa, [_ambitransitive verbs_](https://en.wikipedia.org/wiki/Ambitransitive_verb#Patientive) are inherently transitive verbs that can also used intransitively.
+In Globasa, [_ambitransitive verbs_](https://en.wikipedia.org/wiki/Ambitransitive_verb#Patientive) are inherently transitive verbs that can also be used intransitively.
 
-There are four subcategories of _ambitransitive verbs_: _verbs of feeling_, _verbs of state_, _non-agentive verbs_, and _verbs motion_. 
+There are four subcategories of _ambitransitive verbs_: _verbs of feeling_, _verbs of state_, _non-agentive verbs_, and _verbs of motion_. 
 
 **_Verbs of Feeling_**
 
 _Ambitransitive verbs_ denoting a feeling mean _to cause to feel [noun or adj]_ or _to feel [noun or adj]_, typically depending on the presence or absence of a direct object. Note that the intransitive meaning may also be expressed as a copula and adjective phrase: **sen** _[root]_**[-do](/gramati/inharelexi#xafefikso_-do)**.
 
-* **interes** - _tr:_ interest; _intr:_ be (_feel_) interested (in) , have an interest (in)  
+* **interes** - _tr:_ interest; _intr:_ be (_feel_) interested (in), have an interest (in)  
 
 **Basalogi interes mi.**  
 Linguistics interests me.
@@ -280,7 +280,7 @@ Linguistics interests me.
 **Mi interes tem basalogi.** = **Mi sen interesdo tem basalogi.**   
 I'm interested in linguistics.
   
-* **pilo** - _tr:_ tire , fatigue ; _intr:_ be (_feel_) tired , be (_feel_) fatigued
+* **pilo** - _tr:_ tire, fatigue; _intr:_ be (_feel_) tired, be (_feel_) fatigued
 
 **Tesu ergo pilo te.**  
 Her work tires her.
@@ -306,9 +306,9 @@ She got/became tired while working.
 
 **_Verbs of State_**
 
-_Ambitransitive verbs of state_ are similar _verbs of feeling_. They are _nouns of state_ that can be used as _ambitransitive verbs_ meaning _to cause to have [noun]_ or _to have [noun]_, typically depending on the presence or absence of a direct object. Note that the intransitive meaning may also be expressed as a copula and adjective phrase: **sen** _[root]_**[-pul](/gramati/inharelexi#xafefikso_-pul)**.
+_Ambitransitive verbs of state_ are similar to _verbs of feeling_. They are _nouns of state_ that can be used as _ambitransitive verbs_ meaning _to cause to have [noun]_ or _to have [noun]_, typically depending on the presence or absence of a direct object. Note that the intransitive meaning may also be expressed as a copula and adjective phrase: **sen** _[root]_**[-pul](/gramati/inharelexi#xafefikso_-pul)**.
 
-* **termo** - _tr:_ heat (up), warm (up) ; _intr:_ be warm, be hot 
+* **termo** - _tr:_ heat (up), warm (up); _intr:_ be warm, be hot 
 
 **Kam yu le termo banyokamer?**  
 Did you warm up the bathroom?
@@ -324,7 +324,7 @@ The school made him smart.
 **Syensiyen cinon. = Syensiyen sen cinonpul.**  
 The scientist is intelligent. 
 
-* **talento** - _tr:_ make talented , cause to be talented ; _intr:_ be talented
+* **talento** - _tr:_ make talented, cause to be talented; _intr:_ be talented
 
 **Patre le talento lalayen.**  
 The father made the singer talented.
@@ -344,7 +344,7 @@ It got/became warm at noon.
 
 **_Non-agentive Verbs_**
 
-In the intransitive meaning of _non-agentive ambitransitive verbs_, the action is something that happens to the subject rather than something the subject performs. The suffix **[-cu](/gramati/inharelexi#xafefikso_-do)** may be optionally applied to _non-agentive verbs_ for the intransitive meaning.
+In the intransitive meaning of _non-agentive ambitransitive verbs_, the action is something that happens to the subject rather than something the subject performs. The suffix **[-cu](/gramati/inharelexi#xafefikso_-cu)** may be optionally applied to _non-agentive verbs_ for the intransitive meaning.
 
 * **kasiru** - _tr:_ break (_cause to break_)  
 **kasiru**(**cu**) - _intr:_ break (_get broken_)  
@@ -375,7 +375,7 @@ The war ended.
 
 **_Verbs of Motion_**
 
-In the intransitive meaning of _ambitransitive verbs of motion_ the subject is both agent and patient. The suffix **[-cu](/gramati/inharelexi#xafefikso_-do)** may be optionally applied to _verbs of motion_ for the intransitive meaning.
+In the intransitive meaning of _ambitransitive verbs of motion_, the subject is both agent and patient. The suffix **[-cu](/gramati/inharelexi#xafefikso_-cu)** may be optionally applied to _verbs of motion_ for the intransitive meaning.
 
 * **esto** - _tr:_ stop (_bring to a stop or cause to stop_)  
 **esto**(**cu**) - _intr:_ stop (_come to a stop_)  
@@ -408,7 +408,7 @@ The door opened.
 
 In word derivation, _ambitransitive verbs_ behave as _transitive verbs_, reflecting their inherently transitive nature.
 
-When the _intransitive_ meaning of _non-agentive verbs_ and _verbs of motion _ is required in a derived word, **[-cu](/gramati/inharelexi#xafefikso_-cu)** is obligatory, other than when applying **-ne**, **-do**, **-abil**, **-musi** or **-ingay**, in which case **-cu** remains optional. 
+When the _intransitive_ meaning of _non-agentive verbs_ and _verbs of motion_ is required in a derived word, **[-cu](/gramati/inharelexi#xafefikso_-cu)** is obligatory, other than when applying **-ne**, **-do**, **-abil**, **-musi** or **-ingay**, in which case **-cu** remains optional. 
 
 Compare the following adjectives derived using the roots **buka** (open) and **klosi** (close) and the suffixes **[-ne](/gramati/inharelexi#xafefikso_-ne)** and **[-do](/gramati/inharelexi#xafefikso_-do)**. As seen in the examples below, the ambiguity that can arise from the omission of the optional **-cu** in derivation is typically inconsequential.
 
@@ -457,7 +457,7 @@ _First_, she went to the bank.
 
 ### Sentence-Initial Adverbs  
 
-The following are adjective/adverbs typically used as sentence-initial adverbs, followed by a clear pause before the rest of the sentence. The pause prevents the sentence adverb from being mistaken as an adjective modifying the subject.
+The following are adjective/adverbs typically used as sentence-initial adverbs, followed by a clear pause before the rest of the sentence. The pause prevents the sentence adverb from being mistaken for an adjective modifying the subject.
 
 * **Ripul, Rili, Rimarali,** - Again  
 * **Dumarali,** - Sometimes
@@ -482,13 +482,13 @@ The following are adjective/adverbs typically used as sentence-initial adverbs, 
 
 ### Adjective/Adverb Comparison
 
-Adjective/adverb comparison is expressed as follows using the words **maxmo** (_more, -er_), **minmo** (_less_), **denmo** (_as_),**kom** (_as, than_).
+Adjective/adverb comparison is expressed as follows using the words **maxmo** (_more, -er_), **minmo** (_less_), **denmo** (_as_), **kom** (_as, than_).
 
 * **maxmo kimapul kom...** - more expensive than...
 * **minmo kimapul kom...** - less expensive than...
 * **denmo kimapul kom...** - as expensive as...
 
-To express _the most (-est)_ and _the least_, Glosaba uses **maxim... te/to** and **minim... te/to**. The word **of** means _out of_ or _off (of)_. Note that the pronouns **te**/**to** must immediately follow the adjective since noun phrases must always end in a noun or pronoun. See [Noun Phrases](/gramati/jumlemonli-estrutur#pronamelexi_in_namelexili_jumlemon).
+To express _the most (-est)_ and _the least_, Globasa uses **maxim... te/to** and **minim... te/to**. The word **of** means _out of_ or _off (of)_. Note that the pronouns **te**/**to** must immediately follow the adjective since noun phrases must always end in a noun or pronoun. See [Noun Phrases](/gramati/jumlemonli-estrutur#pronamelexi_in_namelexili_jumlemon).
 
 * **maxim juni te (of misu bete)** - the youngest (of my children)
 * **minim kimapul to (of yusu mobil)** - the least expensive/costly (of your cars)
@@ -499,7 +499,7 @@ To express _the more/the less..., the more/the less..._, Globasa uses **folki ma
 
 ## Verb/Adj-Adv Words
 
-Besides noun/verb words and adj/adv words, Globasa has a third class of words: _verb/adj-adv words_. Only auxiliary verbs belong in this class which consists of only three words: **abil**, **musi** and **ingay**.  
+Besides noun/verb words and adj/adv words, Globasa has a third class of words: _verb/adj-adv words_. Only auxiliary verbs belong to this class, which consists of only three words: **abil**, **musi** and **ingay**.  
 
 * **abil**: (verb) can, able to; (adj/adv) able, capable, which can  
 * **musi**: (verb) must, have to; (adj/adv) which must, which has to  
@@ -527,44 +527,44 @@ The suffix **-ya** has a variety of useful functions and is equivalent to severa
 
 2. The suffix **-ya** is used to derive abstract and noncount nouns from a variety of concrete and count nouns.
 
-* **poema** - poem (_concrete noun_)  
-* **poemaya** - poetry (_abstract noun_)
+* **poema** - poem (_concrete_)  
+* **poemaya** - poetry (_abstract_)
 
 The suffix **-ya** means _-hood_ or _-ship_ when attached to nouns denoting relationships.
 
-* **matre** - mother (_concrete noun_)  
-**matreya** - motherhood (_abstract noun_)
+* **matre** - mother (_concrete_)  
+**matreya** - motherhood (_abstract_)
 
-* **patre** - father (_concrete noun_)  
-**patreya** - fatherhood (_abstract noun_)
+* **patre** - father (_concrete_)  
+**patreya** - fatherhood (_abstract_)
 
-* **doste** - friend (_concrete noun_)  
-**dosteya** - friendship (_abstract noun_)
+* **doste** - friend (_concrete_)  
+**dosteya** - friendship (_abstract_)
 
 In some cases the concrete or count noun is used as a verb and the abstract or noncount noun is derived using **-ya** and functions as the counterpart to the verb.
 
-* **imaje** - image/picture (_concrete noun_), imagine/picture (_verb_)  
-**imajeya** - imagination (_abstract noun_)
+* **imaje** - image, picture (_concrete_); imagine, picture (_verb_)  
+**imajeya** - imagination (_abstract_)
 
-* **turi** - trip (_count noun_), travel (_verb_)  
-**turiya** - tourism (_noncount noun_)
+* **turi** - trip (_count_); travel (_verb_)  
+**turiya** - tourism (_noncount_)
 
 Likewise, the body parts associated with the five senses denote the related action (_verb_), while **-ya** is used to derive the abstract noun.
 
-* **oko** - eye (_concrete noun_), see, look (_verb_)  
-**okoya** - viewing, sight _or_ sense of sight (_abstract noun_)
+* **oko** - eye (_concrete_); see, look (_verb_)  
+**okoya** - viewing, sight _or_ sense of sight (_abstract_)
 
-* **ore** - ear (_concrete noun_), hear, listen (_verb_)  
-**oreya** - hearing _or_ sense of hearing (_abstract noun_)
+* **ore** - ear (_concrete_); hear, listen (_verb_)  
+**oreya** - hearing _or_ sense of hearing (_abstract_)
 
-* **nasa** - nose (_concrete noun_), smell (_verb_)  
-**nasaya** - smell _or_ sense of smell (_abstract noun_)
+* **nasa** - nose (_concrete_); smell (_verb_)  
+**nasaya** - smell _or_ sense of smell (_abstract_)
 
-* **xeto** - tongue (_concrete noun_), taste (_verb_)  
-**xetoya** - taste _or_ sense of taste (_abstract noun_)
+* **xeto** - tongue (_concrete_); taste (_verb_)  
+**xetoya** - taste _or_ sense of taste (_abstract_)
 
-* **pifu** - skin (_concrete noun_), touch (_verb_)  
-**pifuya** - touch _or_ sense of touch (_abstract noun_)
+* **pifu** - skin (_concrete_); touch (_verb_)  
+**pifuya** - touch _or_ sense of touch (_abstract_)
 
 3. Prepositions are turned into noun/verbs using the suffix **-ya**. See [Prepositional Verbs](/gramati/jumleli-estrutur#plasilexili_falelexi).
 
@@ -579,7 +579,7 @@ Globasa uses the prefix **du-** to express the gerund.
 * **dudanse** - (the act of) dancing
 * **dulala** - (the act of) singing
 
-The prefix **du-** is also used for the _continuous/habitual verb aspect_. See [Verb Forms](/gramati/falelexili-morfo#lefefikso_du-).  
+The prefix **du-** is also used for the _durative/habitual verb aspect_. See [Verb Forms](/gramati/falelexili-morfo#lefefikso_du-).  
 
 _The prefix **du-** is truncated from **dure** (duration).  
 Etymology of **dure**: English, French, German and Spanish_
@@ -627,7 +627,7 @@ The suffix **-cu** may be applied to adjectives and nouns, in addition to verbs,
 The suffix **-cu** (get/become) turns adjectives into intransitive verbs.
 
 * **roso** - red  
-**rosocu** - blush/redden (_get red_)
+**rosocu** - blush, redden (_get red_)
 
 * **mor** - dead  
 **morcu** - die (_become dead_)
@@ -650,7 +650,7 @@ Etymology of **cudu**: Mandarin (取得 "qǔdé"), Korean (취득 “chwideug”
 In Globasa, adjective/adverbs are derived from nouns by means of various suffixes. See full list of suffixes under [Word Formation](/gramati/lexikostrui). One of the most common is the suffix **-li** (_of, relating to_).
 
 * **musika** - music  
-**musikali** - musical, musically
+**musikali** - musical  
 
 * **denta** - tooth  
 **dentali** - dental
@@ -695,14 +695,14 @@ _Active adjectives_ are in most cases equivalent to _present participles_ in Eng
 * **interes** - interest  
 **_interesne_ kitabu** - _interesting_ book
 
-* **amusa** - amuse, fun  
+* **amusa** - amuse    
 **_amusane_ filme** - _amusing/fun_ film
 
 _Etymology of **-ne**: English (-ing), French (-ant), Spanish (-ando), German (-en, -ende), Russian (-ный “-ny”), Turkish (-en, -an)_
 
 ### Sentence-Initial Active Adjectives
 
-Active adjectives that appear sentence initially may alternatively be expressed as prepositional phrases using the infinitive verb form.
+Active adjectives that appear sentence-initially may alternatively be expressed as prepositional phrases using the infinitive verb form.
 
 **_Doxone,_ nini le xorsomno.**  
 _Reading,_ the kid fell asleep.
@@ -727,7 +727,7 @@ _While he read (his favorite book),_ the kid fell asleep.
 
 ### Passive Adjectives
 
-_Active adjectives_ may be rendered passive by adding the passive prefix **be-** to derive what are known in Globasa as _passive active adjectives_ (or _passive adjectives_ for short). There is no exact equivalent in English for _passive adjectives_, but are best understood as the exact passive form of the _present participle_ in English.
+_Active adjectives_ may be rendered passive by adding the passive prefix **be-** to derive what are known in Globasa as _passive active adjectives_ (or _passive adjectives_ for short). There is no exact equivalent in English for _passive adjectives_, but they are best understood as the exact passive form of the _present participle_ in English.
 
 * **belalane melodi** - melody that is sung or being sung  
 * **belubine doste** - beloved friend or friend that is loved

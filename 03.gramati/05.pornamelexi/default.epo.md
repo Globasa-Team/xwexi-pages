@@ -10,8 +10,8 @@ La subjektaj/objektaj pronomoj de Globaso estas jenaj:
 <table style="width:100%">
   <tbody><tr>
     <td></td>
-    <th><b><i>ununombro</i></b></th>
-    <th><b><i>multenombro</i></b></th>
+    <th><b><i>singulara</i></b></th>
+    <th><b><i>plurala</i></b></th>
   </tr>
   <tr>
     <th><b><i>1a persono</i></b></th>
@@ -39,11 +39,11 @@ La subjektaj/objektaj pronomoj de Globaso estas jenaj:
   <td colspan="3"><b>ren</b> - oni</td>
   </tr>
   <tr>
-  <td colspan="3"><b>se</b> - ‘refleksiva pronomo’ (min, vin, sin, nin)
+  <td colspan="3"><b>se</b> - 'refleksiva pronomo' (min, vin, sin, nin)
 </td>
   </tr>
   <tr>
-  <td colspan="3"><b>da</b> - ‘rilativa pronomo’ (li, ŝi, ĝi, ili)</td>
+  <td colspan="3"><b>da</b> - 'rilativa pronomo' (li, ŝi, ĝi, ili)</td>
   </tr>
 </tbody></table>
 
@@ -68,8 +68,8 @@ La posedaj adjektivoj deriviĝas el la pronomoj per aldono de la sufikso **-su**
 <table style="width:100%">
   <tbody><tr>
     <td></td>
-    <th><b><i>ununombro</i></b></th>
-    <th><b><i>multenombro</i></b></th>
+    <th><b><i>singulara</i></b></th>
+    <th><b><i>plurala</i></b></th>
   </tr>
   <tr>
     <th><b><i>1a persono</i></b></th>
@@ -119,8 +119,8 @@ La posedaj pronomoj deriviĝas el la posedaj adjektivoj per aldono de la pronomo
 <table style="width:100%">
   <tbody><tr>
     <td></td>
-    <th><b><i>ununombro</i></b></th>
-    <th><b><i>multenombro</i></b></th>
+    <th><b><i>singulara</i></b></th>
+    <th><b><i>plurala</i></b></th>
   </tr>
   <tr>
     <th><b><i>1a persono</i></b></th>

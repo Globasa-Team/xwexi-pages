@@ -132,25 +132,28 @@ La adverbo **dupul** markas la _ĝisnunan aspekton_ kaj estas uzata kiam ago aŭ
 
 ### Ekzemplaj Frazoj
 
-**Mi no dupul oko te xorfe mesi tiga.**  
-Mi ne vidis ŝin ekde marto.
+**Mi dupul ogar denloka dur 10 nyan.**  
+Mi loĝas tie jam de 10 jaroj. 
 
 **Mi dupul kone te dur 30 nyan.**  
 Mi konas lin de 30 jaroj.
 
-**Mi dupul sen gadibu.**  
-Mi estas kolera.
+**Mi no dupul oko te xorfe mesi tiga.**  
+Mi ne vidis ŝin ekde marto.
 
 **Yu dupul sen kepul?**  
-Kiel vi fartas?
+Kiel vi fartas lastatempe?
+
+**Mi dupul sen gadibu.**  
+Mi estas kolera lastatempe.
 
 **Mi dupul yam hin pingo dur un satu.**  
 Mi manĝas ĉi tiun pomon de unu horo.
 
 **Yu dupul fale keto?**  
-Kion vi faras?
+Kion vi faras lastatempe?
 
-**Mi dupul doxo hin kitabu xorfe jaleli sabedin.**  
+**Mi dupul doxo hin kitabu xorfe jaleli safta.**  
 Mi legas ĉi tiun libron ekde la pasinta semajno.
 
 ## Kondicionala Modo
@@ -240,11 +243,11 @@ Kun la dua persono singulara kaj plurala, kaj la uzo de **kam** (jes/ne-demanda 
 **Kam yu am klosi janela?**  
 Ĉu vi (afable) fermus la fenestron?
 
-## Negacio
+## Neado
 
-Negacio por ĉiuj verbaj formoj estas esprimata per la vorto **no** kaj, kiel adverbo, ĝi tuj antaŭas la verbon kaj ĉiujn aliajn modifantajn adverbojn.
+Neado por ĉiuj verbaj formoj estas esprimata per la vorto **no** kaj, kiel adverbo, ĝi tuj antaŭas la verbon kaj ĉiujn aliajn modifantajn adverbojn.
 
-| Negacio | &nbsp;
+| Neado | &nbsp;
 |
 | Markilo | Ekzemplaj Frazoj
 | **no**<br /><br /><br /><br /><br /><br /><br /><br /> | **Mi no sen lao.**<br />Mi ne estas maljuna.<br /><br />**Te no yam pingo.**<br />Li aŭ ŝi ne manĝas la pomon.<br /><br />**Am no yam pingo.**<br />Ne manĝu la pomon.

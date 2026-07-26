@@ -18,19 +18,19 @@ Prefixes do not alter the word class of the affixed word. On the other hand, suf
 * **[-ne](/gramati/inharelexi#xafefikso_-ne):** in the active state or process of (turns verbs into _active adjectives_)
 * **[-do](/gramati/inharelexi#xafefikso_-do):** in an inactive state of (turns nouns into _inactive adjectives_)
 * **[be-](/gramati/falelexili-morfo#lefefikso_be-):** passive voice
-* **[du-](/gramati/falelexili-morfo#lefefikso_du-):** gerund; _habitual/continuous verb aspect_
+* **[du-](/gramati/falelexili-morfo#lefefikso_du-):** gerund; _durative/habitual verb aspect_
 
 ## Prefixes <a id="lefefikso"></a>
 
 * **aw-:** absent, away
  * **awidi** - leave, go away (_idi_ - _go_); **awglu** - drink up (_glu_ - _drink_); **awpel** - drive away (_pel_ - _push, drive_)
-* **awto-:** auto- (_automatic, by itsef_) [**awtomati** - automatic, **awtonom** - autonomous]
+* **awto-:** auto- (_automatic, by itself_) [**awtomati** - automatic, **awtonom** - autonomous]
  * **awtosahigi** - autocorrect (_sahi - correct, right; sahigi - correction; correct_); **awtomimbay** - self-evident (_mimbay - evident_)
 * **dis-:** disperse, scatter
  * **disgibe** - distribute (_gibe_ - _give_); **dissolusi** - dissolve (_solusi - solution_)
 * **eko-:** eco-
  * **ekologi** - ecology (_logi - specialty, discipline_), **ekosistema** - ecosystem (_sistema - system_)
-* **fin-:** - end of, finish to the end [**fini** - finish, end]  
+* **fin-:** end of, finish to the end [**fini** - finish, end]  
  * **finfley** - landing; land (_fley_ - _fly_); **finrasona** - conclusion; conclude (_rasona_ - _reasoning_)
 * **fron-:** forwards, front [**fronta** - forehead, front]
  * **fronkadam** - progress, advance (_kadam_ - _step_); **fronpel** - propel, push forward (_pel - push, drive_); **fronkumax** - apron (_kumax - piece of cloth_)
@@ -70,7 +70,7 @@ Prefixes do not alter the word class of the affixed word. On the other hand, suf
  
 True affixes, as seen in the lists above, contrast with what we will refer to as _quasi-affixes_. True affixes are word components that may not be used independently as words and always appear attached to words or other affixes to create _affixed words_. In contrast, quasi-affixes are ordinary words (numerals, function words and content words) that are frequently used to create _compound words_. 
 
-Note that the dictionary labels both _true affixes_ and _quasi-affixes_ simply as _affixes_. Also worth noting is that words derived using _quasi-affixes_ are technically _compound words_, but may freely be regarded as _affixed words_, particularly when it comes to certain _quasi-affixes_ which take on a slightly broader or narrower meaning when used in compounds, as compared to their meanings when used as independ words or as the _base_, the core word in a derivation that affixes are attached to. 
+Note that the dictionary labels both _true affixes_ and _quasi-affixes_ simply as _affixes_. Also worth noting is that words derived using _quasi-affixes_ are technically _compound words_, but may freely be regarded as _affixed words_, particularly when it comes to certain _quasi-affixes_ which take on a slightly broader or narrower meaning when used in compounds, as compared to their meanings when used as independent words or as the _base_, the core word in a derivation that affixes are attached to. 
  
 ## Numerals as Quasi-Prefixes in Compound Words
 
@@ -96,7 +96,7 @@ Note that the dictionary labels both _true affixes_ and _quasi-affixes_ simply a
 * **lefe:** pre-, fore-
  * **lefeoko** - foresee (_oko - see_); **lefeloga** - foretell, predict (_loga - say, tell_)
 * **moy:** every, all
- * **moyabil** - almightly, omnipotent (_abil - able, capable_); **moydinli** - daily, everyday (_din - day_)
+ * **moyabil** - almighty, omnipotent (_abil - able, capable_); **moydinli** - daily, everyday (_din - day_)
 * **of:** off (of), from, _fractions_
  * **offolo** - depend on (_folo - follow_); **un ofdua** - half, one out of two (_dua_ - _two_)
 * **pas:** through [**pasa** - pass]
@@ -141,7 +141,7 @@ Note that the dictionary labels both _true affixes_ and _quasi-affixes_ simply a
  * **daybon** - excellent, great, awesome (_bon_ - _good_); **dayday** - huge, gigantic (_day_ - _big_, _large_); **daylil** - tiny (_lil_ - _small_, _little_); **dayxaher** - metropolis (_xaher_ - _town_, _city_); **daybaytu** - mansion (_baytu_ - _house_)
 * **fem:** female
  * **femgami** - wife (_gami_ - _spouse_); **femnini** - girl (_nini_ - _child, kid_); **femixu** - woman (_ixu_ - _adult, man, woman_); **femwangu** - queen (_wangu_ - _monarch_, _king, queen_)
-* **godo:** - excessive, excessively, too much, too many; _in compounds:_ too
+* **godo:** excessive, excessively, too much, too many; _in compounds:_ too
  * **godojaldi** - premature (_jaldi - early_)
 * **juni:** young; _in compounds:_ offspring 
  * **junibwaw** - puppy (_bwaw_ - _dog_); **junimyaw** - kitten (_myaw_ - _cat_); **junisinga** - cub (_singa_ - _lion_); **juninini** - infant, toddler (_nini_ - _child, kid_)
@@ -174,15 +174,15 @@ Note that the dictionary labels both _true affixes_ and _quasi-affixes_ simply a
  * **kreaabil** - creative (_krea - create_); **okonenabil** - blind (_oko - see_)
 * **bimar:** ill, sick 
  * **sikobimar** - mentally ill (_siko_ - _mind_)
-* **bisu:** - compulsory, mandatory, indispensable, essential; _in compounds:_ which must be done, which must happen (counterpart of **-musi**)  
+* **bisu:** compulsory, mandatory, indispensable, essential; _in compounds:_ which must be done, which must happen (counterpart of **-musi**)  
  * **okobisu** - must-see (_oko - see, look, watch_)
 * **bon:** good
  * **xetocubon** - delicious (_xetocu - taste_); **xansebon** - lucky, fortunate (_xanse_ - _chance_, _odds_)  
 * **bur:** bad
  * **xansebur** - unlucky, unfortunate (_xanse_ - _chance_, _odds_)  
-* **day:** - big, large, great; _in compounds:_ great in, high in  
+* **day:** big, large, great; _in compounds:_ great in, high in  
  * **termoday** - hot (_termo - heat_)
-* **ible:** possible; _in compounds_ -able. -ible (counterpart to **-abil**)
+* **ible:** possible; _in compounds:_ -able, -ible (counterpart to **-abil**)
  * **yamible** - edible (_yam - eat_); **doxoible** - legible (_doxo - read_); **okoible** - visible (_oko - see_)
 * **fil:** inclined to, prone
  * **ergofil** - diligent, industrious (_ergo_ - _work_); **fobifil** - fear-prone (_fobi_ - _fear_); **dinifil** - religious (_dini_ - _religion_)
@@ -192,8 +192,8 @@ Note that the dictionary labels both _true affixes_ and _quasi-affixes_ simply a
  * **asmankolordo** - sky blue (_asman_ - _sky_)
 * **laye:** worthy
  * **xinloylaye** - trustworthy (_xinloy_ - _trust_); **memorilaye** - memorable (_memori_ - _memory; remember_); **doxolaye** - worth reading (_doxo_ - _read_)
-* **lil** - small, little; _in compounds:_ low in  
- * **bardilil**- cool (_bardi - cold_)
+* **lil:** small, little; _in compounds:_ low in  
+ * **bardilil** - cool (_bardi - cold_)
 * **musi:** must, have to; _in compounds_: which must (counterpart of **-bisu**)
  * **triunfamusi** - who must win (_triunfa_ - _win, triumph_)
 * **peldo (_pel-do_):** driven
@@ -202,7 +202,7 @@ Note that the dictionary labels both _true affixes_ and _quasi-affixes_ simply a
  * **kimapul** - costly, pricey, expensive (_kima_ - _price_); **juipul** - careful (_jui_ - _attention_); **brilapul** - shiny (_brila_ - _shine_); **pesapul** - rich (_pesa_ - _money_); **hataripul** - dangerous (_hatari_ - _danger_); **legapul** - legal, lawful (_lega_ - _law_); **bawlupul** - violent (_bawlu_ - _violence_)
 * **sim:** similar; _in compounds:_ -like, -ish, shade of color
  * **dostesim** - friendly (_doste_ - _friend_); **ninisim** - childish (_nini_ - _child_); **dahabusim** - golden (_dahabu - gold_); **realsim** - realistic (_real_ - _real_)
-* **total** - total; _in compounds:_ -wide  
+* **total:** total; _in compounds:_ -wide  
  * **globatotal** - worldwide (_globa - world_)
 
 ## Nouns as Quasi-Suffixes in Compound Words
@@ -210,7 +210,7 @@ Note that the dictionary labels both _true affixes_ and _quasi-affixes_ simply a
 * **bol:** ball 
  * **pedabol** - soccer, football (_peda_ - _foot_); **basketobol** - basketball (_basketo_ - _basket_)
 * **din:** day
- * **soladin** - Sunday (_Sola - Earth's sun_); **lunadin** - Monday (_Luna - Earth's moon_); **marihidin** - Tuesday (_Marihi - Mars_); **bududin** - Wednesday (_Budu - Mercury_); **muxtaridin** - Thursday (_Muxtari - Jupiter_); **zuhuradin** - Friday (_Zuhura - Venus_); **xanidin** - Saturday (_Xani - Saturn_); **Kristodin** - Christmas (_Kristo - Chirst_); **xencudin** - birthday (_xencu - birth_)
+ * **soladin** - Sunday (_Sola - Earth's sun_); **lunadin** - Monday (_Luna - Earth's moon_); **marihidin** - Tuesday (_Marihi - Mars_); **bududin** - Wednesday (_Budu - Mercury_); **muxtaridin** - Thursday (_Muxtari - Jupiter_); **zuhuradin** - Friday (_Zuhura - Venus_); **xanidin** - Saturday (_Xani - Saturn_); **Kristodin** - Christmas (_Kristo - Christ_); **xencudin** - birthday (_xencu - birth_)
 * **dom:** place
  * **kitabudom** - library (_kitabu_ - _book_); **mehmandom** - hostel (_mehman_ - _guest_); **dinidom** - church, temple (_dini_ - _religion_)
 * **doku:** document 
@@ -236,7 +236,7 @@ Note that the dictionary labels both _true affixes_ and _quasi-affixes_ simply a
 * **kamer:** room
  * **banyokamer** - bathroom (_banyo_ - _bath_); **somnokamer** - bedroom (_somno - sleep_); **darsukamer** - classroom (_darsu_ - _lesson, class_)
 * **kef:** boss, leader, chief
- * **navikef** - captain (_nave_ - _ship_); **xaherkef** - mayor (_xaher_ - _city_)
+ * **navikef** - captain (_navi_ - _ship_); **xaherkef** - mayor (_xaher_ - _city_)
 * **krasi:** government
  * **demokrasi** - democracy (_demo - people, public_)
 * **kumax:** (piece of) cloth 
@@ -270,7 +270,7 @@ Note that the dictionary labels both _true affixes_ and _quasi-affixes_ simply a
 * **xey:** thing, object; _in compounds:_ thing, object, substance
  * **yamxey** - food (_yam_ - _meal_, _eat_); **kreaxey** - (a) creation (_krea_ - _create_); **kostruixey** - building (_kostrui_ - _build_)
 * **yen:** being (any living being or personified object); _in compounds:_  -ist, -er, -an 
- * _noun/verb roots:_ **estudiyen** - student (_estudi_ - _study_); **danseyen** - dancer (_danse_ - _dance_); **medisyen** - physician (_medis_ - _medicine; treat_); **arteyen** - artist (_arte_ - _art_); **alimyen** - teacher (_alim_ - _teach_);  **polisiyen** - police officer (_polisi_ - _police_); **legayen** - lawyer, attoney (_lega_ - _law_); **poemayen** - poet (_poema_ - _poem_)
+ * _noun/verb roots:_ **estudiyen** - student (_estudi_ - _study_); **danseyen** - dancer (_danse_ - _dance_); **medisyen** - physician (_medis_ - _medicine; treat_); **arteyen** - artist (_arte_ - _art_); **alimyen** - teacher (_alim_ - _teach_);  **polisiyen** - police officer (_polisi_ - _police_); **legayen** - lawyer, attorney (_lega_ - _law_); **poemayen** - poet (_poema_ - _poem_)
  * _adjective roots:_ **juniyen** - young man, woman, gal, guy (_juni_ - _young_)
  * _nationalities:_ **Italiyen** - Italian (_Itali_ - _Italy_); **Mexikoyen** - Mexican (_Mexiko_ - _Mexico_)
  * _physicians:_ **dentamedisyen** - dentist (_denta_ - _tooth_); **sikomedisyen** - psychiatrist (_siko_ - _mind_); **hewanmedisyen** - veterinarian (_hewan_ - _animal_); **ninimedisyen** - pediatrician (_nini_ - _child_); **pifumedisyen** - dermatologist (_pifu_ - _skin_)
@@ -285,7 +285,7 @@ The nouns and adjectives listed above as _quasi-affixes_ are the most frequently
   
 ## Hyphenation in Compounds
 
-Hyphenation may be applied as described in the lastest post on the [recommendation for the use of hyphens in compounds](https://www.reddit.com/r/Globasa/comments/1qpmo7z/final_revision_to_hyphenation_rules/).
+Hyphenation may be applied as described in the latest post on the [recommendation for the use of hyphens in compounds](https://www.reddit.com/r/Globasa/comments/1qpmo7z/final_revision_to_hyphenation_rules/).
   
 ## Proper Noun Compounds
 
@@ -313,7 +313,7 @@ Noun compounds such as the above may be expressed as adjectives simply by attach
 
 **xencudinli hadya** - birthday gift
 
-Alternatively, the descriptive word may be used in a prepositional phrase with **fe** as an equivalent of **-li**. In fact, this is the prefered method when the compound word already consists of three or more morphemes, such as **xencudin** (**_xen-cu-din_**).  
+Alternatively, the descriptive word may be used in a prepositional phrase with **fe** as an equivalent of **-li**. In fact, this is the preferred method when the compound word already consists of three or more morphemes, such as **xencudin** (**_xen-cu-din_**).  
 
 **hadya fe xencudin** - birthday gift (literally, _gift of birthday_)
 

@@ -59,7 +59,7 @@ Noto: Kiel vidite supre, salutoj kun **bon** (bona) estas esprimataj kiel kunmet
 
 [**multi xukra**](multi_xukra.mp3) - multan dankon, koran dankon
 
-[**no hay seba**](no_hay_seba.mp3) aŭ **wal seba** - ne dankinde
+[**no hay seba**](no_hay_seba.mp3) _aŭ_ [**wal seba**](wal_seba.mp3) - ne dankinde
 
 [**asif**](asif.mp3) - mi bedaŭras
 
@@ -91,11 +91,11 @@ Noto: Kiel vidite supre, salutoj kun **bon** (bona) estas esprimataj kiel kunmet
 
 [**e**](e.mp3) _aŭ_ [**em**](em.mp3) - hm
 
-**nunto** - nu (_plenigvorto uzata por altiri atenton al aserto aŭ punkto en rakonto_) , nu (_plenigvorto uzata por enkonduki rimarkon_)
+[**nunto**](nunto.mp3) - nu (_plenigvorto uzata por altiri atenton al aserto aŭ punkto en rakonto, aŭ por enkonduki rimarkon_)
 
-**finto** - plenigvorto kiu antaŭas ŝanĝon de temo aŭ enkondukas konkludon: nu (do), do, sekve
+[**finto**](finto.mp3) - plenigvorto kiu antaŭas ŝanĝon de temo aŭ enkondukas konkludon: nu (do), do, sekve
 
-**kos to** - do
+[**kos to**](kos_to.mp3) - do
 
 [**fe folo**](fe_folo.mp3) - tial, sekve
 
@@ -125,7 +125,7 @@ Noto: Kiel vidite supre, salutoj kun **bon** (bona) estas esprimataj kiel kunmet
 
 [**abruto**](abruto.mp3) - subite
 
-[**aham**](aham.mp3) - mi komprenas, komprenite ("kompreni")
+[**aham**](aham.mp3) - mi komprenas, komprenite ("kompreno")
 
 [**yakin**](yakin.mp3) - certe, sendube
 
@@ -170,10 +170,10 @@ Kiel vi fartas?
 Tre bone, kaj vi?
 
 [**semibon**](semibon.mp3)  
-Ne tro malbone
+mezbone, ne tro malbone
 
-[**semi semi**](semi_semi.mp3)  
-nek bone, nek malbone
+[**semi, semi**](semi_semi.mp3)  
+pli-mapli bone, mezbone  
 
 * [**Yu name keto?**](Yu_name_keto.mp3) _aŭ_ [**Yusu name sen keto?**](Yusu_name_sen_keto.mp3)  
 Kiel vi nomiĝas? Kio estas via nomo?
@@ -202,16 +202,16 @@ De kie vi estas?
 [**Mi sen of...**](Mi_sen_of.mp3)    
 Mi estas de...
 
-* [**Yu sen kemo lao?**](Yu_sen_kemo_lao.mp3) _aŭ_ **Yu laoje kekwanti nyan?**  
+* [**Yu sen kemo lao?**](Yu_sen_kemo_lao.mp3) _aŭ_ [**Yu laoje kekwanti nyan?**](yu_laoje.mp3)  
 Kiom vi aĝas? Kiom aĝa vi estas?
 
-[**Mi sen lao fe... nyan.**](Mi_sen_lao_fe.mp3) _aŭ_ **Mi laoje... nyan.**  
+[**Mi sen lao fe... nyan.**](Mi_sen_lao_fe.mp3) _aŭ_ [**Mi laoje... nyan.**](mi_laoje.mp3)  
 Mi estas... -jaraĝa.
 
 * [**Kam yu (pala) Globasa?**](Kam_yu_pala_globasa.mp3)  
 Ĉu vi parolas Globason?
 
-**Si, xosu.**  aŭ **Si, mas no bon.**  
+[**Si, xosu.**](Si_xosu.mp3) _aŭ_ [**Si, mas no bon.**](si_mas_no_bon.mp3)    
 Jes, iomete. aŭ Jes, sed ne bone.
 
 * [**Yu pala ke basa?**](Yu_pala_ke_basa.mp3)  

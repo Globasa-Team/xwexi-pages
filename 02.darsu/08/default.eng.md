@@ -88,7 +88,7 @@ The police officer's dog is big.
 ## Reading and Listening Practice
 
 <audio controls>
- <source src="/darsu/08/darsu_08_doxoli_abyasa 01.mp3" type="audio/mp3" />
+ <source src="/darsu/08/darsu_08_doxoli_abyasa_01.mp3" type="audio/mp3" />
  <p>Your user agent does not support the HTML5 Audio element.</p>
 </audio>
 
@@ -97,7 +97,7 @@ Manixu ergo in bahari. Te sen mahiyen. Te hare ogar ton femixu. Femixu hare juni
 Ete sen in hin ogar. Manixu ji femixu sen fe mesa. Ete glu cay. Bete bon somno per bistar. Ete oko bete.
 
 <audio controls>
- <source src="/darsu/08/darsu_08_doxoli_abyasa 02.mp3" type="audio/mp3" />
+ <source src="/darsu/08/darsu_08_doxoli_abyasa_02.mp3" type="audio/mp3" />
  <p>Your user agent does not support the HTML5 Audio element.</p>
 </audio>
 

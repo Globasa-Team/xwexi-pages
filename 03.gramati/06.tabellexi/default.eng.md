@@ -75,12 +75,12 @@ visible: true
   <tr>
    <th><b><i>possession</i></b><br><br><b>-su</b> -<br>possessive suffix</th>
     <td><b>kesu</b><br>whose</td>
-    <td><b>hinsu</b><br>this one’s</td>
-    <td><b>densu</b><br>that one’s</td>
-    <td><b>bansu</b><br>somebody’s</td>
-    <td><b>moysu</b><br>everybody’s</td>
-<td><b>nilsu</b><br>nobody’s</td>
- <td><b>alosu</b><br>somebody else’s, the other one's</td>
+    <td><b>hinsu</b><br>this one's</td>
+    <td><b>densu</b><br>that one's</td>
+    <td><b>bansu</b><br>somebody's</td>
+    <td><b>moysu</b><br>everybody's</td>
+<td><b>nilsu</b><br>nobody's</td>
+ <td><b>alosu</b><br>somebody else's, the other one's</td>
        <td><b>samasu</b><br>the same person's</td>
   </tr>
   <tr>
@@ -146,7 +146,7 @@ visible: true
     <td><b>banwatu</b><br>sometime</td>
     <td><b>moywatu</b><br>always</td>
 <td><b>nilwatu</b><br>never</td>
- <td><b>alowatu</b><br>in other times</td>
+ <td><b>alowatu</b><br>at other times</td>
        <td><b>samawatu</b><br>at the same time, simultaneously</td>
 </tr>
   <tr>
@@ -197,7 +197,7 @@ visible: true
 
 ## Determiner Correlatives
 
-The correlatives words **ke**, **hin**, **den**, **ban**, **moy**, **nil**, **alo** and **sama** must always be followed by a _noun_ (whether modified with adjectives or not) or by a _pronoun_. They should never stand alone because by omitting the _(pro)noun_ the correlative can easily be mistaken as a determiner of the noun/verb that follows it. In the absence of a specified noun, the pronouns **te** or **to** mark the end of the noun phrase. See [Noun Phrases](/gramati/jumlemonli-estrutur#pronamelexi_in_namelexili_jumlemon).
+The correlative words **ke**, **hin**, **den**, **ban**, **moy**, **nil**, **alo** and **sama** must always be followed by a _noun_ (whether modified with adjectives or not) or by a _pronoun_. They should never stand alone because by omitting the _(pro)noun_ the correlative can easily be mistaken for a determiner of the noun/verb that follows it. In the absence of a specified noun, the pronouns **te** or **to** mark the end of the noun phrase. See [Noun Phrases](/gramati/jumlemonli-estrutur#pronamelexi_in_namelexili_jumlemon).
 
 Compare the following sentences:
 
@@ -284,7 +284,7 @@ I want to know whose chair this is.
 
 (1) **Kesu kitabu sen per mesa?**   
 "Whose book on the table?"  
-Whose book is on the table.
+Whose book is on the table?
 
 (2) **Mi jixi ku kesu kitabu sen per mesa.**    
 "I know this: _Whose book is on the table?_"        
@@ -421,7 +421,7 @@ _Like I said_...
 
 ## Comparative Correlatives 
 
-The conjunction **kom** means _as, like_ and is used with the correlatives ending in **-pul**, **-mo**, **-kwanti** and **-numer** to make comparisions. In the following pairs of example sentences, the second sentence replaces a specific word or phrase with a correlative. 
+The conjunction **kom** means _as, like_ and is used with the correlatives ending in **-pul**, **-mo**, **-kwanti** and **-numer** to make comparisons. In the following pairs of example sentences, the second sentence replaces a specific word or phrase with a correlative. 
 
 (1) **Mi sen** _**hazuni kom yu**_**.**  
 I am _sad like you_. 
@@ -467,16 +467,16 @@ I bought _as much_ rice _as you_.
 
 ## daydenpul
 
-The word **daydenpul** is a derived word composed of **day-** (_augmentative prefix_) and the correlative **denpul**. It translates as _what a_ followed a noun in exclamations such as the following:
+The word **daydenpul** is a derived word composed of **day-** (_augmentative prefix_) and the correlative **denpul**. It translates as _what a_ followed by a noun in exclamations such as the following:
 
 _**Daydenpul**_ **din!**  
 _What_ a day!
 
-## daydenmo <a id="daydenmmo"></a>
+## daydenmo <a id="daydenmo"></a>
 
-The word **daydenmo** is an derived word composed of **day-** (_augmentative prefix_) and the correlative **denmo**. It is an adverb of degree meaning _so_, when followed by an adjective/adverb, or  _such_, when followed by a modified noun.  
+The word **daydenmo** is a derived word composed of **day-** (_augmentative prefix_) and the correlative **denmo**. It is an adverb of degree meaning _so_, when followed by an adjective/adverb, or  _such_, when followed by a modified noun.  
 
-**Yu** _**daydenmo**_ **bala.**  
+**Yu sen** _**daydenmo**_ **bala.**  
 You are _so_ strong.
 
 **Yu hare** _**daydenmo**_ **day oko.**  
