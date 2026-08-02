@@ -162,24 +162,24 @@ Verbaj frazpartoj, kiuj funkcias anstataŭ substantivaj frazpartoj, estas nomata
 **Cele sen na triunfa.**  
 La celo estas venki.
 
-En ĉi tiuj frazoj, subjektaj infinitivaj verbaj frazpartoj povas esti movataj al la fino de la frazo. Tamen la pronomo **to** devas anstataŭi la infinitivan verban frazparton, kaj komo devas esti aldonita antaŭ la movita frazparto.
+En ĉi tiuj frazoj, subjektaj infinitivaj verbaj frazpartoj povas esti movataj al la fino de la frazo. Tamen la pronomo **to** devas anstataŭi la infinitivan verban frazparton.
 
 **Na sen nensabar sen problema.**   
 Esti senpacienca estas problemo.    
 _aŭ_  
-**To sen problema, na sen nensabar.**   
+**To sen problema na sen nensabar.**   
 Estas problemo esti senpacienca.
 
 **Na soti gitara sen asan.**    
 Ludi la gitaron estas facile. _aŭ_ Ludado de la gitaro estas facila.    
 _aŭ_   
-**To sen asan, na soti gitara.**    
+**To sen asan na soti gitara.**    
 Estas facile ludi la gitaron.
 
 **Na suyon in bahari sen amusane.**    
 Naĝi en la maro estas amuze. _aŭ_ Naĝado en la maro estas amuza.    
 _aŭ_  
-**To sen amusane, na suyon in bahari.**    
+**To sen amusane na suyon in bahari.**    
 Estas amuze naĝi en la maro.
 
 * Kiel la komplemento de prepozicio:
@@ -342,10 +342,10 @@ La konjunkcio **ki** estas uzata, kiam propozicio (_frazo enigita en la ĉefan f
 </tr>
 <tr>
 <td><b>mi jixi</b><br>mi scias</td>
-<td><b>ki yu le xuli mobil</b><br>(ke) vi riparis aŭton</td>
+<td><b>ki yu le xuli mobil</b><br>ke vi riparis aŭton</td>
 </tr>
 <tr>
-<td colspan="3" style="font-size:125%;"><b>Mi jixi ki yu le xuli mobil.</b><br>Mi scias, (ke) vi riparis la aŭton. </td>
+<td colspan="3" style="font-size:125%;"><b>Mi jixi ki yu le xuli mobil.</b><br>Mi scias, ke vi riparis la aŭton. </td>
 </tr>
 </tbody></table>
 

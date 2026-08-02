@@ -170,11 +170,11 @@ Notu ke la vortaro etikedas kaj _verajn afiksojn_ kaj _kvazaŭafiksojn_ simple k
 
 ## Adjektivaj/Adverbaj Vortoj kiel Kvazaŭsufiksoj en Kunmetitaj Vortoj
 
-* **abil:** povi, kapabla; _en kunmetaĵoj:_ povi, -iva (samfunkcia kun **-ible**)
+* **abil:** povi, kapabla; _en kunmetaĵoj:_ povi, -iva (aktiva ekvivalento de **-ible**)
  * **kreaabil** - krea (_krea - krei_); **okonenabil** - blinda (_oko - vidi_)
 * **bimar:** malsana 
  * **sikobimar** - mensmalsana (_siko_ - _menso_)
-* **bisu:** deviga, nepra, nemalhavebla, esenca; _en kunmetaĵoj:_ kio devas esti farita, kio devas okazi (samfunkcia kun **-musi**)  
+* **bisu:** deviga, nepra, nemalhavebla, esenca; _en kunmetaĵoj:_ kio devas esti farita, kio devas okazi (pasiva ekvivalento de **-musi**)  
  * **okobisu** - nepre vidinda (_oko - vidi, rigardi_)
 * **bon:** bona
  * **xetocubon** - bongusta (_xetocu - gusti_); **xansebon** - bonŝanca, feliĉa (_xanse_ - _ŝanco_)  
@@ -182,7 +182,7 @@ Notu ke la vortaro etikedas kaj _verajn afiksojn_ kaj _kvazaŭafiksojn_ simple k
  * **xansebur** - malbonŝanca, malfeliĉa (_xanse_ - _ŝanco_)  
 * **day:** granda, ampleksa, grandioza; _en kunmetaĵoj:_ granda je, alta je  
  * **termoday** - varmega (_termo - varmo_)
-* **ible:** ebla; _en kunmetaĵoj:_ -ebla (samfunkcia kun **-abil**)
+* **ible:** ebla; _en kunmetaĵoj:_ -ebla (pasiva ekvivalento de **-abil**)
  * **yamible** - manĝebla (_yam - manĝi_); **doxoible** - legebla (_doxo - legi_); **okoible** - videbla (_oko - vidi_)
 * **fil:** inklina al, ema
  * **ergofil** - diligenta, laborema (_ergo_ - _labori_); **fobifil** - timema (_fobi_ - _timo_); **dinifil** - religiema (_dini_ - _religio_)
@@ -194,7 +194,7 @@ Notu ke la vortaro etikedas kaj _verajn afiksojn_ kaj _kvazaŭafiksojn_ simple k
  * **xinloylaye** - fidinda (_xinloy_ - _fido_); **memorilaye** - memorinda (_memori_ - _memoro; memori_); **doxolaye** - leginda (_doxo_ - _legi_)
 * **lil:** malgranda, eta; _en kunmetaĵoj:_ malalta je  
  * **bardilil** - malvarmeta (_bardi - malvarma_)
-* **musi:** devi, esti devigata; _en kunmetaĵoj_: kiu devas (samfunkcia kun **-bisu**)
+* **musi:** devi, esti devigata; _en kunmetaĵoj_: kiu devas (aktiva ekvivalento **-bisu**)
  * **triunfamusi** - kiu devas venki (_triunfa_ - _venki, triumfi_)
 * **peldo (_pel-do_):** pelata
  * **somnopeldo** - dormema (_somno_ - _dormi_); **yampeldo** - malsata (_yam_ - _manĝi_)

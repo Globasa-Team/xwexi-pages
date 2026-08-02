@@ -162,24 +162,24 @@ Verb phrases functioning in the place of noun phrases are known as _nominal verb
 **Cele sen na triunfa.**  
 The goal is to win.
 
-In these sentences, subject infinitive verb phrases may be moved to the end of the sentence. However, the pronoun **to** must take the place of the infinitive verb phrase and a comma must be added before the relocated phrase.
+In these sentences, subject infinitive verb phrases may be moved to the end of the sentence. However, the pronoun **to** must take the place of the infinitive verb phrase.
 
 **Na sen nensabar sen problema.**   
 To be impatient is a problem.    
 _or_  
-**To sen problema, na sen nensabar.**   
+**To sen problema na sen nensabar.**   
 It is a problem to be impatient.
 
 **Na soti gitara sen asan.**    
 To play the guitar is easy. _or_ Playing the guitar is easy.    
 _or_   
-**To sen asan, na soti gitara.**    
+**To sen asan na soti gitara.**    
 It is easy to play the guitar.
 
 **Na suyon in bahari sen amusane.**    
 To swim in the sea is fun. _or_ Swimming in the sea is fun.    
 _or_  
-**To sen amusane, na suyon in bahari.**    
+**To sen amusane na suyon in bahari.**    
 It is fun to swim in the sea.
 
 * As the complement of a preposition:

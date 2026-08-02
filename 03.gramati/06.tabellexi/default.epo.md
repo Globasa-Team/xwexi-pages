@@ -183,7 +183,7 @@ visible: true
     <th></th>
   </tr>
   <tr>
-   <th><b><i>emfaza</i></b><br><br><b>he</b> -<br>ajn, -ajn</th>
+   <th><b><i>emfaza</i></b><br><br><b>he</b> -<br>ajn</th>
     <td><b>he keto</b><br>kio ajn</td>
     <td><b>he hinto</b><br>ĉi tiu specifa</td>
     <td><b>he dento</b><br>tiu specifa</td>

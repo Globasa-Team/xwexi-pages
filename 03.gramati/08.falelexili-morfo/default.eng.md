@@ -27,7 +27,7 @@ Globasa's simple present tenses are expressed as follows.
 
 By default, the dictionary verb form expresses the general present tense, which is equivalent to the English simple present. In addition, the dictionary form alone may also express the present active tense, which is equivalent to the present progressive in English. In other words, the dictionary verb form alone is ambiguous and implies the omission of either **nun** or **du-**. 
 
-### The Particle u <a id="partikul_u"></a>
+### Particle _u_ <a id="partikul_u"></a>
 
 As an alternative to using the dictionary verb form alone, the particle **u** may be used in place of either **nun** or **du-**. This particle is typically only used in formal texts or speech as a simple way to mark the predicate where no other tense/mood marker is being used.
 

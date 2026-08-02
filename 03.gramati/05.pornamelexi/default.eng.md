@@ -53,7 +53,7 @@ The gender-neutral **te** and **ete** are used for all living forms and personif
 * **mante** - he
 * **femete**/**manete** - they
 
-### he
+### Particle _he_
 
 The particle **he** is used with subject pronouns to express emphasis.
 

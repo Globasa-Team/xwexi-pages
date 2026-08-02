@@ -170,11 +170,11 @@ Note that the dictionary labels both _true affixes_ and _quasi-affixes_ simply a
 
 ## Adj/Adv Words as Quasi-Suffixes in Compound Words
 
-* **abil:** can, able; _in compounds:_ can, -ive (counterpart to **-ible**)
+* **abil:** can, able; _in compounds:_ can, -ive (active counterpart to **-ible**)
  * **kreaabil** - creative (_krea - create_); **okonenabil** - blind (_oko - see_)
 * **bimar:** ill, sick 
  * **sikobimar** - mentally ill (_siko_ - _mind_)
-* **bisu:** compulsory, mandatory, indispensable, essential; _in compounds:_ which must be done, which must happen (counterpart of **-musi**)  
+* **bisu:** compulsory, mandatory, indispensable, essential; _in compounds:_ which must be done, which must happen (passive counterpart of **-musi**)  
  * **okobisu** - must-see (_oko - see, look, watch_)
 * **bon:** good
  * **xetocubon** - delicious (_xetocu - taste_); **xansebon** - lucky, fortunate (_xanse_ - _chance_, _odds_)  
@@ -182,7 +182,7 @@ Note that the dictionary labels both _true affixes_ and _quasi-affixes_ simply a
  * **xansebur** - unlucky, unfortunate (_xanse_ - _chance_, _odds_)  
 * **day:** big, large, great; _in compounds:_ great in, high in  
  * **termoday** - hot (_termo - heat_)
-* **ible:** possible; _in compounds:_ -able, -ible (counterpart to **-abil**)
+* **ible:** possible; _in compounds:_ -able, -ible (passive counterpart to **-abil**)
  * **yamible** - edible (_yam - eat_); **doxoible** - legible (_doxo - read_); **okoible** - visible (_oko - see_)
 * **fil:** inclined to, prone
  * **ergofil** - diligent, industrious (_ergo_ - _work_); **fobifil** - fear-prone (_fobi_ - _fear_); **dinifil** - religious (_dini_ - _religion_)
@@ -194,7 +194,7 @@ Note that the dictionary labels both _true affixes_ and _quasi-affixes_ simply a
  * **xinloylaye** - trustworthy (_xinloy_ - _trust_); **memorilaye** - memorable (_memori_ - _memory; remember_); **doxolaye** - worth reading (_doxo_ - _read_)
 * **lil:** small, little; _in compounds:_ low in  
  * **bardilil** - cool (_bardi - cold_)
-* **musi:** must, have to; _in compounds_: which must (counterpart of **-bisu**)
+* **musi:** must, have to; _in compounds_: which must (active counterpart of **-bisu**)
  * **triunfamusi** - who must win (_triunfa_ - _win, triumph_)
 * **peldo (_pel-do_):** driven
  * **somnopeldo** - sleepy (_somno_ - _sleep_); **yampeldo** - hungry (_yam_ - _eat_)

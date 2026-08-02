@@ -21,13 +21,13 @@ La simplaj prezencaj tensoj de Globaso estas esprimataj jene.
 |
 | Verba Formo | Markiloj | Ekzemplaj Frazoj
 | Ĝenerala Prezenco<br /><br /><br /> | **(nun)**<br /><br /><br /> | **Mi (nun) yam pingo.**<br />Mi manĝas la pomon.<br />Mi estas manĝanta la pomon.
-| Daŭra/Kutima Prezenco<br /><br /><br /> | **(nun) (du-)**<br /><br /><br /> | **Mi (nun) (du)yam pingo.**<br />Mi (daŭre/kutime) manĝas pomojn.
+| Daŭra/Kutima Prezenco<br /><br /><br /> | **(nun) (du-)**<br /><br /><br /> | **Mi (nun) (du)suki ji (du)yam pingo.**<br />Mi ŝatas kaj manĝas pomojn.
 
 ### Vortara Verba Formo
 
 Defaŭlte, la vortara verba formo esprimas la ĝeneralan prezencan tenson, kiu ekvivalentas al la simpla prezenco en Esperanto (_mi manĝas_). Krome, la vortara formo sola povas ankaŭ esprimi la aktivan prezencan tenson, kiu ekvivalentas al la prezenca progresivo en Esperanto (_mi estas manĝanta_). Alivorte, la vortara verba formo sola estas ambigua kaj implicas la ellason de **nun** aŭ **du-**.
 
-### La Partikulo u <a id="partikul_u"></a>
+### Partikulo _u_ <a id="partikul_u"></a>
 
 Kiel alternativo al uzado de la vortara verba formo sola, la partikulo **u** povas esti uzata anstataŭ **nun** aŭ **du-**. Tiu ĉi partikulo estas tipe uzata nur en formalaj tekstoj aŭ parolo kiel simpla maniero por marki la predikaton kie neniu alia tensa/moda markilo estas uzata.
 
@@ -53,7 +53,7 @@ _Etimologio de **le**: la mandarena (了 “le”), la svahila (-li-), la rusa (
 |
 | Verba Formo | Markiloj | Ekzemplaj Frazoj
 | Ĝenerala Preterito<br /><br /> | **le**<br /><br /> | **Mi le yam pingo.**<br />Mi manĝis la pomon.
-| Daŭra/Kutima Preterito<br /><br /> | **le du-**<br /><br /> | **Mi le duyam pingo.**<br />Mi kutimis manĝi pomojn.
+| Daŭra/Kutima Preterito<br /><br /> | **le du-**<br /><br /> | **Mi le dusuki ji duyam pingo.**<br />Mi ŝatis kaj kutimis manĝi pomojn.
 
 ## Simplaj Futuraj Tensoj
 
@@ -65,7 +65,7 @@ _Etimologio de **xa**: la araba (سوف “sawf”, سا “sa”), la angla (sh
 |
 | Verba Formo | Markiloj | Ekzemplaj Frazoj
 | Ĝenerala Futuro<br /><br /> | **xa**<br /><br /> | **Mi xa yam pingo.**<br />Mi manĝos la pomon.
-| Daŭra/Kutima Futuro<br /><br /> | **xa du-**<br /><br /> | **Mi xa duyam pingo.**<br />Mi (daŭre/kutime) manĝos pomojn.
+| Daŭra/Kutima Futuro<br /><br /> | **xa du-**<br /><br /> | **Mi xa dusuki ji duyam pingo.**<br />Mi ŝatos kaj kutimos manĝi pomojn.
 
 ## Tujaj Preteritaj kaj Futuraj Tensoj
 

@@ -7,7 +7,7 @@ media_order: 'c.mp3,d.mp3,g.mp3,h.mp3,j.mp3,l.mp3,m.mp3,n.mp3,p.mp3,r.mp3,rr.mp3
 
 ## Alfabeto
 
-| minúsculas | mayúsculas | [AFI](https://es.wikipedia.org/wiki/Alfabeto_Fon%C3%A9tico_Internacional) | nombre de la letra |
+| minúscula | mayúscula | [AFI](https://es.wikipedia.org/wiki/Alfabeto_Fon%C3%A9tico_Internacional) | nombre de la letra |
 |
 | **a** | **A** | /ä/ | aya |
 | **b** | **B** | /b/ | ibe |
@@ -35,13 +35,13 @@ media_order: 'c.mp3,d.mp3,g.mp3,h.mp3,j.mp3,l.mp3,m.mp3,n.mp3,p.mp3,r.mp3,rr.mp3
 | **y** | **Y** | /j/ | iye |
 | **z** | **Z** | /z/ | ize |
 
-### Mayúsculas vs minúsculas
+### Mayúsculas y minúsculas
 
-Actualmente no hay reglas establecidas en Globasa para el uso de letras mayúsculas. Los hablantes de Globasa pueden usar letras mayúsculas a su discreción hasta que llegue el momento de establecer tales reglas o pautas.
+Actualmente no existen reglas establecidas en Globasa para el uso de las mayúsculas. Los hablantes de Globasa pueden usar las mayúsculas a su discreción hasta que llegue el momento de establecer tales reglas o pautas.
 
 ### Nombres de las letras
 
-Al deletrear palabras en voz alta, los nombres de las letras pueden acortarse.
+Al deletrear palabras en voz alta, los nombres de las letras pueden abreviarse.
 
 * Vocales: a, e, i, o, u
 * Consonantes: be, ce, de, etc.
@@ -50,26 +50,26 @@ Al deletrear palabras en voz alta, los nombres de las letras pueden acortarse.
 
 | letra | AFI | pronunciación | ejemplos |
 |
-| **b** | [/b/](b.mp3) | como en _bebé_ | [**baytu**](baytu.mp3) casa |
-| **c** | [/t͡ʃʰ/](c_aspirated.mp3) | como _ch_ en _charla_ | [**cokolate**](cokolate.mp3) chocolate |
-| **d** | [/d/](d.mp3) | como en _dedo_ | [**doste**](doste.mp3) amigo/-a |
-| **f** | [/f/](f.mp3) | como en _feo_ | [**fasul**](fasul.mp3) frijol |
-| **g** | [/g/](g.mp3) | como en _gota_ | [**globa**](globa.mp3) mundo |
-| **h** | [/x/](h.mp3) | como _j_ en _joven_ | [**hawa**](hawa.mp3) aire |
-| **j** | [/d͡ʒ/](j.mp3) | como en _jazz_ | [**juni**](juni.mp3) joven |
-| **k** | [/kʰ/](k_aspirated.mp3) | como en _karate_ | [**kitabu**](kitabu.mp3) libro |
-| **l** | [/l/](l.mp3) | como en _lobo_ | [**lala**](lala.mp3) cantar, canción |
-| **m** | [/m/](m.mp3) | como en _mapa_ | [**multi**](multi.mp3) mucho/-a, muchos/-as |
-| **n** | [/n/](n.mp3) | como en _nota_ | [**neo**](neo.mp3) nuevo |
-| **p** | [/pʰ/](p_aspirado.mp3) | como en _paz_ | [**pingo**](pingo.mp3) manzana |
-| **r** | [/ɾ/](r.mp3) | como en _toro_ | [**risi**](risi.mp3) arroz |
-| **s** | [/s/](s.mp3) | como en _silla_ | [**sui**](sui.mp3) agua |
-| **t** | [/tʰ/](t_aspirated.mp3) | como en _tiempo_ | [**teatro**](teatro.mp3) teatro |
-| **v** | [/v/](v.mp3) | como en inglés: _v_ labiodental | [**visita**](visita.mp3) visita |
-| **w** | [/w/](w.mp3) | como en _Wendy_ | [**watu**](watu.mp3) tiempo |
-| **x** | [/ʃ/](x.mp3) | como _sh_ en _show_ | [**xugwan**](xugwan.mp3) hábito |
+| **b** | [/b/](b.mp3) | como en _boca_ | [**baytu**](baytu.mp3) casa |
+| **c** | [/t͡ʃʰ/](c_aspirated.mp3) | como la _ch_ de _chico_ | [**cokolate**](cokolate.mp3) chocolate |
+| **d** | [/d/](d.mp3) | como en _dedo_ | [**doste**](doste.mp3) amigo |
+| **f** | [/f/](f.mp3) | como en _foto_ | [**fasul**](fasul.mp3) frijol |
+| **g** | [/g/](g.mp3) | como en _gato_ | [**globa**](globa.mp3) mundo |
+| **h** | [/x/](h.mp3) | como la _j_ de _jamón_ | [**hawa**](hawa.mp3) aire |
+| **j** | [/d͡ʒ/](j.mp3) | como la _j_ inglesa de _jazz_ | [**juni**](juni.mp3) joven |
+| **k** | [/kʰ/](k_aspirated.mp3) | como en _kilo_ | [**kitabu**](kitabu.mp3) libro |
+| **l** | [/l/](l.mp3) | como en _luna_ | [**lala**](lala.mp3) cantar, canción |
+| **m** | [/m/](m.mp3) | como en _mano_ | [**multi**](multi.mp3) muchos, mucho |
+| **n** | [/n/](n.mp3) | como en _nariz_ | [**neo**](neo.mp3) nuevo |
+| **p** | [/pʰ/](p_aspirated.mp3) | como en _pan_ | [**pingo**](pingo.mp3) manzana |
+| **r** | [/ɾ/](r.mp3) | como la _r_ de _pero_ | [**risi**](risi.mp3) arroz |
+| **s** | [/s/](s.mp3) | como en _sol_ | [**sui**](sui.mp3) agua |
+| **t** | [/tʰ/](t_aspirated.mp3) | como en _taza_ | [**teatro**](teatro.mp3) teatro |
+| **v** | [/v/](v.mp3) | como la _v_ inglesa de _very_ | [**visita**](visita.mp3) visita |
+| **w** | [/w/](w.mp3) | como la _u_ de _hueso_ | [**watu**](watu.mp3) tiempo |
+| **x** | [/ʃ/](x.mp3) | como la _sh_ inglesa de _show_ | [**xugwan**](xugwan.mp3) costumbre |
 | **y** | [/j/](y.mp3) | como la palabra _y_ | [**yuxi**](yuxi.mp3) jugar, juego |
-| **z** | [/z/](z.mp3) | como _z_ en inglés | [**zebra**](cebra.mp3) cebra |
+| **z** | [/z/](z.mp3) | como la _s_ sonora de _mismo_ | [**zebra**](zebra.mp3) cebra |
 
 ### Notas
 
@@ -101,11 +101,11 @@ Consulte la [convención ortográfica](/gramati/abece-ji-lafuzu#regula_fe_harufi
 
 **z** - siempre como una _s_ sonora; nunca [s]/[θ] como en _zapato_
 
-### Otras variantes de consonantes
+### Otras variantes consonánticas
 
-Dependiendo del idioma nativo del hablante, también se permiten otras variantes de consonantes. Por ejemplo, algunos hispanoparlantes tienden a pronunciar _h_ como [[χ]](uvular.mp3) en lugar de [[x]](h.mp3). Los francófonos tienden a pronunciar _r_ como [[ʁ]](Voiced_uvular_fricative.ogg) en lugar de [[ɾ]](r.mp3). Los hablantes del mandarín tienden a pronunciar _x_ como [[ʂ]](Voiceless_alveolo-palatal_sibilant.ogg) o [[ɕ]](Voiceless_retroflex_sibilant.ogg) en lugar de [[ʃ]](x.mp3). Éstas y otras variantes similares también están permitidas.
+Dependiendo de la lengua materna de cada persona, también se permiten otras variantes consonánticas. Por ejemplo, algunos hispanohablantes tienden a pronunciar la _h_ como [[χ]](uvular.mp3) en lugar de [[x]](h.mp3). Los francófonos tienden a pronunciar la _r_ como [[ʁ]](Voiced_uvular_fricative.ogg) en lugar de [[ɾ]](r.mp3). Los hablantes de mandarín tienden a pronunciar la _x_ como [[ʂ]](Voiceless_retroflex_sibilant.ogg) o [[ɕ]](Voiceless_alveolo-palatal_sibilant.ogg) en lugar de [[ʃ]](x.mp3). Estas y otras variantes similares también se permiten.
 
-La siguiente tabla incluye todos los alófonos de consonantes en variación libre. El primer alófono que aparece para cada fonema es la pronunciación ideal de dicho fonema en Globasa. Es probable que muchos hablantes escuchen docenas de otros alófonos en distribución complementaria (alófonos que dependen del entorno fonético), pero todo hablante de Globasa debe hacer el esfuerzo por no desviarse demasiado del conjunto de alófonos a continuación.
+La siguiente tabla enumera todos los alófonos consonánticos en variación libre. El primer alófono indicado para cada fonema es la pronunciación ideal en Globasa. Es probable que entre muchos hablantes se escuchen decenas de otros alófonos en distribución complementaria (alófonos que dependen del entorno fonético), pero todos deben esforzarse por no desviarse demasiado del conjunto de alófonos indicados aquí.
 
 | letra | alófonos |
 |
@@ -132,211 +132,211 @@ La siguiente tabla incluye todos los alófonos de consonantes en variación libr
 
 ## Vocales
 
-Las vocales de Globasa (**a**, **e**, **i**, **o**, **u**) se pronuncian como en español, italiano o Esperanto.
+Las vocales del Globasa (**a**, **e**, **i**, **o**, **u**) se pronuncian como en español, italiano o esperanto.
 
 | letra | AFI | pronunciación | ejemplo |
 |
 | **a** | [/ä/](a.ogg) | como en _casa_ | [**basa**](basa.mp3) idioma, lengua |
-| **e** | [/e̞/](e.ogg) | como en _mete_ | [**bete**](bete.mp3) hijo/-a |
+| **e** | [/e̞/](e.ogg) | como en _mete_ | [**bete**](bete.mp3) hijo/hija |
 | **i** | [/i/](i.ogg) | como en _crisis_ | [**idi**](idi.mp3) ir |
 | **o** | [/o̞/](o.ogg) | como en _poco_ | [**oko**](oko.mp3) ojo |
 | **u** | [/u/](u.ogg) | como en _Lulú_ | [**mumu**](mumu.mp3) toro/vaca |
 
-### Variantes de vocales
+### Variantes vocálicas
 
-**a** - idealmente pronunciada [[**ä**]](https://en.wikipedia.org/wiki/Open_central_unrounded_vocal), una vocal central abierta no redondeada; la [[a]](https://upload.wikimedia.org/wikipedia/commons/0/0e/PR-open_front_unrounded_vocal.ogg) anterior y la [[ɑ]](https://upload.wikimedia.org/wikipedia/commons/e/e5/Open_back_unrounded_vocal.ogg) posterior son variantes permitidas
- 
-**e** - idealmente pronunciada [[**e̞**]](https://en.wikipedia.org/wiki/Mid_front_unrounded_vowel), una vocal anterior media no redondeada; la [[e]](https://upload.wikimedia.org/wikipedia/commons/6/6c/Close-mid_front_unrounded_vocal.ogg) semicerrada y la [[ɛ]](https://upload.wikimedia.org/wikipedia/commons/7/71/Open-mid_front_unrounded_vocal.ogg) semiabierta son variantes permitidas
- 
-**o** - idealmente pronunciada [[**o̞**]](https://en.wikipedia.org/wiki/Mid_back_rounded_vowel), una vocal redondeada media posterior; la [[o]](https://upload.wikimedia.org/wikipedia/commons/8/84/Close-mid_back_rounded_vocal.ogg) semicerrada y la [[ɔ]](https://upload.wikimedia.org/wikipedia/commons/d/d0/PR-open-mid_back_rounded_vocal.ogg) semiabierta son variantes permitidas
+**a** - idealmente se pronuncia [[**ä**]](https://en.wikipedia.org/wiki/Open_central_unrounded_vowel), una vocal central abierta no redondeada; la anterior [[a]](https://upload.wikimedia.org/wikipedia/commons/0/0e/PR-open_front_unrounded_vowel.ogg) y la posterior [[ɑ]](https://upload.wikimedia.org/wikipedia/commons/e/e5/Open_back_unrounded_vowel.ogg) son variantes permitidas
 
-**u** - idealmente pronunciada [[**u**]](https://en.wikipedia.org/wiki/Close_back_rounded_vowel), una vocal cerrada posterior redondeada; la [[ɯᵝ]](compressed_u.mp3) cerrada posterior comprimida es una variante permitida
+**e** - idealmente se pronuncia [[**e̞**]](https://en.wikipedia.org/wiki/Mid_front_unrounded_vowel), una vocal media anterior no redondeada; la semicerrada [[e]](https://upload.wikimedia.org/wikipedia/commons/6/6c/Close-mid_front_unrounded_vowel.ogg) y la semiabierta [[ɛ]](https://upload.wikimedia.org/wikipedia/commons/7/71/Open-mid_front_unrounded_vowel.ogg) son variantes permitidas
+
+**o** - idealmente se pronuncia [[**o̞**]](https://en.wikipedia.org/wiki/Mid_back_rounded_vowel), una vocal media posterior redondeada; la semicerrada [[o]](https://upload.wikimedia.org/wikipedia/commons/8/84/Close-mid_back_rounded_vowel.ogg) y la semiabierta [[ɔ]](https://upload.wikimedia.org/wikipedia/commons/d/d0/PR-open-mid_back_rounded_vowel.ogg) son variantes permitidas
+
+**u** - idealmente se pronuncia [[**u**]](https://en.wikipedia.org/wiki/Close_back_rounded_vowel), una vocal cerrada posterior redondeada; la cerrada posterior comprimida [[ɯᵝ]](compressed_u.mp3) es una variante permitida
 
 ### Elisión
 
-En ciertos casos, principalmente en la poesía y las letras de canciones, _e_ en posición inicial de palabra (cuando es seguida por _-s-_ y otra consonante) puede silenciarse y reemplazarse por un apóstrofe.
+En ciertos casos, principalmente en poesía y letras de canciones, la _e_ en posición inicial de palabra (cuando va seguida de _-s-_ y otra consonante) puede enmudecerse y sustituirse por un apóstrofo.
 
 **espesyal** o **'spesyal**
 
-### Acento léxico
+### Acentuación
 
-Las sílabas en Globasa pueden ser tónicas o átonas. En otras palabras, Globasa no hace uso de acento secundario.
+Las sílabas en Globasa son tónicas o átonas. En otras palabras, el Globasa no emplea acento secundario.
 
-#### Palabras monosílabas
+#### Palabras monosilábicas
 
-* Todas las palabras de contenido monosílabas (_sustantivos, verbos, adjetivos, adverbios_) son tónicas.  
+* Todas las palabras léxicas monosilábicas (_sustantivos, verbos, adjetivos, adverbios_) son tónicas.
 
-Palabras de función monosílabas se pueden acentuar o no según lo que se sienta más natural para el hablante. En caso de duda, se pueden utilizar las siguientes pautas sugeridas:
+Las palabras funcionales monosilábicas pueden ser tónicas o átonas según lo que resulte más natural para cada hablante. En caso de duda, pueden seguirse las siguientes pautas sugeridas:
 
-* Palabras de función monosílabas átonas: _preposiciones, conjunciones y partículas (incluidas las partículas verbales)_  
-* Palabras de función monosílabas tónicas: _pronombres, determinantes, numerales, cuantificadores, adverbios e interjecciones_
+* Palabras funcionales monosilábicas átonas: _preposiciones, conjunciones y partículas (incluidas las partículas de formas verbales)_
+* Palabras funcionales monosilábicas tónicas: _pronombres, determinantes, numerales, cuantificadores, adverbios e interjecciones_
 
-#### Palabras polisílabas
+#### Palabras polisilábicas
 
-Las siguientes reglas de acentuación se aplican a todas las palabras polisílabas, incluidas las palabras de función y las palabras derivadas.
+Las siguientes reglas de acentuación se aplican a todas las palabras polisilábicas, incluidas las palabras funcionales y las palabras derivadas.
 
 * Si la palabra termina en consonante, el acento recae en la última vocal.
 
-**barix** (lluvia) se pronuncia _ba-r<u>**i**</u>x_ [[ba.'ɾiʃ]](barix.mp3)  
-**pantalun** (pantalón) se pronuncia _pan-ta-l<u>**u**</u>n_ [[pan.ta.'lun]](pantalun.mp3)  
-**kitabudom** (biblioteca) se pronuncia _ki-ta-bu-d<u>**o**</u>m_ [[ki.ta.bu.'dom]](kitabudom.mp3)
+**barix** (lluvia), pronunciada _ba-r<u>**i**</u>x_ [[ba.'ɾiʃ]](barix.mp3)  
+**pantalun** (pantalón), pronunciada _pan-ta-l<u>**u**</u>n_ [[pan.ta.'lun]](pantalun.mp3)  
+**kitabudom** (biblioteca), pronunciada _ki-ta-bu-d<u>**o**</u>m_ [[ki.ta.bu.'dom]](kitabudom.mp3)
 
 * Si la palabra termina en vocal, el acento recae en la penúltima vocal.
 
-**piu** (pájaro) se pronuncia _p<u>**i**</u>-u_ [['pi.u]](piu.mp3)  
-**harita** (mapa) se pronuncia _ha-r<u>**i**</u>-ta_ [[ha.'ri.ta]](harita.mp3)  
-**Espanisa** (idioma español) se pronuncia _es-pa-n<u>**i**</u>-sa_ [[es.pa.'ni.sa]](Espanisa.mp3)
+**piu** (ave), pronunciada _p<u>**i**</u>-u_ [['pi.u]](piu.mp3)  
+**harita** (mapa), pronunciada _ha-r<u>**i**</u>-ta_ [[ha.'ri.ta]](harita.mp3)  
+**Espanisa** (idioma español), pronunciada _es-pa-n<u>**i**</u>-sa_ [[es.pa.'ni.sa]](Espanisa.mp3)
 
-Como se indicó anteriormente, las reglas de acentuación también se aplican a las palabras derivadas. La palabra derivada **kitabudom** (_**kitabu-dom**_), por ejemplo, se pronuncia _ki-ta-bu-d<u>**o**</u>m_, con el acento únicamente en la última vocal, en lugar de _ki-t<u>**a**</u>-bu-d<u>**o**</u>m_.
+Como se indicó arriba, las reglas de acentuación se aplican también a las palabras derivadas. La palabra derivada **kitabudom** (_**kitabu-dom**_), por ejemplo, se pronuncia _ki-ta-bu-d<u>**o**</u>m_, con el acento únicamente en la última vocal, y no _ki-t<u>**a**</u>-bu-d<u>**o**</u>m_.
 
 ## Epéntesis no escrita
 
-### Epéntesis de consonantes
+### Epéntesis consonántica
 
-Aunque no es ideal, y es poco probable que los hispanoparlantes lo utilicen en la mayoría de los casos, se puede insertar opcionalmente una oclusiva glotal no escrita entre dos vocales, ya sea dentro de una palabra o entre dos palabras.
+Aunque no es lo ideal, y es poco probable que la utilicen los hispanohablantes en la mayoría de los casos, se puede insertar opcionalmente una oclusiva glotal no escrita entre dos vocales cualesquiera, ya sea dentro de una palabra o entre palabras.
 
-**poema** (poema)se pronuncia [[po'ema]](poema.mp3) o [[poʔ'ema]](po_ema.mp3)
+**poema** (poema), pronunciada [[po'ema]](poema.mp3) o [[poʔ'ema]](po_ema.mp3)
 
-### Epéntesis de vocales
+### Epéntesis vocálica
 
-Aunque no es ideal, y es poco probable que los hispanoparlantes la utilicen en la mayoría de los casos, cualquier vocal central no redondeada, como por ejemplo [ə], puede insertarse opcionalmente entre cualquier dos consonantes o en la posición final de palabra. Como vocal central, la [ä] cardinal también se permite como epéntesis no escrita, aunque ésta es la opción menos recomendada ya que es más probable que ésta reduzca la inteligibilidad.
+Aunque no es lo ideal, y es poco probable que la utilicen los hispanohablantes en la mayoría de los casos, se puede insertar opcionalmente cualquier vocal central no redondeada, como [ə], entre dos consonantes cualesquiera o en posición final de palabra. Por ser una vocal central, la vocal cardinal [ä] también se admite como epéntesis no escrita, aunque esta es la opción menos recomendable, ya que es más probable que reduzca la inteligibilidad.
 
-**magneto** (imán) se pronuncia [[mag'neto]](magneto.mp3) o [[magə'neto]](mag_neto.mp3)  
-**asif** (lo siento) se pronuncia [[a'sif]](asif.mp3) o [[a'sifə]](asif_.mp3)
+**magneto** (imán), pronunciada [[mag'neto]](magneto.mp3) o [[magə'neto]](mag_neto.mp3)  
+**asif** (perdón), pronunciada [[a'sif]](asif.mp3) o [[a'sifə]](asif_.mp3)
 
 ## Vocales y consonantes dobles
 
-Las vocales y consonantes dobles, ya sea dentro de las palabras, como resultado de la derivación, o entre dos palabras, generalmente se pronuncian un poco más largas o hasta el doble de largas que las consonantes simples. Como se vio anteriormente, una alternativa permisible es agregar una oclusiva glotal entre las vocales dobles y una vocal media central entre las consonantes dobles.
+Las vocales y consonantes dobles, ya sea dentro de una palabra como resultado de la derivación o entre palabras, suelen pronunciarse un poco más largas, o hasta el doble de largas, que las simples. Como se vio arriba, una alternativa permitida es añadir una oclusiva glotal entre vocales dobles y una vocal media central entre consonantes dobles.
 
 ### Vocales dobles
- 
-**beeskri** (ser escrito) se pronuncia [[be'eskri]](beeskri.mp3) o [[beʔeskri]](be_eskri.mp3)  
-**semiisula** (península) se pronuncia [[semi:'sula]](semiisula.mp3) o [[semiʔi'sula]](semi_isula.mp3)
+
+**beeskri** (ser escrito), pronunciada [[be'eskri]](beeskri.mp3) o [[beʔeskri]](be_eskri.mp3)  
+**semiisula** (península), pronunciada [[semiː'sula]](semiisula.mp3) o [[semiʔi'sula]](semi_isula.mp3)
 
 ### Consonantes dobles
 
-**possahay** (obstaculizar) se pronuncia [[pos:a'xaj]](possahay.mp3) o [[posəsa'xaj]](pos_sahay.mp3)  
-**aselli** (original), se pronuncia [[a'sel:i]](aselli.mp3) o [[a'seləli]](asel_li.mp3)
+**possahay** (obstaculizar), pronunciada [[posːa'xaj]](possahay.mp3) o [[posəsa'xaj]](pos_sahay.mp3)  
+**aselli** (original), pronunciada [[a'selːi]](aselli.mp3) o [[a'seləli]](asel_li.mp3)
 
-### Doble _r_
+### r doble
 
-Aunque la _r_ no se puede alargar de la misma manera que otras consonantes, la doble _r_ se puede alargar con [vibración múltiple](Alveolar_trill.ogg) o, alternativamente, pronunciarse de [manera simple](r.mp3). Dado que la vibración múltiple es una variante de la _r_ singular, es posible que algunos hablantes pronuncien tanto _r_ como _rr_ con vibración múltiple, mientras que otros pronuncien ambas con vibración simple, mientras que otros distingan la _r_ singular con vibración simple y la doble _r_ con vibración múltiple. Como se vio anteriormente con respecto a dos consonantes consecutivas, una tercera opción en este caso es agregar una vocal epentética entre dos vibraciones simples.
+Aunque la _r_ no puede alargarse de la misma manera que otras consonantes, una _r_ doble puede alargarse como vibrante múltiple o, alternativamente, pronunciarse como una _r_ simple. Dado que la vibrante múltiple es una variante de la _r_ simple, es posible que algunos hablantes pronuncien tanto la _r_ como la _rr_ como vibrante múltiple, mientras que otros pronuncien ambas como vibrante simple, y otros distingan la _r_ simple como vibrante simple y la _r_ doble como vibrante múltiple. Como se vio arriba con cualquier par de consonantes consecutivas, una tercera opción en este caso es añadir una vocal epentética entre las dos vibrantes simples.
 
-**burroya** (pesadilla) se pronuncia [[bu'roja]](burroya.mp3) o [[bu'ɾoja]](burroya_single_r.mp3) o [[buɾə'ɾoja]](bur_roya.mp3)
+**burroya** (pesadilla), pronunciada [[bu'roja]](burroya.mp3) o [[bu'ɾoja]](burroya_single_r.mp3) o [[buɾə'ɾoja]](bur_roya.mp3)
 
-## _W_ e _Y_
+## W e Y
 
-**Nota:** Como estudiante de Globasa, tenga en cuenta que puede omitir la siguiente sección, la cual es simplemente una discusión sobre cómo la _w_ y la _y_ funcionan en Globasa.
+**Nota:** Como aprendiz de Globasa, puedes saltarte la siguiente parte, que no es más que una discusión sobre cómo el Globasa trata la _w_ y la _y_.
 
-### Acento léxico
+### Acentuación
 
-Como se indicó anteriormente, la _w_ y la _y_ pueden pronunciarse como vocales. Sin embargo, dado que técnicamente son consonantes, nunca se acentúan.
+Como se indicó arriba, la _w_ y la _y_ pueden pronunciarse como vocales. Sin embargo, dado que técnicamente son consonantes, nunca reciben el acento.
 
-Compare la pronunciación de los siguientes nombres propios:
+Compara la pronunciación de los siguientes nombres propios:
 
-**_Maria_**,se pronuncia _ma-r<u>**i**</u>-a_ [[ma.'ɾi.a]](maria.mp3)  
-**_Maryo_**, se pronuncia _m<u>**a**</u>-ryo_ [['ma.ɾjo]](maryo.mp3) o _m<u>**a**</u>- rio_ [['ma.ɾi.o]](ma.rio.mp3)
+**_Maria_**, pronunciada _ma-r<u>**i**</u>-a_ [[ma.'ɾi.a]](maria.mp3)  
+**_Maryo_**, pronunciada _m<u>**a**</u>-ryo_ [['ma.ɾjo]](maryo.mp3) o _m<u>**a**</u>-ri-o_ [['ma.ɾi.o]](ma.ri.o.mp3)
 
-El deletrear **Maryo** con _y_ en lugar de _i_ permite cambiar el acento a _a_, la penúltima vocal. Con el acento en la vocal apropiada, no hace ninguna diferencia en Globasa si **Maryo** se pronuncia con dos sílabas, con la _y_ pronunciada como consonante (m<u>**a**</u>-ryo), o alternativamente, con tres sílabas, con la _y_ pronunciada como _i_ átona (m<u>**a**</u>-ri-o).
+Escribir **Maryo** con _y_ en lugar de _i_ permite que el acento se desplace a la _a_, la penúltima _letra_ vocálica. Con el acento en la vocal apropiada, en Globasa no hay diferencia entre pronunciar **Maryo** como dos sílabas, con una _y_ consonántica (m<u>**a**</u>-ryo), o bien como tres sílabas, con la _y_ pronunciada como una _i_ átona (m<u>**a**</u>-ri-o).
 
 ### Diptongos
 
-Globasa no cuenta con verdaderos diptongos. Sin embargo, se permiten las siguientes combinaciones de vocal más consonante aproximante: **aw**, **ew**, **ow**, **ay**, **ey**, **oy**. Estas combinaciones pueden pronunciarse como diptongos, aunque _-w/-y_ técnicamente representan consonantes de coda, en lugar de semivocales dentro del mismo núcleo. Sabemos esto porque en palabras ordinarias las sílabas no pueden terminar en _-w/-y_ más otra consonante. Si ese fuera el caso, _-w/-y_ podrían considerarse parte del núcleo. En cambio, _-w/-y_ ocupa el lugar de la única consonante final de sílaba permitida. También es aceptable, como alternativa admisible, que _-w/-y_ se pronuncien como vocales átonas independientes.
+El Globasa no tiene verdaderos diptongos. Sin embargo, se permiten las siguientes combinaciones de vocal más aproximante (consonante): **aw**, **ew**, **ow**, **ay**, **ey**, **oy**. Estas combinaciones pueden pronunciarse como diptongos aunque _-w_ y _-y_ representen técnicamente consonantes en la coda, y no semivocales del núcleo. Lo sabemos porque las sílabas (en las palabras ordinarias) no pueden terminar en _-w/-y_ más otra consonante. Si así fuera, _-w/-y_ podrían considerarse parte del núcleo. En cambio, _-w/-y_ ocupan el lugar de la única consonante final de sílaba permitida. También se acepta, como alternativa permitida, que _-w_ y _-y_ se pronuncien como vocales independientes y átonas.
 
-**Ewropa** (Europa), se pronuncia _ew-r<u>**o**</u>-pa_ [[ew.'ɾo.pa]/[eu̯.'ɾo.pa]](ewropa.mp3 ) o incluso _e-u-r<u>**o**</u>-pa_ [[e.u.'ɾo.pa]](e.u.ro.pa.mp3)
+**Ewropa** (Europa), pronunciada _ew-r<u>**o**</u>-pa_ [[ew.'ɾo.pa]/[eu̯.'ɾo.pa]](ewropa.mp3) o incluso _e-u-r<u>**o**</u>-pa_ [[e.u.'ɾo.pa]](e.u.ro.pa.mp3)
 
 ### Convención ortográfica <a id="regula_fe_harufiya"></a>
 
-La siguiente convención ortográfica se aplica sólo a lexemas y no a las palabras derivadas. Junto a otras vocales, Globasa usa _i_ y _u_ sólo si son vocales tónicas o si _y_ y _w_ no están permitidas según las reglas fonotácticas. En todos los demás casos, Globasa usa _y_ y _w_ en lugar de _i_ y _u_.
+La siguiente convención ortográfica se aplica solo a las palabras raíz y no a las palabras derivadas. Junto a otras vocales, el Globasa usa _i_ y _u_ solo si estas son tónicas o si las reglas fonotácticas no permiten _y_ y _w_. En todos los demás casos, el Globasa usa _y_ y _w_ en lugar de _i_ y _u_.
 
-En los siguientes lexemas, _i_ y _u_ son tónicas:
+En las siguientes palabras raíz, _i_ y _u_ son tónicas:
 
-**maux** (ratón) se pronuncia _ma-<u>**u**</u>x_ [[ma.'uʃ]](maux.mp3)  
-**daifu** (débil) se pronuncia _da-<u>**i**</u>-fu_ [da.'i.fu]
+**maux** (ratón), pronunciada _ma-<u>**u**</u>x_ [[ma.'uʃ]](maux.mp3)  
+**daifu** (débil), pronunciada _da-<u>**i**</u>-fu_ [[da.'i.fu]](daifu.mp3)
 
-En los siguientes lexemas, las reglas fonotácticas sólo permiten _i_ y _u_:
+En las siguientes palabras raíz, las reglas fonotácticas solo permiten _i_ y _u_:
 
-**triunfa** (triunfo/triunfar, ganar) se pronuncia _tri-<u>**u**</u>n-fa_ [[tri.'un.fa]](triunfa.mp3)  
-**kruel** (cruel) se pronuncia _kru-<u>**e**</u>l_ [[kru.'el]](kruel.mp3)
+**triunfa** (triunfar), pronunciada _tri-<u>**u**</u>n-fa_ [[tri.'un.fa]](triunfa.mp3)  
+**kruel** (cruel), pronunciada _kru-<u>**e**</u>l_ [[kru.'el]](kruel.mp3)
 
-En los siguientes lexemas, _y_ y _w_, que opcionalmente pueden pronunciarse como vocales, se usan convencionalmente:
+En las siguientes palabras raíz se usan convencionalmente _y_ y _w_, que opcionalmente pueden pronunciarse como vocales:
 
-**pyano** (piano) se pronuncia _py<u>**a**</u>-no_ [['pja.no]](pyano.mp3) o _pi-<u>**a**</u>-no_ [[pi.'a.no]](pi.a.no.mp3)  
-**cian** (cian) se pronuncia _cy<u>**a**</u>n_ [[t͡ʃjan]](cyan.mp3) o _ci-<u>**a**</u>n_ [[t͡ʃi.'an]](ci.an.mp3)  
-**swini** (cerdo, cerdo) se pronunciado _sw<u>**i**</u>-ni_ [['swi.ni]](swini.mp3) o _su-<u>**i**</u>-ni_ [[su.'i.ni]](su.i.ni.mp3)  
-**trawma** (trauma) se pronuncia _tr<u>**a**</u>w-ma_ [['traw.ma]](trawma.mp3) o _tr<u>**a**</u>-u-ma_ [['tra.u.ma]](tra.u.ma.mp3)
-    
-## Fonotáctica para palabras ordinarias
+**pyano** (piano), pronunciada _py<u>**a**</u>-no_ [['pja.no]](pyano.mp3) o _pi-<u>**a**</u>-no_ [[pi.'a.no]](pi.a.no.mp3)  
+**cyan** (cian), pronunciada _cy<u>**a**</u>n_ [[t͡ʃjan]](cyan.mp3) o _ci-<u>**a**</u>n_ [[t͡ʃi.'an]](ci.an.mp3)  
+**swini** (cerdo), pronunciada _sw<u>**i**</u>-ni_ [['swi.ni]](swini.mp3) o _su-<u>**i**</u>-ni_ [[su.'i.ni]](su.i.ni.mp3)  
+**trawma** (trauma), pronunciada _tr<u>**a**</u>w-ma_ [['traw.ma]](trawma.mp3) o _tr<u>**a**</u>-u-ma_ [['tra.u.ma]](tra.u.ma.mp3)
 
-**Nota:** Como estudiante de Globasa, puede omitir esta última sección sobre fonotáctica, ya que es simplemente una descripción de la estructura de sílabas en Globasa.
+## Fonotáctica de las palabras ordinarias
 
-Globasa cuenta con dos conjuntos de reglas fonotácticas, uno para palabras ordinarias (esta sección) y otro para nombres propios (ver la siguiente sección). Las reglas de la fonotáctica para palabras específicas a una cultura combinan ambos conjuntos de reglas (ver la última sección).
+**Nota:** Como aprendiz de Globasa, puedes saltarte esta última parte sobre fonotáctica, ya que no es más que una descripción de la estructura silábica del Globasa.
+
+El Globasa tiene dos conjuntos de reglas fonotácticas: uno para las palabras ordinarias (esta sección) y otro para los nombres propios (véase la sección siguiente). Las reglas fonotácticas de las palabras específicas de una cultura combinan ambos conjuntos de reglas (véase la última sección).
 
 Las siguientes reglas se aplican a las palabras ordinarias.
 
 ### Sílabas
 
-Las sílabas se componen de: (inicio)-núcleo-(coda).
+Las sílabas constan de: (ataque)-núcleo-(coda).
 
-La estructura de sílabas en las palabras ordinarias de Globasa es (C)(C)V(C).
+La estructura silábica de las palabras ordinarias del Globasa es (C)(C)V(C).
 
-### Inicio
+### Ataque
 
-Las sílabas pueden tener o no tener un inicio. En Globasa, el inicio consiste en cualquier consonante individual o cualquiera de los siguientes grupos _Cl/Cr_ y _Cw/Cy_:
+Las sílabas pueden tener o no un ataque. En Globasa, el ataque consta de cualquier consonante simple, o de cualquiera de los siguientes grupos Cl/Cr y Cw/Cy:
 
-bl-, fl-, gl-, kl-, pl-, vl-
-br-, dr-, fr-, gr-, kr-, pr-, tr-, vr-
-bw-, cw-, dw-, fw-, gw-, hw-, jw-, kw-, lw-, mw-, nw-, pw-, rw-, sw-, tw-, vw-, xw- , zw-
-by-, cy-, dy-, fy-, gy-, hy-, jy-, ky-, ly-, my-, ny-, py-, ry-, sy-, ty-, vy-, xy- , zy-
-
-### Núcleo
-
-Todas las sílabas tienen un núcleo. En Globasa, el núcleo consta de una sola vocal: a, e, i, o, u.
-
-### Coda
-
-Las sílabas pueden llevar o no llevar una coda. En Globasa, la coda de las palabras ordinarias consta de _cualquier_ consonante individual. Sin embargo, se aplican las siguientes advertencias.
-
-Posición final de palabra: Las palabras ordinarias en Globasa sólo permiten las siguientes consonantes en posición final de palabra: -f, -l, -m, -n, -r, -s, -w, -x, -y.
-
-Sonorización de los conjuntos coda-inicio: los conjuntos de consonantes coda-inicio pueden o no estar de acuerdo con respecto a la sonoridad: **tekno** (tecnología) en comparación con **magneto** (imán), **epilepsi** (epilepsia) en comparación con **absorbi** (absorber), etc.
-
-Conjunto de oclusivas coda-inicio: Los conjuntos de consonantes que constan de dos oclusivas (-kt-, -pt-, etc.) no están permitidos en palabras ordinarias. En lugar de ello, las palabras ordinarias siguen el modelo italiano o portugués en el que se omite la primera consonante. Es decir, si una sílaba comienza con oclusiva, la sílaba anterior no puede tener otra oclusiva en su coda: **astrato** (abstracto/-a), **ativo** (activo/-a), **otima** (óptimo/-a), etc. .
-
-### Advertencias con _w_ e _y_
-
-Núcleo-coda: Cuando la _w_ o la _y_ se encuentran en la coda, ni la _i_ ni la _u_ están permitidas en el núcleo. Como resultado, las siguientes combinaciones de coda-núcleo con _-w/-y_ **no** están permitidas: -iy, -iw, -uy, -uw. Todas las demás combinaciones de núcleo-coda con _-w/-y_ sí están permitidas: -aw, -ew, -ow, -ay, -ey, -oy.
-
-Núcleo-inicio: Las combinaciones de núcleo-inicio _iy_ y _uw_ no están permitidas en palabras ordinarias. Por ejemplo, **syahe** (_negro/-a_) en lugar de **_siyahe_**.
-
-Inicio-núcleo: Las combinaciones de inicio-núcleo _wu_ y _yi_ tampoco están permitidas en palabras ordinarias.
-
-## Fonotáctica para nombres propios
-
-Los nombres propios siguen reglas fonotácticas más flexibles. La estructura de sílabas de dichas palabras es la siguiente: (C)(C)V(C)(C).
-
-### Inicio
-
-Consulte las reglas fonotácticas para palabras ordinarias.
+bl-, fl-, gl-, kl-, pl-, vl-  
+br-, dr-, fr-, gr-, kr-, pr-, tr-, vr-  
+bw-, cw-, dw-, fw-, gw-, hw-, jw-, kw-, lw-, mw-, nw-, pw-, rw-, sw-, tw-, vw-, xw-, zw-  
+by-, cy-, dy-, fy-, gy-, hy-, jy-, ky-, ly-, my-, ny-, py-, ry-, sy-, ty-, vy-, xy-, zy-
 
 ### Núcleo
 
-Consulte las reglas fonotácticas para palabras ordinarias.
+Todas las sílabas tienen un núcleo. En Globasa, el núcleo consta de cualquier vocal simple: a, e, i, o, u.
 
 ### Coda
 
-La coda en nombres propios puede terminar en cualquier consonante: **Madrid** (Madrid), etc. También pueden constar de hasta dos consonantes, incluso en la posición final de palabra: **Polska** (Polonia), **Budapest** (Budapest), etc.
+Las sílabas pueden tener o no una coda. En Globasa, la coda de las palabras ordinarias consta de _cualquier_ consonante simple. No obstante, se aplican las siguientes salvedades:
 
-Las oclusivas dobles (coda-inicio) están permitidas en nombres propios.
+Posición final de palabra: las palabras ordinarias en Globasa solo permiten las siguientes consonantes en posición final de palabra: -f, -l, -m, -n, -r, -s, -w, -x, -y.
 
-### Advertencia con _w_ e _y_
+Sonoridad coda-ataque: los grupos consonánticos coda-ataque pueden coincidir o no en cuanto a la sonoridad: **tekno** (tecnología) frente a **magneto** (imán), **epilepsi** (epilepsia) frente a **absorbi** (absorber), etc.
 
-La advertencia de núcleo-coda para palabras ordinarias también se aplica a nombres propios y a palabras específicas a una cultura. Cuando la _w_ o la _y_ están en la coda, ni la _i_ ni la _u_ están permitidas en el núcleo. Como resultado, las siguientes combinaciones de coda-núcleo con _-w/-y_ **no** están permitidas: -iy, -iw, -uy, -uw. Todas las demás combinaciones de núcleo-coda con _-w/-y_ están permitidas: -aw, -ew, -ow, -ay, -ey, -oy.
+Oclusivas coda-ataque: los grupos consonánticos formados por dos oclusivas (-kt-, -pt-, etc.) no se permiten en las palabras ordinarias. En su lugar, las palabras ordinarias siguen el modelo italiano y portugués, que omite la primera consonante. En otras palabras, si una sílaba empieza por una oclusiva, la sílaba anterior no puede tener una oclusiva en la coda: **ativo** (activo), **otima** (óptimo), etc.
 
-Sin embargo, a diferencia de las palabras ordinarias, los nombres propios sí permiten las combinaciones de núcleo-inicio _iy_ y _uw_ (**Kuweyti** - Kuwait, etc.) y las combinaciones de inicio-núcleo _wu_ y _yi_ (**Wuhan** - Wuhan, etc.).
+### Salvedades con w e y
 
-## Fonotáctica para palabras específicas a una cultura
+Núcleo-coda: cuando _w_ o _y_ están en la coda, no se permite ni _i_ ni _u_ en el núcleo. Por lo tanto, las siguientes combinaciones núcleo-coda con -w e -y **no** se permiten: -iy, -iw, -uy, -uw. Todas las demás combinaciones núcleo-coda con -w e -y sí se permiten: -aw, -ew, -ow, -ay, -ey, -oy.
 
-La fonotáctica para palabras específicas a cultura sigue las reglas para palabras ordinarias en posición final de palabra y las reglas para nombres propios en el resto de la palabra: **teriyaki** (teriyaki), **koktel** (coctel), **bakgamon** (backgammon), **blakjaku** (blackjack, veintiuno), **jazu** (jazz), **vodka** (vodka), **futbal** (futbol americano), etc.
+Núcleo-ataque: las combinaciones núcleo-ataque _iy_ y _uw_ no se permiten en las palabras ordinarias. Por ejemplo, **syahe** (_negro_) en lugar de **_siyahe_**.
 
-Nota: El grupo de consonantes **-ng** en la posición _final de palabra_, incluso como se ve en el Pinyin, agrega una vocal epentética, en lugar de reducirse a **-n** como se ve en las palabras ordinarias: **yinyangu** (yin y yang).
+Ataque-núcleo: las combinaciones ataque-núcleo _wu_ y _yi_ tampoco se permiten en las palabras ordinarias.
+
+## Fonotáctica de los nombres propios
+
+Los nombres propios tienen reglas fonotácticas más laxas.
+
+La estructura silábica de los nombres propios del Globasa es la siguiente: (C)(C)V(C)(C)
+
+### Ataque
+
+Véanse las reglas fonotácticas de las palabras ordinarias más arriba.
+
+### Núcleo
+
+Véanse las reglas fonotácticas de las palabras ordinarias más arriba.
+
+### Coda
+
+La coda de los nombres propios puede terminar en cualquier consonante: **Madrid** (Madrid), etc. También puede constar de hasta dos consonantes, incluso en posición final de palabra: **Polska** (Polonia), **Budapest** (Budapest), etc. En los nombres propios se permiten las oclusivas dobles coda-ataque.
+
+### Salvedad con w e y
+
+La salvedad núcleo-coda de las palabras ordinarias también se aplica a los nombres propios. Cuando _w_ o _y_ están en la coda, no se permite ni _i_ ni _u_ en el núcleo. Por lo tanto, las siguientes combinaciones núcleo-coda con -w e -y **no** se permiten: -iy, -iw, -uy, -uw. Todas las demás combinaciones núcleo-coda con -w e -y sí se permiten: -aw, -ew, -ow, -ay, -ey, -oy.
+
+Sin embargo, a diferencia de las palabras ordinarias, los nombres propios sí permiten las combinaciones núcleo-ataque _iy_ y _uw_ (**Kuweyti** - Kuwait, etc.) y las combinaciones ataque-núcleo _wu_ y _yi_ (**Wuhan** - Wuhan, etc.).
+
+## Fonotáctica de las palabras específicas de una cultura
+
+La fonotáctica de las palabras específicas de una cultura sigue las reglas de las palabras ordinarias en posición final de palabra y las reglas de los nombres propios en las demás posiciones: **teriyaki** (teriyaki), **koktel** (cóctel), **bakgamon** (backgammon), **blakjaku** (blackjack), **jazu** (jazz), **vodka** (vodka), **futbal** (fútbol americano), etc.
+
+Nota: el grupo consonántico **-ng** en posición _final de palabra_, incluido el que aparece en el pinyin, añade una vocal epentética, en lugar de reducirse a **-n** como ocurre en las palabras ordinarias: **yinyangu** (yin-yang).

@@ -1,7 +1,9 @@
 ---
 title: Gramatiko
-media_order: 'ENG_Kompleto Gramati fe Globasa_mesi 3 nyan 2026.pdf,SPA_Kompleto Gramati fe Globasa_mesi 3 nyan 2026.pdf'
+media_order: 'SPA_Kompleto Gramati fe Globasa_mesi 3 nyan 2026.pdf, ENG_KompletoGramati_mesi7_nyan2026.pdf, EPO_KompletoGramati_mesi8_nyan2026.pdf'
 ---
+
+Elŝutu la PDF-dokumenton de la [Kompleta Gramatiko de Globaso](EPO_KompletoGramati_mesi8_nyan2026.pdf).
 
 Kompleta Gramatiko de Globaso:
 
