@@ -155,7 +155,7 @@ The possessive pronouns are derived from the possessive adjectives by adding the
 
 ### Third-Person Pronouns at End of Noun Phrases
 
-As seen under Correlatives, third-person pronouns (**te**/**to** and **ete**/**oto**) are used for correlative pronouns since determiners (**ke**, **hin**, **den**, etc.) must always be followed by a (pro)noun.  See [Noun Phrases](/gramati/jumlemonli-estrutur#pronamelexi_in_namelexili_jumlemon).
+As seen under [Correlatives](/gramati/tabellexi), third-person pronouns (**te**/**to** and **ete**/**oto**) are used for correlative pronouns since determiners (**ke**, **hin**, **den**, etc.) must always be followed by a (pro)noun.  See [Noun Phrases](/gramati/jumlemonli-estrutur#pronamelexi_in_namelexili_jumlemon).
 
 Similarly, **(e)te**/**(o)to** are used at the end of noun phrases when the noun is understood. 
 

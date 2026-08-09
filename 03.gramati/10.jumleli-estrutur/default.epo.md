@@ -143,7 +143,7 @@ Mi devas labori.
 **Mi no abil na danse.**  
 Mi ne povas danci.
 
-**Gitara sen asan na soti.**   
+**Gitara sen asan na sotigi.**   
 La gitaro estas facile ludebla.
 
 **Mi sen jumbi na idi.**   
@@ -170,10 +170,10 @@ _aŭ_
 **To sen problema na sen nensabar.**   
 Estas problemo esti senpacienca.
 
-**Na soti gitara sen asan.**    
+**Na sotigi gitara sen asan.**    
 Ludi la gitaron estas facile. _aŭ_ Ludado de la gitaro estas facila.    
 _aŭ_   
-**To sen asan na soti gitara.**    
+**To sen asan na sotigi gitara.**    
 Estas facile ludi la gitaron.
 
 **Na suyon in bahari sen amusane.**    

@@ -143,7 +143,7 @@ I must work. _or_ I have to work.
 **Mi no abil na danse.**  
 I cannot dance.
 
-**Gitara sen asan na soti.**   
+**Gitara sen asan na sotigi.**   
 The guitar is easy to play.
 
 **Mi sen jumbi na idi.**   
@@ -170,10 +170,10 @@ _or_
 **To sen problema na sen nensabar.**   
 It is a problem to be impatient.
 
-**Na soti gitara sen asan.**    
+**Na sotigi gitara sen asan.**    
 To play the guitar is easy. _or_ Playing the guitar is easy.    
 _or_   
-**To sen asan na soti gitara.**    
+**To sen asan na sotigi gitara.**    
 It is easy to play the guitar.
 
 **Na suyon in bahari sen amusane.**    

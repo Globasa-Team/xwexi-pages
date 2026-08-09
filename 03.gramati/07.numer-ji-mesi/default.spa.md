@@ -46,26 +46,26 @@ visible: true
 800 - **ococen**  
 900 - **nuecen**
 
-1,000 - **kilo**  
-2,000 - **dua kilo**  
-3,000 - **tiga kilo**  
-4,000 - **care kilo**  
-5,000 - **lima kilo**  
-6,000 - **sisa kilo**  
-7,000 - **sabe kilo**  
-8,000 - **oco kilo**  
-9,000 - **nue kilo**
+1.000 - **kilo**  
+2.000 - **dua kilo**  
+3.000 - **tiga kilo**  
+4.000 - **care kilo**  
+5.000 - **lima kilo**  
+6.000 - **sisa kilo**  
+7.000 - **sabe kilo**  
+8.000 - **oco kilo**  
+9.000 - **nue kilo**
 
-1 x 10^6 (1.000.000) - **mega**  
-1 X 10^9 (1.000.000.000) - **giga**   
-1 X 10^12 (1.000.000.000.000) - **tera**  
+1 × 10^6 (1.000.000) - **mega**  
+1 × 10^9 (1.000.000.000) - **giga**   
+1 × 10^12 (1.000.000.000.000) - **tera**  
 
-Números más grandes pueden expresarse combinando **kilo**, **mega**, **giga** y **tera**.
+Los números mayores pueden expresarse combinando **kilo**, **mega**, **giga** y **tera**.
 
-1 x 10^15 - **kilo tera**    
-1 x 10^18 - **mega tera**  
-1 x 10^21 - **giga tera**  
-1 x 10^24 - **tera tera**  
+1 × 10^15 - **kilo tera**    
+1 × 10^18 - **mega tera**  
+1 × 10^21 - **giga tera**  
+1 × 10^24 - **tera tera**  
 
 ## Números ordinales
 
@@ -83,13 +83,13 @@ undécimo (11.º) - **desunyum** (11yum), etc.
 
 ## Colectivos
 
-**unyen, unxey** - solista, uno solo  
-**duayen, duaxey** - dúo, pareja, par  
+**unyen, unxey** - solo, individual  
+**duayen, duaxey** - dúo, pareja  
 **tigayen, tigaxey** - trío, etc.
 
 ## Números fraccionarios
 
-Los números fraccionarios derivados son sustantivos y se componen de dos palabras, el numerador seguido del denominador con el prefijo **of-**.
+Los números fraccionarios derivados son sustantivos y se componen de dos palabras: el numerador seguido del denominador con el prefijo **of-**.
 
 1/2 (un medio) - **un ofdua**  
 1/3 (un tercio) - **un oftiga**  
@@ -100,52 +100,52 @@ Los números fraccionarios derivados son sustantivos y se componen de dos palabr
 1/8 (un octavo) - **un ofoco**  
 1/9 (un noveno) - **un ofnue**  
 1/10 (un décimo) - **un ofdes**  
-1/11 (un undécimo) - **un ofdesun**, etc.
+1/11 (un onceavo) - **un ofdesun**, etc.
 
-Globasa también utiliza los siguientes números métricos fraccionarios. 
+El Globasa también usa los siguientes números métricos fraccionarios. 
 
-1 X 10^-1 (un 10.º de): **deci** (**un ofdes fe**)   
-1 X 10^-2 (un 100.º de): **centi** (**un ofcen fe**)    
-1 X 10^-3 (un 1.000.º de): **mili** (**un ofkilo fe**)    
-1 X 10^-6 (un 1.000.000.º de): **mikro** (**un ofmega fe**)  
-1 X 10^-9 (un 1.000.000.000.º de): **nano** (**un ofgiga fe**)  
-1 X 10^-12 (un 1.000.000.000.000.º de): **piko** (**un oftera fe**)
+1 × 10^-1 (una décima parte de): **deci** (**un ofdes fe**)   
+1 × 10^-2 (una centésima parte de): **centi** (**un ofcen fe**)    
+1 × 10^-3 (una milésima parte de): **mili** (**un ofkilo fe**)    
+1 × 10^-6 (una millonésima parte de): **mikro** (**un ofmega fe**)  
+1 × 10^-9 (una milmillonésima parte de): **nano** (**un ofgiga fe**)  
+1 × 10^-12 (una billonésima parte de): **piko** (**un oftera fe**)
 
-## Sistema métrico
+## Medidas métricas
 
-Las palabras del sistema métrico utilizan números enteros y fraccionarios como prefijos.
+Las palabras para las medidas métricas usan como prefijos los numerales enteros y fraccionarios.
 
 **metro** - metro  
 **desmetro** - decámetro    
 **cenmetro** - hectómetro    
 **kilometro** - kilómetro  
 
-**decimetro** - decímetro   
+**decimetro** - decímetro    
 **centimetro** - centímetro    
 **milimetro** - milímetro   
 
 **gramo** - gramo  
 **kilogramo** - kilogramo    
-**miligramo** - miligramo 
+**miligramo** - miligramo  
 
 **litro** - litro  
 **mililitro** - mililitro  
 
 ## Números multiplicativos
 
-**unple** - singular  
+**unple** - simple  
 **duaple** - doble  
 **tigaple** - triple  
 **careple** - cuádruple  
 **limaple** - quíntuple  
 **sisaple** - séxtuple, etc.
 
-## Meses del año
+## Meses
 
 **mesi 1 (mesi un)** - enero  
 **mesi 2 (mesi dua)** - febrero  
-**mesi 3 (mesi tiga)** - marzo    
-**mesi 4 (mesi care)** - abril    
+**mesi 3 (mesi tiga)** - marzo  
+**mesi 4 (mesi care)** - abril  
 **mesi 5 (mesi lima)** - mayo  
 **mesi 6 (mesi sisa)** - junio  
 **mesi 7 (mesi sabe)** - julio  

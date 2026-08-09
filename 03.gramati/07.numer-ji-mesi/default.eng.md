@@ -140,7 +140,7 @@ Words for metric measurements use whole number and fractional numerals as prefix
 **limaple** - quintuple  
 **sisaple** - sextuple, etc.
 
-## Months of the Year
+## Months
 
 **mesi 1 (mesi un)** - January  
 **mesi 2 (mesi dua)** - February  

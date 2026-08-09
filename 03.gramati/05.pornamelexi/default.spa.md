@@ -3,9 +3,9 @@ title: Pronombres
 visible: true
 ---
 
-## Pronombres subjeto/objeto
+## Pronombres de sujeto y objeto
 
-Los pronombres sujeto/objeto de Globasa son los siguientes:
+Los pronombres de sujeto y objeto del Globasa son los siguientes:
 
 <table style="width:100%">
   <tbody><tr>
@@ -14,51 +14,51 @@ Los pronombres sujeto/objeto de Globasa son los siguientes:
     <th><b><i>plural</i></b></th>
   </tr>
   <tr>
-    <th><b><i>1ra persona</i></b></th>
-    <td><b>mi</b> - yo, me, mí</td>
-    <td><b>imi</b> - nosotros, nos</td>
+    <th><b><i>1ª persona</i></b></th>
+    <td><b>mi</b> - yo, me</td>
+    <td><b>imi</b> - nosotros/-as, nos</td>
   </tr>
   <tr>
-    <th><b><i>2da persona</i></b></th>
-    <td><b>yu</b> - tú, te, ti; usted</td>
-    <td><b>uyu</b> - vosotros, os; ustedes</td>
+    <th><b><i>2ª persona</i></b></th>
+    <td><b>yu</b> - tú, usted</td>
+    <td><b>uyu</b> - ustedes, vosotros/-as</td>
   </tr>
   <tr>
-  <th><b><i>3ra persona<br>(animada)</i></b></th>
-    <td><b>te</b> - él, lo, ella, la, le</td>
-    <td><b>ete</b> - ellos, los, ellas, las, les</td>
+  <th><b><i>3ª persona<br>animada</i></b></th>
+    <td><b>te</b> - él, ella</td>
+    <td><b>ete</b> - ellos, ellas</td>
   </tr>
   <tr>
-  <th><b><i>3rd person<br>(inanimada)</i></b></th>
-    <td><b>to</b> - eso, ello</td>
-    <td><b>oto</b> - ellos/esos, los, ellas/esas, las</td>
+  <th><b><i>3ª persona<br>inanimada</i></b></th>
+    <td><b>to</b> - ello</td>
+    <td><b>oto</b> - ellos, ellas</td>
   </tr>
   <tr>
   </tr>
   <tr>
-  <td colspan="3"><b>ren</b> - uno</td>
+  <td colspan="3"><b>ren</b> - uno, se</td>
   </tr>
   <tr>
-  <td colspan="3"><b>se</b> - ‘pronombre reflexivo’ (yo mismo, tú mismo, él mismo, ella misma, nosotros mismos, ellos mismos)
+  <td colspan="3"><b>se</b> - 'pronombre reflexivo' (me, te, se, nos, os)
 </td>
   </tr>
   <tr>
-  <td colspan="3"><b>da</b> - 'pronombre relativo' (él/ello/ellos, ella/ellas, eso/esos, esa/esas)</td>
+  <td colspan="3"><b>da</b> - 'pronombre relativo' (que, quien, el cual)</td>
   </tr>
 </tbody></table>
 
-Los adjetivos de género neutro **te** y **ete** se utilizan para todas los seres vivientes y objetos personificados. Si es necesario acentuar el género, pueden utilizarse como prefijos los adjetivos **fem** y **man**, que también se emplean para sustantivos.
+Los pronombres neutros en cuanto al género **te** y **ete** se usan para todos los seres vivos y los objetos personificados. Si es necesario enfatizar el género, los adjetivos **fem** y **man**, usados también para sustantivos, pueden usarse como prefijos.
 
 * **femte** - ella
 * **mante** - él
-* **femete**/**manete** - ellas / ellos
+* **femete**/**manete** - ellas/ellos
 
-### he
+### Partícula _he_
 
-La partícula **he** se usa con pronombres personales para expresar énfasis.
+La partícula **he** se usa con los pronombres de sujeto para expresar énfasis.
 
-**he mi** - yo mismo  
-**he yu** - tú mismo  
+**he mi** - yo mismo/-a  
+**he yu** - tú mismo/-a  
 etc.
 
 ## Adjetivos posesivos <a id="suyali_sifalexi"></a>
@@ -72,49 +72,49 @@ Los adjetivos posesivos se derivan de los pronombres añadiendo el sufijo **-su*
     <th><b><i>plural</i></b></th>
   </tr>
   <tr>
-    <th><b><i>1ra persona</i></b></th>
-    <td><b>misu</b> - mi/mis</td>
-    <td><b>imisu</b> - nuestro/-a/-os/-as</td>
+    <th><b><i>1ª persona</i></b></th>
+    <td><b>misu</b> - mi</td>
+    <td><b>imisu</b> - nuestro/-a</td>
   </tr>
   <tr>
-    <th><b><i>2da persona</i></b></th>
-    <td><b>yusu</b> - tu/tus</td>
-    <td><b>uyusu</b> - vuestro, su (de ustedes)</td>
+    <th><b><i>2ª persona</i></b></th>
+    <td><b>yusu</b> - tu, su</td>
+    <td><b>uyusu</b> - vuestro/-a, su</td>
   </tr>
   <tr>
-  <th><b><i>3ra persona<br>animada</i></b></th>
+  <th><b><i>3ª persona<br>animada</i></b></th>
     <td><b>tesu</b> - su (de él/ella)</td>
     <td><b>etesu</b> - su (de ellos/ellas)</td>
   </tr>
   <tr>
-  <th><b><i>3ra persona<br>inanimada</i></b></th>
-    <td><b>tosu</b> - su (de ello)</td>
-    <td><b>otosu</b> - su (de ellos)</td>
+  <th><b><i>3ª persona<br>inanimada</i></b></th>
+    <td><b>tosu</b> - su</td>
+    <td><b>otosu</b> - su</td>
   </tr>
   <tr>
   </tr>
   <tr>
-  <td colspan="3"><b>rensu</b> - de uno</td>
+  <td colspan="3"><b>rensu</b> - de uno, su</td>
   </tr>
   <tr>
-  <td colspan="3"><b>sesu</b> - mi propio, tu propio, su propio, nuestro propio, vuestro propio
+  <td colspan="3"><b>sesu</b> - mi/tu/su/nuestro propio
 </td>
   </tr>
       <tr>
-  <td colspan="3"><b>dasu</b> - (cláusulas relativas) su (de él, de ella, de ellos, etc.)
+  <td colspan="3"><b>dasu</b> - (oraciones de relativo) cuyo/-a
 </td>
   </tr>
 </tbody></table>
 
-Como en el caso de los pronombres, los adjetivos posesivos **tesu** y **etesu**, de género neutro, se utilizan normalmente para todos los seres animados en tercera persona. Si es necesario enfatizar el género, pueden utilizarse los prefijos **fem** y **man**.
+Al igual que con los pronombres, los adjetivos posesivos neutros en cuanto al género **tesu** y **etesu** se usan normalmente para todos los seres animados de tercera persona. Si es necesario enfatizar el género, pueden usarse los prefijos **fem** y **man**.
 
 * **femtesu** - su (de ella)
 * **mantesu** - su (de él)
-* **femetesu**/**manetesu** - su (de ellas / de ellos)
+* **femetesu**/**manetesu** - su (de ellas/de ellos)
 
 ## Pronombres posesivos
 
-Los pronombres posesivos se derivan de los adjetivos posesivos añadiendo los pronombres **(e)te** o **(o)to**:
+Los pronombres posesivos se derivan de los adjetivos posesivos añadiendo el pronombre **(e)te** o **(o)to**:
 
 <table style="width:100%">
   <tbody><tr>
@@ -123,50 +123,50 @@ Los pronombres posesivos se derivan de los adjetivos posesivos añadiendo los pr
     <th><b><i>plural</i></b></th>
   </tr>
   <tr>
-    <th><b><i>1ra persona</i></b></th>
-    <td><b>misu te/to</b> - mío/-a</td>
-    <td><b>imisu te/to</b> - nuestro/-a</td>
+    <th><b><i>1ª persona</i></b></th>
+    <td><b>misu te/to</b> - (el) mío, (la) mía</td>
+    <td><b>imisu te/to</b> - (el) nuestro, (la) nuestra</td>
   </tr>
   <tr>
-    <th><b><i>2da persona</i></b></th>
-    <td><b>yusu te/to</b> - tuyo/-a</td>
-    <td><b>uyusu te/to</b> - vuestro/-a</td>
+    <th><b><i>2ª persona</i></b></th>
+    <td><b>yusu te/to</b> - (el) tuyo, (la) tuya; (el) suyo</td>
+    <td><b>uyusu te/to</b> - (el) vuestro, (la) vuestra; (el) suyo</td>
   </tr>
   <tr>
-  <th><b><i>3ra persona<br>animada</i></b></th>
-    <td><b>tesu te/to</b> - suyo/-a (de él, de ella)</td>
-    <td><b>etesu te/to</b> - suyo/-a (de ellos)</td>
+  <th><b><i>3ª persona<br>animada</i></b></th>
+    <td><b>tesu te/to</b> - (el) suyo, (la) suya</td>
+    <td><b>etesu te/to</b> - (el) suyo, (la) suya</td>
   </tr>
   <tr>
-  <th><b><i>3ra persona<br>inanimada</i></b></th>
-    <td><b>tosu te/to</b> - suyo/-a (de ello)</td>
-    <td><b>otosu te/to</b> - suyo/-a (de ellos)</td>
+  <th><b><i>3ª persona<br>inanimada</i></b></th>
+    <td><b>tosu te/to</b> - (el) suyo, (la) suya</td>
+    <td><b>otosu te/to</b> - (el) suyo, (la) suya</td>
   </tr>
   <tr>
   </tr>
   <tr>
-  <td colspan="3"><b>rensu te/to</b> - propio de uno</td>
+  <td colspan="3"><b>rensu te/to</b> - (el) de uno, (el) suyo</td>
   </tr>
   <tr>
-  <td colspan="3"><b>sesu te/to</b> - suyo propio, etc.
+  <td colspan="3"><b>sesu te/to</b> - (el) mío/tuyo/suyo/nuestro propio
 </td>
   </tr>
 </tbody></table>
 
-### Pronombres de tercera persona al final de sintagmas nominales
+### Pronombres de tercera persona al final de las frases nominales
 
-Como se ha visto en Correlativos, los pronombres de tercera persona (**te**/**to** y **ete**/**oto**) se utilizan para los pronombres correlativos, ya que los determinantes (**ke**, **hin**, **den**, etc.) deben ir siempre seguidos de un sustantivo or pronombre.  Véase [Sintagmas nominales](/gramati/jumlemonli-estrutur#pronamelexi_in_namelexili_jumlemon).
+Como se ve en [Correlativos](/gramati/tabellexi), los pronombres de tercera persona (**te**/**to** y **ete**/**oto**) se usan para los pronombres correlativos, ya que a los determinantes (**ke**, **hin**, **den**, etc.) siempre les debe seguir un (pro)nombre. Véase [Frases nominales](/gramati/jumlemonli-estrutur#pronamelexi_in_namelexili_jumlemon).
 
-Del mismo modo, **(e)te**/**(o)to** se utilizan al final de los sintagmas nominales cuando el sustantivo es implícito. 
+De manera similar, **(e)te**/**(o)to** se usan al final de las frases nominales cuando el sustantivo se sobreentiende.
 
-_Una razón para esta regla, como se ilustra a continuación, es que como los sustantivos y los verbos tienen la misma forma en Globasa, dejar un determinante o un adjetivo sin un sustantivo o pronombre puede ser potencialmente confundido como modificación del sustantivo/verbo que le sigue inmediatamente._
+_Una razón de esta regla, como se ilustra más abajo, es que, dado que los sustantivos y los verbos tienen la misma forma en Globasa, dejar un determinante o un adjetivo sin un (pro)nombre podría interpretarse erróneamente como modificador del sustantivo/verbo que le sigue inmediatamente._
 
 **Multi _te_ pala sol in Englisa.**  
-Muchos (_mucha gente_) hablan solamente (en) inglés.
+Muchas (_personas_) hablan solo (en) inglés.
 
-_Otra razón, como se ilustra a continuación, es que Globasa no utiliza artículos. Por lo tanto, mientras que el español puede usar adjetivos como sustantivos, Globasa no puede._
+_Otra razón, como se ilustra más abajo, es que el Globasa no usa artículos. Así, mientras que el español puede usar adjetivos como sustantivos, el Globasa no puede._
 
 **bon _te_, bur _te_ ji colo _te_**  
 el bueno, el malo y el feo
 
-Obsérvese también que, aunque **te** y **to** son pronombres singulares, pueden utilizarse opcionalmente con palabras que denotan pluralidad, como **max**, **min**, **multi**, **xosu**.  
+Observa también que, aunque **te** y **to** son pronombres singulares, pueden usarse opcionalmente con palabras que denotan pluralidad, como **max**, **min**, **multi**, **xosu**.

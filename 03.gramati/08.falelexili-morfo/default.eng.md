@@ -47,7 +47,7 @@ Etymology of **dure**: English, French, German, Spanish_
 
 The simple past tenses are expressed using the particle **le**.
 
-_Etymology of **le**: Mandarin  (了 “le”), Swahili (-li-), Russian (-л “-l”)_
+_Etymology of **le**: Mandarin (了 “le”), Swahili (-li-), Russian (-л “-l”)_
 
 | Simple Past Tenses
 |

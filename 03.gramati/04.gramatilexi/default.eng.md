@@ -12,12 +12,12 @@ visible: true
 * **[nor](https://menalari.globasa.net/eng/lexi/nor)** - nor
  * **[noro](https://menalari.globasa.net/eng/lexi/noro)... nor...** - neither... nor...
 * **[kam](https://menalari.globasa.net/eng/lexi/kam)** - yes/no question particle
- * **[ku kam](https://menalari.globasa.net/eng/lexi/ku_kam)** - (introduces indirect question) whether, if
- * **[kama](https://menalari.globasa.net/eng/lexi/kama)... kam...** - (introduces alternate possibility) whether... or (whether)...
+ * **[ku kam](https://menalari.globasa.net/eng/lexi/ku_kam)** - (_introduces indirect question_) whether, if
+ * **[kama](https://menalari.globasa.net/eng/lexi/kama)... kam...** - (_introduces alternate possibility_) whether... or (whether)...
 * **[mas](https://menalari.globasa.net/eng/lexi/mas)** - but
 * **[eger](https://menalari.globasa.net/eng/lexi/eger)** - if
 * **[kwas](https://menalari.globasa.net/eng/lexi/kwas)** - as if [**kwasi** - seeming(ly)]
-* **[ki](https://menalari.globasa.net/eng/lexi/ki)** - that (clause conjunction)
+* **[ki](https://menalari.globasa.net/eng/lexi/ki)** - that (_clause conjunction_)
 
 ## Fe <a id="plasilexi_fe"></a>
 

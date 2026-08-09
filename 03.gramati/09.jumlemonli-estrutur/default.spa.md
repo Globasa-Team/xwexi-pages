@@ -5,225 +5,225 @@ visible: true
 
 ## Orden estricto de palabras
 
-En Globasa, se aplica un orden de palabras relativamente estricto para los sintagmas.
+En Globasa, dentro de las frases se aplica un orden de palabras relativamente estricto.
 
-## Sintagmas nominales <a id="namelexili_jumlemon"></a>
+## Frases nominales <a id="namelexili_jumlemon"></a>
 
-Los sintagmas nominales constan de la siguiente estructura, como se ilustra en la siguiente tabla:
+Las frases nominales tienen la siguiente estructura, como se ilustra en la tabla siguiente:
 
-(Especificador) + (Complemento) + Cabeza
+(Especificador) + (Complemento) + Núcleo
 
-<table style="ancho:100%">
-<tbody>
-<tr>
-<td colspan="6"><b>Sintagma nominal</b></td>
-</tr>
-<tr>
-<th colspan="3">(Especificador)</th>
-<th colspan="2">(Complemento)</th>
-<th>Cabeza</th>
-</tr>
-<tr>
-<td><b>Determinante</b></td>
-<td><b>Adjetivo posesivo</b></td>
-<td><b>Cuantificador</b></td>
-<td><b>Adverbio<br>
-Modificador de adj/advs</b></td>
-<td><b>Adjetivo(s)</b></td>
-<td><b>Sustantivo o Pronombre</b></td>
-</tr>
-<tr>
-<td><b>ke</b> - qué<br>
-<b>hin</b> - este/-a<br>
-<b>den</b> - ese/-a<br>
-<b>ban</b> - algún(os/-as)<br>
-<b>moy</b> - cada, todos<br>
-<b>nil</b> - ningún<br>
-<b>alo</b> - otro<br></td>
-<td><b>misu</b> - mi(s)<br>
-<b>yusu</b> - tu(s)<br>
-<b>tesu</b> - su(s)<br>
-etc.</td>
-<td><b>multi</b> - muchos/-as<br>
-<b>xosu</b> - pocos/-as,<br>
-<b>total</b> - entero-/a, todo/-a,<br>
-<b>plu</b> - múltiple<br>
-(cualquier número)<br>
-etc.</td>
-<td><b>daymo</b> - muy<br>
-<b>godomo</b> - demasiado<br>
-etc.</td>
-<td><b>meli</b> - bello/-a<br>
-<b>blue</b> - azul<br>
-<b>lil</b> - pequeño/-a<br>
-etc.</td>
-<td><b>matre</b> - madre<br>
-<b>doste</b> - amigo<br>
-<b>sodar</b> - hermano/-a<br>
-<b>drevo</b> - árbol<br>
-<b>to</b> - ello<br>
-etc.</td>
-</tr>
-<tr>
-<td><b>hin</b><br>
-estos</td>
-<td><b>misu</b><br>
-mi</td>
-<td><b>care</b><br>
-cuatro</td>
-<td><b>daymo</b><br>
-muy</td>
-<td><b>lama</b><br>
-viejo</td>
-<td><b>kitabu</b><br>
-libros</td>
-</tr>
-<tr>
-<td colspan="6" style="font-size:125%;"><b>hin misu care daymo lama kitabu</b><br>
-estos cuatro libros míos muy viejos</td>
-</tr>
-</tbody>
+<table style="width:100%">
+		<tbody>
+			<tr>
+				<td colspan="6"><b>Frase nominal</b></td>
+			</tr>
+			<tr>
+				<th colspan="3">(Especificador)</th>
+				<th colspan="2">(Complemento)</th>
+				<th>Núcleo</th>
+			</tr>
+			<tr>
+				<td><b>Determinante</b></td>
+				<td><b>Adj. posesivo</b></td>
+				<td><b>Cuantificador</b></td>
+				<td><b>Adverbio que<br>
+				modifica adj/adv</b></td>
+				<td><b>Adjetivo(s)</b></td>
+				<td><b>Sustantivo o pronombre</b></td>
+			</tr>
+			<tr>
+				<td><b>ke</b> - cuál<br>
+				<b>hin</b> - este<br>
+				<b>den</b> - ese<br>
+				<b>ban</b> - algún<br>
+				<b>moy</b> - cada<br>
+				<b>nil</b> - ningún<br>
+				<b>alo</b> - otro<br></td>
+				<td><b>misu</b> - mi<br>
+				<b>yusu</b> - tu<br>
+				<b>tesu</b> - su (de ella/él)<br>
+				etc.</td>
+				<td><b>multi</b> - muchos<br>
+				<b>xosu</b> - pocos,<br>
+				<b>total</b> - entero,<br>
+				<b>plu</b> - múltiple<br>
+				(cualquier número)<br>
+				etc.</td>
+				<td><b>daymo</b> - muy<br>
+				<b>godomo</b> - demasiado<br>
+				etc.</td>
+				<td><b>meli</b> - bello<br>
+				<b>blue</b> - azul<br>
+				<b>lil</b> - pequeño<br>
+				etc.</td>
+				<td><b>matre</b> - madre<br>
+				<b>doste</b> - amigo<br>
+				<b>sodar</b> - hermano/a<br>
+				<b>drevo</b> - árbol<br>
+				<b>to</b> - ello<br>
+				etc.</td>
+			</tr>
+			<tr>
+				<td><b>hin</b><br>
+				este</td>
+				<td><b>misu</b><br>
+				mi</td>
+				<td><b>care</b><br>
+				cuatro</td>
+				<td><b>daymo</b><br>
+				muy</td>
+				<td><b>lama</b><br>
+				viejo</td>
+				<td><b>kitabu</b><br>
+				libros</td>
+			</tr>
+			<tr>
+				<td colspan="6" style="font-size:125%;"><b>hin misu care daymo lama kitabu</b><br>
+				estos cuatro libros muy viejos míos</td>
+			</tr>
+		</tbody>
 </table>
 
-Dado que los especificadores y los complementos son opcionales, un sintagma nominal puede constar de un solo sustantivo, por ejemplo, **kitabu**.
+Dado que los especificadores y los complementos son opcionales, una frase nominal puede constar de un solo sustantivo, por ejemplo, **kitabu**.
 
-### Pronombres en tercera persona al final de frases nominales <a id="pronamelexi_in_namelexili_jumlemon"></a>
+### Pronombres de tercera persona al final de las frases nominales <a id="pronamelexi_in_namelexili_jumlemon"></a>
 
-Las frases nominales siempre deben terminar en un sustantivo o en un pronombre. Cada vez que se omite un sustantivo implícito, un pronombre debe reemplazarlo, en lugar de dejar un especificador o un complemento colgando. Sin el uso de pronombres para completar frases nominales, dichas frases tendrían significados diferentes o crearían oraciones incompletas y, por lo tanto, agramaticales.
+Las frases nominales siempre deben terminar en un sustantivo o en un pronombre. Cuando un sustantivo se sobreentiende y se omite, un pronombre debe reemplazarlo, en lugar de dejar colgando un especificador o un complemento. Sin el uso de pronombres para completar las frases nominales, tales frases tendrían un significado distinto o crearían oraciones incompletas y, por tanto, agramaticales.
 
-### Determinante + Pronombre = Frase nominal completa
+### Determinante + pronombre = frase nominal completa
 
 **_Banete_ ergo velosi ji _banete_ ergo hanman.**  
-_Algunos_ trabajan rápido y _algunos_ trabajan lentamente.
+_Algunos_ trabajan rápido y _algunos_ trabajan lento. 
 
-Sin el pronombre **ete**, la oración diría:  
+Sin el pronombre **te**, la oración diría:  
 **Ban ergo sen velosi ji ban ergo sen hanman.**  
-Algunos trabajos son rápidos y otros lentos.
+Algún trabajo es rápido y algún trabajo es lento.
 
-### Adj posesivo + pronombre (pronombre posesivo) = frase nominal completa
+### Adj. posesivo + pronombre (pronombre posesivo) = frase nominal completa
 
 **Yusu gami ergo velosi mas _misu_ te ergo hanman.**  
-Tu esposo trabaja rápido pero el mío trabaja lento.  
+Tu cónyuge trabaja rápido pero _el mío_ trabaja lento.
 
 Sin el pronombre **te**, la segunda parte de la oración diría:  
 **Misu ergo sen hanman.**  
 Mi trabajo es lento.
 
-### Cuantificador + Pronombre = Sintagma nominal completo
+### Cuantificador + pronombre = frase nominal completa
 
 **Dua basataytiyen ergo velosi mas _un te_ ergo hanman.**  
-Dos traductores trabajan rápido pero _uno_ trabaja despacio.  
+Dos traductores trabajan rápido pero _uno_ trabaja lento.
 
 Sin el pronombre **te**, la segunda parte de la oración diría:  
 **Un ergo sen hanman.**  
-Un trabajo es lento.  
+Un trabajo es lento.
 
-### Adjetivo + Pronombre = Frase nominal completa
+### Adjetivo + pronombre = frase nominal completa
 
 **Day manyen ergo velosi mas _lil te_ ergo hanman.**  
-El hombre grande trabaja rápido pero el _pequeño_ trabaja despacio.  
+El hombre grande trabaja rápido pero el _pequeño_ trabaja lento.
 
 Sin el pronombre **te**, la segunda parte de la oración diría:  
 **Lil ergo sen hanman.**  
-El trabajo pequeño es lento.  
+El trabajo pequeño es lento.
 
-## Sintagmas verbales
+## Frases verbales
 
-Los sintagmas verbales son similares en estructura a los sintagmas nominales:
+Las frases verbales tienen una estructura similar a las frases nominales:
 
-<table style="ancho:100%">
-<tbody>
-<tr>
-<td colspan="7"><b>Sintagma verbal</b></td>
-</tr>
-<tr>
-<th>(Especificador)</th>
-<th colspan="3">(Complemento)</th>
-<th colspan="3">Cabeza</th>
-</tr>
-<tr>
-<td><b>Marcador de tiempo/modo verbal</b></td>
-<td><b>Afirmación o negación</b></td>
-<td><b><br>Adverbio(s)</b></td>
-<td><b>Modificador(es) de adj/advs</b></td>
-<td><b>Voz pasiva</b></td>
-<td><b>Modo<br>
-continuo/habitual</b></td>
-<td><b>Verbo</b></td>
-</tr>
-<tr>
-<td>(<b>nun</b>)<br>
-<b>le</b><br>
-<b>xa</b><br>
-<b>am</b><br>
-<b>ger</b><br>
-<b>na</b></td>
-<td><b>si</b> - sí<br>
-<b>no</b> - no</td>
-<td><b>daymo</b> - muy<br>
-<b>godomo</b> - demasiado</td>
-<td><b>bon</b> - bueno/-a,<br>
-<b>bur</b> - malo/-a,<br>
-<b>velosi</b> - rápido<br>
-<b>multi</b> - mucho/-a/-os/-as,<br>
-<b>xosu</b> - poco/-a/-os/-as,<br>
-<b>pimpan</b> - a menudo,<br>
-<b>nadir</b> - rara vez<br>
-etc.</td>
-<td><b>be</b> -<br>
-marcador del voz pasiva</td>
-<td><b>du</b> -<br>
-marcador de<br>
-modo<br>
-continuo/habitual</td>
-<td><b>danse</b> - bailar<br>
-<b>lala</b> - cantar<br>
-<b>eskri</b> - escribir <br>
-etc.</td>
-</tr>
-<tr>
-<td><b>le</b></td>
-<td><b>no</b></td>
-<td><b>daymo</b></td>
-<td><b>pimpan</b></td>
-<td><b>be</b></td>
-<td><b>du</b></td>
-<td><b>yam</b></td>
-</tr>
-<tr>
-<td colspan="7" style="font-size:125%;"><b>le no daymo pimpan beduyam</b><br>
-no se solía comerse muy a menudo<br></td>
-</tr>
-</tbody>
+<table style="width:100%">
+	<tbody>
+		<tr>
+			<td colspan="7"><b>Frase verbal</b></td>
+		</tr>
+		<tr>
+			<th>(Especificador)</th>
+			<th colspan="3">(Complemento)</th>
+			<th colspan="3">Núcleo</th>
+		</tr>
+		<tr>
+			<td><b>Marcador de tiempo/modo</b></td>
+			<td><b>Afirmación o negación</b></td>
+			<td><b>Adverbio que modifica adj/adv<br></b></td>
+			<td><b>Adverbio(s)</b></td>
+			<td><b>Voz pasiva</b></td>
+			<td><b>Aspecto durativo/<br>
+			habitual</b></td>
+			<td><b>Verbo</b></td>
+		</tr>
+		<tr>
+			<td>(<b>nun</b>)<br>
+			<b>le</b><br>
+			<b>xa</b><br>
+			<b>am</b><br>
+			<b>ger</b><br>
+			<b>na</b></td>
+			<td><b>si</b> - sí (lo hace)<br>
+			<b>no</b> - no (no lo hace, etc.)</td>
+			<td><b>daymo</b> - muy<br>
+			<b>godomo</b> - demasiado</td>
+			<td><b>bon</b> - bien,<br>
+			<b>bur</b> - mal,<br>
+			<b>velosi</b> - rápido,<br>
+			<b>multi</b> - mucho,<br>
+			<b>xosu</b> - poco,<br>
+			<b>pimpan</b> - a menudo,<br>
+			<b>nadir</b> - rara vez<br>
+			etc.</td>
+			<td><b>be</b> -<br>
+			marcador de<br>voz pasiva</td>
+			<td><b>du</b> -<br>
+			marcador de<br>
+			aspecto<br>
+			durativo/habitual</td>
+			<td><b>danse</b> - bailar<br>
+			<b>lala</b> - cantar<br>
+			<b>eskri</b> - escribir<br>
+			etc.</td>
+		</tr>
+		<tr>
+			<td><b>le</b></td>
+			<td><b>no</b></td>
+			<td><b>daymo</b></td>
+			<td><b>pimpan</b></td>
+			<td><b>be</b></td>
+			<td><b>du</b></td>
+			<td><b>yam</b></td>
+		</tr>
+		<tr>
+			<td colspan="7" style="font-size:125%;"><b>le no daymo pimpan beduyam</b><br>
+			no solía ser comido muy a menudo<br></td>
+		</tr>
+	</tbody>
 </table>
 
-### Marcadores de verbos
+### Marcadores verbales
 
-Como especificadores, los marcadores de verbos (**nun**, **le**, **xa**, **ger**, **am**, **na**) se colocan al inicio de los sintagmas verbales.
+Como especificadores, los marcadores verbales (**nun**, **le**, **xa**, **ger**, **am**, **na**) se colocan al inicio de las frases verbales.
 
 ### Adverbios
 
-Como se puede apreciar en la oración anterior, los adverbios (o frases adverbiales) generalmente preceden a los verbos.
+Como se ve en la oración anterior, los adverbios (o las frases adverbiales) suelen preceder a los verbos.
 
 Alternativamente, los adverbios pueden colocarse después del verbo, inmediatamente después de los objetos, si los hay.
 
-* Si la oración no tiene complementos directos o indirectos, el adverbio puede seguir inmediatamente al verbo.
+* Si la oración no tiene objetos directos ni indirectos, el adverbio puede ir inmediatamente después del verbo.
 
 **Femyen danse _meli_.**  
-La dama baila _bonito_.
+La dama baila _de forma bella_.
 
-* Sin embargo, si la oración contiene objetos, la frase adverbial debe seguir inmediatamente a todos los objetos.
+* Sin embargo, si la oración contiene objetos, la frase adverbial debe ir inmediatamente después de todos los objetos.
 
 **Mi le gibe pesa tas coriyen _volekal_ koski mi le befobi ki te xa morgi mi.**  
 Le di el dinero al ladrón _involuntariamente_ porque temía que me matara.
 
-Los adverbios también se pueden mover al inicio de la oración, siempre que haya una pausa clara mediante el uso de la coma para separar la frase del resto de la oración. Sin la pausa, el adjetivo/adverbio podría interpretarse erróneamente como un modificador del sujeto.
+Los adverbios también pueden trasladarse al inicio de la oración, siempre que haya una pausa clara marcada con la coma para separar la frase del resto de la oración. Sin la pausa, el adjetivo/adverbio podría interpretarse erróneamente como modificador del sujeto.
 
 **_Velosi_, bwaw glu sui.**  
-_Rápido_, el perro bebe el agua.
+_Rápidamente_, el perro bebe el agua.
 
 **_Unyum_, te le idi cel banko.**  
-_Primero_, fue al banco.
+_Primero_, ella fue al banco.
 
 ## Negación
 
@@ -231,34 +231,34 @@ El adverbio de negación **no** precede inmediatamente a la palabra o frase que 
 
 **Manyen _no godomo bur_ danse.**  
 o: **Manyen danse _no godomo bur_.**  
-El hombre _no_ baila _demasiado mal_.  
+El hombre _no_ baila _demasiado mal_.
 
-En la segunda oración anterior, **no** se encuentra junto con el resto del complemento al final de la oración. (El hombre bailó, pero no demasiado mal).
+En la segunda oración anterior, **no** se traslada junto con el resto del complemento al final de la oración. (El hombre sí bailó, pero no demasiado mal.)
 
-Alternativamente, **no** podría preceder inmediatamente al verbo e interpretarse como una modificación al verbo junto con sus adverbios descriptivos.
+Alternativamente, **no** podría preceder inmediatamente al verbo e interpretarse como modificador del verbo junto con sus adverbios descriptivos.
 
-**Manixu _no danse godomo bur_.**  
-El hombre _no baila demasiado mal_.  
+**Manyen _no danse godomo bur_.**  
+El hombre _no baila demasiado mal_.
 
-## Sintagmas verbales en infinitivo
+## Frases verbales de infinitivo
 
-Los sintagmas verbales en infinitivo tienen la siguiente estructura:
+Las frases verbales de infinitivo tienen la siguiente estructura:
 
 **na** + frase verbal
 
-Consulte [Sintagmas verbales en infinitivo](/gramati/jumleli-estrutur#nafalelexili_jumlemon) en _Estructura de la oración_.
+Véase [Frases verbales de infinitivo](/gramati/jumleli-estrutur#nafalelexili_jumlemon) en Estructura de la oración.
 
-## Sintagmas preposicionales
+## Frases preposicionales
 
-Globasa, como la mayoría de los lenguajes SVO, hace uso de preposiciones en lugar de [postposiciones](https://es.wikipedia.org/wiki/Adposici%C3%B3n). Los sintagmas preposicionales se componen de una preposición seguida de un sintagma nominal.
+El Globasa, como la mayoría de las lenguas SVO, usa preposiciones en lugar de [posposiciones](https://es.wikipedia.org/wiki/Adposici%C3%B3n). Las frases preposicionales se componen de una preposición seguida de una frase nominal.
 
-<table style="ancho:100%">
+<table style="width:100%">
 <tbody><tr>
-<td colspan="2"><b>Sintagma preposicional</b></td>
+<td colspan="2"><b>Frase preposicional</b></td>
 </tr>
 <tr>
 <th>Preposición</th>
-<th>Sintagma nominal</th>
+<th>Frase nominal</th>
 </tr>
 <tr>
 <td><b>in </b><br>en</td>
@@ -268,185 +268,185 @@ Globasa, como la mayoría de los lenguajes SVO, hace uso de preposiciones en lug
 </tr>
 </tbody></table>
 
-La posición de los sintagmas preposicionales dentro de las oraciones se explica en [Estructura de la oración](/gramati/jumleli-estrutur#plasilexili_jumlemon).
+La posición de las frases preposicionales dentro de la oración se explica en [Estructura de la oración](/gramati/jumleli-estrutur#plasilexili_jumlemon).
 
-## Adverbios de enfoque
+## Adverbios de foco
 
-Con excepción de **no** (_no_), los _adverbios de enfoque_, como **sol** (_sólo, solamente, únicamente_), **pia** (_también_) y **hata** (_hasta_), no aparecen en las tablas anteriores de sintagmas nominales y sintagmas verbales. La razón es la siguiente: los _adverbios de enfoque_ pueden aparecer en cualquier parte de una oración, dependiendo de lo que se quiera modificar en la oración. Los _adverbios de enfoque_ siempre preceden inmediatamente a la frase o palabra que éstos modifican.
+Aparte de **no** (_no_), los _adverbios de foco_, como **sol** (_solo_), **pia** (_también_) y **hata** (_incluso_), no aparecen en las tablas de la frase nominal y la frase verbal de arriba. La razón es que los _adverbios de foco_ pueden aparecer en cualquier parte de la oración, según lo que se modifique en ella. Los _adverbios de foco_ siempre preceden inmediatamente a la frase o palabra que modifican.
 
 **Misu gami glu _sol_ kafe fe soba.**  
-Mi esposa bebe _sólo_ café por la mañana.
+Mi cónyuge bebe _solo_ café por la mañana.
 
 **Misu gami glu kafe _hata_ fe axam.**  
-Mi esposa bebe café _incluso_ por la noche.
+Mi cónyuge bebe café _incluso_ por la tarde.
 
 **_Pia_ misu gami glu kafe fe soba.**  
-También mi esposa bebe café por la mañana.
+_También_ mi cónyuge bebe café por la mañana.
 
-## Sintagmas adjetivos complejos
+## Frases adjetivas complejas
 
-Las sintagmas adjetivos complejos vienen después de los sustantivos que modifican.
+Las frases adjetivas complejas van después de los sustantivos que modifican.
 
-**Adj/adv más sintagma preposicional**  
+**Adj/adv más frase preposicional**
 
-**Kitabu eskrido fal misu doste**  
+**kitabu eskrido fal misu doste**  
 el libro escrito por mi amigo
 
-**alimyen hox kos yusu sukses**  
-el maestro feliz por tu exito
+**alimyen hox kos yusu sukses**  
+el profesor contento por tu éxito
 
-**Frases comparativas con adj/advs**  
+**Frases adjetivas/adverbiales comparativas**
 
-**nini maxmo lao kom misu sodar**  
-el niño mayor que mi hermano  
+**nini maxmo lao kom misu sodar**  
+el niño mayor que mi hermano
 
-## Cláusulas relativas <a id="relativo_baxjumle"></a>
+## Cláusulas de relativo <a id="relativo_baxjumle"></a>
 
-En Globasa, las cláusulas relativas se introducen con el _marcador de cláusula modificadora_ **hu** y conservan el orden típico de las palabras. Vale la pena señalar que la conjunción **hu** no tiene un equivalente exacto en español, pero normalmente se traduce como _que_, _quien_ o _el cual_.
+En Globasa, las cláusulas de relativo se introducen con el _marcador de cláusula modificadora_ **hu** y conservan el orden de palabras habitual. Conviene señalar que la conjunción **hu** equivale a los relativos españoles _que_, _quien_ o _el cual_. 
 
-### Cláusulas relativas con pronombre de reanudación
+### Cláusulas de relativo con pronombre reasuntivo
 
-Las cláusulas relativas que requieren un pronombre para referirse al antecedente utilizan el pronombre relativo de reanudación  _obligatorio_ **da** (_él, ella/-s, ello/-s, ése-a/-os/-as_). 
+Las cláusulas de relativo que requieren un pronombre para remitir al antecedente usan el pronombre relativo reasuntivo _obligatorio_ **da** (_él, ella, ello, ellos, ese, esa, eso, esos_). 
  
-**Te sen femixu _hu da lubi mi_.**  
-"Ella es la mujer _que ésa me ama_".  
+**Te sen femixu _hu da lubi mi_.**   
+"Ella es la mujer _que esa ama a mí_."    
 Ella es la mujer _que me ama_.  
 
-**Te sen femixu _hu mi lubi da_.**  
-"Ella es la mujer _que yo amo ésa_".  
-Ella es la mujer _a quien yo amo_.  
+**Te sen femixu _hu mi lubi da_.**   
+"Ella es la mujer _que yo amo a esa_."    
+Ella es la mujer _que amo_.
 
-**Mi le sonxi katatul _hu mi kata roti yon da_.**  
-"Perdí el cuchillo _que corto el pan con ése_."  
-Perdí el cuchillo _con el que corto el pan_.  
+**Mi le sonxi katatul _hu mi kata roti yon da_.**    
+"Perdí el cuchillo _que yo corté el pan con eso_."  
+Perdí el cuchillo _con el que corté el pan_.
 
-**Kamisa _hu mi suki da_ sen blue.** o **To sen blue, kamisa _hu mi suki da_.**  
-"La camisa _que me gusta ésa_ es azul." o "Es azul, la camisa _que me gusta ésa_".  
-La camisa _que me gusta_ es azul. _o_ Es azul, la camisa _que me gusta_.  
+**Kamisa _hu mi suki da_ sen blue.** o **To sen blue, kamisa _hu mi suki da_.**     
+"La camisa _que me gusta esa_ es azul." o "Es azul, la camisa _que me gusta esa_."   
+La camisa _(que) me gusta_ es azul. _o_ Es azul, la camisa _(que) me gusta_. 
 
-_Nota: Como se pudo apreciar en el último ejemplo, cuando la cláusula relativa es parte del sujeto, la oración puede reformularse para colocar el la cláusula principal primero y mover la cláusula relativa al final de la oración. Esto ayuda a que la oración sea más fácil de procesar._
+_Nota: como se ve en el último ejemplo, cuando la cláusula de relativo forma parte del sujeto, la oración puede reformularse para colocar primero el núcleo de la oración y trasladar la cláusula de relativo al final. Esto ayuda a que la oración sea más fácil de procesar._
 
-El adjetivo posesivo **dasu** se utiliza en oraciones relativas de la siguiente manera:
+El adjetivo posesivo **dasu** se usa en las cláusulas de relativo de la siguiente manera:
 
-**Te sen manixu _hu dasu sodar kone mi_.**  
-"Él es el hombre _que su hermano me conoce._"  
-Es el hombre _cuyo hermano me conoce_.
+**Te sen manixu _hu dasu sodar kone mi_.**     
+"Él es el hombre _que el hermano de ese me conoce._"      
+Él es el hombre _cuyo hermano me conoce_.
 
-**Te sen manixu _hu mi kone dasu sodar_.**  
-"Él es el hombre _que conozco a su hermano_".  
-Es el hombre _cuyo hermano yo conozco_.
+**Te sen manixu _hu mi kone dasu sodar_.**      
+"Él es el hombre _que yo conozco al hermano de ese_."  
+Él es el hombre _cuyo hermano conozco_.
 
 **Manyen _hu dasu gami Globasa_ sen misu doste.** _o_ **Te sen misu doste, manyen _hu dasu gami Globasa_.**  
-"El tipo _que la esposa de ése habla Globasa_ es mi amigo". _o_ "Él es mi amigo, el tipo _que la esposa de ése habla Globasa_".  
-El tipo _cuya esposa habla Globasa_ es mi amigo. _o_ Es mi amigo, el tipo _cuya esposa habla Globasa_.
+"El tipo _que el cónyuge de ese habla Globasa_ es mi amigo." _o_ "Él es mi amigo, el tipo _que el cónyuge de ese habla Globasa_."   
+El tipo _cuyo cónyuge habla Globasa_ es mi amigo. _o_ Él es mi amigo, el tipo _cuyo cónyuge habla Globasa_.
 
-### Cláusulas relativas con adverbio correlativo de reanudación
+### Cláusulas de relativo con adverbio correlativo reasuntivo
 
-Las oraciones relativas en las que un adverbio correlativo se refiere al antecedente son las siguientes:
+Las cláusulas de relativo en las que un adverbio correlativo remite al antecedente son las siguientes:  
 
-**Kitabudom _hu mi ergo denloka_ sen day.**  
-"La biblioteca _que trabajo allí_ es grande".  
+**Kitabudom _hu mi ergo denloka_ sen day.**    
+"La biblioteca _que yo trabajo ahí_ es grande."   
 _o_  
 **Kitabudom _hu denloka mi ergo_ sen day.**  
-"La biblioteca _que allí trabajo_ es grande".  
+"La biblioteca _que ahí yo trabajo_ es grande."  
 La biblioteca _donde trabajo_ es grande.  
 
-**Din _hu mi xa preata denwatu_ sen Lunadin.**  
-"El día _que llego entonces_ es lunes".  
+**Din _hu mi xa preata denwatu_ sen Lunadin.**      
+"El día _que yo llegaré entonces_ es lunes."  
 _o_  
 **Din _hu denwatu mi xa preata_ sen Lunadin.**  
-"El día _que entonces llego_ es lunes".  
-El día _cuando llegaré_ es el lunes.  
+"El día _que entonces yo llegaré_ es lunes."  
+El día _en que llego_ es lunes.
 
-En lugar de adverbios correlativos, se pueden usar sintagmas preposicionales para expresar oraciones equivalentes.
+En lugar de adverbios correlativos, pueden usarse frases preposicionales para expresar oraciones equivalentes. 
 
-**Kitabudom _hu mi ergo in da_ sen day.**  
-"La biblioteca _que trabajo en ella_ es grande".  
+**Kitabudom _hu mi ergo in da_ sen day.**   
+"La biblioteca _que yo trabajo en ella_ es grande."  
 _o_  
-**Kitabudom _hu in da mi ergo_ sen day.**  
-"La biblioteca _que en ella trabajo_ es grande".  
+**Kitabudom _hu in da mi ergo_ sen day.**    
+"La biblioteca _que en ella yo trabajo_ es grande."  
 La biblioteca _en la que trabajo_ es grande.  
 
-**Din _hu mi xa preata fe da_ sen Lunadin.**  
-"El día _que llego en él_ es lunes".  
+**Din _hu mi xa preata fe da_ sen Lunadin.**   
+"El día _que yo llegaré en él_ es lunes."  
 _o_  
 **Din _hu fe da mi xa preata_ sen Lunadin.**  
-"El día _que en él llego_ es lunes."  
-El día _en que llegaré_ es el lunes.  
+"El día _que en él yo llegaré_ es lunes."  
+El día _en (el) que llego_ es lunes.  
 
-### Cláusulas relativas en sintagmas nominales inespecíficos
+### Cláusulas de relativo en frases nominales no específicas
 
-Los sintagmas nominales inespecíficos con cláusulas relativas pueden estar compuestas por **to/te** más un adverbio correlativo de reanudación o **da**.
+Las frases nominales no específicas con cláusulas de relativo pueden componerse de **to/te** más un adverbio correlativo reasuntivo o **da**. 
 
 **Mi no suki _to hu mi ergo denloka_.**  
-"No me gusta _ello que trabajo allí_".  
+"No me gusta _eso que yo trabajo ahí_."   
 _o_  
-**Mi no suki _to hu denloka mi ergo_.**  
-"No me gusta _ello que allí trabajo_".  
-No me gusta _dónde trabajo_.  
+**Mi no suki _to hu denloka mi ergo_.**   
+"No me gusta _eso que ahí yo trabajo_."  
+No me gusta _donde trabajo_.  
 
 **Mi suki _to hu yu broxa misu tofa denmaner_.**  
-Me gusta _ello que me cepillas el cabello así_.  
-_or_  
+"Me gusta _eso que tú cepillas mi cabello de esa manera_."  
+_o_  
 **Mi suki _to hu denmaner yu broxa misu tofa_.**  
-"Me gusta _ello que así me cepillas el cabello_".  
+"Me gusta _eso que de esa manera tú cepillas mi cabello_."  
 Me gusta _cómo me cepillas el cabello_.  
 
-**Am gibe tas mi _to hu mi vole da_.**  
-"Dame _ello que quiero eso_".  
+**Am gibe tas mi _to hu mi vole da_.**    
+"Dame _eso que yo quiero eso_."  
 Dame _lo que quiero_.  
 
 **Mi no suki _te hu yu le seleti da_.**  
-"No me gusta _ella/él/ellos que elegiste a ése._"  
-No me gusta _a quién elegiste_.  
+"No me gusta _aquel que tú elegiste a ese._"  
+No me gusta _a quien elegiste_.  
 
-Alternativamente, pueden estar compuestos por un sustantivo más un sintagma preposicional de reanudación o **da**.
+Alternativamente, pueden componerse de un sustantivo más una frase preposicional reasuntiva o **da**. 
 
-**Mi no suki _loka hu mi ergo in da_.**  
-"No me gusta _el lugar que trabajo en ése_".  
-_o_  
-**Mi no suki _loka hu in da mi ergo_.**  
-"No me gusta _el lugar que en ése trabajo_".  
+**Mi no suki _loka hu mi ergo in da_.**    
+"No me gusta _el lugar que yo trabajo en ese_."   
+_o_    
+**Mi no suki _loka hu in da mi ergo_.**     
+"No me gusta _el lugar que en ese yo trabajo_."  
 No me gusta _el lugar en el que trabajo_.  
 
-**Mi suki _maner hu yu broxa misu tofa yon da_.**  
-"Me gusta _la forma que me cepillas el cabello con esa (forma)_".  
-_o_  
+**Mi suki _maner hu yu broxa misu tofa yon da_.**   
+"Me gusta _la manera que tú cepillas mi cabello con esa_."    
+_o_    
 **Mi suki _maner hu yon da yu broxa misu tofa_.**  
-"Me gusta _la forma que con esa me cepillas el cabello_".  
-Me gusta _la forma en que me cepillas el cabello_.  
+"Me gusta _la manera que con esa tú cepillas mi cabello_."  
+Me gusta _la manera en que me cepillas el cabello_.  
 
 **Am gibe tas mi _xey hu mi vole da_.**  
-"Dame _la cosa que quiero ésa_".  
-Dame _la cosa que quiero_.  
+"Dame _la cosa que yo quiero esa_."  
+Dame _la cosa (que) quiero_.    
 
-**Mi no suki _persona hu yu le seleti da_.**  
-"No me gusta _la persona que elegiste ésa._"  
-No me gusta _la persona a quien elegiste_.  
+**Mi no suki _person hu yu le seleti da_.**  
+"No me gusta _la persona que tú elegiste a esa._"    
+No me gusta _la persona que elegiste_.
 
 ## Cláusulas modificadoras no relativas
 
-Los sustantivos a veces se modifican con cláusulas que no son relativas, en otras palabras, cláusulas sin ningún elemento de reanudación. En este caso, se utiliza **feki** (_de que_) para introducir dichas cláusulas.
+A veces los sustantivos se modifican con cláusulas que no son de relativo, es decir, cláusulas sin un elemento reasuntivo. Estas cláusulas se introducen con **feki**.
 
 **Singa begude idey _feki maux ger abil na sahay te_.**  
-Al león le hizo cosquillas la idea _de que el ratón pudiera ayudarlo_.
+Al león le hizo gracia la idea _de que el ratón pudiera ayudarlo_.
 
-## Cláusulas con _feki_ en lugar de cláusulas relativas con _hu_
+## Cláusulas con _feki_ en lugar de cláusulas de relativo con _hu_
 
-Las frases nominales con palabras de lugar, tiempo, manera y razón pueden modificarse usando cláusulas con **feki** en lugar de cláusulas relativas con **hu**. En otras palabras, para crear oraciones más cortas sin cláusulas de reanudación, **feki** puede reemplazar a **hu** más una frase correlativa o preposicional de reanudación (**hu denloka/hu in da**, **hu denwatu/ hu fe da**, **hu denmaner/hu yon da**, **hu denseba/hu kos da**).
+Las frases nominales con palabras de lugar, tiempo, manera y razón pueden modificarse con cláusulas con **feki** en lugar de cláusulas de relativo con **hu**. En otras palabras, para crear oraciones más cortas sin cláusulas reasuntivas, **feki** puede reemplazar a **hu** más un correlativo o una frase preposicional reasuntivos (**hu denloka/hu in da**, **hu denwatu/hu fe da**, **hu denmaner/hu yon da**, **hu denseba/hu kos da**). 
 
-**Mi no suki _restoran feki imi le yam_.**  
-"No me gusta _el restaurante en-que comimos_".  
-No me gusta _el restaurante en el que comimos_.
+**Mi no suki _restoran feki imi le yam_.**   
+"No me gusta _el restaurante que nosotros comimos_."    
+No me gusta _el restaurante en el que comimos_.  
 
 **Te sokutu _(fe) moy mara feki te estaycu_.**  
-"Se cae cada vez que se levanta".  
-Se cae cada vez que se levanta.
+"Él se cae (en) cada vez que él se levanta."  
+Él se cae cada vez que se levanta.   
 
-**Mi suki _maner feki yu broxa misu tofa_.**  
-"Me gusta _la forma en-que me cepillas el pelo_".  
-Me gusta _la forma en que me cepillas el pelo_.
+**Mi suki _maner feki yu broxa misu tofa_.**   
+"Me gusta _la manera que tú cepillas mi cabello_."       
+Me gusta _la manera en que me cepillas el cabello_.    
 
 **_Seba feki yu no xwexi_ sen koski yu no abyasa.**  
-"La razón de-que no aprendes es porque no practicas".  
-La razón por la que no aprendes es porque no practicas.
+"La razón que tú no aprendes es porque tú no practicas."  
+La razón por la que no aprendes es porque no practicas.  

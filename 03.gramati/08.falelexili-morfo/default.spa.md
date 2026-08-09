@@ -3,181 +3,180 @@ title: 'Formas verbales'
 visible: true
 ---
 
-## Omisión de partículas verbales
+## Omisión de las partículas verbales
 
-Las partículas verbales pueden omitirse a discreción del hablante o, si lo prefiere, el hablante puede aplicar las siguientes pautas:
+Las partículas verbales pueden omitirse a discreción del hablante o, si se prefiere, pueden aplicarse las siguientes pautas:
 
-* La forma lexicográfica del verbo puede expresar el presente simple, lo que permite la omisión de los marcadores **nun**, **du-** y **u**.
+* La forma de diccionario del verbo puede expresar el presente simple, lo que permite omitir los marcadores **nun**, **du-** y **u**.
 
-* En la narración de cuentos, también, la forma verbal del diccionario sólo puede usarse para narrar eventos. Técnicamente hablando, no es que en este caso se omita la partícula del pasado simple **le**, sino que se cuenta una historia como si se estuviera describiendo la escena de una película, en tiempo presente, con la omisión de **nun **, **du-** o **u**.
+* También en la narración, la forma de diccionario del verbo puede usarse por sí sola para narrar eventos. Técnicamente, no es que se omita la partícula de pasado simple **le** en este caso, sino que la historia se cuenta como si se describiera la escena de una película, en presente, con la omisión de **nun**, **du-** o **u**. 
 
-* Excepto en los casos descritos anteriormente, el tiempo/modo se puede establecer de nuevo con cada sintagma del sujeto y mantenerse sin repetición para otros verbos o hasta que se cambie el tiempo/modo dentro de esa cláusula. En otras palabras, la partícula para _cualquier_ tiempo/modo puede omitirse en los verbos subsiguientes dentro de una misma cláusula una vez que se ha establecido el tiempo/modo con el primer verbo de cada predicado.
+* Aparte de los casos descritos arriba, el tiempo/modo puede establecerse de nuevo con cada frase de sujeto y mantenerse sin repetición para los demás verbos, o hasta que el tiempo/modo cambie dentro de esa cláusula. En otras palabras, la partícula de _cualquier_ tiempo/modo puede omitirse en los verbos siguientes dentro de una cláusula una vez que el tiempo/modo se ha establecido con el primer verbo de cada predicado. 
 
-## Tiempos del presente simple
+## Presente simple <a id="nun_du-"></a>
 
-En Globasa, los tiempos del presente presente se expresan de la siguiente manera.
+Los tiempos del presente simple del Globasa se expresan de la siguiente manera.
 
-| Tiempos del presente simple
+| Presente simple
 |
-| Forma verbal | Marcadores | Ejemplos de oraciones
-| Presente General<br /><br /><br /> | **(nun)**<br /><br /><br /> | **Mi (nun) yam pingo.**<br />Como la manzana.<br />Yo como la manzana.
-| Presente continuo/habitual<br /><br /><br /> | **(nun) (du-)**<br /><br /><br /> | **Mi (nun) (du)yam pingo.**<br /> Como (continuamente/habitualmente) manzanas.
+| Forma verbal | Marcadores | Oraciones de ejemplo
+| Presente general<br /><br /><br /> | **(nun)**<br /><br /><br /> | **Mi (nun) yam pingo.**<br />Como la manzana.<br />Estoy comiendo la manzana.
+| Presente durativo/habitual<br /><br /><br /> | **(nun) (du-)**<br /><br /><br /> | **Mi (nun) (du)suki ji (du)yam pingo.**<br />Me gustan las manzanas y las como.
 
-### Forma lexicográfica del verbo
+### Forma de diccionario del verbo
 
-De forma predeterminada, la forma lexicográfica del verbo expresa el tiempo presente general, que es equivalente al presente simple en español. Además, la forma lexicográfica del verbo por sí sola también puede expresar el tiempo presente activo, que es equivalente al presente progresivo en español. En otras palabras, la forma lexicográfica del verbo por sí sola es ambigua e implica la omisión de **nun** o de **du-**.
+Por defecto, la forma de diccionario del verbo expresa el presente general, que equivale al presente simple del español. Además, la forma de diccionario por sí sola también puede expresar el presente activo, que equivale al presente continuo del español. En otras palabras, la forma de diccionario por sí sola es ambigua e implica la omisión de **nun** o de **du-**. 
 
-### La partícula u
+### La partícula _u_ <a id="partikul_u"></a>
 
-Como alternativa al uso exclusivo de la forma lexicográfica del verbo, se puede usar la partícula **u** en lugar de **nun** o **du-**. Esta partícula generalmente sólo se usa en textos o discursos formales como una forma simple de marcar el predicado en oraciones en la cuales no hay ningún otro marcador de tiempo/modo.
+Como alternativa a usar la forma de diccionario por sí sola, la partícula **u** puede usarse en lugar de **nun** o de **du-**. Esta partícula suele usarse solo en textos o discursos formales, como una forma sencilla de marcar el predicado cuando no se usa ningún otro marcador de tiempo/modo.
 
-### Prefijo du-
+### El prefijo du- <a id="lefefikso_du-"></a>
 
-Como prefijo verbal, **du-** expresa el aspecto continuo/habitual, que representa una actividad o un estado durante un período de tiempo indefinido, en lugar de ocurrir en un sólo momento o durante un período de tiempo específico. El prefijo **du-** generalmente se omite con el tiempo presente.
+Como prefijo verbal, **du-** expresa el aspecto durativo con los verbos de estado (_gustar, saber, entender_) y el aspecto habitual con los verbos dinámicos (_comer, bailar, leer_). El aspecto durativo describe un estado que se prolonga durante un período de tiempo, mientras que el aspecto habitual describe una acción que es habitual. El prefijo **du-** suele omitirse en el presente.
 
-En los sustantivos, el prefijo **du-** significa "la acción de".
+Como sustantivos, las palabras con el prefijo **du-** equivalen al infinitivo sustantivado (_el cantar_, _el bailar_).
 
-**dulala** - (la acción de) cantar, la cantada  
-**dudanse** - (la acción de) bailar, la bailada  
+**dulala** - (el acto de) cantar  
+**dudanse** - (el acto de) bailar
 
-_El prefijo **du-** se trunca de **dure** (duración).  
+_El prefijo **du-** es una forma truncada de **dure** (duración).  
 Etimología de **dure**: inglés, francés, alemán, español_
 
-## Tiempos del pasado simple
+## Pasado simple
 
 Los tiempos del pasado simple se expresan con la partícula **le**.
 
-_Etimología de **le**: mandarín (了 “le”), swahili (-li-), ruso (-л “-l”)_
+_Etimología de **le**: mandarín  (了 “le”), suajili (-li-), ruso (-л “-l”)_
 
-| Tiempos del pasado simple
+| Pasado simple
 |
-| Forma verbal | Marcadores | Ejemplos de oraciones
-| Pasado General<br /><br /> | **le**<br /><br /> | **Mi le yam pingo.**<br />Comí la manzana.
-| Pasado continuo/habitual<br /><br /> | **le du-**<br /><br /> | **Mi le duyam pingo.**<br />Solía comer manzanas.
+| Forma verbal | Marcadores | Oraciones de ejemplo
+| Pasado general<br /><br /> | **le**<br /><br /> | **Mi le yam pingo.**<br />Comí la manzana.
+| Pasado durativo/habitual<br /><br /> | **le du-**<br /><br /> | **Mi le dusuki ji duyam pingo.**<br />Me gustaban las manzanas y las comía.
 
-## Tiempos del futuro simple
+## Futuro simple
 
 Los tiempos del futuro simple se expresan con la partícula **xa**.
 
-_Etimología de **xa**: árabe (سوف “sawf”, سا “sa”), inglés (shall), holandés (zal)_
+_Etimología de **xa**: árabe (سوف “sawf”, سا “sa”), inglés (shall), neerlandés (zal)_
 
-| Tiempos del future simple
+| Futuro simple
 |
-| Forma verbal | Marcadores | Ejemplos de oraciones
-| Futuro General<br /><br /> | **xa**<br /><br /> | **Mi xa yam pingo.**<br />Comeré la manzana.
-| Futuro continuo/habitual<br /><br /> | **xa du-**<br /><br /> | **Mi xa duyam pingo.**<br />Comeré (continuamente/habitualmente) manzanas.
+| Forma verbal | Marcadores | Oraciones de ejemplo
+| Futuro general<br /><br /> | **xa**<br /><br /> | **Mi xa yam pingo.**<br />Comeré la manzana.
+| Futuro durativo/habitual<br /><br /> | **xa du-**<br /><br /> | **Mi xa dusuki ji duyam pingo.**<br />Me gustarán las manzanas y las comeré.  
 
-## Tiempos del pasado y futuro inmediato
+## Pasado y futuro inmediatos
 
-Los tiempos del pasado y futuro _inmediato_ se expresan de la siguiente manera utilizando el prefijo **ja-**.
+Los tiempos del pasado y el futuro _inmediatos_ se expresan de la siguiente manera con el prefijo **ja-**. 
 
-| Tiempos del pasado y futuro inmediato
+| Pasado y futuro inmediatos
 |
-| Forma verbal | Marcadores | Ejemplos de oraciones
-| Pasado Inmediato<br /><br /> | **jale**<br /><br /> | **Mi jale yam pingo.**<br />Acabo de comer la manzana.
-| Futuro Inmediato<br /><br /> | **jaxa**<br /><br /> | **Mi jaxa yam pingo.**<br />Estoy a punto de comer la manzana.
+| Forma verbal | Marcadores | Oraciones de ejemplo
+| Pasado inmediato<br /><br /> | **jale**<br /><br /> | **Mi jale yam pingo.**<br />Acabo de comer la manzana.
+| Futuro inmediato<br /><br /> | **jaxa**<br /><br /> | **Mi jaxa yam pingo.**<br />Estoy a punto de comer la manzana.
 
-### Prefijo ja-
+### El prefijo ja-
 
-El prefijo **ja-** significa _inmediatamente adyacente_ y se trunca de **jara** (_vecino_).
+El prefijo **ja-** significa _inmediatamente adyacente_ y es una forma truncada de **jara** (_vecino_).
 
-_Etimología de **jara**: árabe (جارة “jara”), swahili (jirani), indonesio (jiran)_
+_Etimología de **jara**: árabe (جارة “jara”), suajili (jirani), indonesio (jiran)_
 
 ## Tiempos compuestos
 
-Los tiempos compuestos se forman combinando dos de las partículas de los tiempos generales (**nun**, **le**, **xa**).
+Los tiempos compuestos se forman combinando dos cualesquiera de las partículas de tiempo generales (**nun**, **le**, **xa**).
 
-Lingüísticamente hablando, los tiempos compuestos se utilizan para expresar en detalle diferentes aspectos gramaticales. Hay tres aspectos expresados mediante los tiempos compuestos, que se correlacionan con las tres filas en cada una de las tablas a continuación: progresivo (activo), perfectivo (completo) y prospectivo.
+Lingüísticamente, los tiempos compuestos se usan para expresar en detalle distintos aspectos gramaticales. Hay tres aspectos que se expresan mediante los tiempos compuestos, que se corresponden con las tres filas de cada una de las tablas siguientes: progresivo (en curso), perfectivo (completado) y prospectivo (esperado).
 
-Mientras que los tiempos simples describen eventos sólo desde el punto de vista del momento presente, los tiempos compuestos se utilizan para señalar el estado temporal y el aspecto de un evento desde el punto de vista del presente, pasado o futuro.
+Mientras que los tiempos simples relatan los eventos solo desde el punto de vista del momento presente, los tiempos compuestos se usan para relatar la situación temporal y el aspecto de un evento desde el punto de vista del presente, el pasado o el futuro.
 
-Algunos tiempos compuestos rara vez se usan y, a menudo, se expresan mejor mediante los tiempos simples. Otros son más útiles y pueden ser bastante comunes en el habla, particularmente los siguientes tiempos: pasado activo (**le nun**), presente completo (**nun le**), futuro completo (**xa le**), pasado prospectivo (**le xa**).
+Algunos tiempos compuestos se usan rara vez y a menudo es mejor expresarlos con un tiempo simple. Otros son más útiles y pueden ser bastante comunes en el habla, en particular los siguientes: pasado progresivo (**le nun**), presente perfectivo (**nun le**), futuro perfectivo (**xa le**) y pasado prospectivo (**le xa**).
 
-## Tiempos presentes compuestos
+## Tiempos compuestos del presente
 
-Los tiempos presentes compuestos se expresan de la siguiente manera:
+Los tiempos compuestos del presente se expresan de la siguiente manera:
 
-| Tiempos presentes compuestos
+| Tiempos compuestos del presente
 |
-| Forma verbal | Marcadores | Ejemplos de oraciones
-| Presente Activo<br /><br /> | **(nun) nun**<br /><br /> | **Mi (nun) nun yam pingo.**<br />Estoy comiendo la manzana.
-| Presente Completo<br /><br /> | **nun le**<br /><br /> | **Mi nun le yam pingo.**<br />He comido la manzana.
-| Presente Prospectivo<br /><br /> | **nun xa**<br /><br /> | **Mi nun xa yam pingo.**<br />Voy a comer la manzana.
+| Forma verbal | Marcadores | Oraciones de ejemplo
+| Presente progresivo<br /><br /> | **(nun) nun**<br /><br /> | **Mi (nun) nun yam pingo.**<br />Estoy comiendo la manzana.
+| Presente perfectivo<br /><br /> | **nun le**<br /><br /> | **Mi nun le yam pingo.**<br />He comido la manzana.
+| Presente prospectivo<br /><br /> | **nun xa**<br /><br /> | **Mi nun xa yam pingo.**<br />Voy a comer la manzana.
 
-## Tiempos Pasados Compuestos
+## Tiempos compuestos del pasado
 
-Los tiempos pasados compuestos se expresan de la siguiente manera:
+Los tiempos compuestos del pasado se expresan de la siguiente manera:
 
-| Tiempos Pasados Compuestos
+| Tiempos compuestos del pasado
 |
-| Forma verbal | Marcadores | Ejemplos de oraciones
-| Pasado Activo<br /><br /> | **le nun**<br /><br /> | **Mi le nun yam pingo.**<br />Estaba comiendo la manzana.
-| Pasado Completo<br /><br /> | **le le**<br /><br /> | **Mi le le yam pingo.**<br />Había comido la manzana.
-| Pasado Prospectivo<br /><br /> | **le xa**<br /><br /> | **Mi le xa yam pingo.**<br />Iba a comer la manzana.
+| Forma verbal | Marcadores | Oraciones de ejemplo
+| Pasado progresivo<br /><br /> | **le nun**<br /><br /> | **Mi le nun yam pingo.**<br />Estaba comiendo la manzana.
+| Pasado perfectivo<br /><br /> | **le le**<br /><br /> | **Mi le le yam pingo.**<br />Había comido la manzana.
+| Pasado prospectivo<br /><br /> | **le xa**<br /><br /> | **Mi le xa yam pingo.**<br />Iba a comer la manzana.
 
-## Tiempos futuros compuestos
+## Tiempos compuestos del futuro
 
-Los tiempos futuros compuestos se expresan de la siguiente manera:
+Los tiempos compuestos del futuro se expresan de la siguiente manera:
 
-| Tiempos futuros compuestos
+| Tiempos compuestos del futuro
 |
-| Forma verbal | Marcadores | Ejemplos de oraciones
-| Futuro Activo<br /><br /> | **xa nun**<br /><br /> | **Mi xa nun yam pingo.**<br />Estaré comiendo la manzana.
-| Futuro Completo<br /><br /> | **xa le**<br /><br /> | **Mi xa le yam pingo.**<br />Habré comido la manzana.
-| Futuro Prospectivo<br /><br /> | **xa xa**<br /><br /> | **Mi xa xa yam pingo.**<br />Iré a comer la manzana.
+| Forma verbal | Marcadores | Oraciones de ejemplo
+| Futuro progresivo<br /><br /> | **xa nun**<br /><br /> | **Mi xa nun yam pingo.**<br />Estaré comiendo la manzana.
+| Futuro perfectivo<br /><br /> | **xa le**<br /><br /> | **Mi xa le yam pingo.**<br />Habré comido la manzana.
+| Futuro prospectivo<br /><br /> | **xa xa**<br /><br /> | **Mi xa xa yam pingo.**<br />Estaré por comer la manzana.
 
-Cabe señalar que mientras que los tiempos _perfectos_ en español no siempre expresan una acción completa, los tiempos _completos_ en Globasa siempre lo hacen.
+## Aspecto continuativo <a id="dupul"></a>
 
-## Aspecto continuativo
+El adverbio de _aspecto continuativo_ **dupul** se usa cuando una acción o un estado comenzó en el pasado y continúa en el presente. En español, esto se expresa con el presente (a menudo con _desde_ o _desde hace_) o con la perífrasis _llevar + gerundio_.
 
-El adverbio de aspecto continuativo **dupul** se utiliza cuando una acción o estado comenzó en el pasado y continúa en el presente. En español, esto se expresa con el _presente_, el _presente perfecto_ o el _perfecto progresivo_. 
+### Oraciones de ejemplo con verbos de estado
 
-### Ejemplo de oración con el presente en español
+**Mi dupul ogar denloka dur 10 nyan.**  
+Vivo ahí desde hace 10 años.  
 
 **Mi dupul kone te dur 30 nyan.**  
 Lo conozco desde hace 30 años.
 
-### Ejemplos de oraciones con el presente perfecto en español
-
 **Mi no dupul oko te xorfe mesi tiga.**  
-No la he visto desde marzo.
-
-**Mi dupul sen gadibu.**  
-He estado enojado.
+No la veo desde marzo.
 
 **Yu dupul sen kepul?**  
 ¿Cómo has estado?
 
-### Ejemplos de oraciones con el perfecto progresivo en español
+**Mi dupul sen gadibu.**  
+He estado enojado.
+
+### Oraciones de ejemplo con verbos dinámicos
 
 **Mi dupul yam hin pingo dur un satu.**  
-He estado comiendo esta manzana durante una hora.
+Llevo una hora comiendo esta manzana.
 
 **Yu dupul fale keto?**  
 ¿Qué has estado haciendo?
 
-**Mi dupul doxo hin kitabu xorfe jaleli sabedin.**  
-He estado leyendo este libro desde la semana pasada.
+**Mi dupul doxo hin kitabu xorfe jaleli safta.**  
+Llevo leyendo este libro desde la semana pasada.
 
 ## Modo condicional
 
-El modo condicional se expresa con la partícula **ger**.
+El modo condicional se expresa con la partícula **ger**. 
 
-_La partícula **ger** se trunca de **eger** (if).  
+_La partícula **ger** es una forma truncada de **eger** (si).  
 Etimología de **eger**: hindi (अगर “agar”), persa (اگر “agar”), turco (eğer)_
 
 | Modo condicional
 |
-| Forma verbal | Marcadores | Ejemplos de oraciones
+| Forma verbal | Marcadores | Oraciones de ejemplo
 | Condicional<br /><br /> | **ger**<br /><br /> | **Mi ger yam pingo.**<br />Comería la manzana.
-| Pasado condicional<br /><br /> | **ger le**<br /><br /> | **Mi ger le yam pingo.**<br />Me hubiera/habría comido la manzana.
+| Condicional pasado<br /><br /> | **ger le**<br /><br /> | **Mi ger le yam pingo.**<br />Habría comido la manzana.
 
-La cláusula subordinada (si...) se expresa con la forma lexicográfica del verbo.
+La cláusula subordinada (si...) usa la forma de diccionario del verbo.
 
 **Mi ger yam pingo eger mi sen yamkal.**  
-Yo comería la manzana si tuviera hambre.
+Comería la manzana si tuviera hambre.
 
-## Voz pasiva <a id="be-"></a>
+## Voz pasiva <a id="lefefikso_be-"></a>
 
 La voz pasiva se expresa con el prefijo **be-**.
 
@@ -185,95 +184,95 @@ _Etimología de **be-**: mandarín (被 “bèi”), inglés (be), noruego (ble)
 
 | Voz pasiva
 |
-| Forma verbal | Marcadores | Ejemplos de oraciones
-| Presente Pasivo<br /><br /> | **(nun) be-**<br /><br /> | **Pingo beyam mi.**<br />La manzana se come por mí.
-| Pasado Pasivo<br /><br /> | **le be-**<br /><br /> | **Pingo le beyam mi.**<br />La manzana se comió  por mí.
-| Futuro Pasivo<br /><br /> | **xa be-**<br /><br /> | **Pingo xa beyam mi.**<br />La manzana se comerá por mí.
+| Forma verbal | Marcadores | Oraciones de ejemplo
+| Pasiva presente<br /><br /> | **(nun) be-**<br /><br /> | **Pingo beyam mi.**<br />La manzana es comida por mí.
+| Pasiva pasado<br /><br /> | **le be-**<br /><br /> | **Pingo le beyam mi.**<br />La manzana fue comida por mí.
+| Pasiva futuro<br /><br /> | **xa be-**<br /><br /> | **Pingo xa beyam mi.**<br />La manzana será comida por mí.
 
-Aunque técnicamente el modo pasivo también se puede expresar con todos los tiempos compuestos, en la práctica se usa más a menudo con los tiempos generales presente, pasado y futuro, como se muestra arriba.
+Aunque técnicamente la voz pasiva también puede usarse con todos los tiempos compuestos, en la práctica se usa con mayor frecuencia con los tiempos generales de presente, pasado y futuro, como se ilustra arriba.
 
-Nota: En Globasa, el agente en oraciones pasivas se expresa como el objeto directo sin necesidad de una preposición para marcar el agente. En cambio, en español, el agente se señala con la preposicion _por_. 
+Nota: en Globasa, el agente de las oraciones en voz pasiva se expresa como objeto directo, sin necesidad de una preposición que lo marque. En cambio, el español marca el agente con la preposición _por_.
 
 **Myaw le no velosi yam piu.**  
-El gato no se comió al pájaro rápidamente.
+El gato no comió el pájaro rápidamente.
 
 **Piu le no velosi beyam myaw.**  
 El pájaro no fue comido rápidamente por el gato.
 
-## Modos Imperativo y Yusivo
+## Modos imperativo y yusivo <a id="partikul_am"></a>
 
-En Globasa, las órdenes (_modo imperativo_) y las exhortaciones (_modo yusivo_) se expresan con la partícula **am**.
+En Globasa, tanto las órdenes (_modo imperativo_) como las exhortaciones (_modo yusivo_) se expresan con la partícula **am**.
 
-_La partícula **am** se trunca de **amiru** (ordenar)  
-Etimología de **amiru**: árabe (أمر “amr”), turco (emir), swahili (amri, -amuru)_
+_La partícula **am** es una forma truncada de **amiru** (orden)  
+Etimología de **amiru**: árabe (أمر “amr”), turco (emir), suajili (amri, -amuru)_
 
-| Modos Imperativo y Yusivo
+| Modos imperativo y yusivo
 |
-| Forma verbal | Marcador | Ejemplos de oraciones
-| Imperativo<br /><br /><br /><br /><br /><br /><br /><br /> | **am**<br /><br /><br /><br /><br /><br /><br /><br /> | **(Yu) Am yam!**<br />¡Come!, ¡Coma!<br /><br />**(Uyu) Am yam!**<br />¡Comed!, ¡Coman!<br /><br />**Imi am yam!**<br />¡Comamos!
-| Yusivo<br /><br /><br /><br /><br /><br /><br /><br /> | **am**<br /><br /><br /><br /><br /><br /><br /><br /> | **Te am yam.**<br />Que él/ella coma.<br /><br />**Mi am yam.**<br />Que yo coma.
+| Forma verbal | Marcadores | Oraciones de ejemplo
+| Modo imperativo<br /><br /><br /><br /><br /><br /><br /><br /> | **am**<br /><br /><br /><br /><br /><br /><br /><br /> | **(Yu) Am yam!**<br />¡Come!<br /><br />**(Uyu) Am yam!**<br />(Ustedes) ¡coman!<br /><br />**Imi am yam!**<br />¡Comamos!
+| Modo yusivo<br /><br /><br /><br /><br /><br /><br /><br /> | **am**<br /><br /><br /><br /><br /><br /><br /><br /> | **Te am yam.**<br />Que coma.<br /><br />**Mi am yam.**<br />Que yo coma.
 
 ### Modo imperativo
 
-Los pronombres **yu** y **uyu** pueden omitirse al expresar el modo _imperativo_.
+Los pronombres **yu** y **uyu** pueden omitirse al expresar el _modo imperativo_.
 
-### Modo Yusivo
+### Modo yusivo
 
-El _modo yusivo_ tiene un significado similar al _modo imperativo_. Tanto en la 3.ª persona (**te**/**to**, **ete**/**oto**), como en la 1.ª persona del singular (**mi**), tiene una connotación exhortativa (con un significado intermedio entre _debería_ y _debe_).
+El _modo yusivo_ es similar en significado al _modo imperativo_. Con la tercera persona (**te**/**to**, **ete**/**oto**), así como con la primera persona del singular (**mi**), tiene una connotación exhortativa (con un significado intermedio entre _debería_ y _debe_).
 
 **Mi vole bwaw, mas te am no sen godomo day.**  
-Quiero un perro, pero que no sea demasiado grande.
+Quiero un perro, pero no debe ser demasiado grande.
 
 **Mi hare gutonpul denta; mi am idi cel dentamedisyen.**  
-Me duele una muela; necesito ir al dentista.
+Tengo un diente que me duele; debo ir al dentista.  
 
-El modo yusivo también puede funcionar como _subjuntivo imperativo_ en oraciones subordinadas y relativas. El _subjuntivo imperativo_ expresa una demanda, un requerimiento, una petición, una recomendación o una sugerencia.
+El modo yusivo también puede funcionar como un _subjuntivo mandativo_ dentro de cláusulas subordinadas y de relativo. El _subjuntivo mandativo_ expresa una exigencia, un requisito, una petición, una recomendación o una sugerencia.
 
 **Mi vole ki te am safegi sesu kamer.**  
-Quiero que limpies tu habitación.
+Quiero que limpie su habitación.
 
 **Mi peti ki imi am xorata jaldi.**  
 Pido que lleguemos temprano.
 
 **Kitabu hu xwexiyen am doxo da no sen daymo lungo.**  
-El libro que los alumnos debieran leer no es muy largo.
+El libro que los alumnos deben leer no es muy largo.
 
-Con la 2.ª persona del singular y del plural, y el uso de la partícula interrogativa **kam** (¿sí o no?), tiene una connotación optativa, que funciona como una petición cortés.
+Con la segunda persona del singular y del plural, y el uso de **kam** (la partícula interrogativa de sí/no), tiene una connotación optativa y funciona como una petición cortés. 
 
 **Kam yu am sahay mi?**  
 ¿Podrías ayudarme?
 
 **Kam yu am klosi janela?**  
-¿Podrías cerrar la ventana?
+¿Cerrarías la ventana, por favor?
 
 ## Negación
 
-La negación para todas las formas verbales se expresa con la palabra **no** y, como adverbio, precede inmediatamente al verbo y a cualquier otro adverbio modificativo.
+La negación de todas las formas verbales se expresa con la palabra **no** y, como adverbio, precede inmediatamente al verbo y a cualquier otro adverbio modificador.
 
 | Negación | &nbsp;
 |
-| Marcador | Ejemplos de oraciones
-| **no**<br /><br /><br /><br /><br /><br /><br /><br /> | **Mi no sen lao.**<br />No soy viejo.<br /><br />**Te no yam pingo.**<br />Él/ella no come la manzana.<br /><br />**Am no yam pingo.**<br />No comas la manzana.
+| Marcador | Oraciones de ejemplo
+| **no**<br /><br /><br /><br /><br /><br /><br /><br /> | **Mi no sen lao.**<br />No soy viejo.<br /><br />**Te no yam pingo.**<br />No come la manzana.<br /><br />**Am no yam pingo.**<br />No comas la manzana.
 
-## Modo infinitivo
+## Modo infinitivo 
 
-En Globasa, la forma verbal en infinitivo se señala con la partícula **na** y generalmente se omite dentro de una cláusula una vez que se ha establecido con el primer verbo. Consulte [Sintagmas verbales en infinitivo](/gramati/jumleli-estrutur#nafalelexili_jumlemon) en Estructura de la oración.
+En Globasa, la forma de infinitivo del verbo se marca con la partícula **na** y suele omitirse dentro de una cláusula una vez que se ha establecido con el primer verbo. Véase [Frases verbales de infinitivo](/gramati/jumleli-estrutur#nafalelexili_jumlemon) en Estructura de la oración.
 
 _Etimología de **na**: griego (να “na”), hindi (-ना “-na”)_
 
-## Oraciones subordinadas
+## Cláusulas subordinadas
 
-Como se mostró anteriormente, las cláusulas con _si_ en oraciones condicionales usan la forma lexicográfica del verbo. Sin embargo, no todas las oraciones que llevan una cláusula con _si_ son oraciones condicionales. A menos que la oración sea condicional, las cláusulas con _si_ se marcan con su tiempo verbal correspondiente.
+Como se vio arriba, las cláusulas de _si_ en las oraciones condicionales usan la forma de diccionario del verbo. Sin embargo, no toda oración que tiene una cláusula de _si_ es una oración condicional. A menos que la oración sea condicional, las cláusulas de _si_ se marcan para el tiempo. 
 
 **Eger mi xa yam pingo, mi xa no haji sen yamkal.**  
-Si me como la manzana (_en el futuro_), ya no tendré hambre.
+Si como la manzana (_en el futuro_), ya no tendré hambre.
 
 **Eger te le yam yusu pingo, kam yu xa sen gadibu?**  
-Si se comió tu manzana (_en el pasado_), ¿te enfadarás?
+Si se comió tu manzana (_en el pasado_), ¿estarás enojado?
 
 **Eger te yam yusu pingo, kam yu gadibucu?**  
 Si se come tus manzanas (_en general_), ¿te enojas?
 
 ### Oraciones con otras cláusulas subordinadas
 
-Además de **eger** (_si_), las cláusulas subordinadas pueden comenzar con otras conjunciones, como **denwatu hu** (_cuando_), **denloka hu** (_ddnde_), **koski** (_porque_), etc. Los marcadores de tiempo son obligatorios en todas estas cláusulas subordinadas.
+Además de **eger** (_si_), las cláusulas subordinadas pueden empezar con otras conjunciones, como **denwatu hu** (_cuando_), **denloka hu** (_donde_), **koski** (_porque_), etc. Los marcadores de tiempo son obligatorios en todas estas cláusulas subordinadas.

@@ -5,11 +5,11 @@ visible: true
 
 ## SVO
 
-El orden típico de las oraciones en Globasa es _Sujeto-Verbo-Objeto_.
+El orden de frase típico en Globasa es _sujeto-verbo-objeto_.
 
-<table style="ancho:100%">
+<table style="width:100%">
 <tbody><tr>
-<td colspan="3"><b>Estructura de oraciones SVO</b></td>
+<td colspan="3"><b>Estructura oracional SVO</b></td>
 </tr>
 <tr>
 <th>Sujeto</th>
@@ -18,66 +18,66 @@ El orden típico de las oraciones en Globasa es _Sujeto-Verbo-Objeto_.
 </tr>
 <tr>
 <td><b>patre</b><br>padre</td>
-<td><b>mwa</b><br>besa</td>
-<td><b>madre</b><br>madre</td>
+<td><b>mwa</b><br>besar</td>
+<td><b>matre</b><br>madre</td>
 </tr>
 <tr>
-<td colspan="3" style="font-size:125%;"><b>Patre mwa matre.</b><br>El padre besa a la madre.</td>
+<td colspan="3" style="font-size:125%;"><b>Patre mwa matre.</b><br>El padre besa a la madre. </td>
 </tr>
 </tbody></table>
 
-## Marcador del objeto directo <a id="partikul_el"></a>
+## Marcador de objeto directo <a id="partikul_el"></a>
 
-Además del orden S-V-O, Globasa permite otras dos opciones con el sujeto siempre antes del verbo: S-O-V y O-S-V. Este orden de oraciones flexible es posible gracias al marcador de objeto (_complemento verbal_) directo **el**, que esencialmente funciona como una preposición. Como se ilustra a continuación, **el** se usa con S-O-V y O-S-V, los cuales generalmente sólo se usan en poesía y letras de canciones.
+Además de S-V-O, Globasa permite otras dos opciones en las que el sujeto siempre precede al verbo: S-O-V y O-S-V. Este orden de frase flexible es posible gracias al marcador de objeto directo **el**, que funciona esencialmente como una preposición. Como se ilustra abajo, **el** se usa con S-O-V y O-S-V, que normalmente solo se emplean en poesía y en letras de canciones.
 
-* **Patre mwa matre.** - (S-V-O) El padre besa a la madre.  
-* **Patre el matre mwa.** - (S-O-V) El padre a la madre besa.  
-* **El matre patre mwa.** - (O-S-V) A la madre el padre besa.  
+* **Patre mwa matre.** - (S-V-O) El padre besa a la madre.
+* **Patre el matre mwa.** - (S-O-V) El padre besa a la madre.
+* **El matre patre mwa.** - (O-S-V) El padre besa a la madre.  
 
 _Etimología de **el**: coreano (을 “eul”), hebreo (אֵת “et”)_
 
 ## Cópula
 
-El verbo **sen** (_ser/estar_), conocido como _cópula_, funciona como marcador de predicado con todo tipo de oraciones excepto en oraciones de predicado con sintagmas verbales, vinculando el sujeto con sintagmas nominales, sintagmas verbales en infinitivo, sintagmas adjetivos, sintagmas preposicionales y cláusulas.
+El verbo **sen** (_ser/estar_), conocido como _cópula_, funciona como marcador de predicado con frases distintas de las frases verbales predicativas, enlazando el sujeto con frases nominales, frases verbales nominales (de infinitivo), frases adjetivas, frases preposicionales y cláusulas.
 
-<table style="ancho:100%">
+<table style="width:100%">
 <tbody><tr>
-<td colspan="3"><b>Estructuras de oraciones con cópula</b></td>
+<td colspan="3"><b>Estructuras oracionales con cópula</b></td>
 </tr>
 <tr>
 <th>Sujeto</th>
 <th>Cópula</th>
-<th>Sintagma nominal</th>
+<th>Frase nominal</th>
 </tr>
 <tr>
-<td><b>nini</b><br>niño/-a</td>
-<td><b>sen</b><br>es</td>
-<td><b>misu bete</b><br>mi hijo/-a</td>
+<td><b>nini</b><br>niño (chico o chica)</td>
+<td><b>sen </b><br>es</td>
+<td><b>misu bete</b><br>mi hijo/a</td>
 </tr>
 <tr>
-<td colspan="3" style="font-size:125%;"><b>Nini sen misu bete.</b><br>El/la niño/-a es mi hijo/-a. </td>
+<td colspan="3" style="font-size:125%;"><b>Nini sen misu bete.</b><br>El niño es mi hijo/a. </td>
 </tr>
 <tr>
 <th>Sujeto</th>
 <th>Cópula</th>
-<th>Sintagma verbal en infinitivo</th>
+<th>Frase verbal de infinitivo</th>
 </tr>
 <tr>
-<td><b>cele</b><br>objetivo</td>
+<td><b>cele</b><br>meta</td>
 <td><b>sen</b><br>es</td>
 <td><b>na triunfa</b><br>ganar<br></td>
 </tr>
 <tr>
-<td colspan="3" style="font-size:125%;"><b>Cele sen na triunfa.</b><br>El objetivo es ganar. </td>
+<td colspan="3" style="font-size:125%;"><b>Cele sen na triunfa.</b><br>La meta es ganar. </td>
 </tr>
 <tr>
 <th>Sujeto</th>
 <th>Cópula</th>
-<th>Sintagma Adjetivo</th>
+<th>Frase adjetiva</th>
 </tr>
 <tr>
 <td><b>uma</b><br>caballo</td>
-<td><b>sen</b><br>es</td>
+<td><b>sen </b><br>es</td>
 <td><b>perfetomo syahe</b><br>perfectamente negro<br></td>
 </tr>
 <tr>
@@ -86,15 +86,15 @@ El verbo **sen** (_ser/estar_), conocido como _cópula_, funciona como marcador 
 <tr>
 <th>Sujeto</th>
 <th>Cópula</th>
-<th>Sintagma preposicional</th>
+<th>Frase preposicional</th>
 </tr>
 <tr>
 <td><b>myaw</b><br>gato</td>
 <td><b>sen</b><br>está</td>
-<td><b>en sanduku</b><br>en la caja</td>
+<td><b>in sanduku</b><br>en la caja</td>
 </tr>
 <tr>
-<td colspan="3" style="font-size:125%;"><b>Myaw sen en sanduku.</b><br>El gato está en la caja.</td>
+<td colspan="2" style="font-size:125%;"><b>Myaw sen in sanduku.</b><br>El gato está en la caja.</td>
 </tr>
 <tr>
 <th>Sujeto</th>
@@ -103,7 +103,7 @@ El verbo **sen** (_ser/estar_), conocido como _cópula_, funciona como marcador 
 </tr>
 <tr>
 <td><b>yusu problema</b><br>tu problema</td>
-<td><b>sen</b><br>es</td>
+<td><b>sen </b><br>es</td>
 <td><b>ki yu godo fikir</b><br>que piensas demasiado<br></td>
 </tr>
 <tr>
@@ -111,154 +111,154 @@ El verbo **sen** (_ser/estar_), conocido como _cópula_, funciona como marcador 
 </tr>
 </tbody></table>
 
-Las palabras de interrogación **keloka** y **kewatu** así como todos sus correlativos también se vinculan con sujetos usando la _cópula_.
+Las palabras interrogativas **keloka** y **kewatu**, así como todos sus correlativos, también se enlazan con los sujetos mediante la _cópula_.
 
-**Myaw sen keloka?**   
+**Myaw sen keloka?**  
 ¿Dónde está el gato?
 
 **Filme sen kewatu?**  
 ¿Cuándo es la película?
 
-En el lenguaje informal, la cópula puede omitirse al vincular sintagmas adjetivos.
+En el lenguaje informal, la cópula puede omitirse al enlazar frases adjetivas.
 
-**Uma (sen) perfetomo syahe.**  
-El caballo es perfectamente negro.
+**Uma (sen) perfetomo syahe.**   
+El caballo es perfectamente negro. 
 
-## Sintagmas verbales en infinitivo <a id="nafalelexili_jumlemon"></a>
+## Frases verbales de infinitivo <a id="nafalelexili_jumlemon"></a>
 
-Los sintagmas verbales en infinitivo van marcados con la partícula **na** seguida del verbo. Éstas se utilizan en las siguientes estructuras de oraciones.
+Las frases verbales de infinitivo se marcan con la partícula **na** seguida del verbo. Se usan en las siguientes estructuras oracionales.
 
-### Complementos de sustantivo y verbo
+### Complementos nominales y verbales
 
-La forma verbal en infinitivo debe usarse en complementos de sustantivo y verbo (transitivo, intransitivo o _estativo_).
+La forma de infinitivo del verbo debe usarse en los complementos nominales y verbales (transitivos, intransitivos o _de estado_).
 
 * Complementos verbales
 
-**Mi suki na lala.**    
+**Mi suki na lala.**  
 Me gusta cantar.
 
-**Mi musi na ergo.**    
+**Mi musi na ergo.**  
 Debo trabajar. _o_ Tengo que trabajar.
 
-**Mi no abil na danse.**    
+**Mi no abil na danse.**  
 No puedo bailar.
 
-**Gitara sen asan na soti.**    
+**Gitara sen asan na sotigi.**   
 La guitarra es fácil de tocar.
 
-**Mi sen jumbi na idi.**    
-Estoy listo para irme.
+**Mi sen jumbi na idi.**   
+Estoy listo para ir.
 
-* Complementos de sustantivo
+* Complementos nominales
 
 **misu xiwon na oko yu** - mi deseo de verte
 
-### Sintagmas verbales nominales
+### Frases verbales nominales
 
-Los sintagmas verbales que funcionan en lugar de los sintagmas nominales se conocen como _frases verbales nominales_ y requieren la forma verbal en infinitivo.
+Las frases verbales que funcionan en lugar de frases nominales se conocen como _frases verbales nominales_ y requieren la forma de infinitivo del verbo.
 
-* Oraciones con _cópula_ (**sen**), como se muestra arriba:
+* Con oraciones de _cópula_ (**sen**), como se mostró arriba:
 
-**Cele sen na triunfa.**    
-El objetivo es ganar.
+**Cele sen na triunfa.**  
+La meta es ganar.
 
-En estas oraciones, los sintagmas verbales de sujeto en infinitivo se pueden mover al final de la oración. Sin embargo, el pronombre **to** debe tomar el lugar del sintagma verbal en infinitivo y se debe agregar una coma antes del sintagma reubicado.
+En estas oraciones, las frases verbales de infinitivo en función de sujeto pueden trasladarse al final de la oración. Sin embargo, el pronombre **to** debe ocupar el lugar de la frase verbal de infinitivo.
 
-**Na sen nensabar sen problema.**    
-Ser impaciente es un problema.  
+**Na sen nensabar sen problema.**   
+Ser impaciente es un problema.    
 _o_  
-**To sen problema, na sen nensabar.**    
+**To sen problema na sen nensabar.**   
 Es un problema ser impaciente.
 
-**Na soti gitara sen asan.**  
+**Na sotigi gitara sen asan.**    
 Tocar la guitarra es fácil.    
-_o_    
-**To sen asan, na soti gitara.**  
+_o_   
+**To sen asan na sotigi gitara.**    
 Es fácil tocar la guitarra.
 
-**Na suyon in bahari sen amusane.**  
-Nadar en el mar es divertido.  
+**Na suyon in bahari sen amusane.**    
+Nadar en el mar es divertido.    
 _o_  
-**To sen amusane, na suyon in bahari.**  
-Es divertido nadar en el mar.  
+**To sen amusane na suyon in bahari.**    
+Es divertido nadar en el mar.
 
-* Complemento de una preposición:
+* Como complemento de una preposición:
 
 **fe tayti fe na danse** - en lugar de bailar
 
-**Te le sokutu dur na danse.**  
-Se cayó mientras bailaba.  
+**Te le sokutu dur na danse.**    
+Se cayó mientras bailaba.
 
-**Fe na doxo, nini le xorsomno.**  
-Leyendo/Al leer, el niño se quedó dormido.  
+**Fe na doxo, nini le xorsomno.**    
+Leyendo, el niño se durmió.
 
-## Sintagmas preposicionales <a id="plasilexili_jumlemon"></a>
+## Frases preposicionales <a id="plasilexili_jumlemon"></a>
 
-Globasa, como la mayoría de los lenguajes SVO, utiliza preposiciones en lugar de [postposiciones](https://es.wikipedia.org/wiki/Adposici%C3%B3n). Las frases preposicionales siempre siguen inmediatamente a las frases nominales que modifican.
+El Globasa, como la mayoría de las lenguas SVO, usa preposiciones en lugar de [posposiciones](https://es.wikipedia.org/wiki/Adposici%C3%B3n). Las frases preposicionales siempre van inmediatamente después de las frases nominales que modifican.
 
-**Myaw _en sanduku_ somno.**  
-El gato _en la caja_ está durmiendo.
+**Myaw _in sanduku_ somno.**  
+El gato _en la caja_ duerme.  
 
-Las frases preposicionales que modifican verbos cuentan con un orden de palabras relativamente libre y se pueden mover a cualquier parte de la oración. Cuando se mueven antes del verbo, las comas se usan como se ve a continuación.
+Las frases preposicionales que modifican verbos gozan de un orden de palabras relativamente libre y pueden trasladarse a cualquier parte de la oración. Cuando se colocan antes del verbo, se usan comas, como se ve abajo. 
 
-**Myaw yam _en sanduku_ maux.**  
-**Myaw yam maux _en sanduku_.**  
-**Myaw, _en sanduku_, yam maux.**  
-**_En sanduku,_ myaw yam maux.**  
-El gato se come al ratón _en la caja_.
+**Myaw yam _in sanduku_ maux.**    
+**Myaw yam maux _in sanduku_.**   
+**Myaw, _in sanduku_, yam maux.**   
+**_In sanduku,_ myaw yam maux.**  
+El gato come el ratón _en la caja_.
 
-Para indicar la posición sin referencia a la ubicación, las preposiciones se convierten en sustantivos agregando **-ya** para formar sintagmas preposicionales con **fe**.
+Para indicar posición sin referencia a un lugar, las preposiciones se convierten en sustantivos añadiendo **-ya**, formando frases preposicionales con **fe**.
 
 **Myaw sen _fe inya._**  
-El gato está _adentro_.
+El gato está _dentro_.
 
-**Myaw _fe inya_ somno.**  
-El gato _dentro_ está durmiendo.
+**Myaw _fe inya_ somno.**    
+El gato _de dentro_ duerme.
 
-**_Fe inya_, myaw somno.**  
-_Adentro_, el gato está durmiendo.
+**_Fe inya_, myaw somno.**    
+_Dentro_, el gato duerme.
 
 ### Objeto indirecto
 
-El objeto indirecto siempre se marca con la preposición **tas** (a, para). Las sintagams de objeto indirecto, como los sintagmas de objeto directo marcados con **el**, se pueden mover sin necesidad de indicar el movimiento mediante comas.
+El objeto indirecto siempre se marca con la preposición **tas** (a, para). Las frases de objeto indirecto, al igual que las frases de objeto directo marcadas con **el**, pueden trasladarse sin necesidad de indicar el movimiento con comas.
 
-**Mi gibe kitabu _tas nini_.**  
-Le doy el libro _al niño_.
+**Mi gibe kitabu _tas nini_.**    
+Doy el libro _al niño_.
 
-**Mi gibe _tas nini_ kitabu.**  
-Le doy _al niño_ el libro.  
+**Mi gibe _tas nini_ kitabu.**    
+Doy _al niño_ el libro.
 
-**Mi gibe kitabu _tas te_.**  
-Le doy el libro _a él_.
+**Mi gibe kitabu _tas te_.**    
+Doy el libro _a ella/él_.
 
-**Mi gibe _tas te_ kitabu.**  
-Le doy a _él_ el libro.
+**Mi gibe _tas te_ kitabu.**    
+Doy _a ella/él_ el libro.
 
-**Mi gibe to _tas nini_.**  
-Se lo doy _al niño_.
+**Mi gibe to _tas nini_.**    
+Lo doy _al niño_.
 
-**Mi gibe to _tas te_.**  
-Yo se lo doy _a él_.
+**Mi gibe to _tas te_.**    
+Lo doy _a ella/él_.
 
-**_Tas nini_ mi gibe kitabu.**  
+**_Tas nini_ mi gibe kitabu.**    
 _Al niño_ le doy un libro.
 
-**_Tas te_ mi gibe to.**  
-_A él_ se lo doy.
+**_Tas te_ mi gibe to.**    
+_A ella/él_ se lo doy.
 
 ### Locuciones preposicionales
 
-Globasa cuenta con una serie de locuciones preposicionales de ubicación compuestas con **fe** seguido de un sustantivo seguido de **de**.
+El Globasa usa varias locuciones preposicionales formadas por **fe** seguido de un sustantivo y luego **de**. 
 
 **Baytu _fe kapi de_ liljabal sen kimapul.**  
-Las casas _en lo alto del_ cerro son caras.
+Las casas _encima de_ la colina son caras. 
 
-Para indicar la posición sin referencia a la ubicación, dichas locuciones preposicionales simplemente eliminan la palabra **de**.
+Para indicar posición sin referencia a un lugar, las locuciones preposicionales simplemente omiten **de**.
 
 **Baytu _fe kapi_ sen kimapul.**  
-Las casas _arriba_ son caras.
+Las casas _de arriba_ son caras.
 
-**_Fe kapi_, baytu sen kimapul.**  
+**_Fe kapi_, baytu sen kimapul.**   
 _Arriba_, las casas son caras.
 
 **Kimapul baytu sen _fe kapi_.**  
@@ -266,16 +266,16 @@ Las casas caras están _arriba_.
 
 ## Verbos preposicionales <a id="plasilexili_falelexi"></a>
 
-En Globasa, las preposiciones se pueden convertir en verbos mediante el sufijo **-ya** como alternativa a vincular sintagmas preposicionales con sujetos mediante el uso de la cópula, como se explicó anteriormente.  
+En Globasa, las preposiciones pueden convertirse en verbos con el sufijo **-ya**, como alternativa a enlazar frases preposicionales con los sujetos mediante la cópula, como se vio arriba. 
 
-<table style="ancho:100%">
+<table style="width:100%">
 <tbody><tr>
-<td colspan="3"><b>Estructura de oraciones con verbo preposicional </b></td>
+<td colspan="3"><b>Estructura oracional con verbo preposicional </b></td>
 </tr>
 <tr>
 <th>Sujeto</th>
 <th>Verbo preposicional</th>
-<th>Sintagma nominal</th>
+<th>Frase nominal</th>
 </tr>
 <tr>
 <td><b>myaw</b><br>gato</td>
@@ -287,137 +287,135 @@ En Globasa, las preposiciones se pueden convertir en verbos mediante el sufijo *
 </tr>
 </tbody></table>
 
-Los verbos preposicionales pueden ir o no ir seguidos del sintagma nominal.
+Los verbos preposicionales pueden ir seguidos o no de una frase nominal.
 
-**Myaw inya.**  
-El gato está dentro.
+**Myaw inya.**      
+El gato está dentro. 
 
-Los sustantivos que aparecen en locuciones preposicionales también pueden usarse como verbos de la misma manera que los verbos preposicionales.
+Los sustantivos que se usan en las locuciones preposicionales también pueden usarse como verbos, igual que los verbos preposicionales.
 
-**Myaw ruke sanduku.**  
+**Myaw ruke sanduku.**      
 El gato está detrás de la caja.
 
-**Myaw ruke.**  
-El gato está atrás.
+**Myaw ruke.**      
+El gato está detrás.
 
 ### leya y xaya
 
-Los sustantivos **leya** y **xaya** también funcionan como contrapartes verbales de las preposiciones **lefe** y **xafe**. Es decir, no se usan _lefeya_ y _xafeya_, al igual que se usan **leli** y **xali** en lugar de _lefeli_ y _xafeli_.
+Los sustantivos **leya** y **xaya** también funcionan como las contrapartes verbales de las preposiciones **lefe** y **xafe**. En otras palabras, no se usan _lefeya_ ni _xafeya_, igual que se usan **leli** y **xali** en lugar de _lefeli_ y _xafeli_.
 
-* **leya** - (n) el pasado; (v) estar/venir antes, preceder  
-* **xaya** - (n) el futuro; (v) estar/venir después, seguir
+* **leya** - (s) el pasado; (v) estar antes, ir antes, preceder
+* **xaya** - (s) el futuro; (v) estar después, ir después, seguir
 
 ## hay
 
-El verbo **hay** se usa para expresar _haber/hay_. El sujeto de **hay** puede venir antes o después del verbo. 
+El verbo **hay** se usa para expresar existencia; equivale al _hay_ del español. Es el único verbo en Globasa que permite que el sujeto vaya antes o después del verbo. En las distintas lenguas, el sujeto del equivalente de **hay** suele ir después del verbo. 
 
-**Hay multi kitabu en kitabudom.**  
+**Multi kitabu hay in kitabudom.**   
 _o_  
-**Hay multi kitabu en kitabudom.**  
+**Hay multi kitabu in kitabudom.**     
 Hay muchos libros en la biblioteca.
 
-El verbo **hay** también se usa en oraciones relacionadas con las condiciones atmosféricas, como las siguientes:
+El verbo **hay** también se usa en oraciones relacionadas con condiciones atmosféricas, como las siguientes:
 
-**Hay barix.** o **To barix.**  
-"Hay lluvia." o "Llueve".  
-Está lloviendo.  
+**Hay barix.** o **To barix.**   
+"Hay lluvia." o "Llueve."   
+Está lloviendo.
 
-**Hay termo.** o **To sen termopul.**  
-"Hay calor". o "Está caluroso".  
-Hace calor. 
+**Hay termo.** o **To sen termopul.**    
+"Hay calor." o "Está caluroso."   
+Hace calor.
 
-## Conjunción ki
+## La conjunción ki
 
-La conjunción **ki** se utiliza cuando una cláusula (_una oración dentro de la oración principal_) funciona en lugar del objeto directo o del sujeto.
+La conjunción **ki** se usa cuando una cláusula (_una oración insertada en la oración principal_) funciona en lugar del objeto directo o del sujeto.
 
 ### Cláusula en lugar del objeto directo
 
-<table style="ancho:100%">
+<table style="width:100%">
 <tbody><tr>
-<td colspan="2"><b>Estructura de oración con cláusula en lugar del objeto directo</b></td>
+<td colspan="2"><b>Estructura oracional con cláusula en lugar del objeto directo</b></td>
 </tr>
 <tr>
-<th>Sujeto y Verbo</th>
+<th>Sujeto y verbo</th>
 <th>Cláusula en lugar del objeto directo</th>
 </tr>
 <tr>
-<td><b>mi jixi</b><br>Yo sé</td>
-<td><b>ki yu le xuli mobil</b><br>que reparaste coche</td>
+<td><b>mi jixi</b><br>yo sé</td>
+<td><b>ki yu le xuli mobil</b><br>(que) tú reparaste auto</td>
 </tr>
 <tr>
-<td colspan="3" style="font-size:125%;"><b>Mi jixi ki yu le xuli mobil.</b><br>Yo sé que reparaste el auto. </td>
+<td colspan="3" style="font-size:125%;"><b>Mi jixi ki yu le xuli mobil.</b><br>Sé (que) reparaste el auto. </td>
 </tr>
 </tbody></table>
 
 ### Cláusula en lugar del sujeto
 
-<table style="ancho:100%">
+<table style="width:100%">
 <tbody><tr>
-<td colspan="2"><b>Estructura de oración con cláusula en lugar del sujeto</b></td>
+<td colspan="2"><b>Estructura oracional con cláusula en lugar del sujeto</b></td>
 </tr>
 <tr>
 <th>Cláusula en lugar del sujeto</th>
 <th>Predicado</th>
 </tr>
 <tr>
-<td><b>ki yu le xuli mobil </b><br>Que reparaste el coche </td>
+<td><b>ki yu le xuli mobil </b><br>Que reparaste el auto </td>
 <td><b>no surprisa mi</b><br>no me sorprende</td>
 </tr>
 <tr>
-<td colspan="3" style="font-size:125%;"><b>Ki yu le xuli mobil no surprisa mi.</b><br>Que hayas reparado el auto no me sorprende. </td>
+<td colspan="3" style="font-size:125%;"><b>Ki yu le xuli mobil no surprisa mi.</b><br>Que reparaste el auto no me sorprende. </td>
 </tr>
 </tbody></table>
 
-Las cláusulas de sujeto con **ki** se pueden mover al final de la oración. Sin embargo, el pronombre **to** debe tomar el lugar de la cláusula **ki** y debe agregarse una coma antes de dicha frase.
+Las cláusulas de **ki** en función de sujeto pueden trasladarse al final de la oración. Sin embargo, el pronombre **to** debe ocupar el lugar de la cláusula de **ki** y debe añadirse una coma antes de dicha frase.
 
-**To no surprisa mi, ki yu le xuli mobil.**  
+**To no surprisa mi, ki yu le xuli mobil.**    
 No me sorprende que hayas reparado el auto.
 
-## Preguntas
+## Preguntas 
 
-En Globasa, el orden de las palabras de las oraciones interrogativas es el mismo que el de las oraciones declarativas correspondientes.
+En Globasa, el orden de palabras de las oraciones interrogativas es el mismo que el de sus oraciones enunciativas correspondientes. 
 
-### Preguntas _sí/no_
+### Preguntas de sí/no
 
-Las preguntas sí/no se forman agregando la partícula **kam** al comienzo de la oración declarativa correspondiente. Los siguientes pares de oraciones ilustran: (1) oración declarativa y (2) pregunta sí/no.
+Las preguntas de sí/no se forman añadiendo la partícula **kam** al inicio de la oración enunciativa correspondiente a la pregunta. Esto se ilustra en los siguientes pares de oraciones con (1) una oración enunciativa y (2) la pregunta de sí/no correspondiente. 
 
 (1) **Yu sen yamkal.**  
 Tienes hambre.
 
-(2) **Kam yu sen yamkal?**    
+(2) **Kam yu sen yamkal?**  
 ¿Tienes hambre?
 
 (1) **Yu yam mahimaso.**  
 Comes pescado.
 
-(2) **Kam yu yam mahimaso?**    
+(2) **Kam yu yam mahimaso?**  
 ¿Comes pescado?
 
-### Preguntas _qu-_ <a id="swal_yon_ke-"></a>
+### Preguntas con ke- <a id="swal_yon_ke-"></a>
 
-Del mismo modo, las preguntas qu- conservan el orden típico de las palabras. El siguiente par de ejemplos de oraciones lo ilustra con (1) una pregunta cuyo orden de palabras refleja el mismo orden de palabras de (2) una posible respuesta.
-
-(1) **Yusu name sen keto?**  
-"¿Tu nombre es que?"  
+Del mismo modo, las preguntas con **ke-** conservan el orden de palabras habitual. Esto se ilustra en el siguiente par de oraciones de ejemplo con (1) una pregunta cuyo orden de palabras refleja el de (2) una posible respuesta.  
+(1) **Yusu name sen keto?**    
+"¿Tu nombre es qué?"    
 ¿Cuál es tu nombre?
 
-(2) **Misu name sen Roberto.**  
-"Mi nombre es Roberto."  
-Me llamo Roberto.
+(2) **Misu name sen Robert.**    
+Mi nombre es Robert.
 
-(1) **Yu sen kepul?**  
-"¿Tú estás como?"  
+(1) **Yu sen kepul?**    
+"¿Tú estás cómo?"    
 ¿Cómo estás?
 
 (2) **Mi sen bon.**    
 Estoy bien.
 
-(1) **Parti xa okur keloka?**  
-"¿La fiesta sucederá dónde?"  
-¿Dónde se llevará a cabo la fiesta?
+(1) **Parti xa okur keloka?**    
+"¿La fiesta ocurrirá dónde?"    
+¿Dónde tendrá lugar la fiesta?
 
-(2) **Parti xa okur in misu preferido restoran.**  
-La fiesta tendrá lugar en mi restaurante favorito. 
+(2) **Parti xa okur in misu preferido restoran.**    
+La fiesta tendrá lugar en mi restaurante favorito.
 
 ### Preguntas con dos puntos
 
@@ -428,5 +426,5 @@ Las preguntas con dos puntos en Globasa son las siguientes.
 ¿Te gusta el café o el té?
 
 **Yu ogar keloka: in Barati or Indonesi?**  
-"¿Dónde vives: en India o Indonesia?"  
-¿Vives en la India o en Indonesia?  
+"¿Tú vives dónde: en la India o en Indonesia?"  
+¿Vives en la India o en Indonesia?

@@ -140,7 +140,7 @@ Vortoj por metrikaj mezuroj uzas entjerajn kaj frakciajn numeralojn kiel prefiks
 **limaple** - kvinobla  
 **sisaple** - sesobla, ktp.
 
-## Monatoj  
+## Monatoj
 
 **mesi 1 (mesi un)** - januaro  
 **mesi 2 (mesi dua)** - februaro  
