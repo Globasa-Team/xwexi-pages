@@ -1,9 +1,9 @@
 ---
 title: Gramática
-media_order: 'ENG_Kompleto Gramati fe Globasa_mesi 11 nyan 2025.pdf,SPA_Kompleto Gramati fe Globasa_mesi 11 nyan 2025.pdf'
+media_order: 'ENG_KompletoGramati_mesi7_nyan2026.pdf, EPO_KompletoGramati_mesi8_nyan2026.pdf, SPA_KompletoGramati_mesi8_nyan2026.pdf'
 ---
 
-Descargue el PDF de [_Gramática completa del Globasa_](SPA_Kompleto%20Gramati%20fe%20Globasa_mesi%203%20nyan%202026.pdf).
+Descargue el PDF de [_Gramática completa del Globasa_](SPA_KompletoGramati_mesi8_nyan2026.pdf).
 
 Gramática completa del Globasa:
 * [Alfabeto y pronunciación](abece-ji-lafuzu)

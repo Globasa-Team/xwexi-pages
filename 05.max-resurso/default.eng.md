@@ -4,7 +4,7 @@ title: 'More Resources'
 
 ## Vocabulary
 
-[500 Most Fequently Used Roots and Affixes](https://docs.google.com/spreadsheets/d/1Sxc95N4zXtAIu39j7UcruJCDe0u1h-ZGDXYDJ5qx-3g/edit?gid=0#gid=0)
+[500 Most Frequently Used Roots and Affixes](https://docs.google.com/spreadsheets/d/1Sxc95N4zXtAIu39j7UcruJCDe0u1h-ZGDXYDJ5qx-3g/edit?gid=0#gid=0)
 
 ## Grammar
 
@@ -30,7 +30,7 @@ title: 'More Resources'
 
 [Translating -ing words](https://www.reddit.com/r/Globasa/comments/1qt7zwc/translating_ing_words/)
 
-####  Content Words
+#### Content Words
 
 [Focusing adverbs: in particular, especially, mainly, etc.](https://www.reddit.com/r/Globasa/comments/1nqeaor/focusing_adverbs_in_particular_especially_mainly/)
 
@@ -92,7 +92,7 @@ title: 'More Resources'
 
 [Derivation with **-fil**](https://www.reddit.com/r/Globasa/comments/1iywb5d/derivation_with_fil/)
 
-[**-day** and **-lil** as compound words](https://www.reddit.com/r/Globasa/comments/1ioyee3/day_and_lil_as_compound_roots/)
+[**-day** and **-lil** as compound roots](https://www.reddit.com/r/Globasa/comments/1ioyee3/day_and_lil_as_compound_roots/)
 
 [Broad view of Globasa's word derivation theory: **-yen** as a case study](https://www.reddit.com/r/Globasa/comments/1ijd16a/broad_view_of_globasas_word_derivation_theory_yen/)
 
@@ -114,4 +114,4 @@ title: 'More Resources'
 
 ## Text
 
-[Text Check](https://conlang-checker.vercel.app/) - Enter any text in Globasa to check spelling as well as dictionary translations for words at hover. 
+[Text Check](https://conlang-checker.vercel.app/) - Enter any text in Globasa to check spelling as well as dictionary translations for words on hover.

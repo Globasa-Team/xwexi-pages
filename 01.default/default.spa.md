@@ -6,7 +6,7 @@ metadata:
 
 Globasa es el producto de un elaborado experimento mental. Visualiza el resultado lingüístico de un escenario hipotético en el que 1000 personas de todo el mundo son seleccionadas al azar para habitar permanentemente en una isla. ¿Cómo sería el idioma de dicha comunidad dentro de tres generaciones? Ésta es la _visión guía_ de Globasa.
 
-El diseño de Globasa es principalmente el trabajo de un lingüista, traductor y experto en la adquisición y enseñanza de idiomas para adultos. Ha sido creado pensando en el ciudadano promedio del mundo para que sea lo más fácil posible de aprender y usar sin sacrificar la claridad y el grado de expresividad. Su diseño, que recuerda a las lenguas criollas del mundo, es el resultado de los siguientes principios rectores:
+El diseño de Globasa es principalmente el trabajo de un lingüista, traductor y experto en la adquisición y enseñanza de idiomas para adultos. Ha sido creado pensando en el ciudadano medio del mundo para que sea lo más fácil posible de aprender y usar sin sacrificar claridad ni expresividad. Su diseño, que recuerda a las lenguas criollas del mundo, es el resultado de los siguientes principios rectores:
 
 * Simplicidad óptima con el objetivo de máxima capacidad de aprendizaje y facilidad de uso tanto para el hablante como para el oyente
 * Equilibrio óptimo entre parámetros lingüísticos opuestos

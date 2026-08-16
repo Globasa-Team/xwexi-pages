@@ -4,638 +4,232 @@ title: 'Frases y expresiones comunes'
 
 ## Saludos
 
-**salom** - hola
-<audio controls>
-  <source src="/pimpan-logaxey/salom.mp3" type="audio/mp3" />
-  <p>Su agente de usuario no es compatible con el elemento de audio HTML5.</p>
-</audio>
-**xanti** - hola ("paz")
-<audio controls>
-<source src="/pimpan-logaxey/xanti.mp3" type="audio/mp3" />
-  <p>Su agente de usuario no es compatible con el elemento de audio HTML5.</p>
-</audio>
-**bonsoba** - buenos días
-<audio controls>
-<source src="/pimpan-logaxey/bonsoba.mp3" type="audio/mp3" />
-  <p>Su agente de usuario no es compatible con el elemento de audio HTML5.</p>
-</audio>
-**bonnuru** - buenos días/tardes
-  <audio controls>
-  <source src="/pimpan-logaxey/bonnuru.mp3" type="audio/mp3" />
-  <p>Su agente de usuario no es compatible con el elemento de audio HTML5.</p>
-</audio>
-**bonaxam** - buenas tardes/noches
-  <audio controls>
-  <source src="/pimpan-logaxey/bonaxam.mp3" type="audio/mp3" />
-  <p>Su agente de usuario no es compatible con el elemento de audio HTML5.</p>
-</audio>
-**bonnoce** - buenas noches
-  <audio controls>
-  <source src="/pimpan-logaxey/bonnoce.mp3" type="audio/mp3" />
-  <p>Su agente de usuario no es compatible con el elemento de audio HTML5.</p>
-</audio>
+[**salom**](salom.mp3) - hola
+
+[**xanti**](xanti.mp3) - hola ("paz")
+
+[**bonsoba**](bonsoba.mp3) - buenos días
+
+[**bonnuru**](bonnuru.mp3) - buenas tardes
+
+[**bonaxam**](bonaxam.mp3) - buenas noches
+
+[**bonnoce**](bonnoce.mp3) - buenas noches
 
 ## Despedidas
 
-**weda** - adiós
-<audio controls>
-  <source src="/pimpan-logaxey/weda.mp3" type="audio/mp3" />
-  <p>Su agente de usuario no es compatible con el elemento de audio HTML5.</p>
-</audio>
-**xanti** - adiós ("paz")
-<audio controls>
-  <source src="/pimpan-logaxey/xanti.mp3" type="audio/mp3" />
-  <p>Su agente de usuario no es compatible con el elemento de audio HTML5.</p>
-</audio>
-**finfe (rioko)** - nos vemos
-<audio controls>
-  <source src="/pimpan-logaxey/finfe_rioko.mp3" type="audio/mp3" />
-  <p>Su agente de usuario no es compatible con el elemento de audio HTML5.</p>
-</audio>
-**finfe xaya** - hasta luego
-<audio controls>
-  <source src="/pimpan-logaxey/finfe_xaya.mp3" type="audio/mp3" />
-  <p>Su agente de usuario no es compatible con el elemento de audio HTML5.</p>
-</audio>
-**finfe ner xaya** - hasta pronto
-<audio controls>
-  <source src="/pimpan-logaxey/finfe_ner_xaya.mp3" type="audio/mp3" />
-  <p>Su agente de usuario no es compatible con el elemento de audio HTML5.</p>
-</audio>
-**bon soba** - buenos días
-<audio controls>
-  <source src="/pimpan-logaxey/bon_soba.mp3" type="audio/mp3" />
-  <p>Su agente de usuario no es compatible con el elemento de audio HTML5.</p>
-</audio>
-**bon nuru** - buenos días/tardes
-<audio controls>
-  <source src="/pimpan-logaxey/bon_nuru.mp3" type="audio/mp3" />
-  <p>Su agente de usuario no es compatible con el elemento de audio HTML5.</p>
-</audio>
-**bon axam** - buenas tardes/noches
-<audio controls>
-  <source src="/pimpan-logaxey/bon_axam.mp3" type="audio/mp3" />
-  <p>Su agente de usuario no es compatible con el elemento de audio HTML5.</p>
-</audio>
-**bon noce** - buenas noches
-<audio controls>
-  <source src="/pimpan-logaxey/bon_noce.mp3" type="audio/mp3" />
-  <p>Su agente de usuario no es compatible con el elemento de audio HTML5.</p>
-</audio>
+[**weda**](weda.mp3) - adiós
+
+[**xanti**](xanti.mp3) - adiós ("paz")
+
+[**finfe (rioko)**](finfe_rioko.mp3) - nos vemos
+
+[**finfe xaya**](finfe_xaya.mp3) - hasta luego
+
+[**finfe ner xaya**](finfe_ner_xaya.mp3) - hasta pronto
+
+[**bon soba**](bon_soba.mp3) - buenos días
+
+[**bon nuru**](bon_nuru.mp3) - buenas tardes
+
+[**bon axam**](bon_axam.mp3) - buenas noches
+
+[**bon noce**](bon_noce.mp3) - buenas noches
 
 ## Otros buenos deseos
 
-Nota: Como se vio anteriormente, los saludos con **bon** (buen) se expresan como palabras compuestos, mientras que las despedidas se expresan como frases de dos palabras. En las siguientes expresiones, las palabras compuestas se usan cuando el hablante y el oyente permanecen juntos. Es por eso que las dos palabras raíz están juntas, combinadas en una sola palabra. Por el contrario, las frases de dos palabras se utilizan si el hablante o el oyente se apartan. Es por eso que las palabras raíz están separadas.
+Nota: como se ve arriba, los saludos con **bon** (bueno, bien) se expresan como compuestos, mientras que las despedidas se expresan como frases de dos palabras. En las siguientes expresiones, se usan compuestos cuando el hablante y el oyente permanecen juntos. Por eso, las dos palabras raíz van juntas, combinadas en una sola palabra. En cambio, se usan frases de dos palabras si el hablante o el oyente se marcha. Por eso, las palabras raíz van separadas.
 
-**bonata** _o_ **bon ata** - bienvenido
-<audio controls>
-  <source src="/pimpan-logaxey/bonata.mp3" type="audio/mp3" />
-  <p>Su agente de usuario no es compatible con el elemento de audio HTML5.</p>
-</audio>
-<audio controls>
-  <source src="/pimpan-logaxey/bon_ata.mp3" type="audio/mp3" />
-  <p>Su agente de usuario no es compatible con el elemento de audio HTML5.</p>
-</audio>
-**bonxanse** _o_ **bonxanse** - buena suerte
-<audio controls>
-  <source src="/pimpan-logaxey/bonxanse.mp3" type="audio/mp3" />
-  <p>Su agente de usuario no es compatible con el elemento de audio HTML5.</p>
-</audio>
-<audio controls>
-  <source src="/pimpan-logaxey/bon_xanse.mp3" type="audio/mp3" />
-  <p>Su agente de usuario no es compatible con el elemento de audio HTML5.</p>
-</audio>
-**bonyam** _o_ **bon yam** - buen provecho ("buena comida")
-<audio controls>
-  <source src="/pimpan-logaxey/bonyam.mp3" type="audio/mp3" />
-  <p>Su agente de usuario no es compatible con el elemento de audio HTML5.</p>
-</audio>
-<audio controls>
-  <source src="/pimpan-logaxey/bon_yam.mp3" type="audio/mp3" />
-  <p>Su agente de usuario no es compatible con el elemento de audio HTML5.</p>
-</audio>
-**bonglu** _o_ **bon glu** - salud ("buen trago")
-<audio controls>
-  <source src="/pimpan-logaxey/bonglu.mp3" type="audio/mp3" />
-  <p>Su agente de usuario no es compatible con el elemento de audio HTML5.</p>
-</audio>
-<audio controls>
-  <source src="/pimpan-logaxey/bon_glu.mp3" type="audio/mp3" />
-  <p>Su agente de usuario no es compatible con el elemento de audio HTML5.</p>
-</audio>
-**bonturi** _o_ **bon turi** - buen viaje
-<audio controls>
-  <source src="/pimpan-logaxey/bonturi.mp3" type="audio/mp3" />
-  <p>Su agente de usuario no es compatible con el elemento de audio HTML5.</p>
-</audio>
-<audio controls>
-  <source src="/pimpan-logaxey/bon_turi.mp3" type="audio/mp3" />
-  <p>Su agente de usuario no es compatible con el elemento de audio HTML5.</p>
-</audio>
+[**bonata**](bonata.mp3) _o_ [**bon ata**](bon_ata.mp3) - bienvenido/a
 
-## Expresiones de cortesía
+[**bonxanse**](bonxanse.mp3) _o_ [**bon xanse**](bon_xanse.mp3) - buena suerte
 
-**fe lutuf** - por favor
-<audio controls>
-  <source src="/pimpan-logaxey/fe_lutuf.mp3" type="audio/mp3" />
-  <p>Su agente de usuario no es compatible con el elemento de audio HTML5.</p>
-</audio>
-**xukra** - gracias
-<audio controls>
-  <source src="/pimpan-logaxey/xukra.mp3" type="audio/mp3" />
-  <p>Su agente de usuario no es compatible con el elemento de audio HTML5.</p>
-</audio>
-**multi xukra** - muchas gracias
-<audio controls>
-  <source src="/pimpan-logaxey/multi_xukra.mp3" type="audio/mp3" />
-  <p>Su agente de usuario no es compatible con el elemento de audio HTML5.</p>
-</audio>
-**no hay seba** o **wal seba** - de nada, no hay de qué ("no hay razón")  
+[**bonyam**](bonyam.mp3) _o_ [**bon yam**](bon_yam.mp3) - buen provecho ("buena comida")
 
-**asif** - lo siento
-<audio controls>
-  <source src="/pimpan-logaxey/asif.mp3" type="audio/mp3" />
-  <p>Su agente de usuario no es compatible con el elemento de audio HTML5.</p>
-</audio>
-**mafu** - perdón, disculpe
-<audio controls>
-  <source src="/pimpan-logaxey/mafu.mp3" type="audio/mp3" />
-  <p>Su agente de usuario no es compatible con el elemento de audio HTML5.</p>
-</audio>
+[**bonglu**](bonglu.mp3) _o_ [**bon glu**](bon_glu.mp3) - salud ("buena bebida")
+
+[**bonturi**](bonturi.mp3) _o_ [**bon turi**](bon_turi.mp3) - buen viaje
+
+## Cortesía
+
+[**fe lutuf**](fe_lutuf.mp3) _o_ [**fe peti**](fe_peti.mp3) - por favor
+
+[**xukra**](xukra.mp3) - gracias
+
+[**multi xukra**](multi_xukra.mp3) - muchas gracias
+
+[**no hay seba**](no_hay_seba.mp3) _o_ [**wal seba**](wal_seba.mp3) - de nada
+
+[**asif**](asif.mp3) - lo siento
+
+[**mafu**](mafu.mp3) - disculpe, perdón
 
 ## Otras interjecciones
-  
-**daybon** - grandioso
-<audio controls>
-  <source src="/pimpan-logaxey/daybon.mp3" type="audio/mp3" />
-  <p>Su agente de usuario no es compatible con el elemento de audio HTML5.</p>
-</audio>
-**melibon** - genial
-<audio controls>
-  <source src="/pimpan-logaxey/melibon.mp3" type="audio/mp3" />
-  <p>Su agente de usuario no es compatible con el elemento de audio HTML5.</p>
-</audio>
-**suprem** - súper
-<audio controls>
-  <source src="/pimpan-logaxey/suprem.mp3" type="audio/mp3" />
-  <p>Su agente de usuario no es compatible con el elemento de audio HTML5.</p>
-</audio>
-**otima** - excelente
-<audio controls>
-  <source src="/pimpan-logaxey/otima.mp3" type="audio/mp3" />
-  <p>Su agente de usuario no es compatible con el elemento de audio HTML5.</p>
-</audio>
-**afarin** - bien hecho, buen trabajo, bravo ("aplausos")
-<audio controls>
-  <source src="/pimpan-logaxey/afarin.mp3" type="audio/mp3" />
-  <p>Su agente de usuario no es compatible con el elemento de audio HTML5.</p>
-</audio>
-**hura** - hurra
-<audio controls>
-  <source src="/pimpan-logaxey/hura.mp3" type="audio/mp3" />
-  <p>Su agente de usuario no es compatible con el elemento de audio HTML5.</p>
-</audio>
-**ay** - ay
-<audio controls>
-  <source src="/pimpan-logaxey/ay.mp3" type="audio/mp3" />
-  <p>Su agente de usuario no es compatible con el elemento de audio HTML5.</p>
-</audio>
-**wao** - guau
-<audio controls>
-  <source src="/pimpan-logaxey/wao.mp3" type="audio/mp3" />
-  <p>Su agente de usuario no es compatible con el elemento de audio HTML5.</p>
-</audio>
 
-## Interjecciones de diálogo
+[**daybon**](daybon.mp3) - genial, excelente
 
-**o** - oh
-<audio controls>
-  <source src="/pimpan-logaxey/o.mp3" type="audio/mp3" />
-  <p>Su agente de usuario no es compatible con el elemento de audio HTML5.</p>
-</audio>
-**a** - ah
-<audio controls>
-  <source src="/pimpan-logaxey/a.mp3" type="audio/mp3" />
-  <p>Su agente de usuario no es compatible con el elemento de audio HTML5.</p>
-</audio>
-**nunto** - ahora (bien)  
+[**melibon**](melibon.mp3) - qué bonito, qué lindo
 
-**finto** - bueno (pues), pues, en fin  
+[**suprem**](suprem.mp3) - genial, estupendo
 
-**kos to** - de modo que, de manera que
+[**otima**](otima.mp3) - buenísimo
 
-**fe folo** - por lo tanto, en consecuencia, entonces
-<audio controls>
-  <source src="/pimpan-logaxey/fe_folo.mp3" type="audio/mp3" />
-  <p>Su agente de usuario no es compatible con el elemento de audio HTML5.</p>
-</audio>
-**fe fato** - de hecho, en realidad
-<audio controls>
-  <source src="/pimpan-logaxey/fe_fato.mp3" type="audio/mp3" />
-  <p>Su agente de usuario no es compatible con el elemento de audio HTML5.</p>
-</audio>
-**fe fini** - finalmente
-<audio controls>
-  <source src="/pimpan-logaxey/fe_fini.mp3" type="audio/mp3" />
-  <p>Su agente de usuario no es compatible con el elemento de audio HTML5.</p>
-</audio>
-**fe bonxanse** - afortunadamente, por fortuna
-<audio controls>
-  <source src="/pimpan-logaxey/fe_bonxanse.mp3" type="audio/mp3" />
-  <p>Su agente de usuario no es compatible con el elemento de audio HTML5.</p>
-</audio>
-**fe asif** - lamentablemente, desafortunadamente
-<audio controls>
-  <source src="/pimpan-logaxey/fe_asif.mp3" type="audio/mp3" />
-  <p>Su agente de usuario no es compatible con el elemento de audio HTML5.</p>
-</audio>
-**fe onxala** - ojalá
-<audio controls>
-  <source src="/pimpan-logaxey/fe_onxala.mp3" type="audio/mp3" />
-  <p>Su agente de usuario no es compatible con el elemento de audio HTML5.</p>
-</audio>
-**fe misal** - por ejemplo
-<audio controls>
-  <source src="/pimpan-logaxey/fe_misal.mp3" type="audio/mp3" />
-  <p>Su agente de usuario no es compatible con el elemento de audio HTML5.</p>
-</audio>
-**fe xugwan** - por lo general, por lo regular  
-<audio controls>
-  <source src="/pimpan-logaxey/fe_xugwan.mp3" type="audio/mp3" />
-  <p>Su agente de usuario no es compatible con el elemento de audio HTML5.</p>
-</audio>
-**fe benji** - en esencia, básicamente
-<audio controls>
-  <source src="/pimpan-logaxey/fe_benji.mp3" type="audio/mp3" />
-  <p>Su agente de usuario no es compatible con el elemento de audio HTML5.</p>
-</audio>
-**fe moy kaso** - en cualquier caso, de todos modos
-<audio controls>
-  <source src="/pimpan-logaxey/fe_moy_kaso.mp3" type="audio/mp3" />
-  <p>Su agente de usuario no es compatible con el elemento de audio HTML5.</p>
-</audio>
-**fe alo kaso** - de lo contrario
-<audio controls>
-  <source src="/pimpan-logaxey/fe_alo_kaso.mp3" type="audio/mp3" />
-  <p>Su agente de usuario no es compatible con el elemento de audio HTML5.</p>
-</audio>
-**maxpul** - además
-<audio controls>
-  <source src="/pimpan-logaxey/maxpul.mp3" type="audio/mp3" />
-  <p>Su agente de usuario no es compatible con el elemento de audio HTML5.</p>
-</audio>
-**pia** - también
-<audio controls>
-  <source src="/pimpan-logaxey/pia.mp3" type="audio/mp3" />
-  <p>Su agente de usuario no es compatible con el elemento de audio HTML5.</p>
-</audio>
-**abruto** - de repente
-<audio controls>
-  <source src="/pimpan-logaxey/abruto.mp3" type="audio/mp3" />
-  <p>Su agente de usuario no es compatible con el elemento de audio HTML5.</p>
-</audio>
-**e** _o_ **em** - eh
-<audio controls>
-  <source src="/pimpan-logaxey/e.mp3" type="audio/mp3" />
-  <p>Su agente de usuario no es compatible con el elemento de audio HTML5.</p>
-</audio>
-<audio controls>
-  <source src="/pimpan-logaxey/em.mp3" type="audio/mp3" />
-  <p>Su agente de usuario no es compatible con el elemento de audio HTML5.</p>
-</audio>
-**aham** - Ya veo, entendido ("entender")
-<audio controls>
-  <source src="/pimpan-logaxey/aham.mp3" type="audio/mp3" />
-  <p>Su agente de usuario no es compatible con el elemento de audio HTML5.</p>
-</audio>
-**yakin** - ciertamente, seguramente
-<audio controls>
-  <source src="/pimpan-logaxey/yakin.mp3" type="audio/mp3" />
-  <p>Su agente de usuario no es compatible con el elemento de audio HTML5.</p>
-</audio>
-**totalyakin** _o_ **pulyakin** - absolutamente, totalmente
-<audio controls>
-  <source src="/pimpan-logaxey/totalyakin.mp3" type="audio/mp3" />
-  <p>Su agente de usuario no es compatible con el elemento de audio HTML5.</p>
-</audio>
-<audio controls>
-  <source src="/pimpan-logaxey/pulyakin.mp3" type="audio/mp3" />
-  <p>Su agente de usuario no es compatible con el elemento de audio HTML5.</p>
-</audio>
-**mimbay** - obviamente, por supuesto
-<audio controls>
-  <source src="/pimpan-logaxey/mimbay.mp3" type="audio/mp3" />
-  <p>Su agente de usuario no es compatible con el elemento de audio HTML5.</p>
-</audio>
-**sipul** - en efecto
-<audio controls>
-  <source src="/pimpan-logaxey/sipul.mp3" type="audio/mp3" />
-  <p>Su agente de usuario no es compatible con el elemento de audio HTML5.</p>
-</audio>
-**okey** - okey, está bien
-<audio controls>
-  <source src="/pimpan-logaxey/okey.mp3" type="audio/mp3" />
-  <p>Su agente de usuario no es compatible con el elemento de audio HTML5.</p>
-</audio>
-**ible** - tal vez, posiblemente
-<audio controls>
-  <source src="/pimpan-logaxey/ible.mp3" type="audio/mp3" />
-  <p>Su agente de usuario no es compatible con el elemento de audio HTML5.</p>
-</audio>
-**dayible** - probablemente
-<audio controls>
-  <source src="/pimpan-logaxey/dayible.mp3" type="audio/mp3" />
-  <p>Su agente de usuario no es compatible con el elemento de audio HTML5.</p>
-</audio>
-**sahi** - correcto
-<audio controls>
-  <source src="/pimpan-logaxey/sahi.mp3" type="audio/mp3" />
-  <p>Su agente de usuario no es compatible con el elemento de audio HTML5.</p>
-</audio>
-**mal** - incorrecto
-<audio controls>
-  <source src="/pimpan-logaxey/mal.mp3" type="audio/mp3" />
-  <p>Su agente de usuario no es compatible con el elemento de audio HTML5.</p>
-</audio>
-**sati** - cierto
-<audio controls>
-  <source src="/pimpan-logaxey/sati.mp3" type="audio/mp3" />
-  <p>Su agente de usuario no es compatible con el elemento de audio HTML5.</p>
-</audio>
-**falso** - falso, no es cierto
-<audio controls>
-  <source src="/pimpan-logaxey/falso.mp3" type="audio/mp3" />
-  <p>Su agente de usuario no es compatible con el elemento de audio HTML5.</p>
-</audio>
-**samaijen** - de acuerdo ("misma opinión")
-<audio controls>
-  <source src="/pimpan-logaxey/samaijen.mp3" type="audio/mp3" />
-  <p>Su agente de usuario no es compatible con el elemento de audio HTML5.</p>
-</audio>
+[**afarin**](afarin.mp3) - bien hecho, buen trabajo, bravo ("aplauso")
 
-**Kam sati?** - ¿De verdad?, ¿De veras?  
-<audio controls>
-  <source src="/pimpan-logaxey/Kam_sati.mp3" type="audio/mp3" />
-  <p>Su agente de usuario no es compatible con el elemento de audio HTML5.</p>
-</audio>
-**Kam jidi?** - ¿En serio? ¿Hablas en serio?  
-<audio controls>
-  <source src="/pimpan-logaxey/Kam_jidi.mp3" type="audio/mp3" />
-  <p>Su agente de usuario no es compatible con el elemento de audio HTML5.</p>
-</audio>
-**Kam yakin?** - ¿Estás seguro?  
-<audio controls>
-  <source src="/pimpan-logaxey/Kam_yakin.mp3" type="audio/mp3" />
-  <p>Su agente de usuario no es compatible con el elemento de audio HTML5.</p>
-</audio>
-**Kam bon?** - ¿Estás bien?, ¿Está bien?
-<audio controls>
-  <source src="/pimpan-logaxey/Kam_bon.mp3" type="audio/mp3" />
-  <p>Su agente de usuario no es compatible con el elemento de audio HTML5.</p>
-</audio>
-**Kam okey?** - ¿Está bien? ¿Todo bien?
-<audio controls>
-  <source src="/pimpan-logaxey/Kam_okey.mp3" type="audio/mp3" />
-  <p>Su agente de usuario no es compatible con el elemento de audio HTML5.</p>
-</audio>
+[**hura**](hura.mp3) - hurra, viva, yupi
 
-## Preguntas/Respuestas comunes
-  
-* **Yu sen kepul?** _o_ **Yu kepul?**  
+[**ay**](ay.mp3) - ay
+
+[**wao**](wao.mp3) - guau, vaya
+
+## Muletillas de diálogo
+
+[**o**](o.mp3) - oh
+
+[**a**](a.mp3) - ah
+
+[**e**](e.mp3) _o_ [**em**](em.mp3) - eh, este
+
+[**nunto**](nunto.mp3) - ahora bien (_muletilla para llamar la atención sobre una afirmación o un punto de una narración_), bueno (_muletilla para introducir un comentario_)
+
+[**finto**](finto.mp3) - muletilla que precede a un cambio de tema o introduce una conclusión: bueno (pues), entonces, así que
+
+[**kos to**](kos_to.mp3) - así que
+
+[**fe folo**](fe_folo.mp3) - por lo tanto, en consecuencia
+
+[**fe fato**](fe_fato.mp3) - de hecho, en realidad
+
+[**fe fini**](fe_fini.mp3) - finalmente, por fin
+
+[**fe bonxanse**](fe_bonxanse.mp3) - por suerte, afortunadamente
+
+[**fe asif**](fe_asif.mp3) - lamentablemente, por desgracia
+
+[**fe onxala**](fe_onxala.mp3) - ojalá
+
+[**fe misal**](fe_misal.mp3) - por ejemplo
+
+[**fe xugwan**](fe_xugwan.mp3) - usualmente, por lo general
+
+[**fe benji**](fe_benji.mp3) - en esencia, básicamente
+
+[**fe moy kaso**](fe_moy_kaso.mp3) - en todo caso, de todos modos, de cualquier manera
+
+[**fe alo kaso**](fe_alo_kaso.mp3) - de lo contrario
+
+[**maxpul**](maxpul.mp3) - además, es más
+
+[**pia**](pia.mp3) - también
+
+[**abruto**](abruto.mp3) - de repente
+
+[**aham**](aham.mp3) - ya veo, entendido ("entender")
+
+[**yakin**](yakin.mp3) - claro, seguramente
+
+[**totalyakin**](totalyakin.mp3) _o_ [**pulyakin**](pulyakin.mp3) - absolutamente, totalmente
+
+[**mimbay**](mimbay.mp3) - obviamente, por supuesto
+
+[**sipul**](sipul.mp3) - efectivamente, así es
+
+[**okey**](okey.mp3) - okey, está bien
+
+[**ible**](ible.mp3) - quizá, tal vez, posiblemente
+
+[**dayible**](dayible.mp3) - probablemente
+
+[**sahi**](sahi.mp3) - correcto, cierto
+
+[**mal**](mal.mp3) - incorrecto, no es así
+
+[**sati**](sati.mp3) - cierto, verdadero
+
+[**falso**](falso.mp3) - falso, no es verdad
+
+[**samaijen**](samaijen.mp3) - de acuerdo ("misma opinión")
+
+[**Kam sati?**](Kam_sati.mp3) - ¿De verdad?
+
+[**Kam jidi?**](Kam_jidi.mp3) - ¿En serio? ¿Hablas en serio?
+
+[**Kam yakin?**](Kam_yakin.mp3) - ¿Estás seguro?
+
+[**Kam bon?**](Kam_bon.mp3) - ¿Estás bien? ¿Está bien?
+
+[**Kam okey?**](Kam_okey.mp3) - ¿Está bien? ¿Todo bien?
+
+## Preguntas y respuestas comunes
+
+* [**Yu sen kepul?**](Yu_sen_kepul.mp3) _o_ [**Yu kepul?**](Yu_kepul.mp3)  
 ¿Cómo estás?
 
-<audio controls>
-  <source src="/pimpan-logaxey/Yu_sen_kepul.mp3" type="audio/mp3" />
-  <p>Su agente de usuario no es compatible con el elemento de audio HTML5.</p>
-</audio>
-<audio controls>
-  <source src="/pimpan-logaxey/Yu_kepul.mp3" type="audio/mp3" />
-  <p>Su agente de usuario no es compatible con el elemento de audio HTML5.</p>
-</audio>
- 
-**Daymo bon, ji yu?**  
+[**Daymo bon, ji yu?**](Daymo_bon_ji_yu.mp3)  
 Muy bien, ¿y tú?
 
-<audio controls>
-  <source src="/pimpan-logaxey/Daymo_bon_ji_yu.mp3" type="audio/mp3" />
-  <p>Su agente de usuario no es compatible con el elemento de audio HTML5.</p>
-</audio>
+[**semibon**](semibon.mp3)  
+No tan mal
 
-**semibon**  
+[**semi, semi**](semi_semi.mp3)  
 más o menos
 
-<audio controls>
-  <source src="/pimpan-logaxey/semibon.mp3" type="audio/mp3" />
-  <p>Su agente de usuario no es compatible con el elemento de audio HTML5.</p>
-</audio>
+* [**Yu name keto?**](Yu_name_keto.mp3) _o_ [**Yusu name sen keto?**](Yusu_name_sen_keto.mp3)  
+¿Cómo te llamas?
 
-**semi semi**  
-regular
+[**Mi name...**](Mi_name.mp3) _o_ [**Misu name sen...**](Misu_name_sen.mp3)  
+Me llamo...
 
-<audio controls>
-  <source src="/pimpan-logaxey/semi_semi.mp3" type="audio/mp3" />
-  <p>Su agente de usuario no es compatible con el elemento de audio HTML5.</p>
-</audio>
+[**(To sen) yukwe na xorkone yu.**](To_sen_yukwe_na_xorkone_yu.mp3) _o_ [**Yukwe.**](Yukwe.mp3)  
+Es un gusto conocerte. o Es un gusto.
 
-* **Yu name keto?** _o_ **Yusu name sen keto?**  
-¿Cómo te llamas? _o_ ¿Cuál es tu nombre?
+[**(To sen) furaha na xorkone yu.**](To_sen_furaha_na_xorkone_yu.mp3) _o_ [**Furaha.**](Furaha.mp3)  
+Es un placer conocerte. o Es un placer.
 
-<audio controls>
-  <source src="/pimpan-logaxey/Yu_name_keto.mp3" type="audio/mp3" />
-  <p>Su agente de usuario no es compatible con el elemento de audio HTML5.</p>
-</audio>
-<audio controls>
-  <source src="/pimpan-logaxey/Yusu_name_sen_keto.mp3" type="audio/mp3" />
-  <p>Su agente de usuario no es compatible con el elemento de audio HTML5.</p>
-</audio>
+[**(Mi sen) hox na xorkone yu.**](Mi_sen_hox_na_xorkone_yu.mp3) _o_ [**Mi sen hox.**](Mi_sen_hox.mp3)  
+(Estoy) feliz de conocerte. o Estoy feliz.
 
-**Mi name...** _o_ **Misu name sen...**  
-Me llamo... _o_ Mi nombre es...
-
-<audio controls>
-  <source src="/pimpan-logaxey/Mi_name.mp3" type="audio/mp3" />
-  <p>Su agente de usuario no es compatible con el elemento de audio HTML5.</p>
-</audio>
-<audio controls>
-  <source src="/pimpan-logaxey/Misu_name_sen.mp3" type="audio/mp3" />
-  <p>Su agente de usuario no es compatible con el elemento de audio HTML5.</p>
-</audio>
-
-**(To sen) yukwe, na xorkone yu.** _o_ **Yukwe.**    
-"Es agradable conocerte." _o_ "Es agradable."
-
-<audio controls>
-  <source src="/pimpan-logaxey/To_sen_yukwe_na_xorkone_yu.mp3" type="audio/mp3" />
-  <p>Su agente de usuario no es compatible con el elemento de audio HTML5.</p>
-</audio>
-<audio controls>
-  <source src="/pimpan-logaxey/Yukwe.mp3" type="audio/mp3" />
-  <p>Su agente de usuario no es compatible con el elemento de audio HTML5.</p>
-</audio>
-
-**(To sen) furaha, na xorkone yu.** _o_ **Furaha.**  
-Es un placer conocerte. _o_ Es un placer.
-
-<audio controls>
-  <source src="/pimpan-logaxey/To_sen_furaha_na_xorkone_yu.mp3" type="audio/mp3" />
-  <p>Su agente de usuario no es compatible con el elemento de audio HTML5.</p>
-</audio>
-<audio controls>
-  <source src="/pimpan-logaxey/Furaha.mp3" type="audio/mp3" />
-  <p>Su agente de usuario no es compatible con el elemento de audio HTML5.</p>
-</audio>
-
-**(Mi sen) hox na xorkone yu.** _o_ **Mi sen hox.**  
-"(Estoy) feliz de conocerte." _o_ "Estoy feliz."
-
-<audio controls>
-  <source src="/pimpan-logaxey/Mi_sen_hox_na_xorkone_yu.mp3" type="audio/mp3" />
-  <p>Su agente de usuario no es compatible con el elemento de audio HTML5.</p>
-</audio>
-<audio controls>
-  <source src="/pimpan-logaxey/Mi_sen_hox.mp3" type="audio/mp3" />
-  <p>Su agente de usuario no es compatible con el elemento de audio HTML5.</p>
-</audio>
-
-* **Yu ogar keloka?**  
+* [**Yu ogar keloka?**](Yu_ogar_keloka.mp3)  
 ¿Dónde vives?
 
-<audio controls>
-  <source src="/pimpan-logaxey/Yu_ogar_keloka.mp3" type="audio/mp3" />
-  <p>Su agente de usuario no es compatible con el elemento de audio HTML5.</p>
-</audio>
-
-**Mi ogar in...**  
+[**Mi ogar in...**](Mi_ogar_in.mp3)  
 Vivo en...
 
-<audio controls>
-  <source src="/pimpan-logaxey/Mi_ogar_in.mp3" type="audio/mp3" />
-  <p>Su agente de usuario no es compatible con el elemento de audio HTML5.</p>
-</audio>
- 
-* **Yu sen of keloka?**  
+* [**Yu sen of keloka?**](Yu_sen_of_keloka.mp3)  
 ¿De dónde eres?
 
-<audio controls>
-  <source src="/pimpan-logaxey/Yu_sen_of_keloka.mp3" type="audio/mp3" />
-  <p>Su agente de usuario no es compatible con el elemento de audio HTML5.</p>
-</audio>
-
-**Mi sen of...**     
+[**Mi sen of...**](Mi_sen_of.mp3)  
 Soy de...
 
-<audio controls>
-  <source src="/pimpan-logaxey/Mi_sen_of.mp3" type="audio/mp3" />
-  <p>Su agente de usuario no es compatible con el elemento de audio HTML5.</p>
-</audio>
+* [**Yu sen kemo lao?**](Yu_sen_kemo_lao.mp3) _o_ [**Yu laoje kekwanti nyan?**](yu_laoje.mp3)  
+¿Cuántos años tienes?
 
-* **Yu sen kemo lao?** _o_ **Yu laoje kekwanti nyan?**  
-¿Cuantos años tienes?
-
-<audio controls>
-  <source src="/pimpan-logaxey/Yu_sen_kemo_lao.mp3" type="audio/mp3" />
-  <p>Su agente de usuario no es compatible con el elemento de audio HTML5.</p>
-</audio>
- 
-**Mi sen lao fe... (nyan).** _o_ **Mi laoje... (nyan).**  
+[**Mi sen lao fe... nyan.**](Mi_sen_lao_fe.mp3) _o_ [**Mi laoje... nyan.**](mi_laoje.mp3)  
 Tengo... años.
 
-<audio controls>
-  <source src="/pimpan-logaxey/Mi_sen_lao_fe.mp3" type="audio/mp3" />
-  <p>Su agente de usuario no es compatible con el elemento de audio HTML5.</p>
-</audio>
-
-* **Kam yu (pala) Globasa?**  
+* [**Kam yu (pala) Globasa?**](Kam_yu_pala_globasa.mp3)  
 ¿Hablas Globasa?
 
-<audio controls>
-  <source src="/pimpan-logaxey/Kam_yu_pala_globasa.mp3" type="audio/mp3" />
-  <p>Su agente de usuario no es compatible con el elemento de audio HTML5.</p>
-</audio>
+[**Si, xosu.**](Si_xosu.mp3) _o_ [**Si, mas no bon.**](si_mas_no_bon.mp3)  
+Sí, un poco. o Sí, pero no bien.
 
-**Sí, lil.** or **Si, mas xosu.**    
-Sí, un poco. o Sí, pero no mucho.  
+* [**Yu pala ke basa?**](Yu_pala_ke_basa.mp3)  
+¿Qué idioma(s) hablas?
 
-<audio controls>
-  <source src="/pimpan-logaxey/Si_xosu.mp3" type="audio/mp3" />
-  <p>Su agente de usuario no es compatible con el elemento de audio HTML5.</p>
-</audio>
+[**Mi pala...**](Mi_pala.mp3)  
+Hablo...
 
-* **Yu pala ke basa?**  
-¿Qué idiomas hablas?
+* [**Kam yu aham?**](Kam_yu_aham.mp3)  
+¿Entiendes?
 
-<audio controls>
-  <source src="/pimpan-logaxey/Yu_pala_ke_basa.mp3" type="audio/mp3" />
-  <p>Su agente de usuario no es compatible con el elemento de audio HTML5.</p>
-</audio>
+[**(Si,) mi aham.**](Si_mi_aham.mp3)  
+(Sí,) entiendo.
 
-**Mi pala...**  
-Yo hablo...
+[**(No,) mi no aham.**](No_mi_no_aham.mp3)  
+(No,) no entiendo.
 
-<audio controls>
-  <source src="/pimpan-logaxey/Mi_pala.mp3" type="audio/mp3" />
-  <p>Su agente de usuario no es compatible con el elemento de audio HTML5.</p>
-</audio>
-
-* **Kam yu aham?**  
-¿Comprendes?
-
-<audio controls>
-  <source src="/pimpan-logaxey/Kam_yu_aham.mp3" type="audio/mp3" />
-  <p>Su agente de usuario no es compatible con el elemento de audio HTML5.</p>
-</audio>
-
-**(Si,) mi aham.**  
-(Sí,) comprendo.
-
-<audio controls>
-  <source src="/pimpan-logaxey/Si_mi_aham.mp3" type="audio/mp3" />
-  <p>Su agente de usuario no es compatible con el elemento de audio HTML5.</p>
-</audio>
-
-**(No,) mi no aham.**  
-(No,) no comprendo.
-
-<audio controls>
-  <source src="/pimpan-logaxey/No_mi_no_aham.mp3" type="audio/mp3" />
-  <p>Su agente de usuario no es compatible con el elemento de audio HTML5.</p>
-</audio>
-
-* **Ren loga... kemaner (in Globasa)?**  
+* [**Ren loga... kemaner (in Globasa)?**](Ren_loga_kemaner.mp3)  
 ¿Cómo se dice... (en Globasa)?
 
-<audio controls>
-  <source src="/pimpan-logaxey/Ren_loga_kemaner.mp3" type="audio/mp3" />
-  <p>Su agente de usuario no es compatible con el elemento de audio HTML5.</p>
-</audio>
-
-**In Globasa, ren loga...**  
-(En Globasa), se dice...
-
-<audio controls>
-  <source src="/pimpan-logaxey/In_globasa_ren_loga.mp3" type="audio/mp3" />
-  <p>Su agente de usuario no es compatible con el elemento de audio HTML5.</p>
-</audio>
-
-## Declaraciones comunes
-
-**Mi jixi.**  
-Lo sé.
-<audio controls>
-  <source src="/pimpan-logaxey/Mi_jixi.mp3" type="audio/mp3" />
-  <p>Su agente de usuario no es compatible con el elemento de audio HTML5.</p>
-</audio>
-
-**Mi no jixi.**  
-No sé.
-<audio controls>
-  <source src="/pimpan-logaxey/Mi_no_jixi.mp3" type="audio/mp3" />
-  <p>Su agente de usuario no es compatible con el elemento de audio HTML5.</p>
-</audio>
-
-**Mi lubi yu.**  
-Te quiero. _o_ Te amo. 
-<audio controls>
-  <source src="/pimpan-logaxey/Mi_lubi_yu.mp3" type="audio/mp3" />
-  <p>Su agente de usuario no es compatible con el elemento de audio HTML5.</p>
-</audio>
+[**(In Globasa,) ren loga...**](In_globasa_ren_loga.mp3)  
+(En Globasa,) se dice...

@@ -92,7 +92,7 @@ title: 'Pliaj rimedoj'
 
 [Derivado per **-fil**](https://www.reddit.com/r/Globasa/comments/1iywb5d/derivation_with_fil/)
 
-[**-day** kaj **-lil** kiel kunmetitaj vortoj](https://www.reddit.com/r/Globasa/comments/1ioyee3/day_and_lil_as_compound_roots/)
+[**-day** kaj **-lil** kiel kunmetaj radikoj](https://www.reddit.com/r/Globasa/comments/1ioyee3/day_and_lil_as_compound_roots/)
 
 [Larĝa rigardo al la vortderiva teorio de Globaso: **-yen** kiel kazstudo](https://www.reddit.com/r/Globasa/comments/1ijd16a/broad_view_of_globasas_word_derivation_theory_yen/)
 

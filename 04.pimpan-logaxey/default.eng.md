@@ -53,7 +53,7 @@ Note: As seen above, greetings with **bon** (good, well) are expressed as compou
 
 ## Being Polite
 
-[**fe lutuf**](fe_lutuf.mp3) - please
+[**fe lutuf**](fe_lutuf.mp3) _or_ [**fe peti**](fe_peti.mp3) - please
 
 [**xukra**](xukra.mp3) - thank you
 
@@ -232,16 +232,5 @@ Do you understand?
 * [**Ren loga... kemaner (in Globasa)?**](Ren_loga_kemaner.mp3)  
 How do you say... (in Globasa)?
 
-[**In Globasa, ren loga...**](In_globasa_ren_loga.mp3)  
-(In Globasa), you say...
-
-## Common Statements
-
-[**Mi jixi.**](Mi_jixi.mp3)  
-I know.
-
-[**Mi no jixi.**](Mi_no_jixi.mp3)  
-I don't know.
-
-[**Mi lubi yu.**](Mi_lubi_yu.mp3)  
-I love you.
+[**(In Globasa,) ren loga...**](In_globasa_ren_loga.mp3)  
+(In Globasa,) you say...
