@@ -73,7 +73,7 @@ La pronomo **te,** kiun oni fiksas al la demonstrativoj **hin** kaj **den** pova
 **Dente sen day.**  
 Tiu (vivaĵo) estas granda.
 
-Ĉar Globaso ne havas artiklon (_la_), oni povas uzi la vortojn **hin** kaj **den** por esprimi difinecon, se tio necesas.
+Ĉar Globaso ne havas artiklon (_la_), oni povas uzi la vortojn **hin** kaj **den** por esprimi difinecon kiam strikte necese.
 
 **Den piu sen day.**  
 Tiu birdo estas granda. _aŭ_ La birdo estas granda.

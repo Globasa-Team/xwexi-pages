@@ -4,7 +4,7 @@ visible: true
 media_order: 'darsu_5_lexilista.mp3,darsu_5_misalli_jumle.mp3,darsu_05_doxoli_abyasa.mp3'
 ---
 
-## Word List
+## Vocabulary
 
 <audio controls>
  <source src="/darsu/05/darsu_5_lexilista.mp3" type="audio/mp3" />
@@ -13,7 +13,7 @@ media_order: 'darsu_5_lexilista.mp3,darsu_5_misalli_jumle.mp3,darsu_05_doxoli_ab
 
 * **ji** - and
 * **sen** - be (_am, is, are_)
-* **te** - he, she (_animate: any life form or personified object_)
+* **te** - he, she, it (_animate: any life form or personified object_)
 * **hin** - this, these
   * **hinte** - this, this one (_animate_)
 * **den** - that, those
@@ -80,7 +80,7 @@ The pronoun **te**, which is attached to the demonstratives **hin** and **den**,
 **Dente sen day.**  
 That (one) is big. 
 
-Since Globasa doesn't have articles (_a, the_), the words **hin** and **den** may be used to express definiteness when necessary. 
+Since Globasa doesn't have articles (_a, the_), the words **hin** and **den** may be used to express definiteness when strictly necessary. 
 
 **Den piu sen day.**  
 That bird is big. _or_ The bird is big. 

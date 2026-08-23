@@ -4,7 +4,7 @@ visible: true
 media_order: 'darsu_4_lexilista.mp3, darsu_4_misalli_jumle.mp3, icons8-sound-icon-30.png, darsu_04_doxoli_abyasa_06.mp3, darsu_04_doxoli_abyasa_05.mp3, darsu_04_doxoli_abyasa_01.mp3, darsu_04_doxoli_abyasa_02.mp3, darsu_04_doxoli_abyasa_03.mp3, darsu_04_doxoli_abyasa_04.mp3'
 ---
 
-## Word List
+## Vocabulary
 
 <audio controls>
  <source src="/darsu/04/darsu_4_lexilista.mp3" type="audio/mp3" />
@@ -34,7 +34,7 @@ media_order: 'darsu_4_lexilista.mp3, darsu_4_misalli_jumle.mp3, icons8-sound-ico
 ## Notes
 ### Yes/No Questions
 
-Statements are turned into a yes/no questions simply by adding **kam** at the beginning of the sentence. The following example sentences show a statement followed by its counterpart yes/no question. 
+Statements are turned into yes/no questions simply by adding **kam** at the beginning of the sentence. The following example sentences show a statement followed by its counterpart yes/no question. 
 
 **Nini oko filme.**  
 The boy is watching a movie.

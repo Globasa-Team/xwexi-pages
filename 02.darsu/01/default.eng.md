@@ -6,7 +6,7 @@ media_order: 'darsu_1_lexilista.mp3,darsu_1_misalli_jumle.mp3,darsu_01_doxoli_ab
 
 Review [Alphabet and Pronunciation](/gramati/abece-ji-lafuzu) before starting the following lessons.
 
-## Word List
+## Vocabulary
 <audio controls>
  <source src="/darsu/01/darsu_1_lexilista.mp3" type="audio/mp3" />
  <p>Your user agent does not support the HTML5 Audio element.</p>

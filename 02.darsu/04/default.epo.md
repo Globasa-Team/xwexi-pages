@@ -45,7 +45,7 @@ Katoj ne trinkas teon.
 
 ### La infinitivo
 
-Oni markas la infinitivon de verbo per la partikulo **na,** kiun la verbo sekvas. Oni ĉiam uzas ĝin inter du verboj.
+Oni markas la infinitivon de verbo per la partikulo **na,** kiun la verbo sekvas. Ĝi estas ĉiam uzata inter verbo kaj posta komplementa verbo.
 
 **Kam yu suki na oko filme?**  
 Ĉu vi ŝatas spekti filmojn?

@@ -1,9 +1,9 @@
 ---
 title: Grammar
-media_order: 'SPA_Kompleto Gramati fe Globasa_mesi 3 nyan 2026.pdf, ENG_KompletoGramati_mesi7_nyan2026.pdf, EPO_KompletoGramati_mesi8_nyan2026.pdf'
+media_order: 'EPO_KompletoGramati_mesi8_nyan2026.pdf, SPA_KompletoGramati_mesi8_nyan2026.pdf, ENG_KompletoGramati_mesi8_nyan2026.pdf'
 ---
 
-Download the [Complete Globasa Grammar](ENG_KompletoGramati_mesi7_nyan2026.pdf) PDF.
+Download the [Complete Globasa Grammar](ENG_KompletoGramati_mesi8_nyan2026.pdf) PDF.
 
 Complete Globasa Grammar:
 

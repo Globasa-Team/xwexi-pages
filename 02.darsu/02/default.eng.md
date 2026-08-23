@@ -4,7 +4,7 @@ visible: true
 media_order: 'darsu_2_lexilista.mp3,darsu_2_misalli_jumle.mp3,darsu_02_doxoli_abyasa.mp3'
 ---
 
-## Word List
+## Vocabulary
 
 <audio controls>
  <source src="/darsu/02/darsu_2_lexilista.mp3" type="audio/mp3" />
@@ -33,7 +33,7 @@ Globasa has neither definite nor indefinite articles (the words _a_ and _the_ in
 
 ### No conjugation
 
-Globasa has no verb conjugation, meaning that verbs don’t change according to the subject (or _doer_) of the sentence. For example, in English, the verb _work_ can be conjugated as 'I _work_ hard' and 'she _works_ hard.' In Globasa, on the other hand, we only use **ergo**.
+Globasa has no verb conjugation, meaning that verbs don't change according to the subject (or _doer_) of the sentence. For example, in English, the verb _work_ can be conjugated as 'I _work_ hard' and 'she _works_ hard.' In Globasa, on the other hand, we only use **ergo**.
 
 * **ergo** - _work_ or _works_
 

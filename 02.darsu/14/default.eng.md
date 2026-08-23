@@ -4,7 +4,7 @@ visible: true
 media_order: 'darsu_14_lexilista.mp3,darsu_14_misalli_jumle.mp3,darsu_14_doxoli_abyasa.mp3'
 ---
 
-## Word List
+## Vocabulary
 
 <audio controls>
  <source src="/darsu/14/darsu_14_lexilista.mp3" type="audio/mp3" />
