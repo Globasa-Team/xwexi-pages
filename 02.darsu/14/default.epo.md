@@ -17,7 +17,8 @@ media_order: 'darsu_14_lexilista.mp3,darsu_14_misalli_jumle.mp3,darsu_14_doxoli_
 * **muhim** - grava  
 * **sahi** - ĝusta, prava  
 * **mal** - misa, malĝusta, erara  
-* **insan** - homo  
+* **insan** - homo
+* **famil** - familio  
 * **fale** - faras  
 * **abil** - povi
 * **musi** - devi

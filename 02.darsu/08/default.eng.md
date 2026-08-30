@@ -19,6 +19,7 @@ media_order: 'darsu_8_lexilista.mp3,darsu_8_misalli_jumle.mp3,darsu_08_doxoli_ab
 * **per** - on (the surface of)
 * **bax** - under, below, beneath
 * **ton**  - (together) with
+* **har** - with (_having_)
 * **fe** - at (_neutral position_) 
 * **fe inya** - inside
 * **fe exya** - outside 

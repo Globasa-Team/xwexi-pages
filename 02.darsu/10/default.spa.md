@@ -4,23 +4,23 @@ visible: true
 media_order: 'darsu_10_lexilista.mp3,darsu_10_misalli_jumle.mp3,darsu_10_doxoli_abyasa 01.mp3,darsu_10_doxoli_abyasa 02.mp3,darsu_10_doxoli_abyasa 03.mp3'
 ---
 
-## Lista de vocabulario
+## Vocabulario
 
 <audio controls>
  <source src="/darsu/10/darsu_10_lexilista.mp3" type="audio/mp3" />
- <p>Su agente de usuario no es compatible con el elemento de audio HTML5.</p>
+ <p>Tu navegador no admite el elemento de audio HTML5.</p>
 </audio>
 
 * **numer** - número
- * **kenumer** (**te**/**to**) - cuántos/-as (_qué número de_)
-* **moy** - todo, todos/-as los/las
- * **moyte** - todos
+ * **kenumer** (**te**/**to**) - cuántos (_qué número de_)
+* **moy** - cada, todo
+ * **moyte** - todos, todo el mundo
  * **moyto** - todo
- * **moyloka** - en todo lugar, por doquier, por todos lados
-* **nil** - cero, nulo, ningún
- * **nilte** - nadie, ninguno/-a
+ * **moyloka** - en todas partes
+* **nil** - cero, ningún-
+ * **nilte** - nadie
  * **nilto** - nada
- * **nilloka** - en ningún lugar
+ * **nilloka** - en ninguna parte
 * **un** - uno
 * **dua** - dos
 * **tiga** - tres
@@ -31,33 +31,35 @@ media_order: 'darsu_10_lexilista.mp3,darsu_10_misalli_jumle.mp3,darsu_10_doxoli_
 * **oco** - ocho
 * **nue** - nueve
 * **des** - diez
-* **plu** - múltiple (_cualquier número mayor a uno_)
+* **plu** - varios, múltiples (_cualquier número mayor que uno_)
+
+[Tarjetas de Quizlet](https://quizlet.com/558539468/globasa-101-lesson-10-flash-cards/)
 
 ## Notas
-### Orden de las palabras en frases nominales
+### Orden de palabras en las frases nominales
 
-Como se ha visto en las lecciones anteriores, el orden de las palabras en Globasa es bastante estricto. El orden de las palabras en las frases nominales es el siguiente:
+Como se vio en lecciones anteriores, el orden de palabras en Globasa es bastante estricto. El orden de palabras en las frases nominales es el siguiente:
 
-_determinantes (**hin**/**den**/**moy**/**nil**) -- adjetivos posesivos (**misu**, etc.) -- número -- adjetivo -- pronombre o sustantivo_
+_determinantes (**hin**/**den**/**moy**/**nil**) -- adjetivo posesivo (**misu**, etc.) -- número -- adjetivo -- (pro)nombre_
 
 **hin tesu care lama kitabu**  
 "estos sus cuatro viejos libros"  
-Estos cuatro libros viejos de ella.
+estos cuatro libros viejos de ella
 
 ### Pronombres posesivos
 
-Los pronombres posesivos se forman añadiendo **(e)te** o **(o)to** a los adjetivos posesivos.
+Los pronombres posesivos se forman añadiendo **(e)te** u **(o)to** a los adjetivos posesivos.
 
-* **misu te/to** - mío/-a
-* **yusu te/to** - tuyo/-a
+* **misu te/to** - el mío, la mía
+* **yusu te/to** - el tuyo, la tuya
 * etc. 
 
-### Otras frases nominales que terminan en _(e)te_ y _(o)to_
+### Otras frases nominales terminadas en _(e)te_ y _(o)to_
 
-Como hemos visto en las lecciones anteriores, las frases nominales deben terminar siempre en un sustantivo o en un pronombre. Ya hemos visto que los determinantes (**hin**, **den**, **ke**, **moy**, **nil**) no pueden ir solos y deben añadir **(e)te**/**(o)to** cuando el sustantivo no se expresa. Asimismo, los pronombres posesivos (como se ha visto anteriormente), así como los adjetivos y los números (incluida la palabra **kenumer**) en las frases nominales deben añadir **(e)te**/**(o)to** cuando el sustantivo no se expresa.
+Como hemos visto en lecciones anteriores, las frases nominales siempre deben terminar en un sustantivo o un pronombre. Ya vimos que los determinantes (**hin**, **den**, **ke**, **moy**, **nil**) no pueden aparecer solos y deben llevar **(e)te**/**(o)to** cuando el sustantivo no se expresa. De igual manera, los pronombres posesivos (como se vio arriba), así como los adjetivos y los números (incluida la palabra **kenumer**) en las frases nominales, deben añadir **(e)te**/**(o)to** cuando el sustantivo no se expresa.
 
 **Un manixu somno ji dua te yam.**  
-Un hombre duerme y dos comen.
+Un hombre duerme y dos comen. 
 
 **lao ete ji juni ete**  
 los viejos y los jóvenes
@@ -65,34 +67,34 @@ los viejos y los jóvenes
 **Mi hare multi kursi. Yu vole kenumer to?**  
 Tengo muchas sillas. ¿Cuántas quieres?
 
-### Expresión de la singularidad/indefinición con _un_
+### Cómo expresar singularidad o indefinición con _un_
 
-La palabra **un** puede utilizarse para expresar singularidad e indefinición cuando sea necesario.
+La palabra **un** puede usarse para expresar singularidad e indefinición cuando sea necesario.
 
-* **un kitabu** - un libro (cantidad) / un libro (cualquiera)
+* **un kitabu** - un libro (_uno solo_ o _un libro cualquiera_)
 
-### Expresión de la pluralidad con _plu_
+### Cómo expresar pluralidad con _plu_
 
-La palabra **plu** puede utilizarse para expresar la pluralidad cuando sea necesario.
+La palabra **plu** puede usarse para expresar pluralidad cuando sea necesario.
 
-* **plu pingo** - (múltiples) manzanas
+* **plu pingo** - (varias) manzanas
 
-## Ejemplos de oraciones
+## Oraciones de ejemplo
 
 <audio controls>
  <source src="/darsu/10/darsu_10_misalli_jumle.mp3" type="audio/mp3" />
- <p>Su agente de usuario no es compatible con el elemento de audio HTML5.</p>
+ <p>Tu navegador no admite el elemento de audio HTML5.</p>
 </audio>
 
 **Tiga meli piu lala.**  
-Tres bellos pájaros cantan.
+Tres pájaros hermosos están cantando.
 
 **Den misu doste sen hox.**  
-Esos amigos míos están felices.
+Ese amigo mío está feliz.
  
 **Yu hare kenumer sodar?**  
 "Tú tienes cuántos hermanos?"  
-¿Cuantos hermanos tienes? 
+¿Cuántos hermanos tienes?
 
 **Moyte danse.**  
 Todos bailan.
@@ -100,8 +102,8 @@ Todos bailan.
 ## Práctica de lectura y comprensión auditiva
 
 <audio controls>
- <source src="/darsu/10/darsu_10_doxoli_abyasa 01.mp3" type="audio/mp3" />
- <p>Su agente de usuario no es compatible con el elemento de audio HTML5.</p>
+ <source src="/darsu/10/darsu_10_doxoli_abyasa_01.mp3" type="audio/mp3" />
+ <p>Tu navegador no admite el elemento de audio HTML5.</p>
 </audio>
 
 Plu myaw sen in ergodom de sesu matre. Matre vole na ore moy sesu bete.
@@ -112,12 +114,12 @@ Matre loga, "Dento sen day ergo! Yu xa hare lima mahi."
 Myaw un loga, "Xukra!"  
 
 <audio controls>
- <source src="/darsu/10/darsu_10_doxoli_abyasa 02.mp3" type="audio/mp3" />
- <p>Your user agent does not support the HTML5 Audio element.</p>
+ <source src="/darsu/10/darsu_10_doxoli_abyasa_02.mp3" type="audio/mp3" />
+ <p>Tu navegador no admite el elemento de audio HTML5.</p>
 </audio>
 
 Matre loga, "Myaw dua, yusu ergo le sen keto?"    
-Myaw dua loga, "Mi le idi cel nahir cel na cudu neo yam. Mi le cudu des mahi tas imi."    
+Myaw dua loga, "Mi le idi cel nahir cel na cudu neo yam. Mi le cudu des mahi."    
 Matre loga, "Yusu ergo sen bon. Yusu des mahi sen day. Mi sen hox."   
 Myaw dua loga, "Mi xa hare kenumer mahi?"  
 Matre loga, "Lima mahi."  
@@ -126,8 +128,8 @@ Matre loga, "Lima te sen bon numer."
 Myaw dua loga, "Bon..."  
 
 <audio controls>
- <source src="/darsu/10/darsu_10_doxoli_abyasa 03.mp3" type="audio/mp3" />
- <p>Your user agent does not support the HTML5 Audio element.</p>
+ <source src="/darsu/10/darsu_10_doxoli_abyasa_03.mp3" type="audio/mp3" />
+ <p>Tu navegador no admite el elemento de audio HTML5.</p>
 </audio>
 
 Matre loga, "Ji yu, myaw tiga?"  
@@ -139,6 +141,6 @@ Matre loga, "Moy myaw xa hare yam. Nilte yam nilto. Mas, myaw tiga xa koki ton m
 
 ## Actividad de la lección
 
-_Cree sus propias oraciones utilizando los ejemplos anteriores y los ejemplos de las lecciones anteriores como patrones de oraciones. Cuente una historia._
+_Crea tus propias oraciones usando como modelo los ejemplos anteriores y los de lecciones anteriores. Cuenta una historia._
 
-<textarea width="100%" spellcheck="false" placeholder="Escriba sus propias oraciones aquí."></textarea>
+<textarea width="100%" spellcheck="false" placeholder="Escribe aquí tus propias oraciones."></textarea>

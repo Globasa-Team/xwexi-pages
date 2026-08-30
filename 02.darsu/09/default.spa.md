@@ -4,93 +4,95 @@ visible: true
 media_order: 'darsu_9_lexilista.mp3,darsu_9_misalli_jumle.mp3,darsu_09_doxoli_abyasa.mp3'
 ---
 
-## Lista de vocabulario
+## Vocabulario
 
 <audio controls>
  <source src="/darsu/09/darsu_9_lexilista.mp3" type="audio/mp3" />
- <p>Su agente de usuario no es compatible con el elemento de audio HTML5.</p>
+ <p>Tu navegador no admite el elemento de audio HTML5.</p>
 </audio>
 
-* **-su** - _sufijo posesivo aplicado a los pronombres_
-* **se** - _pronombre reflexivo_
+* **-su** - _sufijo posesivo que se añade a los pronombres_
+* **se** - _pronombre reflexivo_ 
 * **max** - más (_seguido de un sustantivo/verbo_)
-	* **maxmo** - más (_seguido de un adj/adv_)
+	* **maxmo** - más (_seguido de un adjetivo/adverbio_)  
 * **min** - menos (_seguido de un sustantivo/verbo_)
-	* **minmo** - menos (_seguido de un adj/adv_)
-* **kom** -  que, de (_comparativo_)
-* **bur** - malo/-a, mal
-* **lil** - pequeño/-a, chico/-a
-* **colo** - feo/-a
-* **hanman** - lento/-a, despacio
-* **lama** - viejo/-a (_opuesto de nuevo/-a_)
-* **lao** - viejo/-a (_opuesto de joven_)
+	* **minmo** - menos (_seguido de un adjetivo/adverbio_)
+* **kom** - que (_en comparaciones_)
+* **bur** - malo
+* **lil** - pequeño, chico
+* **colo** - feo
+* **hanman** - lento
+* **lama** - viejo (_opuesto de nuevo_)
+* **lao** - viejo, mayor (_opuesto de joven_)
 * **hazuni** - triste
-* **kotor** - sucio/-a
+* **kotor** - sucio
 * **kurto** - corto, breve (_opuesto de largo_)
-* **cote** - corto, bajo (_opuesto de alto_)
-* **gami** - cónyuge, esposo/-a
+* **cote** - bajo (_opuesto de alto_)
+* **gami** - cónyuge (_esposo/esposa_)
+
+[Tarjetas de Quizlet](https://quizlet.com/557303345/globasa-101-lesson-9-flash-cards/)
 
 ## Notas
 ### Comparación
 
-La comparación del número, la cantidad o el grado de los sustantivos/verbos se expresa de la siguiente manera:
+La comparación de número, cantidad o grado de las palabras sustantivo/verbo se expresa de la siguiente manera:
 
 * **max... kom...** - más... que...  
 * **min... kom...** - menos... que...
 
 **Polisiyen hare max bete kom musikayen.**  
-El policía tiene más hijos que el músico.
+El policía tiene más hijos que el músico.  
 
 **Alimyen yam min roti kom medisyen.**  
-El profesor come menos pan que el médico.
+El maestro come menos pan que el médico.  
 
-Si **max** o **min** modifican el verbo, pueden aparecer antes o después del verbo.
+Si **max** o **min** modifican al verbo, pueden aparecer antes o después de este. 
 
-**Misu gami max doxo kom mi.** _o_ **Misu gami doxo max kom mi.**  
+**Misu gami max doxo kom mi.** o **Misu gami doxo max kom mi.**  
 Mi cónyuge lee más que yo.
 
-Los adjetivos/adverbios comparativos se expresan de la siguiente manera.
+Los adjetivos/adverbios comparativos se expresan de la siguiente manera. 
 
 * **maxmo... kom...** - más... que...  
 * **minmo... kom...** - menos... que...
 
 **maxmo meli kom...**  
-más bello que...    
+más hermoso que...    
 
 **minmo kotor kom...**  
 menos sucio que... 
 
-### Pronombre reflexivo _se_
+### El pronombre reflexivo _se_
 
-El pronombre reflexivo **se** se utiliza de la siguiente manera:
+El pronombre reflexivo **se** se usa de la siguiente manera:
 
 **Manixu banyo se.**  
-El hombre se baña. _o_ El hombre se está bañando.
+El hombre se baña. _o_ El hombre se da un baño.
 
-En Globasa, **se** se puede utilizar de forma reflexiva con cualquier pronombre.
+En Globasa, **se** puede usarse de forma reflexiva con cualquier pronombre.
 
-**Kam yu lubi se.** _o_ **Kam yu lubi yu?**  
-¿Te amas (a ti mismo)?
+**Kam yu lubi se?** o **Kam yu lubi yu?**  
+¿Te amas a ti mismo?
 
 ### Adjetivos posesivos
 
-Globasa convierte los pronombres personales en adjetivos posesivos añadiendo el sufijo **-su**.
+Globasa convierte los pronombres en adjetivos posesivos añadiendo el sufijo **-su**.  
 
-* **misu** - mi 
+* **misu** - mi  
 * **yusu** - tu  
-* **tesu** - su (_de él/ella_)
-* **tosu** - su (_de ello_)
-* **sesu** - su (_reflexivo_)
+* **tesu** - su (_de él/ella_)  
+* **tosu** - su (_de ello, de la cosa_)  
+* **sesu** - su propio (_de sí mismo/misma_)  
 * **imisu** - nuestro  
-* **uyusu** - vuestro, su (_de ustedes_)  
-* **etesu** - su (_de ellos/-as_)  
-* **otosu** - su (_de ellos [inanimados]_)
+* **uyusu** - su (_de ustedes_)  
+* **etesu** - su (_de ellos/ellas_)  
+* **otosu** - su (_de ellos/ellas, cosas_)
 
-## Ejemplos de oraciones
+## Oraciones de ejemplo
 
 <audio controls>
  <source src="/darsu/09/darsu_9_misalli_jumle.mp3" type="audio/mp3" />
- <p>Su agente de usuario no es compatible con el elemento de audio HTML5.</p>
+ <p>Tu navegador no admite el elemento de audio HTML5.</p>
 </audio>
 
 **Bwaw min somno kom myaw.**  
@@ -106,7 +108,7 @@ Mi amigo nada en el mar.
 
 <audio controls>
  <source src="/darsu/09/darsu_09_doxoli_abyasa.mp3" type="audio/mp3" />
- <p>Su agente de usuario no es compatible con el elemento de audio HTML5.</p>
+ <p>Tu navegador no admite el elemento de audio HTML5.</p>
 </audio>
 
 Ogar de polisiyen sen maxmo lama kom ogar de medisyen, mas ogar de medisyen sen colo, kotor ji lil.
@@ -125,6 +127,8 @@ Medisyen loga, "No, misu gami bur danse. Yusu gami bon danse."
 
 ## Actividad de la lección
 
-_Cree sus propias oraciones utilizando los ejemplos anteriores y los ejemplos de las lecciones anteriores como patrones de oraciones. Cuente una historia._
+_Crea tus propias oraciones usando como modelo los ejemplos anteriores y los de lecciones anteriores. Cuenta una historia._
 
-<textarea width="100%" spellcheck="false" placeholder="Escriba sus propias oraciones aquí."></textarea>
+<textarea width="100%" spellcheck="false" placeholder="Escribe aquí tus propias oraciones."></textarea>
+
+

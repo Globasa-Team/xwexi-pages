@@ -7,7 +7,7 @@ media_order: 'darsu_17_misalli_jumle.mp3,darsu_17_doxoli_abyasa.mp3,darsu_17_lex
 ## Vocabulary
 
 <audio controls>
- <source src="/darsu/17/darsu_17_lexilista.mp3" type="audio/mpeg" />
+ <source src="/darsu/17/darsu_17_lexilista.mp3" type="audio/mp3" />
  <p>Your user agent does not support the HTML5 Audio element.</p>
 </audio>
 

@@ -4,15 +4,15 @@ visible: true
 media_order: 'darsu_2_lexilista.mp3,darsu_2_misalli_jumle.mp3'
 ---
 
-## Lista de vocabulario
+## Vocabulario
 
 <audio controls>
  <source src="/darsu/02/darsu_2_lexilista.mp3" type="audio/mp3" />
- <p>Su agente de usuario no es compatible con el elemento de audio HTML5.</p>
+ <p>Tu navegador no admite el elemento de audio HTML5.</p>
 </audio>
 
 * **mi** - yo
-* **bete** - hijo(s)/hija(s)
+* **bete** - hija(s)/hijo(s) 
 * **somno** - dormir
 * **doxo** - leer
 * **danse** - bailar
@@ -24,50 +24,50 @@ media_order: 'darsu_2_lexilista.mp3,darsu_2_misalli_jumle.mp3'
 * **fley** - volar
 * **suyon** - nadar
 
-
 ## Notas
 ### Sin artículos
 
-Globasa no tiene artículos definidos ni indefinidos (las palabras _un/una_ y _el/la/los/las_ en español). En una lección posterior, aprenderá a enfatizar los artículos definidos cuando sea necesario.
+Globasa no tiene artículos definidos ni indefinidos (en español, palabras como _un/una_ y _el/la/los/las_). En una lección posterior, aprenderás a enfatizar que algo es definido cuando sea necesario. 
 
-* **bwaw** - _perro(s)_, _un perro_ o _los perros_
+* **bwaw** - _perro(s)_, _un perro_ o _el/los perro(s)_
 
 ### Sin conjugación
 
-Globasa no tiene conjugación de verbos, lo que significa que los verbos no cambian según el sujeto (o realizador) de la oración. Por ejemplo, en español, el verbo _trabajar_ puede conjugarse como _yo trabajo_, _usted trabaja_, etc. En cambio, en Globasa sólo utilizamos **ergo**.
+Globasa no tiene conjugación verbal, es decir, los verbos no cambian según el sujeto (o _quien realiza la acción_) de la oración. Por ejemplo, en español el verbo _trabajar_ se conjuga como 'yo _trabajo_ mucho' y 'ella _trabaja_ mucho'. En Globasa, en cambio, solo usamos **ergo**.
 
-* **ergo** - _trabajo_, _trabajas_, _trabaja_, _trabajamos_, etc.
+* **ergo** - _trabajo_ o _trabaja_
 
-### Forma del verbo en el diccionario
+### Forma de diccionario del verbo
 
-La forma del verbo que viene en el diccionario equivale al _presente de indicativo_ o al _presente progresivo_ en español.
+La forma de diccionario del verbo equivale al _presente simple_ o al _presente continuo_ del español.
 
-* **fley** - _vuela_, _está volando_, etc.
+* **fley** - _vuelo_, _vuela_, _estoy volando_, _está volando_ o _están volando_
 
-## Ejemplos de oraciones
+## Oraciones de ejemplo
 
 <audio controls>
  <source src="/darsu/02/darsu_2_misalli_jumle.mp3" type="audio/mp3" />
- <p>Su agente de usuario no es compatible con el elemento de audio HTML5.</p>
+ <p>Tu navegador no admite el elemento de audio HTML5.</p>
 </audio>
 
 **Mahi suyon.**   
-El pez/los peces nada(n), _o_ El pez/los peces está(n) nadando.
+El pez nada / Los peces nadan. _o_ El pez está nadando / Los peces están nadando.  
 
 **Mi doxo.**  
-Yo leo, _o_ Estoy leyendo.
+Yo leo. _o_ Estoy leyendo.
 
 ## Práctica de lectura y comprensión auditiva
 
 <audio controls>
  <source src="/darsu/02/darsu_02_doxoli_abyasa.mp3" type="audio/mp3" />
- <p>Su agente de usuario no es compatible con el elemento de audio HTML5.</p>
+ <p>Tu navegador no admite el elemento de audio HTML5.</p>
 </audio>
 
 Salom, doste! Mi ergo. Myaw somno. Bete doxo. Piu fley. Bwaw yuxi. Mahi suyon. Mama lala. Patre danse. Uma pawbu. Sodar anda. Xanti, nini.
 
 ## Actividad de la lección
 
-_Cree sus propias oraciones utilizando los ejemplos de esta lección y los de Lección 1 como patrones de oraciones y la práctica de lectura como modelos._
+_Crea tus propias oraciones usando los ejemplos de esta lección y de la Lección 1 como modelo, y la práctica de lectura de esta lección como guía._
 
-<textarea width="100%" spellcheck="false" placeholder="Escriba sus propias oraciones aquí."></textarea>
+<textarea width="100%" spellcheck="false" placeholder="Escribe aquí tus propias oraciones."></textarea>
+

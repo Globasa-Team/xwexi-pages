@@ -23,7 +23,8 @@ media_order: 'darsu_20_lexilista.mp3,darsu_20_misalli_jumle.mp3,darsu_20_doxoli_
 * **janela** - fenestro  
 * **satu** - horo  
 * **alo** - alia  
-* **sama** - sama  
+* **sama** - sama
+* **hewan** - besto  
   
 ## Notoj  
   

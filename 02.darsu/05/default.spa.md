@@ -4,35 +4,36 @@ visible: true
 media_order: 'darsu_5_lexilista.mp3,darsu_5_misalli_jumle.mp3'
 ---
 
-## Lista de vocabulario
+## Vocabulario
 
 <audio controls>
  <source src="/darsu/05/darsu_5_lexilista.mp3" type="audio/mp3" />
- <p>Su agente de usuario no es compatible con el elemento de audio HTML5.</p>
+ <p>Tu navegador no admite el elemento de audio HTML5.</p>
 </audio>
 
-* **ji** - y (conj.)
-* **sen** - ser/estar
-* **te** - él, ella (_animado: cualquier forma de vida u objeto
-personificado_)
-* **hin** - este/-a, estos/-as
-  * **hinte** - éste/-a (_animado_)
-* **den** - ese/-a, esos/-as
-  * **dente** - ése, aquél (_animado_)
-* **ixu** - adulto  
-  * **femixu** - mujer  
+* **ji** - y
+* **sen** - ser, estar (_soy, es, son_)
+* **te** - él, ella (_animado: cualquier forma de vida u objeto personificado_)
+* **hin** - este, esta, estos, estas
+  * **hinte** - este, esta (_animado_)
+* **den** - ese, esa, esos, esas
+  * **dente** - ese, esa (_animado_)
+* **ixu** - adulto
+  * **femixu** - mujer
   * **manixu** - hombre
-* **bon** - bueno/-a, bien
+* **bon** - bueno
 * **day** - grande
 * **bala** - fuerte
-* **meli** - bonito/-a, bello/-a
-* **velosi** - rápido/-a, veloz
-* **neo** - nuevo/-a
+* **meli** - hermoso, bonito
+* **velosi** - rápido, veloz
+* **neo** - nuevo
 * **juni** - joven
-* **hox** - feliz
-* **safe** - limpio/-a
-* **lungo** - largo/-a
+* **hox** - feliz, contento
+* **safe** - limpio
+* **lungo** - largo 
 * **gao** - alto
+
+[Tarjetas de Quizlet](https://quizlet.com/556030832/globasa-101-lesson-5-flash-cards/)
 
 ## Notas
 
@@ -46,9 +47,9 @@ Los adjetivos preceden a los sustantivos que modifican.
 
 ### El verbo _sen_
 
-El verbo **sen** vincula al sujeto con frases adjetivas o nominales.
+El verbo **sen** une el sujeto con frases adjetivas o frases nominales.
 
-Con frases adjetivas:
+Con frases adjetivas: 
 
 **Kitabu sen neo.**  
 El libro es nuevo.
@@ -62,31 +63,31 @@ El caballo es grande y fuerte.
 Con frases nominales:
 
 **Te sen mahi.**  
-(Ése) es un pez.
+Es un pez.
 
 **Te sen bon patre.**  
-Él es un buen padre.
+Es un buen padre. 
 
 ### _hin/den_
 
-Los demostrativos **hin** y **den** deben ir siempre seguidos de un sustantivo o pronombre. **Nunca van solos en frases nominales.**
+Los demostrativos **hin** y **den** siempre deben ir seguidos de un sustantivo o pronombre. **Nunca aparecen solos en las frases nominales.** 
 
 **Den piu sen day.**  
 Ese pájaro es grande.
 
-El pronombre **te**, que se une a los demostrativos **hin** y **den**, puede sustituir a un sustantivo animado: **hinte**/**dente**.
+El pronombre **te**, que se une a los demostrativos **hin** y **den**, puede reemplazar a un sustantivo animado: **hinte**/**dente**.
 
 **Dente sen day.**  
-Ése es grande.
+Ese/Esa es grande. 
 
-Como Globasa no tiene artículos (un/una, el/la), se pueden utilizar las palabras **hin** y **den** para expresar lo definitivo cuando sea necesario.
+Como Globasa no tiene artículos (_un/una_, _el/la_), las palabras **hin** y **den** pueden usarse para expresar que algo es definido cuando sea estrictamente necesario. 
 
 **Den piu sen day.**  
-Ese pájaro es grande. _o_ El pájaro es grande.
+Ese pájaro es grande. _o_ El pájaro es grande. 
  
 ### Masculino y femenino
 
-Los adjetivos **fem** (femenino) y **man** (masculino) pueden utilizarse como cuasiprefijos para distinguir el género. Normalmente no se indica el género, pero si es necesario distinguir, los siguientes son algunos ejemplos:
+Los adjetivos **fem** (femenino) y **man** (masculino) pueden usarse como una especie de prefijos para distinguir el género. Normalmente el género no se indica, pero si necesitas distinguirlo, aquí tienes algunos ejemplos:
 
 * **femnini** - _niña_  
 **mannini** - _niño_
@@ -94,43 +95,43 @@ Los adjetivos **fem** (femenino) y **man** (masculino) pueden utilizarse como cu
 * **fembete** - _hija_  
 **manbete** - _hijo_
 
-* **femuma** - _yegua_ (_caballo de género femenino_)  
-**manuma** - _semental_ (_caballo de género masculino_)
+* **femuma** - _yegua_ (_caballo hembra_)  
+**manuma** - _semental_ (_caballo macho_)
 
 * **femdoste** - _amiga_  
 **mandoste** - _amigo_ 
 
 ### Sustantivos/verbos
 
-Globasa tiene muchos sustantivos/verbos, palabras que pueden funcionar como sustantivo o como verbo. Los verbos introducidos en las lecciones 2, 3 y 4 son en realidad sustantivos/verbos.
+Globasa tiene muchos _sustantivos/verbos_, palabras que pueden funcionar como sustantivo o como verbo. Los verbos presentados en las lecciones 2, 3 y 4 son en realidad _sustantivos/verbos_. 
 
 * **yam** - _comida_ o _comer_
 * **oko** - _ojo_ o _ver_
-* **ore** - _oído/oreja_ u _oír_
-* **lala** -  _canción_ o _cantar_
+* **ore** - _oído_ o _oír_
+* **lala** - _canción_ o _cantar_
 * **fley** - _vuelo_ o _volar_
 
-## Ejemplos de oraciones
+## Oraciones de ejemplo
 
 <audio controls>
  <source src="/darsu/05/darsu_5_misalli_jumle.mp3" type="audio/mp3" />
- <p>Su agente de usuario no es compatible con el elemento de audio HTML5.</p>
+ <p>Tu navegador no admite el elemento de audio HTML5.</p>
 </audio>
 
 **Juni femixu somno.**  
-La mujer joven duerme.
+La mujer joven está durmiendo.
 
 **Sodar ore bon musika.**  
-Los hermanos escuchan buena música.
+El hermano escucha buena música.
 
 **Hin lala sen meli.**  
-Esta canción es bonita.
+Esta canción es hermosa.
 
 ## Práctica de lectura y comprensión auditiva
 
 <audio controls>
  <source src="/darsu/05/darsu_05_doxoli_abyasa.mp3" type="audio/mp3" />
- <p>Su agente de usuario no es compatible con el elemento de audio HTML5.</p>
+ <p>Tu navegador no admite el elemento de audio HTML5.</p>
 </audio>
 
 Mi hare neo kitabu. Hin kitabu sen bon. Mi suki na doxo kitabu. Bwaw sen day ji bala. Hin bwaw hare bete. Juni bwaw yuxi ji pawbu. Te no sen safe. Mama no sen hox. Bete glu sui. Te somno. Mama sen hox. 
@@ -139,6 +140,6 @@ Yu hare lungo kitabu. Den kitabu no sen bon. Yu no suki na doxo den kitabu. Gao 
 
 ## Actividad de la lección
 
-_Escriba una historia utilizando los ejemplos de oraciones de esta lección y de las anteriores._
+_Escribe una historia usando las oraciones de ejemplo de esta lección y de las anteriores._
 
-<textarea width="100%" spellcheck="false" placeholder="Escriba sus propias oraciones aquí."></textarea>
+<textarea width="100%" spellcheck="false" placeholder="Escribe aquí tus propias oraciones."></textarea>

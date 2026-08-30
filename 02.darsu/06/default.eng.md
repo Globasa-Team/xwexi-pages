@@ -109,7 +109,7 @@ Prepositional phrases immediately follow the noun phrases they modify.
 **Myaw in banyokamer somno.**  
 The cat in the bathroom is sleeping.
 
-Prepositional phrases that modify verbs enjoy relative free word order and may be moved anywhere in the sentence. When moved before the verb, commas are used as seen below.
+Prepositional phrases that modify verbs enjoy relatively free word order and may be moved anywhere in the sentence. When moved before the verb, commas are used as seen below.
 
 **Myaw yam in kokikamer piu.  
 Myaw yam piu in kokikamer.  

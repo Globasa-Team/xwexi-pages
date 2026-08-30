@@ -22,7 +22,8 @@ media_order: 'darsu_14_lexilista.mp3,darsu_14_misalli_jumle.mp3,darsu_14_doxoli_
 * **muhim** - important  
 * **sahi** - correct  
 * **mal** - wrong, incorrect  
-* **insan** - human (being), people  
+* **insan** - human (being), people
+* **famil** - family  
 * **fale** - do, make  
 * **abil** - can, be able to   
 * **musi** - must, have to  
@@ -49,7 +50,7 @@ Example 2:
 **Yu hare _kepul_ ergo?**  
 What is the job that you have like? or What kind of job do you have?
 
-Notice how convoluted the question in English is. In Globasa, the question is straight-forward because it works the same way as the statement. Notice how the answer (**asan**) below will fit in the exact same spot as **kepul**.
+Notice how convoluted the question in English is. In Globasa, the question is straightforward because it works the same way as the statement. Notice how the answer (**asan**) below will fit in the exact same spot as **kepul**.
 
 **Mi hare _asan_ ergo.**  
 I have an easy job. 

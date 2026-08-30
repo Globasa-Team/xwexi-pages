@@ -29,6 +29,7 @@ media_order: 'darsu_20_lexilista.mp3,darsu_20_misalli_jumle.mp3,darsu_20_doxoli_
 * **satu** - hour, time
 * **alo** - other, different
 * **sama** - same
+* **hewan** - animal  
 
 [Quizlet Flash Cards](https://quizlet.com/652364699/globasa-101-lesson-20-flash-cards/)
 
@@ -42,7 +43,7 @@ This movie is as long as that movie.
 
 ### _sama_ and _alo_
 
-The words **sama** _(same_) and **alo** (_different/other_) are similar to **ke**, **hin**, **den**, **ban**, **moy** and **nil** in that they are typically attach **(e)te**/**(o)to**. This means that **sama** and **alo** function as both adjectives and determiners. 
+The words **sama** (_same_) and **alo** (_different/other_) are similar to **ke**, **hin**, **den**, **ban**, **moy** and **nil** in that they typically attach to **(e)te**/**(o)to**. This means that **sama** and **alo** function as both adjectives and determiners. 
 
 * **samate** - the same person  
 **samato** - the same thing

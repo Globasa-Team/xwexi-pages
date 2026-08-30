@@ -45,7 +45,7 @@ I would travel in/to Turkey if I spoke Turkish.
 
 ### Suffix _-ya_
 
-The suffix **-ya** is used to turn adjectives, nouns and prepositions into a variety of different abstract nouns. Click [here](http://xwexi.globasa.net/eng/gramati/inharelexi) for a full description.
+The suffix **-ya** is used to turn adjectives, nouns and prepositions into a variety of different abstract nouns. Click [here](/gramati/inharelexi) for a full description.
 
 ## Example Sentences
 

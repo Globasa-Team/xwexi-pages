@@ -13,7 +13,8 @@ media_order: 'darsu_8_lexilista.mp3, darsu_8_misalli_jumle.mp3, icons8-sound-ico
  * **denloka** - tie
 * **per** - sur
 * **bax** - malsupre de
-* **ton** - kun
+* **ton** - kun (_kune kun_)
+* **har** - kun (_havante_)
 * **fe** - ĉe
  * **fe inya** - interne
  * **fe exya** - ekstere
@@ -36,7 +37,11 @@ la libro de la infano.
 
 ### _ton_
 
-La prepozicio **ton** nur signifas **kun.** Oni neniam uzas ĝin por esprimi _per_ aŭ _havanta_.
+La prepozicio **ton** nur signifas *(kune) kun*. Oni neniam uzas ĝin por esprimi _per_ aŭ _havante_.
+
+### _har_
+
+La prepozicio **har** signifas _kun_ nur en la senco de havado. Ĝi neniam estas uzata por esprimi _kun_ por esprimi _per_ aŭ _kune kun_.
 
 ### _keloka, hinloka, denloka_
 

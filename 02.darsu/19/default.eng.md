@@ -28,7 +28,6 @@ media_order: 'darsu_19_lexilista.mp3,darsu_19_misalli_jumle.mp3,darsu_19_doxoli_
 	* **nundin** - today
 	* **jaledin** - yesterday
 	* **jaxadin** - tomorrow
-	* **sabedin** - week
 * **lefe** - before, ago
 * **xafe** - after, in (_after some time_)
 * **soba** - morning
@@ -86,7 +85,7 @@ Friday - **Zuhuradin** (**Zuhura** - Venus)
 Saturday - **Xanidin** (**Xani** - Saturn)  
 Sunday - **Soladin** (**Sola** - Earth's sun)  
 
-To express a phrase like _on Mondays_, the word **duli**, seen in Lesson 18, is used: (**fe**) **duli Lunadin**, (**fe**) **duli Marihidin**, etc. 
+To express a phrase like _on Mondays_, the word **duli** is used: (**fe**) **duli Lunadin**, (**fe**) **duli Marihidin**, etc. 
 
 ### Noun-Noun Compounds
 

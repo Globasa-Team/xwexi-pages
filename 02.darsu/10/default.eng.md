@@ -75,7 +75,7 @@ The word **un** may be used to express singularity and indefiniteness when neces
 
 ### Expressing Plurality with _plu_
 
-The word **plu** maybe used to express plurality when necessary.
+The word **plu** may be used to express plurality when necessary.
 
 * **plu pingo** - (multiple) apples
 
@@ -119,7 +119,7 @@ Myaw un loga, "Xukra!"
 </audio>
 
 Matre loga, "Myaw dua, yusu ergo le sen keto?"    
-Myaw dua loga, "Mi le idi cel nahir cel na cudu neo yam. Mi le cudu des mahi tas imi."    
+Myaw dua loga, "Mi le idi cel nahir cel na cudu neo yam. Mi le cudu des mahi."    
 Matre loga, "Yusu ergo sen bon. Yusu des mahi sen day. Mi sen hox."   
 Myaw dua loga, "Mi xa hare kenumer mahi?"  
 Matre loga, "Lima mahi."  

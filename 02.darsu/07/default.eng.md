@@ -30,7 +30,7 @@ media_order: 'darsu_7_lexilista.mp3,darsu_7_misalli_jumle.mp3,darsu_07_doxoli_ab
 * **alim** - teach
 	* **alimyen** - teacher
 * **medis** - medicine (_practice_), medicate
-	* **medisyen** - physician
+	* **medisyen** - physician, doctor
 	* **medisdom** - clinic
 * **polisi** - police
 	* **polisiyen** - police officer
@@ -62,7 +62,7 @@ The words **ete** and **oto**, the plural counterparts of **te** and **to**, may
 Questions with **ke** have the same word order as their counterpart declarative sentences.
 
 **Medisyen yam keto?**  
-“The doctor eats what?”  
+"The doctor eats what?"   
 What does the doctor eat?
 
 **Yu xa doxo ke kitabu?**       
@@ -71,7 +71,7 @@ What/which book will you read?
 
 ### _cel_
 
-The word **cel** is used only for denoting _movement _, _destination_, _target_ or _purpose_, never as the _recipient_ (commonly known as the _indirect object_) marker. In a subsequent lesson, you will learn the word that marks the _recipient_.  
+The word **cel** is used only for denoting _movement_, _destination_, _target_ or _purpose_, never as the _recipient_ (commonly known as the _indirect object_) marker. In a subsequent lesson, you will learn the word that marks the _recipient_.  
 
 The phrase **cel na** means _in order to_.  
 

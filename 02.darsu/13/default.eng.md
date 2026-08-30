@@ -61,7 +61,7 @@ _Fill in the blanks below:_
 
 ### Compound words with _pul_
 
-The word **pul** is used as quasi-suffix to derive adjectives from nouns. In compounds, it is a general **_descriptive_** suffix roughly equivalent to the suffixes -ful (_"full of"_) and -ous (_"having"_) in English. Strictly speaking, it means _with enough or more than enough_.
+The word **pul** is used as a quasi-suffix to derive adjectives from nouns. In compounds, it is a general **_descriptive_** suffix roughly equivalent to the suffixes -ful (_"full of"_) and -ous (_"having"_) in English. Strictly speaking, it means _with enough or more than enough_.
 
 _Fill in the blanks below:_
 

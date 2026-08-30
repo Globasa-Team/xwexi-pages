@@ -23,7 +23,7 @@ media_order: 'darsu_18_lexilista.mp3,darsu_18_misalli_jumle.mp3,darsu_18_doxoli_
 * **mesaje** - message; (send) message  
 * **neto** - net, web
 * **posta** - mail
-    * **netoposta** - email; (send) email)  
+    * **netoposta** - email; (send) email  
 * **adresu** - address
     * **netoadresu** - email address
 * **eskri** - write
@@ -71,7 +71,7 @@ poor (money-less): <textarea width="100%" spellcheck="false" placeholder="Type y
 
 ### Phrases Denoting Time
 
-The word **fe** is also used with expressions of time but is usually optional in these cases, such as in (**fe**) **ban mara** or (**fe**) **duli mara**. In the phrase **duli mara**, the word **duli** is a derived word using the prefix **du-**. In Lesson 19, you will learn another way to use **duli**. 
+The word **fe** is also used with expressions of time but is usually optional in these cases, such as in (**fe**) **ban mara** or (**fe**) **dumara**. 
 
 ## Example Sentences
 
@@ -93,7 +93,7 @@ I think (that) my cat is thirsty.
  <p>Your user agent does not support the HTML5 Audio element.</p>
 </audio>
 
-Mi ogar in Usa ji misu bete ogar in Espani. Mi irsal mesaje tas te duli mara. Te eskri tas mi lungo netoposta. Te loga ki Espani sen daymo meli. Te loga, "Kam yu vole na turi hinloka?" Mi fikir ki mi xa dao cel Espani cel na visita misu bete. 
+Mi ogar in Usa ji misu bete ogar in Espani. Mi irsal mesaje tas te fe dumara. Te eskri tas mi lungo netoposta. Te loga ki Espani sen daymo meli. Te loga, "Kam yu vole na turi hinloka?" Mi fikir ki mi xa dao cel Espani cel na visita misu bete. 
 
 ## Lesson Activity
  

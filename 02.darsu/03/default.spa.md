@@ -4,16 +4,16 @@ visible: true
 media_order: 'darsu_3_lexilista.mp3,darsu_3_misalli_jumle.mp3'
 ---
 
-## Lista de vocabulario
+## Vocabulario
 
 <audio controls>
  <source src="/darsu/03/darsu_3_lexilista.mp3" type="audio/mp3" />
- <p>Su agente de usuario no es compatible con el elemento de audio HTML5.</p>
+ <p>Tu navegador no admite el elemento de audio HTML5.</p>
 </audio>
 
-* **yu** - tú, vos, usted
+* **yu** - tú
 * **fe lutuf** - por favor
-* **xukra** - gracias, agradecer
+* **xukra** - agradecer; gracias
 * **yam** - comer
 * **roti** - pan
 * **risi** - arroz
@@ -21,43 +21,45 @@ media_order: 'darsu_3_lexilista.mp3,darsu_3_misalli_jumle.mp3'
 * **salada** - ensalada
 * **jubin** - queso
 * **pingo** - manzana
-* **banana** - plátano
-* **patato** - patata, papa
+* **banana** - banana
+* **patato** - papa
 * **kitabu** - libro
 * **hare** - tener
+
+[Tarjetas de Quizlet](https://quizlet.com/556026318/globasa-101-lesson-3-flash-cards/)
 
 ## Notas
 ### _fe lutuf_
 
-La palabra **lutuf** significa amabilidad y la palabra **fe** es una preposición con un significado general e indefinido. La expresión **fe lutuf** significa aproximadamente _por amabilidad_.
+La palabra **lutuf** significa _amabilidad_ y la palabra **fe** es una preposición de significado general e indefinido. La expresión **fe lutuf** significa aproximadamente _con amabilidad_ o _amablemente_.
 
-### Orden de las palabras SVO
+### Orden de palabras SVO 
 
-El orden típico de las palabras en Globasa es _sujeto-verbo-objeto_, igual que en español.
+El orden de palabras típico en Globasa es _sujeto-verbo-objeto_, igual que en español.
 
 **Bwaw yam jubin.**  
 El perro come queso.
- 
-En la oración anterior, **bwaw** es el _sujeto_ (_entidad que está comiendo_), **yam** es el _verbo_ (_la acción que realiza el sujeto_) y **jubin** es el _objeto_ (_entidad u objeto que se come_).
 
-## Ejemplos de oraciones
+En la oración anterior, **bwaw** es el _sujeto_ (_quien realiza la acción de comer_), **yam** es el _verbo_ (_la acción que realiza el sujeto_) y **jubin** es el _objeto_ (_lo que se come_).   
+ 
+## Oraciones de ejemplo
 
 <audio controls>
  <source src="/darsu/03/darsu_3_misalli_jumle.mp3" type="audio/mp3" />
- <p>Su agente de usuario no es compatible con el elemento de audio HTML5.</p>
+ <p>Tu navegador no admite el elemento de audio HTML5.</p>
 </audio>
 
 **Roti, fe lutuf. Xukra.**  
 Pan, por favor. Gracias.
 
 **Mi yam patato.**  
-Yo como patata/papa.
+Yo como una papa.
 
 ## Práctica de lectura y comprensión auditiva
 
 <audio controls>
  <source src="/darsu/03/darsu_03_doxoli_abyasa.mp3" type="audio/mp3" />
- <p>Su agente de usuario no es compatible con el elemento de audio HTML5.</p>
+ <p>Tu navegador no admite el elemento de audio HTML5.</p>
 </audio>
 
 Xanti, sodar! Supa, fe lutuf. Xukra. Weda, sodar!
@@ -66,6 +68,6 @@ Salom, doste! Mi hare myaw. Yu hare bwaw. Nini hare piu. Papa hare mahi. Myaw ya
 
 ## Actividad de la lección
 
-_Cree sus propias oraciones utilizando los ejemplos de esta lección y de las anteriores como patrones de oraciones._
+_Crea tus propias oraciones usando como modelo los ejemplos de esta lección y de las anteriores._
 
-<textarea width="100%" spellcheck="false" placeholder="Escriba sus propias oraciones aquí."></textarea>
+<textarea width="100%" spellcheck="false" placeholder="Escribe aquí tus propias oraciones."></textarea>

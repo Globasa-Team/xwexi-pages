@@ -88,7 +88,7 @@ We are talking about Turkey.
 
 Am plasi fenjan fe cay per mesa. Am no cudu glasu fe bira of mesa. Am plasi meli kamisa per bistar. Am no plasi day kursi in banyokamer. Am porta neo bistar cel ruke de somnokamer. Am cudu lama sofa of hotel. Am no plasi kitabu per dixan. 
  
- ## Lesson Activity
+## Lesson Activity
  
 _Create your own sentences using the examples above, and examples from previous lessons, as sentence patterns. Tell a story._
 

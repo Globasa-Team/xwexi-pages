@@ -4,21 +4,21 @@ visible: true
 media_order: 'darsu_4_lexilista.mp3,darsu_4_misalli_jumle.mp3'
 ---
 
-## Lista de vocabulario
+## Vocabulario
 
 <audio controls>
  <source src="/darsu/04/darsu_4_lexilista.mp3" type="audio/mp3" />
- <p>Su agente de usuario no es compatible con el elemento de audio HTML5.</p>
+ <p>Tu navegador no admite el elemento de audio HTML5.</p>
 </audio>
 
-* **kam** - _partícula para pregunta de "sí/no"_
+* **kam** - _partícula interrogativa de sí/no_
 * **si** - sí
 * **no** - no
 * **aham** - entender, comprender
-* **suki** - gustarle a uno, apreciar
-* **lubi** - amar, querer
-* **vole** - querer (_en el sentido de "voluntad", no de "amar"_)
-* **na** - _partícula que marca el verbo infinitivo_
+* **suki** - gustar
+* **lubi** - amar
+* **vole** - querer, desear
+* **na** - _marcador de infinitivo_
 * **oko** - ver, mirar
 * **ore** - oír, escuchar
 * **glu** - beber, tomar
@@ -29,34 +29,36 @@ media_order: 'darsu_4_lexilista.mp3,darsu_4_misalli_jumle.mp3'
 * **cay** - té
 * **jusu** - jugo
 
-## Notas
-### Preguntas de "sí/no"
+[Tarjetas de Quizlet](https://quizlet.com/556029159/globasa-101-lesson-4-flash-cards/)
 
-Las afirmaciones se convierten en preguntas de sí/no simplemente añadiendo **kam** al principio de la oración. Los siguientes ejemplos de oraciones muestran una afirmación seguida de su correspondiente pregunta de sí/no.
+## Notas
+### Preguntas de sí/no
+
+Las afirmaciones se convierten en preguntas de sí/no simplemente añadiendo **kam** al principio de la oración. Los siguientes ejemplos muestran una afirmación seguida de su correspondiente pregunta de sí/no. 
 
 **Nini oko filme.**  
-El niño ve la película.
+El niño está viendo una película.
 
 **Kam nini oko filme?**  
-¿El niño ve la película?
+¿El niño está viendo una película?
 
 ### Negación 
 
-La palabra **no** precede a la palabra que se niega, por ejemplo, el verbo.
+La palabra **no** precede a la palabra que se niega, como el verbo.
 
 **Myaw no glu cay.**  
 Los gatos no beben té.
 
-### Verbos infinitivos
+### Verbos en infinitivo
 
-La forma verbal de infinitivo se marca con la partícula **na** seguida del verbo. Siempre se utiliza entre dos verbos cualesquiera.
+La forma del verbo en infinitivo se marca con la partícula **na** seguida del verbo. Siempre se usa entre dos verbos.  
 
 **Kam yu suki na oko filme?**  
 ¿Te gusta ver películas?
 
-### Forma invariable del pronombre
+### Forma invariable de los pronombres
 
-Los pronombres conservan la misma forma independientemente de la función que desempeñen en la oración. En español, _yo_/_me_, _tú_/_te_ y _nosotros_/_nos_ son pronombres que cambian de forma. En Globasa, **mi** significa tanto _yo_ como _mí_ o _me_.
+Los pronombres mantienen la misma forma sin importar la función que desempeñen en la oración. En español, por ejemplo, _yo_, _me_ y _mí_ son formas distintas de un mismo pronombre. En Globasa, en cambio, **mi** significa tanto _yo_ como _me_ o _mí_.
 
 **Mi lubi yu.**  
 Yo te amo.
@@ -64,11 +66,11 @@ Yo te amo.
 **Yu lubi mi.**  
 Tú me amas.
 
-## Ejemplos de oraciones
+## Oraciones de ejemplo
 
 <audio controls>
  <source src="/darsu/04/darsu_4_misalli_jumle.mp3" type="audio/mp3" />
- <p>Su agente de usuario no es compatible con el elemento de audio HTML5.</p>
+ <p>Tu navegador no admite el elemento de audio HTML5.</p>
 </audio>
 
 **Kam patre suki na yam salada?**  
@@ -83,22 +85,22 @@ No, al padre no le gusta comer ensalada.
 ## Práctica de lectura y comprensión auditiva
 
 <audio controls>
- <source src="/darsu/04/darsu_04_doxoli_abyasa 01.mp3" type="audio/mp3" />
- <p>Su agente de usuario no es compatible con el elemento de audio HTML5.</p>
+ <source src="/darsu/04/darsu_04_doxoli_abyasa_01.mp3" type="audio/mp3" />
+ <p>Tu navegador no admite el elemento de audio HTML5.</p>
 </audio>
 
-Xanti, doste. Kafe, fe lutuf! Xukra, doste. Mi suki kafe!
+Xanti, doste. Kafe, fe lutuf! Xukra, doste. Mi suki kafe! 
 
 <audio controls>
- <source src="/darsu/04/darsu_04_doxoli_abyasa 02.mp3" type="audio/mp3" />
- <p>Su agente de usuario no es compatible con el elemento de audio HTML5.</p>
+ <source src="/darsu/04/darsu_04_doxoli_abyasa_02.mp3" type="audio/mp3" />
+ <p>Tu navegador no admite el elemento de audio HTML5.</p>
 </audio>
 
 Salom, mama. Cay, fe lutuf! Xukra, mama! Mi suki cay!
 
 <audio controls>
- <source src="/darsu/04/darsu_04_doxoli_abyasa 03.mp3" type="audio/mp3" />
- <p>Su agente de usuario no es compatible con el elemento de audio HTML5.</p>
+ <source src="/darsu/04/darsu_04_doxoli_abyasa_03.mp3" type="audio/mp3" />
+ <p>Tu navegador no admite el elemento de audio HTML5.</p>
 </audio>
 
 Papa: Salom, bete! Kam yu glu sui?  
@@ -107,8 +109,8 @@ Papa: Kam yu yam roti?
 Bete: Si, mi suki na yam roti.
 
 <audio controls>
- <source src="/darsu/04/darsu_04_doxoli_abyasa 04.mp3" type="audio/mp3" />
- <p>Su agente de usuario no es compatible con el elemento de audio HTML5.</p>
+ <source src="/darsu/04/darsu_04_doxoli_abyasa_04.mp3" type="audio/mp3" />
+ <p>Tu navegador no admite el elemento de audio HTML5.</p>
 </audio>
 
 Omar: Xanti, sodar! Kam yu ore musika?  
@@ -116,16 +118,16 @@ Marta: Salom, sodar. No, mi no ore musika, mi oko filme. Kam yu doxo kitabu?
 Omar: No, mi no doxo kitabu. Mi ore musika.
 
 <audio controls>
- <source src="/darsu/04/darsu_04_doxoli_abyasa 05.mp3" type="audio/mp3" />
- <p>Su agente de usuario no es compatible con el elemento de audio HTML5.</p>
+ <source src="/darsu/04/darsu_04_doxoli_abyasa_05.mp3" type="audio/mp3" />
+ <p>Tu navegador no admite el elemento de audio HTML5.</p>
 </audio>
 
 Doste: Kam yu aham lala?  
-Doste: Si, mi aham lala: Uma fley.
+Doste: Si, mi aham lala: Uma fley, kam no?
 
 <audio controls>
- <source src="/darsu/04/darsu_04_doxoli_abyasa 06.mp3" type="audio/mp3" />
- <p>Su agente de usuario no es compatible con el elemento de audio HTML5.</p>
+ <source src="/darsu/04/darsu_04_doxoli_abyasa_06.mp3" type="audio/mp3" />
+ <p>Tu navegador no admite el elemento de audio HTML5.</p>
 </audio>
 
 Mama: Kam yu lubi mi?  
@@ -133,6 +135,8 @@ Papa: Si, mi lubi yu.
 
 ## Actividad de la lección
 
-_Cree sus propios diálogos utilizando los ejemplos de oraciones de esta lección y de las anteriores._
+_Crea tus propios diálogos usando las oraciones de ejemplo de esta lección y de las anteriores._
 
-<textarea width="100%" spellcheck="false" placeholder="Escriba sus propias oraciones aquí."></textarea>
+<textarea width="100%" spellcheck="false" placeholder="Escribe aquí tus propias oraciones."></textarea>
+
+

@@ -62,7 +62,7 @@ La viro banas sin.
 
 En Globaso, oni povas uzi la refleksivon kun ajna pronomo.
 
-**Kam yu lubi se.** _aŭ_ **Kam yu lubi yu?**  
+**Kam yu lubi se?** _aŭ_ **Kam yu lubi yu?**  
 Ĉu vi amas vin?
 
 ### La posesivoj

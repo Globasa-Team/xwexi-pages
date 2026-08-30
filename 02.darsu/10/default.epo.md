@@ -99,7 +99,7 @@ Myaw un loga, "Xukra!"
 [![icons8-sound-icon-30.png](icons8-sound-icon-30.png)](darsu_10_doxoli_abyasa_01.mp3)
 
 Matre loga, "Myaw dua, yusu ergo le sen keto?"
-Myaw dua loga, "Mi le idi cel nahir cel na cudu neo yam. Mi le cudu des mahi tas imi."
+Myaw dua loga, "Mi le idi cel nahir cel na cudu neo yam. Mi le cudu des mahi."
 Matre loga, "Yusu ergo sen bon. Yusu des mahi sen day. Mi sen hox."
 Myaw dua loga, "Mi xa hare kenumer mahi?"
 Matre loga, "Lima mahi."

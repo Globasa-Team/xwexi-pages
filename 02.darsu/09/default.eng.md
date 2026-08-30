@@ -71,7 +71,7 @@ The man is bathing himself. _or_ The man is taking a bath.
 
 In Globasa, **se** may be used reflexively with any pronoun.
 
-**Kam yu lubi se.** or **Kam yu lubi yu?**  
+**Kam yu lubi se?** or **Kam yu lubi yu?**  
 Do you love yourself?
 
 ### Possessive Adjectives
